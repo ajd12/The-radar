@@ -67,7 +67,7 @@ h2{font-size:17px;line-height:1.2;margin:0 0 6px;letter-spacing:-.02em}.summary{
   <button class="active" data-cat="ALL" onclick="topic('ALL',this)">ALL</button><button data-cat="SCIENCE" onclick="topic('SCIENCE',this)">SCIENCE</button><button data-cat="TECH" onclick="topic('TECH',this)">TECH</button><button data-cat="CHIPS" onclick="topic('CHIPS',this)">CHIPS</button><button data-cat="AUTOMOTIVE" onclick="topic('AUTOMOTIVE',this)">AUTOMOTIVE</button><button data-cat="ENERGY" onclick="topic('ENERGY',this)">ENERGY</button><button data-cat="HEALTHCARE" onclick="topic('HEALTHCARE',this)">HEALTHCARE</button><button data-cat="MARKETS" onclick="topic('MARKETS',this)">MARKETS</button><button data-cat="ROBOTICS" onclick="topic('ROBOTICS',this)">ROBOTICS</button><button data-cat="MATERIALS" onclick="topic('MATERIALS',this)">MATERIALS</button>
  </div>
  <div class="feedhead"><b>✣ <span id="count">LIVE SIGNALS</span></b><span class="muted" id="mode">Multi-source</span></div>
- <div id="feed"><div class="loading">Connecting to live sources…</div></div>
+ <div id="feed"><div class="loading">Loading the latest Radar snapshot…</div></div>
 </main>
 
 <div class="right">
@@ -84,21 +84,20 @@ h2{font-size:17px;line-height:1.2;margin:0 0 6px;letter-spacing:-.02em}.summary{
 
 <script>
 const feeds=[
- {name:'Hacker News',kind:'hn',cat:'TECH',url:'https://hacker-news.firebaseio.com/v0/topstories.json'},
- {name:'arXiv · AI/ML',kind:'arxiv',cat:'SCIENCE',url:'https://export.arxiv.org/api/query?search_query=cat:cs.LG%20OR%20cat:cs.AI&start=0&max_results=12&sortBy=submittedDate&sortOrder=descending'},
- {name:'arXiv · Systems',kind:'arxiv',cat:'TECH',url:'https://export.arxiv.org/api/query?search_query=cat:cs.DC%20OR%20cat:eess.SY&start=0&max_results=12&sortBy=submittedDate&sortOrder=descending'},
- {name:'Nature',kind:'rss',cat:'SCIENCE',url:'https://www.nature.com/nature.rss'},
- {name:'IEEE Spectrum',kind:'rss',cat:'TECH',url:'https://spectrum.ieee.org/feeds/feed.rss'},
- {name:'STAT',kind:'rss',cat:'HEALTHCARE',url:'https://www.statnews.com/feed/'},
- {name:'Reddit · MachineLearning',kind:'rss',cat:'SCIENCE',url:'https://www.reddit.com/r/MachineLearning/.rss'},
- {name:'Reddit · Robotics',kind:'rss',cat:'ROBOTICS',url:'https://www.reddit.com/r/robotics/.rss'},
- {name:'Reddit · Hardware',kind:'rss',cat:'CHIPS',url:'https://www.reddit.com/r/hardware/.rss'},
- {name:'TechCrunch',kind:'rss',cat:'TECH',url:'https://techcrunch.com/feed/'},
- {name:'Ars Technica',kind:'rss',cat:'TECH',url:'https://feeds.arstechnica.com/arstechnica/index'},
- {name:'Wired',kind:'rss',cat:'TECH',url:'https://www.wired.com/feed/rss'}
+ {name:'Hacker News',cat:'TECH'},
+ {name:'arXiv · AI/ML',cat:'SCIENCE'},
+ {name:'arXiv · Systems',cat:'TECH'},
+ {name:'Nature',cat:'SCIENCE'},
+ {name:'IEEE Spectrum',cat:'TECH'},
+ {name:'STAT',cat:'HEALTHCARE'},
+ {name:'Reddit · MachineLearning',cat:'SCIENCE'},
+ {name:'Reddit · Robotics',cat:'ROBOTICS'},
+ {name:'Reddit · Hardware',cat:'CHIPS'},
+ {name:'TechCrunch',cat:'TECH'},
+ {name:'Ars Technica',cat:'TECH'},
+ {name:'Wired',cat:'TECH'}
 ];
-const CORS=u=>'https://api.allorigins.win/raw?url='+encodeURIComponent(u);
-let raw=[],current='ALL';
+let raw=[],current='ALL',lastPayload=null;
 
 const catClass={CHIPS:'kchips',AUTOMOTIVE:'kauto',HEALTHCARE:'khealth',ENERGY:'kenergy',MARKETS:'kmarket',ROBOTICS:'krobot',SCIENCE:'kscience',TECH:'ktech',MATERIALS:'kmats'};
 function inferCat(title,text,base){
@@ -110,11 +109,10 @@ function inferCat(title,text,base){
  if(/battery|solar|nuclear|fusion|grid|energy|hydrogen|reactor|power plant/.test(s)) return 'ENERGY';
  if(/market|econom|inflation|interest rate|capital|invest|semiconductor spending|gdp/.test(s)) return 'MARKETS';
  if(/material|chemistry|cathode|anode|solid-state|alloy/.test(s)) return 'MATERIALS';
- return base;
+ return base||'TECH';
 }
 function score(item){
- const s=(item.title+' '+item.text).toLowerCase();
- let n=5;
+ const s=(item.title+' '+item.text).toLowerCase(); let n=5;
  if(/research|paper|study|demonstrat|breakthrough|prototype/.test(s)) n+=1.4;
  if(/first|new|novel|record|million|billion|patent/.test(s)) n+=1;
  if(/chip|energy|robot|vehicle|health|manufactur|semiconductor/.test(s)) n+=.8;
@@ -134,30 +132,28 @@ function topic(c,b){current=c;document.querySelectorAll('.tabs button').forEach(
 function toast(m){const t=document.getElementById('toast');t.textContent=m;t.classList.add('show');clearTimeout(window._t);window._t=setTimeout(()=>t.classList.remove('show'),2200)}
 function nav(b,n){document.querySelectorAll('.nav button').forEach(x=>x.classList.remove('active'));b.classList.add('active');toast(n+' view')}
 function openPatent(q){window.open('https://patents.google.com/?q='+encodeURIComponent(q),'_blank')}
-function parseRSS(txt,source,base){
- const doc=new DOMParser().parseFromString(txt,'text/xml');const nodes=[...doc.querySelectorAll('item, entry')];return nodes.slice(0,15).map(n=>{const title=n.querySelector('title')?.textContent?.trim()||'Untitled';let link=n.querySelector('link')?.getAttribute('href')||n.querySelector('link')?.textContent?.trim()||'';if(!link)link=base;const text=(n.querySelector('description,summary,content')?.textContent||'').replace(/<[^>]*>/g,' ').replace(/\\s+/g,' ').trim().slice(0,280);const date=n.querySelector('pubDate,published,updated')?.textContent||new Date().toISOString();const cat=inferCat(title,text,feeds.find(f=>f.name===source)?.cat||'TECH');return{title,text,link,date,source,cat,score:0,kindLabel:'RSS'}}).filter(x=>x.title)}
-async function fetchOne(f){
- try{
-  if(f.kind==='hn'){
-   const ids=await fetch(f.url).then(r=>r.json());const top=ids.slice(0,18);const vals=await Promise.all(top.map(id=>fetch('https://hacker-news.firebaseio.com/v0/item/'+id+'.json').then(r=>r.json()).catch(()=>null)));
-   return vals.filter(x=>x&&x.title).map(x=>({title:x.title,text:(x.url?'Discussion and source available through Hacker News.':'Hacker News discussion.'),link:x.url||'https://news.ycombinator.com/item?id='+x.id,date:new Date(x.time*1000).toISOString(),source:f.name,cat:inferCat(x.title,'',f.cat),score:0,points:x.score,kindLabel:'HN API'}));
-  }
-  const txt=await fetch(CORS(f.url)).then(r=>{if(!r.ok)throw Error(r.status);return r.text()});
-  if(f.kind==='arxiv'){
-   const doc=new DOMParser().parseFromString(txt,'text/xml');return [...doc.querySelectorAll('entry')].slice(0,12).map(n=>{const title=n.querySelector('title')?.textContent.replace(/\\s+/g,' ').trim()||'Untitled';const text=n.querySelector('summary')?.textContent.replace(/\\s+/g,' ').trim().slice(0,280)||'';const link=n.querySelector('id')?.textContent||'';const date=n.querySelector('published')?.textContent||new Date().toISOString();return{title,text,link,date,source:f.name,cat:inferCat(title,text,f.cat),score:0,kindLabel:'ARXIV'}})
-  }
-  return parseRSS(txt,f.name,f.url)
- }catch(e){throw e}
-}
+
 async function loadFeeds(force=false){
- const btn=document.getElementById('refresh');btn.classList.add('spin');document.getElementById('mode').textContent='Fetching live sources…';raw=[];render([]);
- const results=await Promise.allSettled(feeds.map(fetchOne));const health=[];
- results.forEach((r,i)=>{if(r.status==='fulfilled'){raw.push(...r.value);health.push([feeds[i].name,true,r.value.length])}else health.push([feeds[i].name,false,0])});
- raw.forEach(x=>x.score=score(x));const seen=new Set();raw=raw.filter(x=>{const k=x.title.toLowerCase();if(seen.has(k))return false;seen.add(k);return true});
- raw.sort((a,b)=>b.score-a.score);apply();document.getElementById('updated').textContent=new Date().toLocaleTimeString([],{hour:'2-digit',minute:'2-digit'});document.getElementById('mode').textContent='Live · '+raw.length+' items';
- document.getElementById('health').innerHTML=health.map(h=>`<div class="status"><span>${esc(h[0])}</span><span class="${h[1]?'ok':'err'}">${h[1]?'● '+h[2]:'× offline'}</span></div>`).join('');
- btn.classList.remove('spin');
- if(!raw.length)toast('Live sources could not be reached. Open the HTML from a hosted page or use the included source links.');
+ const btn=document.getElementById('refresh');btn.classList.add('spin');document.getElementById('mode').textContent='Updating feed…';
+ try{
+   const bust=force?('?v='+Date.now()):('?_='+Math.floor(Date.now()/600000));
+   const r=await fetch('./data/feeds.json'+bust,{cache:'no-store'});
+   if(!r.ok) throw new Error('Feed data HTTP '+r.status);
+   const payload=await r.json(); lastPayload=payload;
+   raw=(payload.items||[]).map(x=>({...x,cat:inferCat(x.title,x.text,x.cat),score:score(x)}));
+   const seen=new Set(); raw=raw.filter(x=>{const k=(x.title||'').toLowerCase().replace(/[^a-z0-9]+/g,' ').trim();if(!k||seen.has(k))return false;seen.add(k);return true});
+   raw.sort((a,b)=>b.score-a.score); apply();
+   document.getElementById('updated').textContent=payload.generated_at?new Date(payload.generated_at).toLocaleTimeString([],{hour:'2-digit',minute:'2-digit'}):'now';
+   document.getElementById('mode').textContent='Live · '+raw.length+' items';
+   const health=(payload.health||[]);
+   document.getElementById('health').innerHTML=health.map(h=>`<div class="status"><span>${esc(h.name)}</span><span class="${h.ok?'ok':'err'}">${h.ok?'● '+h.count:'× offline'}</span></div>`).join('');
+   if(payload.generated_at && (Date.now()-new Date(payload.generated_at).getTime())>2*3600*1000) toast('Feed cache is more than 2h old — GitHub updater may be delayed.');
+ }catch(e){
+   document.getElementById('mode').textContent='Feed unavailable';
+   document.getElementById('health').innerHTML='<div class="status"><span>Feed data</span><span class="err">× unavailable</span></div>';
+   document.getElementById('feed').innerHTML='<div class="empty"><b>The Radar UI is working.</b><br><br>The server-side feed snapshot could not be loaded yet. In GitHub, run <b>Actions → Update Radar Feeds → Run workflow</b>, then refresh this page.</div>';
+   toast('Feed snapshot unavailable');
+ }finally{btn.classList.remove('spin')}
 }
 function makeBrief(){if(!raw.length){toast('Load live signals first');return}const top=raw.slice(0,5).map((x,i)=>(i+1)+'. '+x.title).join(' • ');document.getElementById('brief').textContent='Top signals right now: '+top;toast('Briefing assembled locally from the live feed')}
 loadFeeds();
