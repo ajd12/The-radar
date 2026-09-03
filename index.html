@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#080b12">
+<meta name="description" content="THE RADAR — a cross-industry technology intelligence feed">
+<link rel="manifest" href="manifest.json">
+<title>THE RADAR — Live Technology Intelligence</title>
+<style>
+:root{--bg:#070a11;--panel:#0d121c;--panel2:#111827;--line:#202a3a;--text:#edf2fb;--muted:#8793a8;--purple:#a970ff;--purple2:#5c34bd;--green:#5ee18b;--orange:#ff9d28;--blue:#55a7ff;--red:#ff6b6b;--yellow:#ffd34d}
+*{box-sizing:border-box}html,body{margin:0;background:radial-gradient(circle at 52% -12%,#1a1132 0,#070a11 38%);color:var(--text);font:14px/1.45 Inter,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}button,input{font:inherit}button{cursor:pointer}
+.app{display:grid;grid-template-columns:225px minmax(0,1fr) 295px;min-height:100vh}
+aside,.right{background:#090d15;border-color:var(--line)}aside{border-right:1px solid var(--line);padding:20px 13px;position:sticky;top:0;height:100vh;overflow:auto}.right{border-left:1px solid var(--line);padding:17px 13px}
+.brand{padding:0 9px 18px;border-bottom:1px solid var(--line)}.brand h1{font-size:20px;letter-spacing:.06em;margin:0}.brand p{font-size:12px;color:var(--muted);margin:3px 0 0}.nav{padding:14px 0;border-bottom:1px solid var(--line)}.nav button,.topic{width:100%;border:0;background:none;color:#aeb8ca;padding:9px 10px;border-radius:7px;text-align:left;display:flex;gap:10px;align-items:center}.nav button:hover,.nav button.active{background:#21183a;color:#fff}.section{font-size:10px;color:#657187;letter-spacing:.12em;padding:17px 10px 6px}.topic{justify-content:space-between;font-size:12px}.topic>span{display:flex;align-items:center;gap:8px}.dot{width:8px;height:8px;border-radius:50%;background:var(--purple);display:inline-block}.dot.g{background:var(--green)}.dot.o{background:var(--orange)}.dot.b{background:var(--blue)}.dot.y{background:var(--yellow)}.count{color:#5e6a7e}
+main{min-width:0;padding:16px 21px 70px}.top{display:flex;align-items:center;gap:12px}.search{position:relative;flex:1}.search input{width:100%;background:#0b111b;border:1px solid var(--line);color:#e4eaf5;padding:11px 40px;border-radius:8px;outline:none}.search input:focus{border-color:#62439b}.search span{position:absolute;left:13px;top:8px;color:#738097}.live{font-size:10px;color:#9da8b9;white-space:nowrap}.live i{display:inline-block;width:7px;height:7px;border-radius:50%;background:#6de18c;margin-right:5px}.tabs{display:flex;gap:5px;overflow:auto;padding:13px 0 15px;border-bottom:1px solid var(--line)}.tabs button{background:transparent;border:0;color:#909cb0;padding:7px 10px;border-radius:6px;font-size:10px;white-space:nowrap}.tabs button.active,.tabs button:hover{background:#4e2b99;color:#fff}
+.feedhead{display:flex;justify-content:space-between;align-items:center;padding:16px 2px 9px}.feedhead b{color:#bb86ff;font-size:11px}.refresh{background:#111827;border:1px solid var(--line);color:#aeb9cc;padding:7px 9px;border-radius:6px;font-size:10px}.refresh.spin{opacity:.6}
+.signal{background:linear-gradient(145deg,#0f1622,#0b111a);border:1px solid var(--line);border-radius:9px;margin-bottom:12px;overflow:hidden;transition:.18s}.signal:hover{border-color:#3c475b;transform:translateY(-1px)}.signalmain{display:grid;grid-template-columns:1fr 145px;gap:15px;padding:15px}.kicker{font-size:9px;font-weight:800;letter-spacing:.1em;margin-bottom:7px}.kchips{color:#b77aff}.kauto{color:#ff9d28}.khealth{color:#5ee18b}.kenergy{color:#ffd34d}.kmarket{color:#61a9ff}.krobot{color:#64dfd2}.kscience{color:#d8a5ff}.ktech{color:#8ebcff}.kmats{color:#f4bc6b}
+h2{font-size:17px;line-height:1.2;margin:0 0 6px;letter-spacing:-.02em}.summary{font-size:11px;color:#9ba7b9;margin:0 0 8px}.meta{font-size:9px;color:#6e7a8e}.meta a{color:#a970ff;text-decoration:none}.thumb{min-height:96px;border-radius:7px;background:linear-gradient(135deg,#151d2c,#302054);display:flex;align-items:center;justify-content:center}.glyph{width:64px;height:64px;border:2px solid #a970ff;border-radius:13px;transform:rotate(30deg);box-shadow:0 0 25px #8b51ff55}.thumb.car{background:linear-gradient(135deg,#0f1b29,#123e56)}.thumb.car .glyph{border-color:#55a7ff;border-radius:50%;transform:rotate(0)}.thumb.health{background:linear-gradient(135deg,#10261f,#1d5140)}.thumb.health .glyph{border-color:#5ee18b;border-radius:50%;transform:rotate(45deg)}.thumb.energy{background:linear-gradient(135deg,#25172b,#522052)}.thumb.energy .glyph{border-color:#ff68df;border-radius:50%;box-shadow:0 0 30px #ff45d066}.thumb.market{background:linear-gradient(135deg,#101c31,#152e4e)}.thumb.market .glyph{border-color:#55a7ff;transform:none;width:86px;height:52px;border-radius:3px}.thumb.robot{background:linear-gradient(135deg,#10252a,#1b454b)}.thumb.robot .glyph{border-color:#64dfd2;transform:rotate(-12deg)}
+.metrics{border-top:1px solid var(--line);display:grid;grid-template-columns:110px repeat(3,1fr);gap:13px;padding:9px 15px}.score small,.metric label{font-size:8px;text-transform:uppercase;color:#6e7b90}.score strong{display:block;color:#ad78ff;font-size:18px}.track{height:5px;background:#222c3d;border-radius:5px;margin-top:5px;overflow:hidden}.fill{height:100%;background:var(--purple);border-radius:5px}
+.badges{display:flex;gap:5px;margin-top:8px;flex-wrap:wrap}.badge{font-size:8px;color:#9da9bb;border:1px solid #273143;border-radius:12px;padding:3px 7px}.badge.livebadge{color:#6ee28c;border-color:#244832}.sourcebadge{color:#b987ff;border-color:#39265c}
+.card{background:#0d131e;border:1px solid var(--line);border-radius:8px;padding:13px;margin-bottom:11px}.card h3{font-size:10px;letter-spacing:.08em;margin:0 0 8px}.card p{font-size:10px;color:#7f8ba0;margin:0 0 10px}.radar{height:165px;border-radius:6px;position:relative;overflow:hidden;background:radial-gradient(circle,#1b1732,#0d131e 58%)}.radar:before{content:"";position:absolute;inset:30px;border:1px solid #393350;border-radius:50%;box-shadow:0 0 0 25px #39335020,0 0 0 50px #39335010}.node{position:absolute;width:10px;height:10px;border-radius:50%;box-shadow:0 0 14px currentColor}.a{left:49%;top:43%;background:#ffad35;color:#ffad35}.b{left:24%;top:23%;background:#a970ff;color:#a970ff}.c{left:69%;top:26%;background:#65dc8b;color:#65dc8b}.d{left:78%;top:65%;background:#55a7ff;color:#55a7ff}.e{left:36%;top:73%;background:#ff6b6b;color:#ff6b6b}.rline{position:absolute;height:1px;background:#4b4565;transform-origin:left}.r1{left:28%;top:28%;width:110px;transform:rotate(14deg)}.r2{left:50%;top:47%;width:82px;transform:rotate(-33deg)}.r3{left:52%;top:47%;width:95px;transform:rotate(43deg)}.btn{width:100%;border:1px solid #3b2b61;background:#17102a;color:#c99eff;padding:8px;border-radius:6px;font-size:10px}.list{list-style:none;padding:0;margin:0}.list li{display:flex;gap:8px;border-bottom:1px solid #1b2330;padding:8px 0;font-size:10px}.list li:last-child{border:0}.rank{color:#637087;width:11px}.muted{color:#69758a}.quote{font-size:11px;color:#b7c0cf;line-height:1.55}.quote em{display:block;color:#68758a;font-style:normal;margin-top:7px}
+.status{display:flex;justify-content:space-between;font-size:9px;padding:8px 0;border-bottom:1px solid #1b2330}.ok{color:#64df8c}.warn{color:#ffd36d}.err{color:#ff7777}.smalllink{color:#9c6dff;text-decoration:none;font-size:9px}
+.empty{padding:45px 10px;text-align:center;color:#758197}.loading{padding:30px;text-align:center;color:#7d899e}.toast{position:fixed;left:50%;bottom:18px;transform:translate(-50%,25px);opacity:0;background:#171d2a;border:1px solid #3a4659;color:#dce5f4;padding:9px 14px;border-radius:7px;font-size:11px;transition:.2s;z-index:50}.toast.show{opacity:1;transform:translate(-50%,0)}
+@media(max-width:1080px){.app{grid-template-columns:210px minmax(0,1fr)}.right{display:none}}
+@media(max-width:700px){.app{display:block}aside{display:none}main{padding:11px}.signalmain{grid-template-columns:1fr}.thumb{display:none}.metrics{grid-template-columns:90px repeat(3,1fr);gap:6px;padding:8px}.metric label{font-size:7px}h2{font-size:16px}.tabs{margin:0 -11px;padding-left:11px}.live{display:none}}
+</style>
+</head>
+<body>
+<div class="app">
+<aside>
+ <div class="brand"><h1>THE RADAR</h1><p>Technology before<br>it becomes obvious.</p></div>
+ <div class="nav">
+  <button class="active" onclick="nav(this,'DOOMSCROLL')">◌ <b>Doomscroll</b></button>
+  <button onclick="toast('Radar Map: the graph view is next')">◎ Radar Map</button>
+  <button onclick="toast('Rabbit holes: saved topics are coming next')">◈ Rabbit Holes</button>
+  <button onclick="toast('Save a signal with the bookmark icon')">▢ Saved Signals</button>
+  <button onclick="toast('History is stored locally in the next build')">◷ History</button>
+ </div>
+ <div class="section">TOPICS</div>
+ <div class="topic"><span><i class="dot"></i>Semiconductors</span><span class="count">48</span></div>
+ <div class="topic"><span><i class="dot o"></i>Automotive</span><span class="count">36</span></div>
+ <div class="topic"><span><i class="dot g"></i>Robotics</span><span class="count">29</span></div>
+ <div class="topic"><span><i class="dot y"></i>Energy</span><span class="count">24</span></div>
+ <div class="topic"><span><i class="dot b"></i>AI / Computing</span><span class="count">41</span></div>
+ <div class="topic"><span><i class="dot g"></i>Healthcare</span><span class="count">31</span></div>
+ <div class="topic"><span><i class="dot o"></i>Manufacturing</span><span class="count">22</span></div>
+ <div class="topic"><span><i class="dot y"></i>Materials</span><span class="count">18</span></div>
+ <div class="topic"><span><i class="dot b"></i>Aerospace</span><span class="count">17</span></div>
+ <div class="topic"><span><i class="dot b"></i>Markets</span><span class="count">33</span></div>
+ <div class="topic"><span><i class="dot g"></i>Economics</span><span class="count">27</span></div>
+ <div class="section">YOUR RABBIT HOLES</div>
+ <div class="topic"><span>🔴 SDV & Vehicle Compute</span></div>
+ <div class="topic"><span>🟡 Chiplets & Packaging</span></div>
+ <div class="topic"><span>🟢 Digital Twins</span></div>
+ <div class="topic"><span>🔵 Robotics & Automation</span></div>
+ <div class="topic"><span>🟣 Longevity & Biotech</span></div>
+ <div class="topic"><span>🔵 Nuclear Energy</span></div>
+ <div class="topic"><span>🔵 AI Infrastructure</span></div>
+ <div class="section">SIGNAL STRENGTH</div>
+ <div class="topic"><span>✦ Breakthrough</span><b>3</b></div><div class="topic"><span>✦ Accelerating</span><b>11</b></div><div class="topic"><span>✦ Emerging</span><b>23</b></div><div class="topic"><span>✦ Contrarian</span><b>7</b></div>
+</aside>
+
+<main>
+ <div class="top"><div class="search"><span>⌕</span><input id="search" placeholder="Search topics, companies, papers, patents..." oninput="apply()"></div><div class="live"><i></i> LIVE<br><span id="updated">loading…</span></div><button class="refresh" id="refresh" onclick="loadFeeds(true)">↻ Refresh</button></div>
+ <div class="tabs" id="tabs">
+  <button class="active" data-cat="ALL" onclick="topic('ALL',this)">ALL</button><button data-cat="SCIENCE" onclick="topic('SCIENCE',this)">SCIENCE</button><button data-cat="TECH" onclick="topic('TECH',this)">TECH</button><button data-cat="CHIPS" onclick="topic('CHIPS',this)">CHIPS</button><button data-cat="AUTOMOTIVE" onclick="topic('AUTOMOTIVE',this)">AUTOMOTIVE</button><button data-cat="ENERGY" onclick="topic('ENERGY',this)">ENERGY</button><button data-cat="HEALTHCARE" onclick="topic('HEALTHCARE',this)">HEALTHCARE</button><button data-cat="MARKETS" onclick="topic('MARKETS',this)">MARKETS</button><button data-cat="ROBOTICS" onclick="topic('ROBOTICS',this)">ROBOTICS</button><button data-cat="MATERIALS" onclick="topic('MATERIALS',this)">MATERIALS</button>
+ </div>
+ <div class="feedhead"><b>✣ <span id="count">LIVE SIGNALS</span></b><span class="muted" id="mode">Multi-source</span></div>
+ <div id="feed"><div class="loading">Connecting to live sources…</div></div>
+</main>
+
+<div class="right">
+ <div class="card"><h3>RADAR MAP</h3><p>Technology signals converge across industries.</p><div class="radar"><span class="rline r1"></span><span class="rline r2"></span><span class="rline r3"></span><i class="node a"></i><i class="node b"></i><i class="node c"></i><i class="node d"></i><i class="node e"></i></div><button class="btn" onclick="toast('Interactive graph is planned for v3')">Open Radar Map</button></div>
+ <div class="card"><h3>SOURCE HEALTH</h3><div id="health"></div></div>
+ <div class="card"><h3>TRENDING</h3><ul class="list"><li><span class="rank">1</span><span>Semiconductors</span><b>↑</b></li><li><span class="rank">2</span><span>Vehicle compute</span><b>↑</b></li><li><span class="rank">3</span><span>Energy systems</span><b>↗</b></li><li><span class="rank">4</span><span>Robotics</span><b>↗</b></li><li><span class="rank">5</span><span>Biotech</span><b>→</b></li></ul></div>
+ <div class="card"><h3>LATEST PATENTS</h3><p>Patent search isn't a public live feed, so this module opens targeted Google Patents searches.</p><button class="btn" onclick="openPatent('chiplet interconnect')">Explore chiplet patents →</button><div style="height:6px"></div><button class="btn" onclick="openPatent('vehicle compute architecture')">Explore vehicle-compute patents →</button></div>
+ <div class="card"><h3>RECOMMENDED LISTEN</h3><p><b style="color:#dce3ef">IEEE Spectrum — Fixing the Future</b><br>Editors talk with people building concrete solutions across tech, energy, robotics and more.</p><button class="btn" onclick="window.open('https://spectrum.ieee.org/podcasts/fixing-the-future/','_blank')">Listen →</button></div>
+ <div class="card"><h3>DAILY BRIEFING</h3><p id="brief">Once enough signals are loaded, this becomes the 5-minute cross-industry briefing.</p><button class="btn" onclick="makeBrief()">Generate local briefing</button></div>
+ <div class="card"><h3>QUOTE OF THE DAY</h3><div class="quote">“The best way to predict the future is to understand the forces shaping it.”<em>— THE RADAR principle</em></div></div>
+</div>
+</div>
+<div class="toast" id="toast"></div>
+
+<script>
+const feeds=[
+ {name:'Hacker News',kind:'hn',cat:'TECH',url:'https://hacker-news.firebaseio.com/v0/topstories.json'},
+ {name:'arXiv · AI/ML',kind:'arxiv',cat:'SCIENCE',url:'https://export.arxiv.org/api/query?search_query=cat:cs.LG%20OR%20cat:cs.AI&start=0&max_results=12&sortBy=submittedDate&sortOrder=descending'},
+ {name:'arXiv · Systems',kind:'arxiv',cat:'TECH',url:'https://export.arxiv.org/api/query?search_query=cat:cs.DC%20OR%20cat:eess.SY&start=0&max_results=12&sortBy=submittedDate&sortOrder=descending'},
+ {name:'Nature',kind:'rss',cat:'SCIENCE',url:'https://www.nature.com/nature.rss'},
+ {name:'IEEE Spectrum',kind:'rss',cat:'TECH',url:'https://spectrum.ieee.org/feeds/feed.rss'},
+ {name:'STAT',kind:'rss',cat:'HEALTHCARE',url:'https://www.statnews.com/feed/'},
+ {name:'Reddit · MachineLearning',kind:'rss',cat:'SCIENCE',url:'https://www.reddit.com/r/MachineLearning/.rss'},
+ {name:'Reddit · Robotics',kind:'rss',cat:'ROBOTICS',url:'https://www.reddit.com/r/robotics/.rss'},
+ {name:'Reddit · Hardware',kind:'rss',cat:'CHIPS',url:'https://www.reddit.com/r/hardware/.rss'},
+ {name:'TechCrunch',kind:'rss',cat:'TECH',url:'https://techcrunch.com/feed/'},
+ {name:'Ars Technica',kind:'rss',cat:'TECH',url:'https://feeds.arstechnica.com/arstechnica/index'},
+ {name:'Wired',kind:'rss',cat:'TECH',url:'https://www.wired.com/feed/rss'}
+];
+const CORS=u=>'https://api.allorigins.win/raw?url='+encodeURIComponent(u);
+let raw=[],current='ALL';
+
+const catClass={CHIPS:'kchips',AUTOMOTIVE:'kauto',HEALTHCARE:'khealth',ENERGY:'kenergy',MARKETS:'kmarket',ROBOTICS:'krobot',SCIENCE:'kscience',TECH:'ktech',MATERIALS:'kmats'};
+function inferCat(title,text,base){
+ const s=(title+' '+text).toLowerCase();
+ if(/semiconductor|chiplet|gpu|cpu|hbm|tsmc|silicon|memory|transistor|packag/.test(s)) return 'CHIPS';
+ if(/vehicle|automotive|car |cars |battery electric|ev |autonomous driv|adas|sdv|mobility|engine|powertrain/.test(s)) return 'AUTOMOTIVE';
+ if(/robot|drone|manipulat|humanoid/.test(s)) return 'ROBOTICS';
+ if(/cancer|clinical|drug|biotech|genom|crispr|medical|health|disease|therapy|pharma/.test(s)) return 'HEALTHCARE';
+ if(/battery|solar|nuclear|fusion|grid|energy|hydrogen|reactor|power plant/.test(s)) return 'ENERGY';
+ if(/market|econom|inflation|interest rate|capital|invest|semiconductor spending|gdp/.test(s)) return 'MARKETS';
+ if(/material|chemistry|cathode|anode|solid-state|alloy/.test(s)) return 'MATERIALS';
+ return base;
+}
+function score(item){
+ const s=(item.title+' '+item.text).toLowerCase();
+ let n=5;
+ if(/research|paper|study|demonstrat|breakthrough|prototype/.test(s)) n+=1.4;
+ if(/first|new|novel|record|million|billion|patent/.test(s)) n+=1;
+ if(/chip|energy|robot|vehicle|health|manufactur|semiconductor/.test(s)) n+=.8;
+ if(item.source==='Hacker News') n+=Math.min(1.2,(item.points||0)/200);
+ return Math.min(9.8,n);
+}
+function esc(x){return String(x||'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]))}
+function timeAgo(d){const x=(Date.now()-new Date(d).getTime())/1000;if(!isFinite(x))return '';if(x<3600)return Math.max(1,Math.round(x/60))+'m ago';if(x<86400)return Math.round(x/3600)+'h ago';return Math.round(x/86400)+'d ago'}
+function thumbFor(cat){return cat==='AUTOMOTIVE'?'car':cat==='HEALTHCARE'?'health':cat==='ENERGY'?'energy':cat==='MARKETS'?'market':cat==='ROBOTICS'?'robot':''}
+function render(list){
+ const f=document.getElementById('feed');document.getElementById('count').textContent=list.length+' LIVE SIGNALS';
+ if(!list.length){f.innerHTML='<div class="empty">No signals match that filter.</div>';return}
+ f.innerHTML=list.map((x,i)=>{const sc=x.score.toFixed(1), vals=[Math.min(97,Math.round(x.score*10+5)),Math.min(97,Math.round(x.score*10+1)),Math.max(32,100-Math.round(x.score*7)),Math.min(98,Math.round(x.score*10+3))];return `<article class="signal"><div class="signalmain"><div><div class="kicker ${catClass[x.cat]||'ktech'}">${esc(x.cat)}</div><h2>${esc(x.title)}</h2><p class="summary">${esc(x.text||'Live item from '+x.source+'.')}</p><div class="meta">${esc(x.source)} · ${timeAgo(x.date)} · <a href="${esc(x.link)}" target="_blank" rel="noopener">open source ↗</a></div><div class="badges"><span class="badge sourcebadge">${esc(x.kindLabel||'LIVE')}</span>${x.points?'<span class="badge">'+x.points+' HN points</span>':''}<span class="badge livebadge">LIVE</span></div></div><div class="thumb ${thumbFor(x.cat)}"><div class="glyph"></div></div></div><div class="metrics"><div class="score"><small>Impact score</small><strong>${sc}<small style="font-size:8px"> /10</small></strong></div>${[['Novelty',vals[0]],['Industry impact',vals[1]],['Time to impact',vals[2]]].map(v=>`<div class="metric"><label>${v[0]}</label><div class="track"><div class="fill" style="width:${v[1]}%"></div></div></div>`).join('')}</div></article>`}).join('');
+}
+function apply(){const q=document.getElementById('search').value.toLowerCase();render(raw.filter(x=>(current==='ALL'||x.cat===current)&&((x.title+' '+x.text+' '+x.source+' '+x.cat).toLowerCase().includes(q))).sort((a,b)=>b.score-a.score))}
+function topic(c,b){current=c;document.querySelectorAll('.tabs button').forEach(x=>x.classList.remove('active'));b.classList.add('active');apply()}
+function toast(m){const t=document.getElementById('toast');t.textContent=m;t.classList.add('show');clearTimeout(window._t);window._t=setTimeout(()=>t.classList.remove('show'),2200)}
+function nav(b,n){document.querySelectorAll('.nav button').forEach(x=>x.classList.remove('active'));b.classList.add('active');toast(n+' view')}
+function openPatent(q){window.open('https://patents.google.com/?q='+encodeURIComponent(q),'_blank')}
+function parseRSS(txt,source,base){
+ const doc=new DOMParser().parseFromString(txt,'text/xml');const nodes=[...doc.querySelectorAll('item, entry')];return nodes.slice(0,15).map(n=>{const title=n.querySelector('title')?.textContent?.trim()||'Untitled';let link=n.querySelector('link')?.getAttribute('href')||n.querySelector('link')?.textContent?.trim()||'';if(!link)link=base;const text=(n.querySelector('description,summary,content')?.textContent||'').replace(/<[^>]*>/g,' ').replace(/\\s+/g,' ').trim().slice(0,280);const date=n.querySelector('pubDate,published,updated')?.textContent||new Date().toISOString();const cat=inferCat(title,text,feeds.find(f=>f.name===source)?.cat||'TECH');return{title,text,link,date,source,cat,score:0,kindLabel:'RSS'}}).filter(x=>x.title)}
+async function fetchOne(f){
+ try{
+  if(f.kind==='hn'){
+   const ids=await fetch(f.url).then(r=>r.json());const top=ids.slice(0,18);const vals=await Promise.all(top.map(id=>fetch('https://hacker-news.firebaseio.com/v0/item/'+id+'.json').then(r=>r.json()).catch(()=>null)));
+   return vals.filter(x=>x&&x.title).map(x=>({title:x.title,text:(x.url?'Discussion and source available through Hacker News.':'Hacker News discussion.'),link:x.url||'https://news.ycombinator.com/item?id='+x.id,date:new Date(x.time*1000).toISOString(),source:f.name,cat:inferCat(x.title,'',f.cat),score:0,points:x.score,kindLabel:'HN API'}));
+  }
+  const txt=await fetch(CORS(f.url)).then(r=>{if(!r.ok)throw Error(r.status);return r.text()});
+  if(f.kind==='arxiv'){
+   const doc=new DOMParser().parseFromString(txt,'text/xml');return [...doc.querySelectorAll('entry')].slice(0,12).map(n=>{const title=n.querySelector('title')?.textContent.replace(/\\s+/g,' ').trim()||'Untitled';const text=n.querySelector('summary')?.textContent.replace(/\\s+/g,' ').trim().slice(0,280)||'';const link=n.querySelector('id')?.textContent||'';const date=n.querySelector('published')?.textContent||new Date().toISOString();return{title,text,link,date,source:f.name,cat:inferCat(title,text,f.cat),score:0,kindLabel:'ARXIV'}})
+  }
+  return parseRSS(txt,f.name,f.url)
+ }catch(e){throw e}
+}
+async function loadFeeds(force=false){
+ const btn=document.getElementById('refresh');btn.classList.add('spin');document.getElementById('mode').textContent='Fetching live sources…';raw=[];render([]);
+ const results=await Promise.allSettled(feeds.map(fetchOne));const health=[];
+ results.forEach((r,i)=>{if(r.status==='fulfilled'){raw.push(...r.value);health.push([feeds[i].name,true,r.value.length])}else health.push([feeds[i].name,false,0])});
+ raw.forEach(x=>x.score=score(x));const seen=new Set();raw=raw.filter(x=>{const k=x.title.toLowerCase();if(seen.has(k))return false;seen.add(k);return true});
+ raw.sort((a,b)=>b.score-a.score);apply();document.getElementById('updated').textContent=new Date().toLocaleTimeString([],{hour:'2-digit',minute:'2-digit'});document.getElementById('mode').textContent='Live · '+raw.length+' items';
+ document.getElementById('health').innerHTML=health.map(h=>`<div class="status"><span>${esc(h[0])}</span><span class="${h[1]?'ok':'err'}">${h[1]?'● '+h[2]:'× offline'}</span></div>`).join('');
+ btn.classList.remove('spin');
+ if(!raw.length)toast('Live sources could not be reached. Open the HTML from a hosted page or use the included source links.');
+}
+function makeBrief(){if(!raw.length){toast('Load live signals first');return}const top=raw.slice(0,5).map((x,i)=>(i+1)+'. '+x.title).join(' • ');document.getElementById('brief').textContent='Top signals right now: '+top;toast('Briefing assembled locally from the live feed')}
+loadFeeds();
+setInterval(()=>loadFeeds(false),10*60*1000);
+if('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(()=>{});
+</script>
+</body>
+</html>
