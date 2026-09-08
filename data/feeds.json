@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-09-08T17:58:28.540657+00:00",
+  "generated_at": "2026-09-08T20:48:48.981554+00:00",
   "items": [
+    {
+      "title": "100s of flights cancelled at UK airports due to ATC issue",
+      "text": "Hacker News discussion and source.",
+      "link": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
+      "date": "2026-09-08T18:26:27+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 99,
+      "kindLabel": "HN API"
+    },
     {
       "title": "Google DeepMind Releases AlphaGenome Atlas",
       "text": "Hacker News discussion and source.",
@@ -8,17 +18,17 @@
       "date": "2026-09-08T14:55:45+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 243,
+      "points": 399,
       "kindLabel": "HN API"
     },
     {
-      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
       "text": "Hacker News discussion and source.",
-      "link": "https://openai.com/index/navier-stokes-solution/",
-      "date": "2026-09-08T17:13:21+00:00",
+      "link": "https://github.com/argonautlabsai/deltafin",
+      "date": "2026-09-08T20:07:55+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 253,
+      "points": 27,
       "kindLabel": "HN API"
     },
     {
@@ -28,27 +38,17 @@
       "date": "2026-09-08T13:36:53+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 239,
+      "points": 303,
       "kindLabel": "HN API"
     },
     {
-      "title": "Paramount Caught Using 'Astroturf' Group to Drum Up Fake Support for Merger",
+      "title": "Muse: Meta's personal AI agent, features and capabilities",
       "text": "Hacker News discussion and source.",
-      "link": "https://www.techdirt.com/2026/09/08/paramount-caught-using-astroturf-group-to-drum-up-fake-support-for-merger/",
-      "date": "2026-09-08T14:33:52+00:00",
+      "link": "https://ai.meta.com/muse/",
+      "date": "2026-09-08T19:25:00+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 198,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Making Teenagers Read Newspapers. A Nationwide Experiment in French High Schools",
-      "text": "Hacker News discussion and source.",
-      "link": "https://cepr.org/publications/dp21706",
-      "date": "2026-09-08T17:00:45+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 33,
+      "points": 137,
       "kindLabel": "HN API"
     },
     {
@@ -58,7 +58,17 @@
       "date": "2026-09-08T14:49:19+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 95,
+      "points": 169,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Mercury 2.5",
+      "text": "Hacker News discussion and source.",
+      "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
+      "date": "2026-09-08T20:14:52+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 12,
       "kindLabel": "HN API"
     },
     {
@@ -68,57 +78,17 @@
       "date": "2026-09-08T16:59:41+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 22,
+      "points": 75,
       "kindLabel": "HN API"
     },
     {
-      "title": "Connecting the Machines",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
       "text": "Hacker News discussion and source.",
-      "link": "https://herdr.dev/blog/connecting-the-machines/",
-      "date": "2026-09-08T16:43:55+00:00",
+      "link": "https://openai.com/index/navier-stokes-solution/",
+      "date": "2026-09-08T17:13:21+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 24,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "The Helicopter with Radioactive Blades",
-      "text": "Hacker News discussion and source.",
-      "link": "https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/",
-      "date": "2026-09-07T17:44:33+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 68,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Y Combinator Early Access Network",
-      "text": "Hacker News discussion and source.",
-      "link": "https://events.ycombinator.com/yc-early-access-fall-26",
-      "date": "2026-09-08T16:31:01+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 26,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Show HN: Copperhead – Hardware as Fast as Software",
-      "text": "Hacker News discussion and source.",
-      "link": "https://copperhead.sh/",
-      "date": "2026-09-08T13:26:45+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 151,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "LG TVs caught spying even when offline or on standby",
-      "text": "Hacker News discussion and source.",
-      "link": "https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus",
-      "date": "2026-09-08T16:07:08+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 171,
+      "points": 813,
       "kindLabel": "HN API"
     },
     {
@@ -128,17 +98,47 @@
       "date": "2026-09-08T14:13:26+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 102,
+      "points": 213,
       "kindLabel": "HN API"
     },
     {
-      "title": "C*: Unifying Programming and Verification in C",
+      "title": "Implementation of GCC's Nested Functions (vs. C++ Lambdas)",
       "text": "Hacker News discussion and source.",
-      "link": "https://arxiv.org/abs/2504.02246",
-      "date": "2026-09-08T15:56:56+00:00",
+      "link": "https://uecker.codeberg.page/2026-09-05.html",
+      "date": "2026-09-05T12:09:29+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 32,
+      "points": 28,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "The Helicopter with Radioactive Blades",
+      "text": "Hacker News discussion and source.",
+      "link": "https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/",
+      "date": "2026-09-07T17:44:33+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 119,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Tyranny of Optionality",
+      "text": "Hacker News discussion and source.",
+      "link": "https://hvpandya.com/tyranny-of-optionality",
+      "date": "2026-09-05T21:52:56+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 15,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Function Arguments Are Not Function Colors",
+      "text": "Hacker News discussion and source.",
+      "link": "https://jerf.org/iri/post/2026/func_args_are_not_colors/",
+      "date": "2026-09-08T19:04:26+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 15,
       "kindLabel": "HN API"
     },
     {
@@ -148,37 +148,17 @@
       "date": "2026-09-08T14:44:25+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 111,
+      "points": 166,
       "kindLabel": "HN API"
     },
     {
-      "title": "OUI-1: world's first model for Generative UI",
+      "title": "Connecting the Machines",
       "text": "Hacker News discussion and source.",
-      "link": "https://www.openui.com/blog/oui-1",
-      "date": "2026-09-08T17:07:54+00:00",
+      "link": "https://herdr.dev/blog/connecting-the-machines/",
+      "date": "2026-09-08T16:43:55+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 16,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "ZX Spectrum: Experimenting with 1-Bit Sound",
-      "text": "Hacker News discussion and source.",
-      "link": "https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/",
-      "date": "2026-09-08T14:54:29+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 49,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "AlphaGenome Atlas predictive map of every DNA letter change in the human genome",
-      "text": "Hacker News discussion and source.",
-      "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-      "date": "2026-09-08T14:14:15+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 47,
+      "points": 58,
       "kindLabel": "HN API"
     },
     {
@@ -188,7 +168,67 @@
       "date": "2026-09-05T12:32:06+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 7,
+      "points": 45,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Show HN: Copperhead – Hardware as Fast as Software",
+      "text": "Hacker News discussion and source.",
+      "link": "https://copperhead.sh/",
+      "date": "2026-09-08T13:26:45+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 179,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+      "text": "Hacker News discussion and source.",
+      "link": "https://cims.nyu.edu/~tristanb/statement.pdf",
+      "date": "2026-09-08T05:42:28+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 766,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "C*: Unifying Programming and Verification in C",
+      "text": "Hacker News discussion and source.",
+      "link": "https://arxiv.org/abs/2504.02246",
+      "date": "2026-09-08T15:56:56+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 55,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "OpenAI fought dirty on career-making math problem",
+      "text": "Hacker News discussion and source.",
+      "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+      "date": "2026-09-08T19:47:13+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 52,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "AlphaGenome Atlas predictive map of every DNA letter change in the human genome",
+      "text": "Hacker News discussion and source.",
+      "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "date": "2026-09-08T14:14:15+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 69,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "ZX Spectrum: Experimenting with 1-Bit Sound",
+      "text": "Hacker News discussion and source.",
+      "link": "https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/",
+      "date": "2026-09-08T14:54:29+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 75,
       "kindLabel": "HN API"
     },
     {
@@ -198,47 +238,7 @@
       "date": "2026-09-06T22:27:27+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 38,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "DHS 'Predictive Policing' Unit Is Analyzing Americans' Financial Habits",
-      "text": "Hacker News discussion and source.",
-      "link": "https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/",
-      "date": "2026-09-08T14:40:30+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 202,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Getting your hands dirty is good for you",
-      "text": "Hacker News discussion and source.",
-      "link": "https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks",
-      "date": "2026-09-08T09:48:24+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 167,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Disappointed Optimists",
-      "text": "Hacker News discussion and source.",
-      "link": "https://cwodtke.com/disappointed-optimists/",
-      "date": "2026-09-08T15:13:56+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 37,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "There's a new \"Google Jail\" for independent wikis",
-      "text": "Hacker News discussion and source.",
-      "link": "https://weirdgloop.org/blog/google-jail",
-      "date": "2026-09-08T01:57:23+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 439,
+      "points": 84,
       "kindLabel": "HN API"
     },
     {
@@ -515,7 +515,7 @@
       "title": "Author Correction: Contrasting roles of histone 3 lysine 27 demethylases in acute lymphoblastic leukaemia",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11081-7",
-      "date": "2026-09-08T17:58:27.585605+00:00",
+      "date": "2026-09-08T20:48:47.593855+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -523,7 +523,7 @@
       "title": "Put patients at the centre of medical AI governance",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02796-8",
-      "date": "2026-09-08T17:58:27.585650+00:00",
+      "date": "2026-09-08T20:48:47.593905+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -531,7 +531,7 @@
       "title": "Nepal disaster is a wake-up call to take compound climate risks seriously",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02794-w",
-      "date": "2026-09-08T17:58:27.585676+00:00",
+      "date": "2026-09-08T20:48:47.593931+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -539,7 +539,7 @@
       "title": "Sideline vested interests to reform China’s research",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02797-7",
-      "date": "2026-09-08T17:58:27.585699+00:00",
+      "date": "2026-09-08T20:48:47.593954+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -547,7 +547,7 @@
       "title": "Limit bets on clinical-trial outcomes being placed on prediction markets",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02795-9",
-      "date": "2026-09-08T17:58:27.585723+00:00",
+      "date": "2026-09-08T20:48:47.593979+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -555,7 +555,7 @@
       "title": "The Kelvin scale’s creator William Thomson made many scientific advances",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02722-y",
-      "date": "2026-09-08T17:58:27.585749+00:00",
+      "date": "2026-09-08T20:48:47.594001+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -563,7 +563,7 @@
       "title": "The World Bank is right to prioritize reproducibility",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02678-z",
-      "date": "2026-09-08T17:58:27.585769+00:00",
+      "date": "2026-09-08T20:48:47.594024+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -571,7 +571,7 @@
       "title": "China’s fast-track clinical trials are in the spotlight after child deaths",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02407-6",
-      "date": "2026-09-08T17:58:27.585792+00:00",
+      "date": "2026-09-08T20:48:47.594046+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -579,7 +579,15 @@
       "title": "Two children died from gene therapies in China: where the field goes next",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02497-2",
-      "date": "2026-09-08T17:58:27.585816+00:00",
+      "date": "2026-09-08T20:48:47.594071+00:00",
+      "source": "Nature",
+      "cat": "SCIENCE"
+    },
+    {
+      "title": "Why this neuroscientist is taking the plunge into science advocacy",
+      "text": "",
+      "link": "https://www.nature.com/articles/d41586-026-02457-w",
+      "date": "2026-09-08T20:48:47.594093+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -587,7 +595,7 @@
       "title": "A data leak shut a top research biobank: lessons from the recovery",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02803-y",
-      "date": "2026-09-08T17:58:27.585838+00:00",
+      "date": "2026-09-08T20:48:47.594116+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -595,7 +603,15 @@
       "title": "DeepMind’s new genome ‘atlas’ charts effects of all 9 billion human gene mutations",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02835-4",
-      "date": "2026-09-08T17:58:27.585861+00:00",
+      "date": "2026-09-08T20:48:47.594139+00:00",
+      "source": "Nature",
+      "cat": "SCIENCE"
+    },
+    {
+      "title": "OpenAI claims huge maths breakthrough on a famed ‘Millennium Problem’",
+      "text": "",
+      "link": "https://www.nature.com/articles/d41586-026-02842-5",
+      "date": "2026-09-08T20:48:47.594163+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -603,7 +619,7 @@
       "title": "‘Mother of Hubble’: how Nancy Grace Roman ushered in a new era of astronomy",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02802-z",
-      "date": "2026-09-08T17:58:27.585884+00:00",
+      "date": "2026-09-08T20:48:47.594186+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -611,7 +627,7 @@
       "title": "How countries can grow without impoverishing future generations",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02807-8",
-      "date": "2026-09-08T17:58:27.585906+00:00",
+      "date": "2026-09-08T20:48:47.594208+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -619,7 +635,7 @@
       "title": "Author Correction: AhR inhibition promotes axon regeneration via a stress–growth switch",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11103-4",
-      "date": "2026-09-08T17:58:27.585940+00:00",
+      "date": "2026-09-08T20:48:47.594244+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -627,7 +643,7 @@
       "title": "Author Correction: A mouse brain stereotaxic topographic atlas with isotropic 1-μm resolution",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11094-2",
-      "date": "2026-09-08T17:58:27.586001+00:00",
+      "date": "2026-09-08T20:48:47.594306+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -635,29 +651,13 @@
       "title": "Probing the proteome at cellular scale",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02805-w",
-      "date": "2026-09-08T17:58:27.586030+00:00",
-      "source": "Nature",
-      "cat": "SCIENCE"
-    },
-    {
-      "title": "The secret life of a cell-cycle gatekeeper of breast cancer",
-      "text": "",
-      "link": "https://www.nature.com/articles/d41586-026-02470-z",
-      "date": "2026-09-08T17:58:27.586054+00:00",
-      "source": "Nature",
-      "cat": "SCIENCE"
-    },
-    {
-      "title": "Daily briefing: Bunsen burners don’t waft bacteria away from workbenches",
-      "text": "",
-      "link": "https://www.nature.com/articles/d41586-026-02831-8",
-      "date": "2026-09-08T17:58:27.586077+00:00",
+      "date": "2026-09-08T20:48:47.594335+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
     {
       "title": "Rivian’s Gambit for Full Autonomy",
-      "text": "I’m sitting in a Rivian R1S SUV as it drives itself down the leafy streets of Palo Alto, Calif. , through areas crowded with touchstones of tech history. At one point I pass the landmark HP Garage , the one-car workshop where Hewlett-Packard, and, arguably, Silicon Valley, was founded in 1939. I skirt Stanford University, where a team led by computer science professor Sebastian Thrun won a US $2 million DARPA Grand Challenge in 2005. The team’s Volkswagen SUV, named Stanley, became the world’s f",
+      "text": "I’m sitting in a Rivian R1S SUV as it drives itself down the leafy streets of Palo Alto, Calif. , through areas crowded with touchstones of tech history. We cruise near the landmark HP Garage , the one-car workshop where Hewlett-Packard, and, arguably, Silicon Valley, was founded in 1939. I skirt Stanford University, where a team led by computer science professor Sebastian Thrun won a US $2 million DARPA Grand Challenge in 2005. The team’s Volkswagen SUV, named Stanley, became the world’s first ",
       "link": "https://spectrum.ieee.org/rivian-self-driving",
       "date": "Tue, 08 Sep 2026 13:00:04 +0000",
       "source": "IEEE Spectrum",
@@ -665,7 +665,7 @@
     },
     {
       "title": "The Growing Proof That Autonomous Cars Save Lives",
-      "text": "Plenty of people remain spooked by autonomous vehicles, or AVs. Some experts and policymakers have cautioned that AVs won’t necessarily make roads safer. When it comes to partial or full autonomy, the picture isn’t entirely clear, in part because there aren’t enough self-driving cars to make meaningful apples-to-apples comparisons. Yet mounting research suggests that self-driving cars crash significantly less often than people, and with far fewer injuries. Evidence also shows the building blocks",
+      "text": "Plenty of people remain spooked by autonomous vehicles, or AVs. Some experts and policymakers have cautioned that AVs won’t necessarily make roads safer. When it comes to partial or full autonomy, the picture isn’t entirely clear, in part because there aren’t enough self-driving cars to make meaningful apples-to-apples comparisons. Yet mounting research suggests that self-driving cars crash significantly less often than people, and with far fewer injuries. Evidence also shows that advanced drive",
       "link": "https://spectrum.ieee.org/are-self-driving-cars-safe",
       "date": "Tue, 08 Sep 2026 12:59:04 +0000",
       "source": "IEEE Spectrum",
@@ -944,8 +944,168 @@
       "cat": "HEALTHCARE"
     },
     {
+      "title": "[D] Self-Promotion Thread",
+      "text": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link shorteners, link aggregator websites , or auto-subscribe links. -- Any abuse of trust will lead to bans. Encourage others who create new posts for questions to post here instead! Thread will stay alive until next one so keep posting after the date in the title. -- Meta: This is an experiment. If th",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w4xaes/d_selfpromotion_thread/",
+      "date": "2026-09-02T02:15:07+00:00",
+      "source": "Reddit · MachineLearning",
+      "cat": "SCIENCE"
+    },
+    {
+      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
+      "text": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you&#39;re looking for] For Those looking for jobs please use this template Want to be Hired: [Location], Salary Expectation:[], [Remote | Relocation], [Full Time | Contract | Part Time] Resume: [Link to resume] and [Brief overview, what you&#39;re looking for] &#x200B; Please remember that this community is geared towards those with experie",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w30ti8/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
+      "date": "2026-08-31T02:30:17+00:00",
+      "source": "Reddit · MachineLearning",
+      "cat": "SCIENCE"
+    },
+    {
+      "title": "OpenAl Says It Has Cracked One of Math's “Millennium Problems” (Navier-Stokes) [N]",
+      "text": "As reported by the New York Times: https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html?smid=nytcore-ios-share OpenAI’s announcement: https://openai.com/index/navier-stokes-solution/ &#32; submitted by &#32; /u/Shizuka_Kuze [link] &#32; [comments]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wavdi7/openal_says_it_has_cracked_one_of_maths/",
+      "date": "2026-09-08T17:42:57+00:00",
+      "source": "Reddit · MachineLearning",
+      "cat": "SCIENCE"
+    },
+    {
+      "title": "NeurIPS desk-rejected 178 papers for being \"AI-generated\". The detector flagged the track chairs' own papers at 24-69% [N]",
+      "text": "hey all. the NeurIPS Position Paper Track just used a proprietary AI detector (Pangram) to desk-reject 18.4% of all submissions. no human review, no appeal process, just out. there&#39;s been a lot of noise about this, so i went through the actual conference statements and Pangram&#39;s technical docs to see how this actually went down. the reality is wildly worse than just &quot;the AI detector made a mistake.&quot; here are the receipts: The track chairs would have failed their own test. Indep",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wakf62/neurips_deskrejected_178_papers_for_being/",
+      "date": "2026-09-08T10:19:04+00:00",
+      "source": "Reddit · MachineLearning",
+      "cat": "SCIENCE"
+    },
+    {
+      "title": "Generating Bad Apple autonomously from a single initial state using a tiny recurrent dynamical system (417k params) [P]",
+      "text": "A few weeks ago, I saw this post where the author trained a SIREN MLP to implicitly memorize Bad Apple as a coordinate function: (t, y, x) to pixel. That got me curious about a slightly different formulation: instead of handing the network a timestamp t , could a small recurrent dynamical system (RNN-ish) learn the continuous temporal flow in latent space and generate the entire ~6,500-frame full resolution video autonomously from a single initial condition (h_0, c_0)? The code, weights, and ana",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wa8rub/generating_bad_apple_autonomously_from_a_single/",
+      "date": "2026-09-08T00:05:37+00:00",
+      "source": "Reddit · MachineLearning",
+      "cat": "SCIENCE"
+    },
+    {
+      "title": "My lab found a way to migrate between embedding models with zero downtime. [R]",
+      "text": "So I&#39;ve been messinga round with embedding models for a bit, and I think they are interesting enough to experiment with. They are useful for rag, especially in a localllm sense because you can ground your answers in truth. But what happens if you have a billion documents, and you decide to upgrade your model to a &quot;better&quot; one? on an h100, that would take about 108 days, just to upgrade the vectors so u can start serving again (tested qwen embed 8b on h100). Even if you aren&#39;t d",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wabmm7/my_lab_found_a_way_to_migrate_between_embedding/",
+      "date": "2026-09-08T02:16:23+00:00",
+      "source": "Reddit · MachineLearning",
+      "cat": "SCIENCE"
+    },
+    {
+      "title": "ECCV 2026 Social Groups [D]",
+      "text": "Hi. I&#39;m visiting ECCV in Malmo and was wondering if there&#39;s any medium, like discord, whatsapp etc where people are discussing social activities. I couldn&#39;t find a way to connect to people on the official app to discuss common interests, research or otherwise. It&#39;d also be nice to meet people who&#39;d like to team up go sightseeing or food touring after the conference ends. Thanks. &#32; submitted by &#32; /u/Land_Heavy [link] &#32; [comments]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wb0k5w/eccv_2026_social_groups_d/",
+      "date": "2026-09-08T20:44:10+00:00",
+      "source": "Reddit · MachineLearning",
+      "cat": "SCIENCE"
+    },
+    {
+      "title": "Rustuna: A High-Performance Rust Implementation of Optuna [P]",
+      "text": "Hi everyone! We just released Rustuna (GitHub: https://github.com/optuna/rustuna/ ), a high-speed, memory-efficient implementation of Optuna built in Rust. Optuna-Compatible Design: Keeps the familiar API and concept of Optuna. Zero Python Dependencies: Mitigating the risk of supply chain attacks. Lower Memory Footprint: Optimized memory management natively in Rust. For details, please check out the following blog post. https://medium.com/optuna/announcing-rustuna-cc82a6815bf7 &#32; submitted by",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w9nyhz/rustuna_a_highperformance_rust_implementation_of/",
+      "date": "2026-09-07T10:01:24+00:00",
+      "source": "Reddit · MachineLearning",
+      "cat": "SCIENCE"
+    },
+    {
+      "title": "when a run is wrong but nothing actually failed, where do you start? [D] [R]",
+      "text": "this is the kinda debugging case i find rlly annoying/ everything says success. no exceptions no failed tool calls. no obvious timeout the workflow completes but the final result is still wrong when that happens, what’s your first move? do you guys usually: start from the final output and work backward compare against a previous good run inspect state transitions check retrieval/tool behavior look at model inputs replay it check business state outside the trace just read the whole thing until so",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1waewc3/when_a_run_is_wrong_but_nothing_actually_failed/",
+      "date": "2026-09-08T05:01:04+00:00",
+      "source": "Reddit · MachineLearning",
+      "cat": "SCIENCE"
+    },
+    {
+      "title": "Is anyone working on wave-superposition-based pattern recognition instead of neural-network weights? [R]",
+      "text": "I’ve been thinking about an alternative way of doing low-level AI perception, and I’m curious whether anyone here is already working on something similar. The basic idea is to use waves and physical superposition/interference as the computational substrate , instead of doing most of the usual numerical multiply-and-accumulate operations digitally. For example, for image recognition: image ↓ pixel intensity → wave amplitude/phase ↓ physical wave superposition + interference ↓ distinctive wave pat",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wanr4p/is_anyone_working_on_wavesuperpositionbased/",
+      "date": "2026-09-08T13:00:10+00:00",
+      "source": "Reddit · MachineLearning",
+      "cat": "SCIENCE"
+    },
+    {
+      "title": "LLM-guided program evolution improves 10 best-known circle-packing solutions (Packomania csqv, N=101-114) [R]",
+      "text": "I used an LLM to iteratively evolve an optimization algorithm rather than solve the packing directly. Starting from a simple seed solver, the LLM proposes algorithmic changes guided by a scoreboard of results and a history of prior attempts, and each candidate is scored by an independent verifier so improvements are kept and failures discarded. On the Packomania csqv benchmark it improved the best-known sum-of-radii for 10 values of N from 101 to 114, by 2.4 to 5.4%, in 15 iterations. Total LLM ",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w9xlyi/llmguided_program_evolution_improves_10_bestknown/",
+      "date": "2026-09-07T16:54:55+00:00",
+      "source": "Reddit · MachineLearning",
+      "cat": "SCIENCE"
+    },
+    {
+      "title": "KV cache as an agent runtime [R]",
+      "text": "Our research team has been exploring an alternative approach to achieving interactivity and better responsiveness with LLM systems. One of the team members wrote up a post about it: https://research.yandex.com/blog/the-kv-cache-as-an-agent-runtime The post sums up the overall idea of modifying models inference state (KV-cache) for achieving a more interactive LLMs. This idea was used in our lab&#39;s previous papers Hogwild! Inference , and AsyncReasoning , the post also contains a preview of th",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w9myqc/kv_cache_as_an_agent_runtime_r/",
+      "date": "2026-09-07T09:03:48+00:00",
+      "source": "Reddit · MachineLearning",
+      "cat": "SCIENCE"
+    },
+    {
+      "title": "Roboticists working in Learning-from-Demonstrations and Behavioral Cloning : What is going on in your field these days? [D]",
+      "text": "Is LfD and BC research being effected by recent advances in (so-called) Frontier LLMs? Or is research in LfD and BC sort of going along in an independent direction from these? Are you seeing any use from ViTs or VLAs? Any other recent advances you would like to bring up? &#32; submitted by &#32; /u/moschles [link] &#32; [comments]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w9lt31/roboticists_working_in_learningfromdemonstrations/",
+      "date": "2026-09-07T07:56:38+00:00",
+      "source": "Reddit · MachineLearning",
+      "cat": "SCIENCE"
+    },
+    {
+      "title": "Reproducibility seems to be headed towards irrelevance in ML research. Is it too late? [D]",
+      "text": "I feel that reproducibility is now a lost cause in machine learning research for three reasons: Many research is moving towards the physical AI territory, where you need expensive hardwares or even entire laboratories with high-speed cameras, in order to perform an experiment. You truly have no idea if the experiment can be reproduced and have to trust the demo. But demos are not perfectly reliable. Plus people are incentivized to only show the part of the demo that works. The entire system can ",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w92eis/reproducibility_seems_to_be_headed_towards/",
+      "date": "2026-09-06T17:29:39+00:00",
+      "source": "Reddit · MachineLearning",
+      "cat": "SCIENCE"
+    },
+    {
+      "title": "I reduced image-processing token usage by ~95% compared with GPT-4o direct vision, while maintaining roughly the same accuracy.How significant is that?[P]",
+      "text": "I&#39;m testing a new approach for reducing the cost of image-based LLM inference. I evaluated it on the MOMA Graph benchmark , using 1,315 questions . Compared with using GPT-4o to process the original images directly, I observed approximately: ~95% lower token usage roughly the same accuracy as the GPT-4o direct-image baseline I&#39;m intentionally not sharing implementation details yet because the method is still under development. I&#39;m mainly trying to understand how strong the result its",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wab7ui/i_reduced_imageprocessing_token_usage_by_95/",
+      "date": "2026-09-08T01:57:19+00:00",
+      "source": "Reddit · MachineLearning",
+      "cat": "SCIENCE"
+    },
+    {
+      "title": "Automotive Radar Object Classification [P]",
+      "text": "Hello all, I&#39;m a radar signal processing engineer and i trained a 5-class classifier (car, large_vehicle, two_wheeler, pedestrian, pedestrian_group) on RadarScenes radar point clouds. The input vector is a per-scan histogram (16 bins) and the network is a 3-layer MLP. The loss function is a class-weighted cross-entropy loss. This work is based on &quot;Histogram-based Deep Learning for Automotive Radar&quot; paper. I scoped the project to be one scan only. Accumulation of multiple scans is t",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w9m26u/automotive_radar_object_classification_p/",
+      "date": "2026-09-07T08:10:55+00:00",
+      "source": "Reddit · MachineLearning",
+      "cat": "SCIENCE"
+    },
+    {
+      "title": "ParaRNN: Parallel Training for Non-Linear RNNs (sLSTM, RWKV-7, CfC, Titans) via Triton Newton Scans [P]",
+      "text": "I&#39;ve built and open-sourced ParaRNN , a PyTorch/Triton library that parallelizes the training of non-linear recurrent architectures across time using Newton-Raphson iterations mapped to associative prefix scans. While non-linear RNNs provide O(1) inference without KV-cache explosion, training them has historically been bottlenecked by slow sequential unrolls. ParaRNN solves this with custom fused Triton solvers: ~200x wall-clock speedup: Runs orders of magnitude faster than sequential BPTT o",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w9oi7l/pararnn_parallel_training_for_nonlinear_rnns/",
+      "date": "2026-09-07T10:31:44+00:00",
+      "source": "Reddit · MachineLearning",
+      "cat": "SCIENCE"
+    },
+    {
+      "title": "[D] IJCNLP-AACL 2026: Paper Commitment Results (ARR May 2026 Cycle) [D]",
+      "text": "AACL-IJCNLP 2026 acceptance results will be released in a few hours. Feel free to share your thoughts and feelings! How did you do? &#32; submitted by &#32; /u/Starscream-11813 [link] &#32; [comments]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w8zzja/d_ijcnlpaacl_2026_paper_commitment_results_arr/",
+      "date": "2026-09-06T15:59:50+00:00",
+      "source": "Reddit · MachineLearning",
+      "cat": "SCIENCE"
+    },
+    {
+      "title": "The Exploration Company nabs $450 million to challenge SpaceX",
+      "text": "The Exploration Company (TEC) has raised $450 million to build reusable spacecraft, in what it describes as “the largest-ever Series C by a European space company.”",
+      "link": "https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/",
+      "date": "Tue, 08 Sep 2026 20:47:34 +0000",
+      "source": "TechCrunch",
+      "cat": "TECH"
+    },
+    {
+      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "text": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
+      "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "date": "Tue, 08 Sep 2026 19:00:00 +0000",
+      "source": "TechCrunch",
+      "cat": "TECH"
+    },
+    {
       "title": "How to watch Apple’s foldable iPhone announcement",
-      "text": "Apple's annual iPhone event will stream live on September 9 at 10 AM PDT, and we're expecting big news.",
+      "text": "Apple's annual iPhone event will stream live on September 9 at 10 a.m. PDT, and we're expecting big news.",
       "link": "https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/",
       "date": "Tue, 08 Sep 2026 17:46:53 +0000",
       "source": "TechCrunch",
@@ -1072,19 +1232,43 @@
       "cat": "TECH"
     },
     {
-      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-      "text": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
-      "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-      "date": "Sun, 06 Sep 2026 16:45:00 +0000",
-      "source": "TechCrunch",
+      "title": "Supreme Court forces TV stations to sell more election ads at steep discounts",
+      "text": "Republican victory means stations must offer lowest ad prices to political parties.",
+      "link": "https://arstechnica.com/tech-policy/2026/09/supreme-court-forces-tv-stations-to-sell-more-election-ads-at-steep-discounts/",
+      "date": "Tue, 08 Sep 2026 19:50:00 +0000",
+      "source": "Ars Technica",
       "cat": "TECH"
     },
     {
-      "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
-      "text": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-      "link": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
-      "date": "Sun, 06 Sep 2026 16:08:00 +0000",
-      "source": "TechCrunch",
+      "title": "Top chipmakers embrace ASML’s $400M machines, agree to crucial chipmaking change",
+      "text": "Chipmaking changes could boost productivity of new ASML machines by 40 percent.",
+      "link": "https://arstechnica.com/gadgets/2026/09/top-chipmakers-embrace-asmls-400m-machines-agree-to-crucial-chipmaking-change/",
+      "date": "Tue, 08 Sep 2026 19:12:53 +0000",
+      "source": "Ars Technica",
+      "cat": "TECH"
+    },
+    {
+      "title": "Godzilla Minus Zero IMAX trailer teases King Ghidorah",
+      "text": "Director Takashi Yamazaki's hotly anticipated sequel takes place two years after 2023 film's events.",
+      "link": "https://arstechnica.com/culture/2026/09/godzilla-minus-zero-imax-trailer-teases-king-ghidorah/",
+      "date": "Tue, 08 Sep 2026 18:53:23 +0000",
+      "source": "Ars Technica",
+      "cat": "TECH"
+    },
+    {
+      "title": "“This is the AI men actually use”: Meta ads pushed apps nudifying real teens",
+      "text": "Meta dragged its feet removing ads that nudify young girls' Instagram pics.",
+      "link": "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/",
+      "date": "Tue, 08 Sep 2026 18:43:09 +0000",
+      "source": "Ars Technica",
+      "cat": "TECH"
+    },
+    {
+      "title": "Update to Google’s AI weather model improves forecast accuracy",
+      "text": "Like traditional weather models, it benefits from an expanded set of inputs.",
+      "link": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
+      "date": "Tue, 08 Sep 2026 18:00:56 +0000",
+      "source": "Ars Technica",
       "cat": "TECH"
     },
     {
@@ -1192,43 +1376,19 @@
       "cat": "TECH"
     },
     {
-      "title": "Trump admin fights ABC lawsuit as watchdogs worry Disney will settle with FCC",
-      "text": "FCC tells court it is “open-minded\" about whether ABC should lose licenses.",
-      "link": "https://arstechnica.com/tech-policy/2026/09/trump-admin-fights-abc-lawsuit-as-watchdogs-worry-disney-will-settle-with-fcc/",
-      "date": "Fri, 04 Sep 2026 19:46:34 +0000",
-      "source": "Ars Technica",
+      "title": "Muse, Meta's New Personal AI Agent, Needs You to Trust It",
+      "text": "Designed to compete with OpenClaw and Instinct, the company says Muse can do everything from sell your car to book you a plane ticket.",
+      "link": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
+      "date": "Tue, 08 Sep 2026 20:12:51 +0000",
+      "source": "Wired",
       "cat": "TECH"
     },
     {
-      "title": "Medieval manuscripts are \"biological time capsules\" for deadly sheeppox virus",
-      "text": "Other archives and libraries around the world may also contain genetic traces of past disease outbreaks.",
-      "link": "https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus/",
-      "date": "Fri, 04 Sep 2026 19:01:02 +0000",
-      "source": "Ars Technica",
-      "cat": "TECH"
-    },
-    {
-      "title": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
-      "text": "Broadcom admits it put “too big a focus on VCF.”",
-      "link": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
-      "date": "Fri, 04 Sep 2026 17:35:02 +0000",
-      "source": "Ars Technica",
-      "cat": "TECH"
-    },
-    {
-      "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
-      "text": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use.",
-      "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
-      "date": "Fri, 04 Sep 2026 17:18:12 +0000",
-      "source": "Ars Technica",
-      "cat": "TECH"
-    },
-    {
-      "title": "Pentagon rescinds new testosterone screening policy without explanation",
-      "text": "The Pentagon says the guidance is being updated after being online for one day.",
-      "link": "https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/",
-      "date": "Fri, 04 Sep 2026 16:57:24 +0000",
-      "source": "Ars Technica",
+      "title": "Apple and Google Miss Deadline to Block Child Nudity on Their Phones in the UK",
+      "text": "Now the UK government plans to introduce new legislation that would see companies face fines and potential criminal liability, and signaled similar plans could extend to Snapchat and Instagram.",
+      "link": "https://www.wired.com/story/apple-and-google-miss-deadline-to-block-child-nudity-on-their-phones-in-the-uk/",
+      "date": "Tue, 08 Sep 2026 18:13:26 +0000",
+      "source": "Wired",
       "cat": "TECH"
     },
     {
@@ -1358,22 +1518,6 @@
       "date": "Mon, 07 Sep 2026 10:30:00 +0000",
       "source": "Wired",
       "cat": "TECH"
-    },
-    {
-      "title": "How to Watch the Apple September Event (2026)",
-      "text": "Apple’s annual hardware launch event may feel different as the company welcomes a new CEO alongside a folding iPhone.",
-      "link": "https://www.wired.com/story/how-to-watch-apple-iphone-september-event-2026/",
-      "date": "Mon, 07 Sep 2026 10:15:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "What’s the Best Kindle of 2026 (So Far)?",
-      "text": "I’ve tested every single Kindle. Here’s how Amazon’s ebook readers stack up.",
-      "link": "https://www.wired.com/gallery/best-kindle/",
-      "date": "Mon, 07 Sep 2026 10:04:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
     }
   ],
   "health": [
@@ -1409,9 +1553,8 @@
     },
     {
       "name": "Reddit · MachineLearning",
-      "ok": false,
-      "count": 0,
-      "error": "HTTP Error 403: Blocked"
+      "ok": true,
+      "count": 18
     },
     {
       "name": "Reddit · Robotics",
