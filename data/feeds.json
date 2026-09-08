@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-08T20:48:48.981554+00:00",
+  "generated_at": "2026-09-08T23:04:28.378091+00:00",
   "items": [
     {
-      "title": "100s of flights cancelled at UK airports due to ATC issue",
+      "title": "Large Language Models Develop Novel Social Biases Through Adaptive Exploration",
       "text": "Hacker News discussion and source.",
-      "link": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
-      "date": "2026-09-08T18:26:27+00:00",
+      "link": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+      "date": "2026-09-08T21:47:38+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 99,
+      "points": 40,
       "kindLabel": "HN API"
     },
     {
@@ -18,167 +18,7 @@
       "date": "2026-09-08T14:55:45+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 399,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
-      "text": "Hacker News discussion and source.",
-      "link": "https://github.com/argonautlabsai/deltafin",
-      "date": "2026-09-08T20:07:55+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 27,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "DaVinci Resolve 21.1",
-      "text": "Hacker News discussion and source.",
-      "link": "https://www.blackmagicdesign.com/media/release/20260908-03",
-      "date": "2026-09-08T13:36:53+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 303,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Muse: Meta's personal AI agent, features and capabilities",
-      "text": "Hacker News discussion and source.",
-      "link": "https://ai.meta.com/muse/",
-      "date": "2026-09-08T19:25:00+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 137,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
-      "text": "Hacker News discussion and source.",
-      "link": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
-      "date": "2026-09-08T14:49:19+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 169,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Mercury 2.5",
-      "text": "Hacker News discussion and source.",
-      "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
-      "date": "2026-09-08T20:14:52+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 12,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Show HN: LLM Attention Visualization",
-      "text": "Hacker News discussion and source.",
-      "link": "https://ishamf.dev/p/llm-attention-visualizer/",
-      "date": "2026-09-08T16:59:41+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 75,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "On the Navier–Stokes Millennium Prize Problem",
-      "text": "Hacker News discussion and source.",
-      "link": "https://openai.com/index/navier-stokes-solution/",
-      "date": "2026-09-08T17:13:21+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 813,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
-      "text": "Hacker News discussion and source.",
-      "link": "https://github.com/ayghri/i-have-adhd",
-      "date": "2026-09-08T14:13:26+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 213,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Implementation of GCC's Nested Functions (vs. C++ Lambdas)",
-      "text": "Hacker News discussion and source.",
-      "link": "https://uecker.codeberg.page/2026-09-05.html",
-      "date": "2026-09-05T12:09:29+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 28,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "The Helicopter with Radioactive Blades",
-      "text": "Hacker News discussion and source.",
-      "link": "https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/",
-      "date": "2026-09-07T17:44:33+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 119,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Tyranny of Optionality",
-      "text": "Hacker News discussion and source.",
-      "link": "https://hvpandya.com/tyranny-of-optionality",
-      "date": "2026-09-05T21:52:56+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 15,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Function Arguments Are Not Function Colors",
-      "text": "Hacker News discussion and source.",
-      "link": "https://jerf.org/iri/post/2026/func_args_are_not_colors/",
-      "date": "2026-09-08T19:04:26+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 15,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "The two Christian saints who are the Buddha",
-      "text": "Hacker News discussion and source.",
-      "link": "https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/",
-      "date": "2026-09-08T14:44:25+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 166,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Connecting the Machines",
-      "text": "Hacker News discussion and source.",
-      "link": "https://herdr.dev/blog/connecting-the-machines/",
-      "date": "2026-09-08T16:43:55+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 58,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Replacing a Rust Enum with a 64-Bit Word Made My Interpreter 17% Faster",
-      "text": "Hacker News discussion and source.",
-      "link": "https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/",
-      "date": "2026-09-05T12:32:06+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 45,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Show HN: Copperhead – Hardware as Fast as Software",
-      "text": "Hacker News discussion and source.",
-      "link": "https://copperhead.sh/",
-      "date": "2026-09-08T13:26:45+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 179,
+      "points": 466,
       "kindLabel": "HN API"
     },
     {
@@ -188,47 +28,187 @@
       "date": "2026-09-08T05:42:28+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 766,
+      "points": 1066,
       "kindLabel": "HN API"
     },
     {
-      "title": "C*: Unifying Programming and Verification in C",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
       "text": "Hacker News discussion and source.",
-      "link": "https://arxiv.org/abs/2504.02246",
-      "date": "2026-09-08T15:56:56+00:00",
+      "link": "https://openai.com/index/navier-stokes-solution/",
+      "date": "2026-09-08T17:13:21+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 55,
+      "points": 1012,
       "kindLabel": "HN API"
     },
     {
-      "title": "OpenAI fought dirty on career-making math problem",
+      "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
       "text": "Hacker News discussion and source.",
-      "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
-      "date": "2026-09-08T19:47:13+00:00",
+      "link": "https://github.com/argonautlabsai/deltafin",
+      "date": "2026-09-08T20:07:55+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 52,
+      "points": 183,
       "kindLabel": "HN API"
     },
     {
-      "title": "AlphaGenome Atlas predictive map of every DNA letter change in the human genome",
+      "title": "DaVinci Resolve 21.1",
       "text": "Hacker News discussion and source.",
-      "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-      "date": "2026-09-08T14:14:15+00:00",
+      "link": "https://www.blackmagicdesign.com/media/release/20260908-03",
+      "date": "2026-09-08T13:36:53+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 69,
+      "points": 328,
       "kindLabel": "HN API"
     },
     {
-      "title": "ZX Spectrum: Experimenting with 1-Bit Sound",
+      "title": "How to Build a Printer",
       "text": "Hacker News discussion and source.",
-      "link": "https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/",
-      "date": "2026-09-08T14:54:29+00:00",
+      "link": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+      "date": "2026-09-08T21:22:11+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 75,
+      "points": 26,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+      "text": "Hacker News discussion and source.",
+      "link": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
+      "date": "2026-09-08T14:49:19+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 198,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Mercury 2.5",
+      "text": "Hacker News discussion and source.",
+      "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
+      "date": "2026-09-08T20:14:52+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 101,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Animation in Bevy: The Big Picture",
+      "text": "Hacker News discussion and source.",
+      "link": "https://glocq.com/en/blog/20260827/",
+      "date": "2026-09-08T20:08:44+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 30,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+      "text": "Hacker News discussion and source.",
+      "link": "https://github.com/ayghri/i-have-adhd",
+      "date": "2026-09-08T14:13:26+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 270,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Muse: Meta's personal AI agent, features and capabilities",
+      "text": "Hacker News discussion and source.",
+      "link": "https://ai.meta.com/muse/",
+      "date": "2026-09-08T19:25:00+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 206,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Implementation of GCC's Nested Functions (vs. C++ Lambdas)",
+      "text": "Hacker News discussion and source.",
+      "link": "https://uecker.codeberg.page/2026-09-05.html",
+      "date": "2026-09-05T12:09:29+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 47,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Tracing np.add, all the way down",
+      "text": "Hacker News discussion and source.",
+      "link": "https://blog.veitheller.de/numpy.html",
+      "date": "2026-09-04T09:42:29+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 23,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Show HN: LLM Attention Visualization",
+      "text": "Hacker News discussion and source.",
+      "link": "https://ishamf.dev/p/llm-attention-visualizer/",
+      "date": "2026-09-08T16:59:41+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 102,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Replacing a Rust Enum with a 64-Bit Word Made My Interpreter 17% Faster",
+      "text": "Hacker News discussion and source.",
+      "link": "https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/",
+      "date": "2026-09-05T12:32:06+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 65,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Tao: Open math problems being non-renewably mined by AI",
+      "text": "Hacker News discussion and source.",
+      "link": "https://mathstodon.xyz/@tao/117237320796901560",
+      "date": "2026-09-08T21:00:52+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 18,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "The Helicopter with Radioactive Blades",
+      "text": "Hacker News discussion and source.",
+      "link": "https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/",
+      "date": "2026-09-07T17:44:33+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 138,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "A Topological Picture Book, Rendered",
+      "text": "Hacker News discussion and source.",
+      "link": "https://e-infinity.space/picture-book/",
+      "date": "2026-09-08T22:28:14+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 3,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Show HN: Copperhead – Hardware as Fast as Software",
+      "text": "Hacker News discussion and source.",
+      "link": "https://copperhead.sh/",
+      "date": "2026-09-08T13:26:45+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 193,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "The two Christian saints who are the Buddha",
+      "text": "Hacker News discussion and source.",
+      "link": "https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/",
+      "date": "2026-09-08T14:44:25+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 198,
       "kindLabel": "HN API"
     },
     {
@@ -238,284 +218,34 @@
       "date": "2026-09-06T22:27:27+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 84,
+      "points": 121,
       "kindLabel": "HN API"
     },
     {
-      "title": "UniMate: One Unified Model to Animate Diverse Skeletons",
-      "text": "Recent advances in automatic rigging now deliver animation-ready 3D assets at scale, yet generating the motion to drive them remains a bottleneck. Existing learned animators are topology-constrained: they rely on category-specific templates or require per-skeleton fine-tuning and reference motions at inference. We present UniMate, a unified foundation model that synthesizes articulated motion for arbitrary skeletons from a rigged 3D asset and a text prompt, with no test-time optimization or per-",
-      "link": "http://arxiv.org/abs/2609.05415v1",
-      "date": "2026-09-04T17:59:00Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction",
-      "text": "Diffusion TV is an interactive AI art installation that offers a tangible and embodied experience of diffusion models through a modified CRT TV. By physically manipulating the TV's antenna, audiences control the clarity of AI-generated images and sounds, metaphorically enacting the denoising process that underlies diffusion-based generation. Using the tuning knob, participants switch between three channels featuring AI-generated animals from the Past (extinct species), Present (endangered specie",
-      "link": "http://arxiv.org/abs/2609.05404v1",
-      "date": "2026-09-04T17:51:48Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments",
-      "text": "Retail search systems serve diverse geographic regions with distinct query patterns, vocabularies, and product preferences, creating significant data heterogeneity that challenges both privacy-preserving training and model personalization. Federated learning offers a natural solution for privacy, but standard FL methods produce global models that sacrifice regional performance, while existing personalized FL approaches operate at the parameter level and catastrophically collapse on modern transf",
-      "link": "http://arxiv.org/abs/2609.05403v1",
-      "date": "2026-09-04T17:50:10Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "A Deep Generative Model for Synthesizing Labeled Wireless Signals",
-      "text": "Wireless signals with position-related labels are pivotal for both performance evaluation and model training in the realm of wireless sensing. However, acquiring real-world datasets is often challenged by significant measurement and labeling costs. Traditional methods for synthesizing labeled wireless signals typically rely on environmental models, leading to extensive hyper-parameter tuning and inadequate realism for comprehensive model training purposes. To address these limitations, we introd",
-      "link": "http://arxiv.org/abs/2609.05396v1",
-      "date": "2026-09-04T17:44:54Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Multi-Step Tool-Calling over Korean Open Public APIs: A Benchmark and a Data-Synthesis Recipe",
-      "text": "Data-sovereignty regulations increasingly require public institutions to deploy open-source, on-premise LLM agents that chain multiple tool-calls across live government APIs. However, open-source models consistently underperform in this multi-step setting, and no existing benchmark measures the gap. We introduce the Korean Open Public API Benchmark (KOPA-Bench), comprising 145 real-world tasks. To close this gap, we present EDGE, an Execution-grounded Dynamic Graph for tool-calling data synthEsi",
-      "link": "http://arxiv.org/abs/2609.05395v1",
-      "date": "2026-09-04T17:44:52Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence",
-      "text": "LLM decision components that can operate within agent workflows often produce action-relevant recommendations or judgements together with explanations. Operators may use the named factors to monitor a system, diagnose errors, or decide when to escalate an output. Such use assumes that the explanations agree with the component's observable decision behaviour. We test two interpretations of the named factors: necessity, meaning that changing a factor would change the output, and sufficiency, meani",
-      "link": "http://arxiv.org/abs/2609.05385v1",
-      "date": "2026-09-04T17:37:17Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Reflection-aware Generative Novel View Synthesis",
-      "text": "We propose Ref-GeNVS, a training-free, reflection-aware method for generative novel view synthesis (NVS) in mirror scenes. Existing multi-view diffusion models often fail to recognize the mirror in the scene and cannot exploit reflected content for scene generation. To fix this issue without additional training, our key idea is to treat a mirror image as two complementary views. From input images, we estimate the mirror plane and reflect camera poses to form virtual views. Based on this virtual ",
-      "link": "http://arxiv.org/abs/2609.05382v1",
-      "date": "2026-09-04T17:33:45Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Molecular Déjà Vu: Digit-Level Retrieval of Published Values in Frontier Language Models",
-      "text": "Large language models (LLMs) are increasingly evaluated on molecular property benchmarks, but accuracy cannot distinguish a model that predicts a property from one that retrieves a published number. We audit 22 frontier models on 12 regression benchmarks for verbatim retrieval and find that it is widespread but relatively benchmark-specific: on five datasets more than $50\\%$ of the LLMs show verbatim retrieval, while on the remaining datasets it appears only in isolated cells. We run our experim",
-      "link": "http://arxiv.org/abs/2609.05381v1",
-      "date": "2026-09-04T17:32:48Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "What Matters, When? Diagnosing and Improving Conditional Visual Grounding in Visuomotor Imitation Policies",
-      "text": "Visuomotor imitation policies can achieve high performance under in-distribution visual conditions yet fail when visually similar objects or receptacles are introduced. We study this behavior as a problem of conditional visual grounding: the visual target required for successful control changes with the manipulation phase and, in more complex tasks, with the observed task state. Using Action Chunking with Transformers (ACT), we systematically introduce distractor objects and receptacles with con",
-      "link": "http://arxiv.org/abs/2609.05376v1",
-      "date": "2026-09-04T17:27:35Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "CUA-Universe: A Scalable and Dynamic Environment for Hybrid GUI+CLI Agents",
-      "text": "Computer-use agents have advanced on benchmarks like OSWorld and AndroidWorld, but still act mostly through the GUI, often producing inefficient trajectories. Real-world computer work is hybrid, combining visual-state inspection with precise, high-throughput command-line operations, so capable agents must coordinate both modalities over shared application state. Yet scalable hybrid environments remain scarce because supporting both GUI and CLI over real applications typically requires substantia",
-      "link": "http://arxiv.org/abs/2609.05374v1",
-      "date": "2026-09-04T17:26:18Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "When LLM Decompilers Recompile More and Preserve Less",
-      "text": "Decompilation recovers high-level source from compiled machine code and serves as a foundation for security tasks such as vulnerability detection and malware analysis. Traditional decompilers like Ghidra and Hex-Rays expose whatever they cannot resolve as visible placeholders and often emit pseudocode that will not compile or execute; LLM-based decompilers produce clean, idiomatic C and are now judged almost entirely by recompilability and re-executability: whether the output builds and passes i",
-      "link": "http://arxiv.org/abs/2609.05370v1",
-      "date": "2026-09-04T17:16:18Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Design Docs Are All You Need: An AI-native Machine-Learning Performance Tool",
-      "text": "Machine-learning performance modeling is a uniquely hostile terrain for long-lived software: the assumptions baked into today's abstractions are invalidated by tomorrow's models and systems, forcing perpetual refactoring of performance-modeling frameworks. Meanwhile, AI coding agents have become fast and capable enough that regenerating an entire library is cheaper than paying down the tech debt of incrementally patching it. We describe SMART, a rigorous symbolic performance-modeling library for",
-      "link": "http://arxiv.org/abs/2609.05364v1",
-      "date": "2026-09-04T17:08:51Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Distill Globally, Adapt Locally: Reasoning Distillation and Product-Type Test-Time Training for Scalable Trade-Up Recommendation",
-      "text": "Trade-up recommendation identifies higher-quality alternatives that preserve a customer's purchase intent while offering upgraded benefits. Large language models (LLMs) can reason about such distinctions, but applying them directly to hundreds of millions of product pairs is operationally impractical. We introduce a two-level framework that distills LLM reasoning into an efficient non-generative student and adapts its decision boundary to product-type-specific trade-up criteria. At Level 1, a re",
-      "link": "http://arxiv.org/abs/2609.05363v1",
-      "date": "2026-09-04T17:08:50Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education",
-      "text": "The integration of GenAI tools into higher education assessment raises important questions about how students understand, interpret, and respond to AI-mediated evaluation. As instructors increasingly explore AI tools for providing feedback, prior research has examined whether GenAI-generated feedback improves writing performance and how students perceive its usefulness; comparatively little is known, however, about how students interpret such evaluation when they are explicitly informed that an ",
-      "link": "http://arxiv.org/abs/2609.05346v1",
-      "date": "2026-09-04T16:49:33Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Does Your Agent's Memory Survive a Model Upgrade? A Controlled Study of Memory Portability",
-      "text": "Model upgrades are routine; memory migrations are not. An agent can keep the same memory store and still forget: a new model may interpret old notes differently, mixed embedding versions may break retrieval, and repair may fail without the original evidence. We compare memory as the same history is preserved verbatim for long-context reading (LC-RAW), divided into chunks for retrieval-augmented generation (RAG), compressed by a model into natural-language notes (NOTES), or normalized into a fixe",
-      "link": "http://arxiv.org/abs/2609.05339v1",
-      "date": "2026-09-04T16:44:17Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Beyond Scalar Flexibility: From Eligible AI Workloads to Dependable Load Relief",
-      "text": "Grid studies often represent data-center flexibility as a fixed percentage of load, although no public production trace has shown how much eligible load persists across event durations or co-moves across clusters. We reconstruct 4,439 hourly power observations from a 185-day trace of 155,410 GPUs and derive a workload-semantic flexibility envelope. The fleet's time-averaged Monte Carlo median facility demand is 55.8 MW, while immediate eligible curtailment averages 3.55 MW after retaining alloca",
-      "link": "http://arxiv.org/abs/2609.05406v1",
-      "date": "2026-09-04T17:52:50Z",
-      "source": "arXiv · Systems",
+      "title": "C*: Unifying Programming and Verification in C",
+      "text": "Hacker News discussion and source.",
+      "link": "https://arxiv.org/abs/2504.02246",
+      "date": "2026-09-08T15:56:56+00:00",
+      "source": "Hacker News",
       "cat": "TECH",
-      "kindLabel": "ARXIV"
+      "points": 65,
+      "kindLabel": "HN API"
     },
     {
-      "title": "Full-field laser-Doppler-vibrometry FRF dataset for a four-bolt aluminum plate under bolt-torque variation",
-      "text": "The dataset described in this article was constructed using the results of laser Doppler vibrometry experiments conducted on an aluminum plate having four bolts. The database captures the variation in the vibration characteristics of the plate as a function of changes in tightening torque on the bolts. In total, there were 18 different states for the tightening torque, ranging from a situation where all bolts are tightened to all bolts being loose. Other possible combinations include states with",
-      "link": "http://arxiv.org/abs/2609.05378v1",
-      "date": "2026-09-04T17:28:51Z",
-      "source": "arXiv · Systems",
+      "title": "The Microeconomics of Artificial Intelligence (Open Access)",
+      "text": "Hacker News discussion and source.",
+      "link": "https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence",
+      "date": "2026-09-06T21:24:23+00:00",
+      "source": "Hacker News",
       "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Data-Driven Generator Transient Prediction for Digital Twin Decision Support",
-      "text": "This paper develops a calibrated transient forecasting surrogate model for generator digital twin (DT) decision support that evaluates planned active- and reactive power load commands before they are applied. The proposed event-conditioned Hankel Dynamic Mode Decomposition with Control (Hankel-DMDc) model combines delay-coordinate lifting, command-event memory features, and an event-weighted Hankel basis so that sparse load-transition dynamics influence the reduced representation and fitted dyna",
-      "link": "http://arxiv.org/abs/2609.05356v1",
-      "date": "2026-09-04T17:02:26Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Headroom-Aware Stochastic Adaptive Model Predictive Control for Load Frequency Control in Microgrids",
-      "text": "As the penetration of inverter-based resources (IBRs) increases in microgrids, they are increasingly expected to play a greater role in load frequency control (LFC). Model predictive control (MPC) is attractive for LFC because it incorporates system dynamics and operational constraints. However, most MPC-based LFC formulations rely on fixed reserve headroom based on forecasted renewable availability or storage systems. Under short-term renewable intermittency, IBR headroom is stochastic and time",
-      "link": "http://arxiv.org/abs/2609.05332v1",
-      "date": "2026-09-04T16:36:51Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Large Language Models for HVAC Operations in Building Energy Systems: A Critical Review of Methods, Applications, and Deployment Readiness",
-      "text": "Building automation systems generate rich sensor data yet remain insight-poor because heterogeneous point naming, missing metadata, and fragmented documentation obstruct their operational use. This systematic review analyses and codes 66 peer-reviewed studies on large language models (LLMs) for HVAC operations published between 2023 and March 2026. Each study is classified across five application families and three LLM method families and assessed for evidence realism, deployment readiness, and ",
-      "link": "http://arxiv.org/abs/2609.05314v1",
-      "date": "2026-09-04T16:08:05Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Forecast-Ensemble-Based Active Binary-Threshold Query Design for Interval Data Assimilation",
-      "text": "Data assimilation estimates the evolving state of a dynamical system by combining model forecasts with observations. While many conventional methods assume point-valued measurements, practical sensing systems may instead provide coarse information such as binary, ordinal, inequality, or interval-valued reports. Interval Data Assimilation (IDA) provides a principled framework for assimilating such information, but assumes that the observations to be assimilated are specified in advance. In many s",
-      "link": "http://arxiv.org/abs/2609.05307v1",
-      "date": "2026-09-04T16:01:07Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Latency-Optimal Geo-Distributed Storage over Structured Networks",
-      "text": "We study latency-optimal file assignment in geo-distributed storage systems modeled as weighted graphs, where edge weights represent communication delays and each node stores one (possibly coded) file. Our goal is to minimize the average time required to retrieve an original file, taken uniformly over all nodes and files. We show that for every fixed number of files $k \\geq 3$, computing a latency-minimizing assignment is NP-hard via a reduction from the domatic number problem. On the positive s",
-      "link": "http://arxiv.org/abs/2609.05229v1",
-      "date": "2026-09-04T14:56:08Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Morphology and actuation as inductive biases in robotic hand manipulation",
-      "text": "Robotic hands vary widely in anatomical fidelity and mechanical complexity, and these structural choices influence the coordination of joint motions and the difficulty of controlling the system. A unified framework is presented in which the kinematic and actuation stages are analysed separately and in composition, through the conditioning of the task Jacobian, the actuation matrix, and their product. It is applied to two hands representing opposing design philosophies, the Shadow Dexterous Hand ",
-      "link": "http://arxiv.org/abs/2609.05206v1",
-      "date": "2026-09-04T14:38:13Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Risk-Aware Optimal Control with Rulebooks",
-      "text": "We consider safety-critical control problems involving multiple requirements with different priorities and uncertainty in their evaluation. We represent these requirements using risk-aware rulebooks, where each requirement is assigned a risk measure and an acceptable threshold, and a priority relation is defined among the requirements. Each requirement induces a risk-evaluation function that maps a policy to the risk associated with its violation. We formulate risk-aware optimal control with rul",
-      "link": "http://arxiv.org/abs/2609.05199v1",
-      "date": "2026-09-04T14:32:12Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "On the Concept of an Optimal Portfolio of Uncertain Flexible Loads",
-      "text": "Flexible loads can enhance power system stability by providing reserves, but their limited energy capacity and uncertain availability distinguish them from conventional generators. To accommodate these characteristics, the Danish Transmission System Operator (TSO) recently introduced new reserve market rules that incorporate energy constraints and relax reliability requirements. In this context, the optimal reserve quantification becomes a joint chance-constrained reserve quantification problem,",
-      "link": "http://arxiv.org/abs/2609.05176v1",
-      "date": "2026-09-04T14:15:03Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Context-Enriched Performance Boosting via Operator Decomposition",
-      "text": "Performance Boosting (PB) is a control framework that, for a pre-stabilized system subject to $\\mathcal L_p$ process disturbances, parametrizes the controllers that preserve closed-loop $\\mathcal L_p$-stability through a causal $\\mathcal L_p$-stable operator mapping reconstructed disturbances to corrective control actions. Although this permits optimization over expressive stability-preserving controllers, learning a desired policy from disturbance information alone can be difficult. We introduc",
-      "link": "http://arxiv.org/abs/2609.05158v1",
-      "date": "2026-09-04T13:59:27Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Locational Marginal Pricing for Adaptive Robust Look-Ahead Dispatch with Casual Affine Recourse",
-      "text": "This paper develops a marginal pricing mechanism for adaptive robust look-ahead economic dispatch (LAED) under net-load uncertainty. In current market practice, deterministic multi-interval dispatch can misprice flexibility when forecast error is large. Fully adaptive robust (FAR) dispatch captures this uncertainty, but competing worst-case trajectories can imply different marginal values of demand, leaving no single price for market settlement. We propose causal affine recourse (CAR) as a tract",
-      "link": "http://arxiv.org/abs/2609.05156v1",
-      "date": "2026-09-04T13:57:56Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Regional Frequency Constrained Dispatch Method Considering Spatial-joint Stochastic Disturbances and Contingencies",
-      "text": "The increasing penetration of renewable energy challenges frequency stability due to high variability and declining inertia. Traditional frequency security constrained dispatch methods fail to capture regional frequency heterogeneity and spatially correlated stochastic disturbances, resulting in inaccurate frequency security enforcement. To address this, a regional frequency constrained dispatch method is proposed, considering the spatially joint stochastic disturbances and contingencies. Firstl",
-      "link": "http://arxiv.org/abs/2609.05087v1",
-      "date": "2026-09-04T12:39:35Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Robust stabilization with spiking neuronal communication",
-      "text": "Neuromorphic engineering develops hardware and software systems inspired by biological neurons, with the goal of achieving energy-efficient, low-latency, robust, and adaptive computation, communication and control. Its potential impact on systems and control is significant, as it may enable novel approaches to control and estimation by leveraging brain-inspired computation and communication principles. In this context, we present a framework for the robust stabilization of a plant subject to dis",
-      "link": "http://arxiv.org/abs/2609.05054v1",
-      "date": "2026-09-04T12:16:31Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "A Forward Model for Route- and Season-Dependent High-Pressure Compressor Efficiency Deterioration in Turbofan Engines",
-      "text": "Civil turbofan engines lose compressor efficiency every time they fly through particle-laden air. Fouling of the high-pressure compressor (HPC) is the dominant recoverable performance-loss mechanism. Existing studies treat environmental particle exposure, blade-row deposition and stage-performance deterioration as separate problems, which limits understanding of the issue. Stage-stacking approaches require deterioration levels to be prescribed rather than derived from the operating environment, ",
-      "link": "http://arxiv.org/abs/2609.05029v1",
-      "date": "2026-09-04T11:46:39Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
+      "points": 4,
+      "kindLabel": "HN API"
     },
     {
       "title": "Author Correction: Contrasting roles of histone 3 lysine 27 demethylases in acute lymphoblastic leukaemia",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11081-7",
-      "date": "2026-09-08T20:48:47.593855+00:00",
+      "date": "2026-09-08T23:04:26.643888+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -523,7 +253,7 @@
       "title": "Put patients at the centre of medical AI governance",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02796-8",
-      "date": "2026-09-08T20:48:47.593905+00:00",
+      "date": "2026-09-08T23:04:26.643933+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -531,7 +261,7 @@
       "title": "Nepal disaster is a wake-up call to take compound climate risks seriously",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02794-w",
-      "date": "2026-09-08T20:48:47.593931+00:00",
+      "date": "2026-09-08T23:04:26.643965+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -539,7 +269,7 @@
       "title": "Sideline vested interests to reform China’s research",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02797-7",
-      "date": "2026-09-08T20:48:47.593954+00:00",
+      "date": "2026-09-08T23:04:26.643987+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -547,7 +277,7 @@
       "title": "Limit bets on clinical-trial outcomes being placed on prediction markets",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02795-9",
-      "date": "2026-09-08T20:48:47.593979+00:00",
+      "date": "2026-09-08T23:04:26.644010+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -555,7 +285,7 @@
       "title": "The Kelvin scale’s creator William Thomson made many scientific advances",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02722-y",
-      "date": "2026-09-08T20:48:47.594001+00:00",
+      "date": "2026-09-08T23:04:26.644031+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -563,7 +293,7 @@
       "title": "The World Bank is right to prioritize reproducibility",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02678-z",
-      "date": "2026-09-08T20:48:47.594024+00:00",
+      "date": "2026-09-08T23:04:26.644051+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -571,7 +301,7 @@
       "title": "China’s fast-track clinical trials are in the spotlight after child deaths",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02407-6",
-      "date": "2026-09-08T20:48:47.594046+00:00",
+      "date": "2026-09-08T23:04:26.644072+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -579,7 +309,7 @@
       "title": "Two children died from gene therapies in China: where the field goes next",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02497-2",
-      "date": "2026-09-08T20:48:47.594071+00:00",
+      "date": "2026-09-08T23:04:26.644095+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -587,7 +317,7 @@
       "title": "Why this neuroscientist is taking the plunge into science advocacy",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02457-w",
-      "date": "2026-09-08T20:48:47.594093+00:00",
+      "date": "2026-09-08T23:04:26.644117+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -595,7 +325,7 @@
       "title": "A data leak shut a top research biobank: lessons from the recovery",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02803-y",
-      "date": "2026-09-08T20:48:47.594116+00:00",
+      "date": "2026-09-08T23:04:26.644139+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -603,7 +333,7 @@
       "title": "DeepMind’s new genome ‘atlas’ charts effects of all 9 billion human gene mutations",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02835-4",
-      "date": "2026-09-08T20:48:47.594139+00:00",
+      "date": "2026-09-08T23:04:26.644161+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -611,7 +341,7 @@
       "title": "OpenAI claims huge maths breakthrough on a famed ‘Millennium Problem’",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02842-5",
-      "date": "2026-09-08T20:48:47.594163+00:00",
+      "date": "2026-09-08T23:04:26.644183+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -619,7 +349,7 @@
       "title": "‘Mother of Hubble’: how Nancy Grace Roman ushered in a new era of astronomy",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02802-z",
-      "date": "2026-09-08T20:48:47.594186+00:00",
+      "date": "2026-09-08T23:04:26.644204+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -627,7 +357,7 @@
       "title": "How countries can grow without impoverishing future generations",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02807-8",
-      "date": "2026-09-08T20:48:47.594208+00:00",
+      "date": "2026-09-08T23:04:26.644227+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -635,7 +365,7 @@
       "title": "Author Correction: AhR inhibition promotes axon regeneration via a stress–growth switch",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11103-4",
-      "date": "2026-09-08T20:48:47.594244+00:00",
+      "date": "2026-09-08T23:04:26.644261+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -643,7 +373,7 @@
       "title": "Author Correction: A mouse brain stereotaxic topographic atlas with isotropic 1-μm resolution",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11094-2",
-      "date": "2026-09-08T20:48:47.594306+00:00",
+      "date": "2026-09-08T23:04:26.644322+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -651,7 +381,7 @@
       "title": "Probing the proteome at cellular scale",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02805-w",
-      "date": "2026-09-08T20:48:47.594335+00:00",
+      "date": "2026-09-08T23:04:26.644349+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -800,6 +530,14 @@
       "cat": "TECH"
     },
     {
+      "title": "STAT+: FDA names acting heads of drug and vaccine centers to permanent roles",
+      "text": "The moves bring stability to an agency that's been rocked by the exits of top leadership.",
+      "link": "https://www.statnews.com/2026/09/08/fda-names-leaders-cder-cber-michael-davis-karim-mikhail/?utm_campaign=rss",
+      "date": "Tue, 08 Sep 2026 21:15:40 +0000",
+      "source": "STAT",
+      "cat": "HEALTHCARE"
+    },
+    {
       "title": "STAT+: FDA warns an API supplier about residue on walls, a corroded product line, and open-toed sandals",
       "text": "The FDA warned a supplier of active pharma ingredients about residue on walls, a corroded product line, and open-toed sandals at its facility. It also included photos.",
       "link": "https://www.statnews.com/pharmalot/2026/09/08/fda-warns-api-supplier-residue-corroded-production-line-sandals/?utm_campaign=rss",
@@ -936,14 +674,6 @@
       "cat": "HEALTHCARE"
     },
     {
-      "title": "STAT+: Novo Nordisk stops two cardiovascular trials of drug aimed at lowering inflammation",
-      "text": "Novo Nordisk has stopped two trials of a drug that aims to tame inflammation as a way to improve cardiovascular health, another blow for the approach.",
-      "link": "https://www.statnews.com/2026/09/07/novo-nordisk-heart-studies-inflammation-ziltivekimab/?utm_campaign=rss",
-      "date": "Mon, 07 Sep 2026 11:13:52 +0000",
-      "source": "STAT",
-      "cat": "HEALTHCARE"
-    },
-    {
       "title": "[D] Self-Promotion Thread",
       "text": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link shorteners, link aggregator websites , or auto-subscribe links. -- Any abuse of trust will lead to bans. Encourage others who create new posts for questions to post here instead! Thread will stay alive until next one so keep posting after the date in the title. -- Meta: This is an experiment. If th",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1w4xaes/d_selfpromotion_thread/",
@@ -984,18 +714,18 @@
       "cat": "SCIENCE"
     },
     {
-      "title": "My lab found a way to migrate between embedding models with zero downtime. [R]",
-      "text": "So I&#39;ve been messinga round with embedding models for a bit, and I think they are interesting enough to experiment with. They are useful for rag, especially in a localllm sense because you can ground your answers in truth. But what happens if you have a billion documents, and you decide to upgrade your model to a &quot;better&quot; one? on an h100, that would take about 108 days, just to upgrade the vectors so u can start serving again (tested qwen embed 8b on h100). Even if you aren&#39;t d",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wabmm7/my_lab_found_a_way_to_migrate_between_embedding/",
-      "date": "2026-09-08T02:16:23+00:00",
-      "source": "Reddit · MachineLearning",
-      "cat": "SCIENCE"
-    },
-    {
       "title": "ECCV 2026 Social Groups [D]",
       "text": "Hi. I&#39;m visiting ECCV in Malmo and was wondering if there&#39;s any medium, like discord, whatsapp etc where people are discussing social activities. I couldn&#39;t find a way to connect to people on the official app to discuss common interests, research or otherwise. It&#39;d also be nice to meet people who&#39;d like to team up go sightseeing or food touring after the conference ends. Thanks. &#32; submitted by &#32; /u/Land_Heavy [link] &#32; [comments]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1wb0k5w/eccv_2026_social_groups_d/",
       "date": "2026-09-08T20:44:10+00:00",
+      "source": "Reddit · MachineLearning",
+      "cat": "SCIENCE"
+    },
+    {
+      "title": "My lab found a way to migrate between embedding models with zero downtime. [R]",
+      "text": "So I&#39;ve been messinga round with embedding models for a bit, and I think they are interesting enough to experiment with. They are useful for rag, especially in a localllm sense because you can ground your answers in truth. But what happens if you have a billion documents, and you decide to upgrade your model to a &quot;better&quot; one? on an h100, that would take about 108 days, just to upgrade the vectors so u can start serving again (tested qwen embed 8b on h100). Even if you aren&#39;t d",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wabmm7/my_lab_found_a_way_to_migrate_between_embedding/",
+      "date": "2026-09-08T02:16:23+00:00",
       "source": "Reddit · MachineLearning",
       "cat": "SCIENCE"
     },
@@ -1012,14 +742,6 @@
       "text": "this is the kinda debugging case i find rlly annoying/ everything says success. no exceptions no failed tool calls. no obvious timeout the workflow completes but the final result is still wrong when that happens, what’s your first move? do you guys usually: start from the final output and work backward compare against a previous good run inspect state transitions check retrieval/tool behavior look at model inputs replay it check business state outside the trace just read the whole thing until so",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1waewc3/when_a_run_is_wrong_but_nothing_actually_failed/",
       "date": "2026-09-08T05:01:04+00:00",
-      "source": "Reddit · MachineLearning",
-      "cat": "SCIENCE"
-    },
-    {
-      "title": "Is anyone working on wave-superposition-based pattern recognition instead of neural-network weights? [R]",
-      "text": "I’ve been thinking about an alternative way of doing low-level AI perception, and I’m curious whether anyone here is already working on something similar. The basic idea is to use waves and physical superposition/interference as the computational substrate , instead of doing most of the usual numerical multiply-and-accumulate operations digitally. For example, for image recognition: image ↓ pixel intensity → wave amplitude/phase ↓ physical wave superposition + interference ↓ distinctive wave pat",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wanr4p/is_anyone_working_on_wavesuperpositionbased/",
-      "date": "2026-09-08T13:00:10+00:00",
       "source": "Reddit · MachineLearning",
       "cat": "SCIENCE"
     },
@@ -1056,14 +778,6 @@
       "cat": "SCIENCE"
     },
     {
-      "title": "I reduced image-processing token usage by ~95% compared with GPT-4o direct vision, while maintaining roughly the same accuracy.How significant is that?[P]",
-      "text": "I&#39;m testing a new approach for reducing the cost of image-based LLM inference. I evaluated it on the MOMA Graph benchmark , using 1,315 questions . Compared with using GPT-4o to process the original images directly, I observed approximately: ~95% lower token usage roughly the same accuracy as the GPT-4o direct-image baseline I&#39;m intentionally not sharing implementation details yet because the method is still under development. I&#39;m mainly trying to understand how strong the result its",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wab7ui/i_reduced_imageprocessing_token_usage_by_95/",
-      "date": "2026-09-08T01:57:19+00:00",
-      "source": "Reddit · MachineLearning",
-      "cat": "SCIENCE"
-    },
-    {
       "title": "Automotive Radar Object Classification [P]",
       "text": "Hello all, I&#39;m a radar signal processing engineer and i trained a 5-class classifier (car, large_vehicle, two_wheeler, pedestrian, pedestrian_group) on RadarScenes radar point clouds. The input vector is a per-scan histogram (16 bins) and the network is a 3-layer MLP. The loss function is a class-weighted cross-entropy loss. This work is based on &quot;Histogram-based Deep Learning for Automotive Radar&quot; paper. I scoped the project to be one scan only. Accumulation of multiple scans is t",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1w9m26u/automotive_radar_object_classification_p/",
@@ -1072,10 +786,10 @@
       "cat": "SCIENCE"
     },
     {
-      "title": "ParaRNN: Parallel Training for Non-Linear RNNs (sLSTM, RWKV-7, CfC, Titans) via Triton Newton Scans [P]",
-      "text": "I&#39;ve built and open-sourced ParaRNN , a PyTorch/Triton library that parallelizes the training of non-linear recurrent architectures across time using Newton-Raphson iterations mapped to associative prefix scans. While non-linear RNNs provide O(1) inference without KV-cache explosion, training them has historically been bottlenecked by slow sequential unrolls. ParaRNN solves this with custom fused Triton solvers: ~200x wall-clock speedup: Runs orders of magnitude faster than sequential BPTT o",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w9oi7l/pararnn_parallel_training_for_nonlinear_rnns/",
-      "date": "2026-09-07T10:31:44+00:00",
+      "title": "PINNStudio: A free, open-source no-code GUI for setting up, training, and visualizing PINNs [P]",
+      "text": "When I first started working in scientific machine learning, I understood the physics much better than the coding. Every time I wanted to try a new physics-informed neural network problem, I had to start almost from scratch: changing the PDE, updating boundary conditions, modifying the architecture, tweaking the training schedule, debugging errors, and generating plots—all by hand. That frustration pushed me to build PINNStudio . It is a free, open-source no-code GUI designed to eliminate boiler",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w9a2i7/pinnstudio_a_free_opensource_nocode_gui_for/",
+      "date": "2026-09-06T22:19:27+00:00",
       "source": "Reddit · MachineLearning",
       "cat": "SCIENCE"
     },
@@ -1086,6 +800,38 @@
       "date": "2026-09-06T15:59:50+00:00",
       "source": "Reddit · MachineLearning",
       "cat": "SCIENCE"
+    },
+    {
+      "title": "Measuring LLM performance drift: observations and methodology from 31,352 repeated benchmark measurements [D]",
+      "text": "One thing that has bothered me about LLM benchmarks for a while is that most of them are essentially snapshots. A model is evaluated, a score is published, and we tend to talk about that score as if it describes a relatively stable object. But with API-served models, the thing behind the model name can change over time: serving infrastructure changes, provider configurations change, versions change, and sometimes behaviour changes without an obvious public version transition. So we started appro",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w9llr4/measuring_llm_performance_drift_observations_and/",
+      "date": "2026-09-07T07:44:34+00:00",
+      "source": "Reddit · MachineLearning",
+      "cat": "SCIENCE"
+    },
+    {
+      "title": "GPT-6 reportedly jailbroken within 24 hours using an extended Task-in-Prompt (TIP) attack [N]",
+      "text": "A researcher has reported a jailbreak of GPT-6 Astra within a day after release. The attack is described as combination of TIP (Task-in-Prompt) attack from ACL 2025 paper with four other unnamed techniques. TIP attacks exploit the model’s reasoning/instruction-following behaviour by hidding the harmful objective inside another task, like solving a cipher or executing a Python code. For GPT-6, the researcher says the original minimal TIP attack was no longer sufficient and had to be reworked. The",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w89m36/gpt6_reportedly_jailbroken_within_24_hours_using/",
+      "date": "2026-09-05T19:11:16+00:00",
+      "source": "Reddit · MachineLearning",
+      "cat": "SCIENCE"
+    },
+    {
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "text": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+      "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "date": "Tue, 08 Sep 2026 21:10:27 +0000",
+      "source": "TechCrunch",
+      "cat": "TECH"
+    },
+    {
+      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "text": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+      "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "date": "Tue, 08 Sep 2026 21:04:06 +0000",
+      "source": "TechCrunch",
+      "cat": "TECH"
     },
     {
       "title": "The Exploration Company nabs $450 million to challenge SpaceX",
@@ -1212,22 +958,6 @@
       "text": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.",
       "link": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
       "date": "Mon, 07 Sep 2026 15:58:00 +0000",
-      "source": "TechCrunch",
-      "cat": "TECH"
-    },
-    {
-      "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
-      "text": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
-      "link": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
-      "date": "Sun, 06 Sep 2026 21:41:06 +0000",
-      "source": "TechCrunch",
-      "cat": "TECH"
-    },
-    {
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "text": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
-      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-      "date": "Sun, 06 Sep 2026 20:47:37 +0000",
       "source": "TechCrunch",
       "cat": "TECH"
     },
@@ -1376,7 +1106,15 @@
       "cat": "TECH"
     },
     {
-      "title": "Muse, Meta's New Personal AI Agent, Needs You to Trust It",
+      "title": "Cockroach Milk, How to Blow Your Nose, and Mosquito Printers: The Ig Nobels of 2026",
+      "text": "Every year, the prizes recognize the weirdest research that often raises some very serious scientific questions.",
+      "link": "https://www.wired.com/story/cockroach-milk-mosquito-printers-ig-nobels-of-2026/",
+      "date": "Tue, 08 Sep 2026 21:15:00 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
+      "title": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It",
       "text": "Designed to compete with OpenClaw and Instinct, the company says Muse can do everything from sell your car to book you a plane ticket.",
       "link": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
       "date": "Tue, 08 Sep 2026 20:12:51 +0000",
@@ -1510,14 +1248,6 @@
       "date": "Mon, 07 Sep 2026 11:00:00 +0000",
       "source": "Wired",
       "cat": "TECH"
-    },
-    {
-      "title": "Whispering Complaints Into Your Phone May Be the Future of Customer Feedback",
-      "text": "Forget email surveys or long calls spent on hold. Voicebox lets people send customer feedback by recording a voice note on their phone.",
-      "link": "https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/",
-      "date": "Mon, 07 Sep 2026 10:30:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
     }
   ],
   "health": [
@@ -1528,13 +1258,15 @@
     },
     {
       "name": "arXiv · AI/ML",
-      "ok": true,
-      "count": 15
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 406: Not Acceptable"
     },
     {
       "name": "arXiv · Systems",
-      "ok": true,
-      "count": 15
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 406: Not Acceptable"
     },
     {
       "name": "Nature",
