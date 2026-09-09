@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-09-09T06:13:00.931488+00:00",
+  "generated_at": "2026-09-09T11:37:35.965848+00:00",
   "items": [
+    {
+      "title": "How An AI math breakthrough ignited a controversy",
+      "text": "Hacker News discussion and source.",
+      "link": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
+      "date": "2026-09-09T10:25:41+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 61,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Flock Wants a Closely Surveilled World with No Exit",
+      "text": "Hacker News discussion and source.",
+      "link": "https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit",
+      "date": "2026-09-09T10:54:18+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 25,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Lotus Notes and the dangers of starting from scratch",
+      "text": "Hacker News discussion and source.",
+      "link": "https://buttondown.com/blog/lotus-notes-email",
+      "date": "2026-09-09T10:01:15+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 29,
+      "kindLabel": "HN API"
+    },
     {
       "title": "Muse – Meta’s personal AI agent",
       "text": "Hacker News discussion and source.",
@@ -8,17 +38,7 @@
       "date": "2026-09-08T19:25:00+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 443,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Tension wood: A 'muscle' that can both bend and straighten plants",
-      "text": "Hacker News discussion and source.",
-      "link": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
-      "date": "2026-09-03T07:29:40+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 85,
+      "points": 536,
       "kindLabel": "HN API"
     },
     {
@@ -28,17 +48,37 @@
       "date": "2026-09-08T05:42:28+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 1509,
+      "points": 1740,
       "kindLabel": "HN API"
     },
     {
-      "title": "Researchers Spot Fake Ancient Pottery Using the Earth's Magnetic Field",
+      "title": "Coyote v. Acme (1990)",
       "text": "Hacker News discussion and source.",
-      "link": "https://www.smithsonianmag.com/smart-news/researchers-determine-how-to-spot-fake-ancient-pottery-using-the-earths-magnetic-field-180989441/",
-      "date": "2026-09-05T21:14:18+00:00",
+      "link": "https://www.newyorker.com/magazine/1990/02/26/coyote-v-acme",
+      "date": "2026-09-06T13:43:48+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 21,
+      "points": 22,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Tension wood: A 'muscle' that can both bend and straighten plants",
+      "text": "Hacker News discussion and source.",
+      "link": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
+      "date": "2026-09-03T07:29:40+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 128,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
+      "text": "Hacker News discussion and source.",
+      "link": "https://openai.com/index/codex-quantum-computing-experiments/",
+      "date": "2026-09-09T07:22:46+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 86,
       "kindLabel": "HN API"
     },
     {
@@ -48,7 +88,7 @@
       "date": "2026-09-08T21:22:11+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 247,
+      "points": 359,
       "kindLabel": "HN API"
     },
     {
@@ -58,17 +98,27 @@
       "date": "2026-09-08T14:55:45+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 535,
+      "points": 569,
       "kindLabel": "HN API"
     },
     {
-      "title": "The Navier–Stokes Millennium Prize Problem",
+      "title": "Researchers Spot Fake Ancient Pottery Using the Earth's Magnetic Field",
       "text": "Hacker News discussion and source.",
-      "link": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
-      "date": "2026-09-09T05:55:39+00:00",
+      "link": "https://www.smithsonianmag.com/smart-news/researchers-determine-how-to-spot-fake-ancient-pottery-using-the-earths-magnetic-field-180989441/",
+      "date": "2026-09-05T21:14:18+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 3,
+      "points": 52,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Maak.el: Lisp machine command runner in Emacs, infinitely extensible and Scheme",
+      "text": "Hacker News discussion and source.",
+      "link": "https://codeberg.org/jjba23/maak.el",
+      "date": "2026-09-08T09:28:35+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 16,
       "kindLabel": "HN API"
     },
     {
@@ -78,27 +128,17 @@
       "date": "2026-09-09T04:43:46+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 15,
+      "points": 65,
       "kindLabel": "HN API"
     },
     {
-      "title": "The Nonfiction Book Market is Collapsing?",
+      "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
       "text": "Hacker News discussion and source.",
-      "link": "https://dearheadofmine.substack.com/p/the-nonfiction-book-market-is-collapsing",
-      "date": "2026-09-09T04:39:11+00:00",
+      "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o",
+      "date": "2026-09-09T10:37:16+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 15,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Large language models develop novel social biases through adaptive exploration",
-      "text": "Hacker News discussion and source.",
-      "link": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
-      "date": "2026-09-08T21:47:38+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 136,
+      "points": 17,
       "kindLabel": "HN API"
     },
     {
@@ -108,7 +148,17 @@
       "date": "2026-09-08T20:14:52+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 164,
+      "points": 211,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Large language models develop novel social biases through adaptive exploration",
+      "text": "Hacker News discussion and source.",
+      "link": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+      "date": "2026-09-08T21:47:38+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 174,
       "kindLabel": "HN API"
     },
     {
@@ -118,67 +168,17 @@
       "date": "2026-09-08T13:36:53+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 384,
+      "points": 411,
       "kindLabel": "HN API"
     },
     {
-      "title": "The origins of Partner’s computer case",
+      "title": "“Tweet” and the bird logo apparently enter the public domain",
       "text": "Hacker News discussion and source.",
-      "link": "https://www.racunalniski-muzej.si/en/the-origins-of-partners-computer-case/",
-      "date": "2026-09-07T12:51:57+00:00",
+      "link": "https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm",
+      "date": "2026-09-09T06:02:07+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 22,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "I resigned from Anthropic today",
-      "text": "Hacker News discussion and source.",
-      "link": "https://twitter.com/hilbertspaess/status/2097476196791709843#m",
-      "date": "2026-09-09T00:40:40+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 351,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "27.5KB language-agnostic WebGPU syntax highlighter",
-      "text": "Hacker News discussion and source.",
-      "link": "https://gpu-lexer.vercel.app/",
-      "date": "2026-09-09T01:14:50+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 50,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "On the Navier–Stokes Millennium Prize Problem",
-      "text": "Hacker News discussion and source.",
-      "link": "https://openai.com/index/navier-stokes-solution/",
-      "date": "2026-09-08T17:13:21+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 1216,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "An Accidental Blackboard",
-      "text": "Hacker News discussion and source.",
-      "link": "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html",
-      "date": "2026-09-05T18:50:25+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 43,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Tao: Open math problems being non-renewably mined by AI",
-      "text": "Hacker News discussion and source.",
-      "link": "https://mathstodon.xyz/@tao/117237320796901560",
-      "date": "2026-09-08T21:00:52+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 293,
+      "points": 117,
       "kindLabel": "HN API"
     },
     {
@@ -188,7 +188,37 @@
       "date": "2026-09-08T14:13:26+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 391,
+      "points": 466,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "On Really Trying (2009)",
+      "text": "Hacker News discussion and source.",
+      "link": "https://gwern.net/on-really-trying",
+      "date": "2026-09-09T06:58:44+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 66,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "text": "Hacker News discussion and source.",
+      "link": "https://openai.com/index/navier-stokes-solution/",
+      "date": "2026-09-08T17:13:21+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 1274,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Tao: Open math problems being non-renewably mined by AI",
+      "text": "Hacker News discussion and source.",
+      "link": "https://mathstodon.xyz/@tao/117237320796901560",
+      "date": "2026-09-08T21:00:52+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 384,
       "kindLabel": "HN API"
     },
     {
@@ -198,47 +228,17 @@
       "date": "2026-09-08T14:49:19+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 234,
+      "points": 256,
       "kindLabel": "HN API"
     },
     {
-      "title": "AI Has a Discovery Problem",
+      "title": "27.5KB language-agnostic WebGPU syntax highlighter",
       "text": "Hacker News discussion and source.",
-      "link": "https://mhacevedo.com/posts/the-discovery-problem",
-      "date": "2026-09-09T04:59:26+00:00",
+      "link": "https://gpu-lexer.vercel.app/",
+      "date": "2026-09-09T01:14:50+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 5,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Science of the Gaps (2025)",
-      "text": "Hacker News discussion and source.",
-      "link": "https://lukesmith.xyz/articles/science-of-the-gaps/",
-      "date": "2026-09-06T18:03:28+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 3,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Into the depths of C: Elaborating the de facto standards (2016)",
-      "text": "Hacker News discussion and source.",
-      "link": "https://dl.acm.org/doi/10.1145/2980983.2908081",
-      "date": "2026-09-08T15:49:57+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 11,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "The Microeconomics of Artificial Intelligence (2025)",
-      "text": "Hacker News discussion and source.",
-      "link": "https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence",
-      "date": "2026-09-06T21:24:23+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 45,
+      "points": 93,
       "kindLabel": "HN API"
     },
     {
@@ -512,10 +512,42 @@
       "kindLabel": "ARXIV"
     },
     {
+      "title": "How AI is changing PhD programmes: join our free webinar",
+      "text": "",
+      "link": "https://www.nature.com/articles/d41586-026-02751-7",
+      "date": "2026-09-09T11:37:33.373891+00:00",
+      "source": "Nature",
+      "cat": "SCIENCE"
+    },
+    {
+      "title": "Why the super-fun Ig Nobel prizes bring serious value to science",
+      "text": "",
+      "link": "https://www.nature.com/articles/d41586-026-02793-x",
+      "date": "2026-09-09T11:37:33.373926+00:00",
+      "source": "Nature",
+      "cat": "SCIENCE"
+    },
+    {
+      "title": "Why we need an International Panel on Inequality",
+      "text": "",
+      "link": "https://www.nature.com/articles/d41586-026-02806-9",
+      "date": "2026-09-09T11:37:33.373956+00:00",
+      "source": "Nature",
+      "cat": "SCIENCE"
+    },
+    {
+      "title": "The Einstein test: what happens when AI tries to rediscover relativity?",
+      "text": "",
+      "link": "https://www.nature.com/articles/d41586-026-02804-x",
+      "date": "2026-09-09T11:37:33.373981+00:00",
+      "source": "Nature",
+      "cat": "SCIENCE"
+    },
+    {
       "title": "Author Correction: Contrasting roles of histone 3 lysine 27 demethylases in acute lymphoblastic leukaemia",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11081-7",
-      "date": "2026-09-09T06:12:59.955362+00:00",
+      "date": "2026-09-09T11:37:33.374033+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -523,7 +555,7 @@
       "title": "Put patients at the centre of medical AI governance",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02796-8",
-      "date": "2026-09-09T06:12:59.955406+00:00",
+      "date": "2026-09-09T11:37:33.374061+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -531,7 +563,7 @@
       "title": "Nepal disaster is a wake-up call to take compound climate risks seriously",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02794-w",
-      "date": "2026-09-09T06:12:59.955433+00:00",
+      "date": "2026-09-09T11:37:33.374100+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -539,7 +571,7 @@
       "title": "Sideline vested interests to reform China’s research",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02797-7",
-      "date": "2026-09-09T06:12:59.955456+00:00",
+      "date": "2026-09-09T11:37:33.374126+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -547,7 +579,7 @@
       "title": "Limit bets on clinical-trial outcomes being placed on prediction markets",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02795-9",
-      "date": "2026-09-09T06:12:59.955482+00:00",
+      "date": "2026-09-09T11:37:33.374150+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -555,7 +587,7 @@
       "title": "The Kelvin scale’s creator William Thomson made many scientific advances",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02722-y",
-      "date": "2026-09-09T06:12:59.955504+00:00",
+      "date": "2026-09-09T11:37:33.374172+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -563,7 +595,7 @@
       "title": "The World Bank is right to prioritize reproducibility",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02678-z",
-      "date": "2026-09-09T06:12:59.955525+00:00",
+      "date": "2026-09-09T11:37:33.374193+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -571,7 +603,7 @@
       "title": "China’s fast-track clinical trials are in the spotlight after child deaths",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02407-6",
-      "date": "2026-09-09T06:12:59.955549+00:00",
+      "date": "2026-09-09T11:37:33.374215+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -579,7 +611,7 @@
       "title": "Two children died from gene therapies in China: where the field goes next",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02497-2",
-      "date": "2026-09-09T06:12:59.955574+00:00",
+      "date": "2026-09-09T11:37:33.374238+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -587,7 +619,7 @@
       "title": "Why this neuroscientist is taking the plunge into science advocacy",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02457-w",
-      "date": "2026-09-09T06:12:59.955598+00:00",
+      "date": "2026-09-09T11:37:33.374260+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -595,7 +627,7 @@
       "title": "A data leak shut a top research biobank: lessons from the recovery",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02803-y",
-      "date": "2026-09-09T06:12:59.955621+00:00",
+      "date": "2026-09-09T11:37:33.374282+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -603,7 +635,7 @@
       "title": "DeepMind’s new genome ‘atlas’ charts effects of all 9 billion human gene mutations",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02835-4",
-      "date": "2026-09-09T06:12:59.955645+00:00",
+      "date": "2026-09-09T11:37:33.374305+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -611,7 +643,7 @@
       "title": "OpenAI claims huge maths breakthrough on a famed ‘Millennium Problem’",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02842-5",
-      "date": "2026-09-09T06:12:59.955667+00:00",
+      "date": "2026-09-09T11:37:33.374327+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -619,39 +651,7 @@
       "title": "‘Mother of Hubble’: how Nancy Grace Roman ushered in a new era of astronomy",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02802-z",
-      "date": "2026-09-09T06:12:59.955689+00:00",
-      "source": "Nature",
-      "cat": "SCIENCE"
-    },
-    {
-      "title": "How countries can grow without impoverishing future generations",
-      "text": "",
-      "link": "https://www.nature.com/articles/d41586-026-02807-8",
-      "date": "2026-09-09T06:12:59.955711+00:00",
-      "source": "Nature",
-      "cat": "SCIENCE"
-    },
-    {
-      "title": "Author Correction: AhR inhibition promotes axon regeneration via a stress–growth switch",
-      "text": "",
-      "link": "https://www.nature.com/articles/s41586-026-11103-4",
-      "date": "2026-09-09T06:12:59.955747+00:00",
-      "source": "Nature",
-      "cat": "SCIENCE"
-    },
-    {
-      "title": "Author Correction: A mouse brain stereotaxic topographic atlas with isotropic 1-μm resolution",
-      "text": "",
-      "link": "https://www.nature.com/articles/s41586-026-11094-2",
-      "date": "2026-09-09T06:12:59.955809+00:00",
-      "source": "Nature",
-      "cat": "SCIENCE"
-    },
-    {
-      "title": "Probing the proteome at cellular scale",
-      "text": "",
-      "link": "https://www.nature.com/articles/d41586-026-02805-w",
-      "date": "2026-09-09T06:12:59.955838+00:00",
+      "date": "2026-09-09T11:37:33.374349+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -800,6 +800,38 @@
       "cat": "TECH"
     },
     {
+      "title": "STAT+: Leukemia drug data suggested a different way to treat diabetes. A new biotech will test that idea",
+      "text": "Caspian Therapeutics, is launching with $50 million in financing to develop menin inhibitors for diabetes and other cardiometabolic diseases.",
+      "link": "https://www.statnews.com/2026/09/09/kura-oncology-spins-off-diabetes-focused-caspian-therapeutics/?utm_campaign=rss",
+      "date": "Wed, 09 Sep 2026 11:00:00 +0000",
+      "source": "STAT",
+      "cat": "HEALTHCARE"
+    },
+    {
+      "title": "Opinion: Autonomous AI will beat AI-assisted physicians at some medical tasks by 2030",
+      "text": "“Autonomous AI will likely soon exceed both unaided physicians and physicians aided by AI at five core cognitive medical tasks,” write Ezekiel J. Emanuel and Abe Baker-Butler.",
+      "link": "https://www.statnews.com/2026/09/09/ai-medicine-assisted-physicians-research-autonomy/?utm_campaign=rss",
+      "date": "Wed, 09 Sep 2026 08:30:00 +0000",
+      "source": "STAT",
+      "cat": "HEALTHCARE"
+    },
+    {
+      "title": "Opinion: AMA CEO: AI won’t replace doctors — it will work alongside them",
+      "text": "“The goal should not be to reproduce today’s health care system with fewer humans,” writes American Medical Association CEO John Whyte.",
+      "link": "https://www.statnews.com/2026/09/09/ai-medicine-doctors-replacement-debate-ama-ceo/?utm_campaign=rss",
+      "date": "Wed, 09 Sep 2026 08:30:00 +0000",
+      "source": "STAT",
+      "cat": "HEALTHCARE"
+    },
+    {
+      "title": "STAT+: Can AI fix health care? In the chaos of emergency rooms, the technology comes up short",
+      "text": "CEOs of the biggest AI companies have predicted the technology will “eliminate most cancer” and “improve treatment of most other ailments.” But nowhere better illustrates the challenge facing AI than&#8230;",
+      "link": "https://www.statnews.com/2026/09/09/ai-healthcare-limitations-emergency-room-study-medical-scribe-impact/?utm_campaign=rss",
+      "date": "Wed, 09 Sep 2026 08:30:00 +0000",
+      "source": "STAT",
+      "cat": "HEALTHCARE"
+    },
+    {
       "title": "STAT+: FDA names acting heads of drug and vaccine centers to permanent roles",
       "text": "The moves bring stability to an agency that's been rocked by the exits of top leadership.",
       "link": "https://www.statnews.com/2026/09/08/fda-names-leaders-cder-cber-michael-davis-karim-mikhail/?utm_campaign=rss",
@@ -912,38 +944,6 @@
       "cat": "HEALTHCARE"
     },
     {
-      "title": "Opinion: It’s time to take the gloves off during vaccination",
-      "text": "Most of the time, it’s unnecessary to use gloves to administer a flu shot, write Cassandra Thiel and Preeti Jaggi.",
-      "link": "https://www.statnews.com/2026/09/08/flu-vaccination-season-gloves-waste-climate-changes/?utm_campaign=rss",
-      "date": "Tue, 08 Sep 2026 08:30:00 +0000",
-      "source": "STAT",
-      "cat": "HEALTHCARE"
-    },
-    {
-      "title": "Opinion: I’m a fat medical student. I refuse to let myself be shamed for it",
-      "text": "“As a medical student in a larger body, I have often been ostracized, othered, made to feel different, like I’ve invaded a secret society of thin people.”",
-      "link": "https://www.statnews.com/2026/09/08/fat-medical-student-inclusivity-advocacy-health-at-any-size-physician/?utm_campaign=rss",
-      "date": "Tue, 08 Sep 2026 08:30:00 +0000",
-      "source": "STAT",
-      "cat": "HEALTHCARE"
-    },
-    {
-      "title": "Hospitals pursue deals to ensure survival as Trump’s Medicaid cuts loom",
-      "text": "Rural health systems are seeking partnership to survive, fueling a debate over competition and the rising cost of medical care.",
-      "link": "https://www.statnews.com/2026/09/08/rural-hospital-mergers-medicaid-cuts-part-3-unraveled-series/?utm_campaign=rss",
-      "date": "Tue, 08 Sep 2026 08:30:00 +0000",
-      "source": "STAT",
-      "cat": "HEALTHCARE"
-    },
-    {
-      "title": "STAT+: Neuromuscular drug from Novartis fails in key study, adding to pressure on company",
-      "text": "A Novartis drug for a rare neuromuscular condition failed in a key study, the company's second major trial collapse in a matter of days.",
-      "link": "https://www.statnews.com/2026/09/08/novartis-del-desiran-myotonic-dystrophy-harbor-trial-failure-neuromuscular/?utm_campaign=rss",
-      "date": "Tue, 08 Sep 2026 07:28:55 +0000",
-      "source": "STAT",
-      "cat": "HEALTHCARE"
-    },
-    {
       "title": "[D] Self-Promotion Thread",
       "text": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link shorteners, link aggregator websites , or auto-subscribe links. -- Any abuse of trust will lead to bans. Encourage others who create new posts for questions to post here instead! Thread will stay alive until next one so keep posting after the date in the title. -- Meta: This is an experiment. If th",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1w4xaes/d_selfpromotion_thread/",
@@ -956,6 +956,14 @@
       "text": "For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you&#39;re looking for] For Those looking for jobs please use this template Want to be Hired: [Location], Salary Expectation:[], [Remote | Relocation], [Full Time | Contract | Part Time] Resume: [Link to resume] and [Brief overview, what you&#39;re looking for] &#x200B; Please remember that this community is geared towards those with experie",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1w30ti8/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
       "date": "2026-08-31T02:30:17+00:00",
+      "source": "Reddit · MachineLearning",
+      "cat": "SCIENCE"
+    },
+    {
+      "title": "Teach ML! Community service project from Stanford [N]",
+      "text": "Hi r/machinelearning . Nice to meet you! My name is Chris Piech and I&#39;m a professor at Stanford University in the AI lab. I built a class called Probability for AI: pai.stanford.edu. It starts Oct 9th and applications are due end of Sept. Its (hopefully) cool for a few reasons: The plan is to have one volunteer teacher for every 10 students! Apps have been open for a week and over 1,000+ folks have applied to teach. So we might actually be able to make this pretty big. I have built a lot of ",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wbf3ox/teach_ml_community_service_project_from_stanford_n/",
+      "date": "2026-09-09T07:54:14+00:00",
       "source": "Reddit · MachineLearning",
       "cat": "SCIENCE"
     },
@@ -1000,18 +1008,18 @@
       "cat": "SCIENCE"
     },
     {
-      "title": "Rustuna: A High-Performance Rust Implementation of Optuna [P]",
-      "text": "Hi everyone! We just released Rustuna (GitHub: https://github.com/optuna/rustuna/ ), a high-speed, memory-efficient implementation of Optuna built in Rust. Optuna-Compatible Design: Keeps the familiar API and concept of Optuna. Zero Python Dependencies: Mitigating the risk of supply chain attacks. Lower Memory Footprint: Optimized memory management natively in Rust. For details, please check out the following blog post. https://medium.com/optuna/announcing-rustuna-cc82a6815bf7 &#32; submitted by",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w9nyhz/rustuna_a_highperformance_rust_implementation_of/",
-      "date": "2026-09-07T10:01:24+00:00",
-      "source": "Reddit · MachineLearning",
-      "cat": "SCIENCE"
-    },
-    {
       "title": "when a run is wrong but nothing actually failed, where do you start? [D] [R]",
       "text": "this is the kinda debugging case i find rlly annoying/ everything says success. no exceptions no failed tool calls. no obvious timeout the workflow completes but the final result is still wrong when that happens, what’s your first move? do you guys usually: start from the final output and work backward compare against a previous good run inspect state transitions check retrieval/tool behavior look at model inputs replay it check business state outside the trace just read the whole thing until so",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1waewc3/when_a_run_is_wrong_but_nothing_actually_failed/",
       "date": "2026-09-08T05:01:04+00:00",
+      "source": "Reddit · MachineLearning",
+      "cat": "SCIENCE"
+    },
+    {
+      "title": "Rustuna: A High-Performance Rust Implementation of Optuna [P]",
+      "text": "Hi everyone! We just released Rustuna (GitHub: https://github.com/optuna/rustuna/ ), a high-speed, memory-efficient implementation of Optuna built in Rust. Optuna-Compatible Design: Keeps the familiar API and concept of Optuna. Zero Python Dependencies: Mitigating the risk of supply chain attacks. Lower Memory Footprint: Optimized memory management natively in Rust. For details, please check out the following blog post. https://medium.com/optuna/announcing-rustuna-cc82a6815bf7 &#32; submitted by",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1w9nyhz/rustuna_a_highperformance_rust_implementation_of/",
+      "date": "2026-09-07T10:01:24+00:00",
       "source": "Reddit · MachineLearning",
       "cat": "SCIENCE"
     },
@@ -1076,14 +1084,6 @@
       "text": "One thing that has bothered me about LLM benchmarks for a while is that most of them are essentially snapshots. A model is evaluated, a score is published, and we tend to talk about that score as if it describes a relatively stable object. But with API-served models, the thing behind the model name can change over time: serving infrastructure changes, provider configurations change, versions change, and sometimes behaviour changes without an obvious public version transition. So we started appro",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1w9llr4/measuring_llm_performance_drift_observations_and/",
       "date": "2026-09-07T07:44:34+00:00",
-      "source": "Reddit · MachineLearning",
-      "cat": "SCIENCE"
-    },
-    {
-      "title": "GPT-6 reportedly jailbroken within 24 hours using an extended Task-in-Prompt (TIP) attack [N]",
-      "text": "A researcher has reported a jailbreak of GPT-6 Astra within a day after release. The attack is described as combination of TIP (Task-in-Prompt) attack from ACL 2025 paper with four other unnamed techniques. TIP attacks exploit the model’s reasoning/instruction-following behaviour by hidding the harmful objective inside another task, like solving a cipher or executing a Python code. For GPT-6, the researcher says the original minimal TIP attack was no longer sufficient and had to be reworked. The",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w89m36/gpt6_reportedly_jailbroken_within_24_hours_using/",
-      "date": "2026-09-05T19:11:16+00:00",
       "source": "Reddit · MachineLearning",
       "cat": "SCIENCE"
     },
@@ -1376,6 +1376,54 @@
       "cat": "TECH"
     },
     {
+      "title": "Apple Event Live Blog: Folding iPhone, Apple Watch Series 12, AirPods, and More",
+      "text": "Get all the news when it happens, as our reporters bring you live updates from Apple Park, the company’s headquarters in Cupertino, California.",
+      "link": "https://www.wired.com/live/apple-event-live-blog-september-2026-iphone-launch/",
+      "date": "Wed, 09 Sep 2026 11:00:00 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
+      "title": "MS NOW Wants to Turn Its Viewers Into a Fandom",
+      "text": "The cable news network’s president, Rebecca Kutler, wants to leverage its massive online and TV audience to create a fan community. First up: letting you chat with Rachel Maddow.",
+      "link": "https://www.wired.com/story/the-big-interview-podcast-rebecca-kutler-ms-now/",
+      "date": "Wed, 09 Sep 2026 10:30:00 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
+      "title": "Lyft Sees a Future for Its Drivers in a Driverless World: Servicing Waymos",
+      "text": "A team-up with Waymo in Nashville has former Lyft drivers maintaining self-driving cars. What’s next?",
+      "link": "https://www.wired.com/story/lyft-waymo-partnership-nashville/",
+      "date": "Wed, 09 Sep 2026 10:00:00 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
+      "title": "A US Census Report on Noncitizen Voting Used Bad Data to Reach Faulty Conclusions",
+      "text": "Trump has touted a recent Census report. WIRED found grave flaws in its analysis and the process behind it, and confirmed the identity of several of its authors—among them a one-time DOGE affiliate.",
+      "link": "https://www.wired.com/story/a-us-census-report-on-noncitizen-voting-used-bad-data-to-reach-faulty-conclusions/",
+      "date": "Wed, 09 Sep 2026 10:00:00 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
+      "title": "There’s a Hot New Egg-Freezing Startup. It’s Weirder Than You Could Imagine",
+      "text": "Cofertility lets women freeze their eggs for free—as long as they give half of them back to the company. What happens next is anyone’s guess.",
+      "link": "https://www.wired.com/story/egg-freezing-startup-cofertility-weirder-than-you-could-imagine/",
+      "date": "Wed, 09 Sep 2026 10:00:00 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
+      "title": "The Fairphone (Gen 6+) Review: Finally in the US",
+      "text": "With affordable replacement parts, a five-year warranty, and updates through 2033, the Fairphone proves sustainability doesn’t mean major compromise.",
+      "link": "https://www.wired.com/review/the-fairphone-gen-6-plus/",
+      "date": "Wed, 09 Sep 2026 09:30:00 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
       "title": "TurboTax Full Service Coupons This September 2026",
       "text": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
       "link": "https://www.wired.com/story/turbotax-coupon/",
@@ -1416,17 +1464,17 @@
       "cat": "TECH"
     },
     {
-      "title": "20% Off Brooks Promo Code | September 2026",
-      "text": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.",
-      "link": "https://www.wired.com/story/brooks-promo-code/",
+      "title": "Valvoline Coupons and Promo Codes for September 2026",
+      "text": "We've gathered all the top Valvoline coupons and promo codes for September 2026, including deals on full synthetic oil changes and other essential maintenance.",
+      "link": "https://www.wired.com/story/valvoline-coupons/",
       "date": "Wed, 09 Sep 2026 05:00:00 +0000",
       "source": "Wired",
       "cat": "TECH"
     },
     {
-      "title": "Valvoline Coupons and Promo Codes for September 2026",
-      "text": "We've gathered all the top Valvoline coupons and promo codes for September 2026, including deals on full synthetic oil changes and other essential maintenance.",
-      "link": "https://www.wired.com/story/valvoline-coupons/",
+      "title": "20% Off Brooks Promo Code | September 2026",
+      "text": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.",
+      "link": "https://www.wired.com/story/brooks-promo-code/",
       "date": "Wed, 09 Sep 2026 05:00:00 +0000",
       "source": "Wired",
       "cat": "TECH"
@@ -1468,54 +1516,6 @@
       "text": "Upgrade your setup with Sony’s newest releases. Save on industry-leading noise-canceling audio, and pro-level Alpha cameras.",
       "link": "https://www.wired.com/story/sony-promo-code/",
       "date": "Wed, 09 Sep 2026 05:00:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "Cockroach Milk, How to Blow Your Nose, and Mosquito Printers: The Ig Nobels of 2026",
-      "text": "Every year, the prizes recognize the weirdest research that often raises some very serious scientific questions.",
-      "link": "https://www.wired.com/story/cockroach-milk-mosquito-printers-ig-nobels-of-2026/",
-      "date": "Tue, 08 Sep 2026 21:15:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It",
-      "text": "Designed to compete with OpenClaw and Instinct, the company says Muse can do everything from sell your car to book you a plane ticket.",
-      "link": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
-      "date": "Tue, 08 Sep 2026 20:12:51 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "Apple and Google Miss Deadline to Block Child Nudity on Their Phones in the UK",
-      "text": "Now the UK government plans to introduce new legislation that would see companies face fines and potential criminal liability, and signaled similar plans could extend to Snapchat and Instagram.",
-      "link": "https://www.wired.com/story/apple-and-google-miss-deadline-to-block-child-nudity-on-their-phones-in-the-uk/",
-      "date": "Tue, 08 Sep 2026 18:13:26 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
-      "text": "A landmark announcement by the frontier AI lab has been overshadowed by accusations of impropriety.",
-      "link": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/",
-      "date": "Tue, 08 Sep 2026 16:42:05 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "Here’s Samsung’s Advice for Apple and Its Upcoming Folding iPhone",
-      "text": "The competition is “absolutely welcome” by the pioneering Korean giant, but Samsung warns that the device’s “weight” is crucial.",
-      "link": "https://www.wired.com/story/samsung-advice-for-apple-and-its-upcoming-folding-iphone/",
-      "date": "Tue, 08 Sep 2026 16:00:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "Richard Kelly on Donnie Darko at 25: ‘It’s a Miracle That Any Movie Gets Made’",
-      "text": "The director discusses his debut novel, staying true to an artistic vision, and the absurd line of dialogue from Donnie Darko he believes will find its way into his obituary.",
-      "link": "https://www.wired.com/story/richard-kelly-donnie-darko-25th-anniversary-interview/",
-      "date": "Tue, 08 Sep 2026 14:00:00 +0000",
       "source": "Wired",
       "cat": "TECH"
     }
