@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T15:37:55.559761+00:00",
+  "generated_at": "2026-09-09T18:57:13.302915+00:00",
   "items": [
     {
       "title": "Tailwind Labs is joining Shopify",
@@ -8,7 +8,87 @@
       "date": "2026-09-09T13:27:11+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 354,
+      "points": 635,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Apple Unveils iPhone Duo",
+      "text": "Hacker News discussion and source.",
+      "link": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
+      "date": "2026-09-09T18:17:06+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 173,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "What do Visa and Mastercard do? An intro to card networks",
+      "text": "Hacker News discussion and source.",
+      "link": "https://tautology.town/2026/06/01/card-networks.html",
+      "date": "2026-09-08T18:11:05+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 88,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+      "text": "Hacker News discussion and source.",
+      "link": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+      "date": "2026-09-09T17:24:28+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 59,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
+      "text": "Hacker News discussion and source.",
+      "link": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+      "date": "2026-09-09T14:37:47+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 206,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "GNU Radio in the browser",
+      "text": "Hacker News discussion and source.",
+      "link": "https://gnuradioworld.com/",
+      "date": "2026-09-09T15:53:06+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 94,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Apple Introduces AirPods 5",
+      "text": "Hacker News discussion and source.",
+      "link": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "date": "2026-09-09T17:39:24+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 128,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Apple Watch Ultra 4",
+      "text": "Hacker News discussion and source.",
+      "link": "https://www.apple.com/apple-watch-ultra-4/",
+      "date": "2026-09-09T18:21:40+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 23,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Understanding the recent DDoS attack against Read the Docs",
+      "text": "Hacker News discussion and source.",
+      "link": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
+      "date": "2026-09-09T15:55:53+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 81,
       "kindLabel": "HN API"
     },
     {
@@ -18,107 +98,97 @@
       "date": "2026-09-09T11:39:46+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 198,
+      "points": 309,
       "kindLabel": "HN API"
     },
     {
-      "title": "Claude, change the \"Add to Cart\" button to blue",
+      "title": "Planet Labs' open satellite feed",
       "text": "Hacker News discussion and source.",
-      "link": "https://opusfived.dev/",
-      "date": "2026-09-09T09:39:46+00:00",
+      "link": "https://tech.marksblogg.com/planet-labs-open-satellite-feed.html",
+      "date": "2026-09-09T15:44:09+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 454,
+      "points": 78,
       "kindLabel": "HN API"
     },
     {
-      "title": "Show HN: Geiger – See every AI agent on your machine and what it can touch",
-      "text": "Hacker News discussion and source.",
-      "link": "https://github.com/Atomburstofficial/geiger",
-      "date": "2026-09-09T14:54:49+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 18,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "I advertise malicious software on Google Ads",
+      "title": "How I advertise malicious software on Google Ads",
       "text": "Hacker News discussion and source.",
       "link": "https://xlii.space/eng/malicious-software-on-google-ads/",
       "date": "2026-09-09T11:43:21+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 213,
+      "points": 293,
       "kindLabel": "HN API"
     },
     {
-      "title": "DeepSeek launching v4.1 flash cheaper and more capable than v4 pro",
+      "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
       "text": "Hacker News discussion and source.",
-      "link": "https://news.ycombinator.com/item?id=49624603",
-      "date": "2026-09-09T11:19:26+00:00",
+      "link": "https://academy.dair.ai/papers/procedural-graphs-self-evolving-execution-structures-for-llm-agents-2609.09153",
+      "date": "2026-09-09T17:13:52+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 268,
+      "points": 10,
       "kindLabel": "HN API"
     },
     {
-      "title": "Investing in Mothers? The Long-Run Impact of a Universal Child Care",
+      "title": "I Don't Want to Interact with Stochastic Parrots",
       "text": "Hacker News discussion and source.",
-      "link": "https://www.nber.org/papers/w35514",
-      "date": "2026-09-09T14:55:31+00:00",
+      "link": "https://ploum.net/2026-09-09-ai_policy.html",
+      "date": "2026-09-09T18:33:28+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 5,
+      "points": 20,
       "kindLabel": "HN API"
     },
     {
-      "title": "Playing whack-a-mole is losing",
+      "title": "Why Emacs Consult async searches feel slow and how to speed them up",
       "text": "Hacker News discussion and source.",
-      "link": "https://dadrian.io/blog/posts/whack-a-mole-is-losing/",
-      "date": "2026-09-09T13:41:53+00:00",
+      "link": "https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/",
+      "date": "2026-09-09T17:13:43+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 22,
+      "points": 16,
       "kindLabel": "HN API"
     },
     {
-      "title": "Muse – Meta’s personal AI agent",
+      "title": "San Francisco institution 'heartbroken and furious' after erasure of public art",
       "text": "Hacker News discussion and source.",
-      "link": "https://ai.meta.com/muse/",
-      "date": "2026-09-08T19:25:00+00:00",
+      "link": "https://www.sfgate.com/local/article/clarion-alley-murals-erased-22420365.php",
+      "date": "2026-09-07T17:19:14+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 589,
+      "points": 23,
       "kindLabel": "HN API"
     },
     {
-      "title": "Coyote v. Acme (1990)",
+      "title": "Bespoke: A programming language for people who say please",
       "text": "Hacker News discussion and source.",
-      "link": "https://www.newyorker.com/magazine/1990/02/26/coyote-v-acme",
-      "date": "2026-09-06T13:43:48+00:00",
+      "link": "https://blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please/",
+      "date": "2026-09-06T08:13:53+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 101,
+      "points": 47,
       "kindLabel": "HN API"
     },
     {
-      "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
+      "title": "Generating the P3 Tiling",
       "text": "Hacker News discussion and source.",
-      "link": "https://cims.nyu.edu/~tristanb/statement.pdf",
-      "date": "2026-09-08T05:42:28+00:00",
+      "link": "https://k-monk.org/blog/generating-the-p3-tiling/",
+      "date": "2026-09-08T18:27:32+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 1898,
+      "points": 14,
       "kindLabel": "HN API"
     },
     {
-      "title": "Searching for the best silicone USB cable",
+      "title": "iPhone Duo",
       "text": "Hacker News discussion and source.",
-      "link": "https://www.frankchiarulli.com/blog/best-silicone-usb-cable/",
-      "date": "2026-09-04T20:06:17+00:00",
+      "link": "https://www.apple.com/iphone-duo/",
+      "date": "2026-09-09T18:15:43+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 51,
+      "points": 264,
       "kindLabel": "HN API"
     },
     {
@@ -132,113 +202,43 @@
       "kindLabel": "HN API"
     },
     {
-      "title": "Building a Wall Lamp from Scratch",
+      "title": "We accidentally built a synthetic cell factory",
       "text": "Hacker News discussion and source.",
-      "link": "https://mbugert.de/posts/2026-09-09-bedroom-lamp-build/",
-      "date": "2026-09-09T10:01:16+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 52,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Smolts: A pedagogical IDE for a teaching language",
-      "text": "Hacker News discussion and source.",
-      "link": "https://eighty-twenty.org/2026/09/04/smolts",
-      "date": "2026-09-04T10:58:30+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 28,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes",
-      "text": "Hacker News discussion and source.",
-      "link": "https://github.com/ashemag/human-atlas",
-      "date": "2026-09-07T23:40:33+00:00",
+      "link": "https://bnext.bio/post/we-accidentally-built-a-synthetic-cell-factory",
+      "date": "2026-09-09T15:34:51+00:00",
       "source": "Hacker News",
       "cat": "TECH",
       "points": 48,
       "kindLabel": "HN API"
     },
     {
-      "title": "Lotus Notes and the dangers of starting from scratch",
+      "title": "Apple Watch Series 12",
       "text": "Hacker News discussion and source.",
-      "link": "https://buttondown.com/blog/lotus-notes-email",
-      "date": "2026-09-09T10:01:15+00:00",
+      "link": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
+      "date": "2026-09-09T17:56:17+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 118,
+      "points": 86,
       "kindLabel": "HN API"
     },
     {
-      "title": "How An AI math breakthrough ignited a controversy",
+      "title": "Claude, change the \"Add to Cart\" button to blue",
       "text": "Hacker News discussion and source.",
-      "link": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
-      "date": "2026-09-09T10:25:41+00:00",
+      "link": "https://opusfived.dev/",
+      "date": "2026-09-09T09:39:46+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 189,
+      "points": 773,
       "kindLabel": "HN API"
     },
     {
-      "title": "Tension wood: A 'muscle' that can both bend and straighten plants",
+      "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
       "text": "Hacker News discussion and source.",
-      "link": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
-      "date": "2026-09-03T07:29:40+00:00",
+      "link": "https://github.com/OtoDock/oto-dock",
+      "date": "2026-09-09T17:57:55+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 146,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "How to build a printer",
-      "text": "Hacker News discussion and source.",
-      "link": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
-      "date": "2026-09-08T21:22:11+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 414,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
-      "text": "Hacker News discussion and source.",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
-      "date": "2026-09-08T14:55:45+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 585,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
-      "text": "Hacker News discussion and source.",
-      "link": "https://openai.com/index/codex-quantum-computing-experiments/",
-      "date": "2026-09-09T07:22:46+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 122,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Researchers Spot Fake Ancient Pottery Using the Earth's Magnetic Field",
-      "text": "Hacker News discussion and source.",
-      "link": "https://www.smithsonianmag.com/smart-news/researchers-determine-how-to-spot-fake-ancient-pottery-using-the-earths-magnetic-field-180989441/",
-      "date": "2026-09-05T21:14:18+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 75,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Surplus Agriculture Equipment",
-      "text": "Hacker News discussion and source.",
-      "link": "https://svdisposition.com/",
-      "date": "2026-09-06T22:26:23+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 7,
+      "points": 9,
       "kindLabel": "HN API"
     },
     {
@@ -255,15 +255,6 @@
       "text": "Recurrent models provide a natural path to long-context modeling, yet models trained with backpropagation through time (BPTT) often fail beyond their training horizon. Classical analyses emphasize gradients that vanish or explode along temporal paths. However, dense per-token losses can still train a shared recurrent rule despite severe decay, showing that decay alone does not determine whether learning fails. We instead study state credit: the signal through which future losses reach earlier re",
       "link": "http://arxiv.org/abs/2609.09157v1",
       "date": "2026-09-08T17:59:53Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
-      "text": "Large language models are increasingly deployed as agents that plan over long horizons and act through external tools. Most agents select actions through unconstrained generation over an accumulating history, leaving implicit the procedural knowledge of what to do, in what order, and under which conditions. As trajectories lengthen, agents can lose track of their objectives, invoke tools out of order, and repeat unproductive actions. We introduce the Procedural Graph: just as a knowledge graph o",
-      "link": "http://arxiv.org/abs/2609.09153v1",
-      "date": "2026-09-08T17:59:41Z",
       "source": "arXiv · AI/ML",
       "cat": "SCIENCE",
       "kindLabel": "ARXIV"
@@ -512,10 +503,26 @@
       "kindLabel": "ARXIV"
     },
     {
+      "title": "Highly efficient base editing at <i>PCSK9</i> and normal human embryo development",
+      "text": "",
+      "link": "https://www.nature.com/articles/s41586-026-11118-x",
+      "date": "2026-09-09T18:57:11.720838+00:00",
+      "source": "Nature",
+      "cat": "SCIENCE"
+    },
+    {
+      "title": "Phone tutoring boosts math scores when schools are forced to close",
+      "text": "",
+      "link": "https://www.nature.com/articles/d41586-026-02843-4",
+      "date": "2026-09-09T18:57:11.720877+00:00",
+      "source": "Nature",
+      "cat": "SCIENCE"
+    },
+    {
       "title": "How AI is changing PhD programmes: join our free webinar",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02751-7",
-      "date": "2026-09-09T15:37:53.940827+00:00",
+      "date": "2026-09-09T18:57:11.720902+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -523,135 +530,119 @@
       "title": "Bacteria recruited to treat cancer",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02823-8",
-      "date": "2026-09-09T15:37:53.940868+00:00",
+      "date": "2026-09-09T18:57:11.720925+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
     {
-      "title": "In the basement of miniaturized relics",
+      "title": "Breaking timescales with generative sampling of conformational transitions",
       "text": "",
-      "link": "https://www.nature.com/articles/d41586-026-02416-5",
-      "date": "2026-09-09T15:37:53.940895+00:00",
+      "link": "https://www.nature.com/articles/s41586-026-11025-1",
+      "date": "2026-09-09T18:57:11.720953+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
     {
-      "title": "Why the super-fun Ig Nobel prizes bring serious value to science",
+      "title": "Within-family effect of ancestry on complex traits in a Mexican population",
       "text": "",
-      "link": "https://www.nature.com/articles/d41586-026-02793-x",
-      "date": "2026-09-09T15:37:53.940918+00:00",
+      "link": "https://www.nature.com/articles/s41586-026-11039-9",
+      "date": "2026-09-09T18:57:11.720997+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
     {
-      "title": "These six advances could change how drugs are delivered",
+      "title": "Neocortical long-range inhibition promotes cortical synchrony and sleep",
       "text": "",
-      "link": "https://www.nature.com/articles/d41586-026-02654-7",
-      "date": "2026-09-09T15:37:53.940942+00:00",
+      "link": "https://www.nature.com/articles/s41586-026-10876-y",
+      "date": "2026-09-09T18:57:11.721048+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
     {
-      "title": "Special delivery: bacterial couriers are smuggling drugs into cancers",
+      "title": "An operational perturbation proteomics-based virtual cell model",
       "text": "",
-      "link": "https://www.nature.com/articles/d41586-026-02657-4",
-      "date": "2026-09-09T15:37:53.940966+00:00",
+      "link": "https://www.nature.com/articles/s41586-026-11001-9",
+      "date": "2026-09-09T18:57:11.721113+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
     {
-      "title": "Drug-delivering particles aim to breach the blood–brain barrier",
+      "title": "PLA2G2D in tumour-draining lymph nodes regulates anti-tumour immunity",
       "text": "",
-      "link": "https://www.nature.com/articles/d41586-026-02655-6",
-      "date": "2026-09-09T15:37:53.940989+00:00",
+      "link": "https://www.nature.com/articles/s41586-026-10954-1",
+      "date": "2026-09-09T18:57:11.721177+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
     {
-      "title": "Medicines do no good if people don’t take them",
+      "title": "Foaming photopolymers as a high-resolution biomimetic printing platform",
       "text": "",
-      "link": "https://www.nature.com/articles/d41586-026-02658-3",
-      "date": "2026-09-09T15:37:53.941032+00:00",
+      "link": "https://www.nature.com/articles/s41586-026-10968-9",
+      "date": "2026-09-09T18:57:11.721220+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
     {
-      "title": "Why we need an International Panel on Inequality",
+      "title": "Advancing conflict research and response through satellite-derived data",
       "text": "",
-      "link": "https://www.nature.com/articles/d41586-026-02806-9",
-      "date": "2026-09-09T15:37:53.941061+00:00",
+      "link": "https://www.nature.com/articles/s41586-026-11004-6",
+      "date": "2026-09-09T18:57:11.721263+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
     {
-      "title": "A good drug is useless if it misses its target",
+      "title": "Denisovans from southwestern China and their subsistence strategies",
       "text": "",
-      "link": "https://www.nature.com/articles/d41586-026-02653-8",
-      "date": "2026-09-09T15:37:53.941086+00:00",
+      "link": "https://www.nature.com/articles/s41586-026-10997-4",
+      "date": "2026-09-09T18:57:11.721315+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
     {
-      "title": "The Einstein test: what happens when AI tries to rediscover relativity?",
+      "title": "A serpin–myeloid axis in pancreatic cancer heterogeneity and immune evasion",
       "text": "",
-      "link": "https://www.nature.com/articles/d41586-026-02804-x",
-      "date": "2026-09-09T15:37:53.941110+00:00",
+      "link": "https://www.nature.com/articles/s41586-026-11002-8",
+      "date": "2026-09-09T18:57:11.721354+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
     {
-      "title": "Dose once, treat forever: drugs are being engineered to last much longer",
+      "title": "Mobile education builds resilience during shocks in five countries",
       "text": "",
-      "link": "https://www.nature.com/articles/d41586-026-02660-9",
-      "date": "2026-09-09T15:37:53.941134+00:00",
+      "link": "https://www.nature.com/articles/s41586-026-10990-x",
+      "date": "2026-09-09T18:57:11.721390+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
     {
-      "title": "DeepMind’s new genome ‘atlas’ charts effects of all nine billion human gene mutations",
+      "title": "Ancient proteins identify various Denisovan remains from Southwest China",
       "text": "",
-      "link": "https://www.nature.com/articles/d41586-026-02835-4",
-      "date": "2026-09-09T15:37:53.941157+00:00",
+      "link": "https://www.nature.com/articles/s41586-026-10976-9",
+      "date": "2026-09-09T18:57:11.721430+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
     {
-      "title": "Nasal vaccines could stop pandemics before they begin",
+      "title": "Predicting genome-wide functional constraints with GPN-Star",
       "text": "",
-      "link": "https://www.nature.com/articles/d41586-026-02656-5",
-      "date": "2026-09-09T15:37:53.941180+00:00",
+      "link": "https://www.nature.com/articles/s41586-026-11005-5",
+      "date": "2026-09-09T18:57:11.721463+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
     {
-      "title": "Drug delivery gets subcellular",
+      "title": "Imaging cellular activity across all organs reveals body-wide circuits",
       "text": "",
-      "link": "https://www.nature.com/articles/d41586-026-02659-2",
-      "date": "2026-09-09T15:37:53.941203+00:00",
+      "link": "https://www.nature.com/articles/s41586-026-10979-6",
+      "date": "2026-09-09T18:57:11.721517+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
     {
-      "title": "Author Correction: Contrasting roles of histone 3 lysine 27 demethylases in acute lymphoblastic leukaemia",
+      "title": "TRI-611, a selective, brain-penetrant molecular glue degrader of ALK",
       "text": "",
-      "link": "https://www.nature.com/articles/s41586-026-11081-7",
-      "date": "2026-09-09T15:37:53.941256+00:00",
-      "source": "Nature",
-      "cat": "SCIENCE"
-    },
-    {
-      "title": "Put patients at the centre of medical AI governance",
-      "text": "",
-      "link": "https://www.nature.com/articles/d41586-026-02796-8",
-      "date": "2026-09-09T15:37:53.941285+00:00",
-      "source": "Nature",
-      "cat": "SCIENCE"
-    },
-    {
-      "title": "Nepal disaster is a wake-up call to take compound climate risks seriously",
-      "text": "",
-      "link": "https://www.nature.com/articles/d41586-026-02794-w",
-      "date": "2026-09-09T15:37:53.941308+00:00",
+      "link": "https://www.nature.com/articles/s41586-026-10998-3",
+      "date": "2026-09-09T18:57:11.721573+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -800,6 +791,14 @@
       "cat": "TECH"
     },
     {
+      "title": "STAT+: ARPA-H to invest $62 million to develop FDA-authorized AI to help treat heart failure",
+      "text": "ARPA-H, the government agency that funds cutting edge health research, plans to commit $62.7 million to develop artificial intelligence bots that direct treatment of heart failure.",
+      "link": "https://www.statnews.com/2026/09/09/arpa-h-advocate-program-autonomous-ai-bots-for-heart-failure/?utm_campaign=rss",
+      "date": "Wed, 09 Sep 2026 16:01:00 +0000",
+      "source": "STAT",
+      "cat": "HEALTHCARE"
+    },
+    {
       "title": "STAT+: Can AI fix the emergency room?",
       "text": "AI can't change the ER's problems, which exemplify health care's bigger problems, writes Brittany Trang in this week's AI Prognosis.",
       "link": "https://www.statnews.com/2026/09/09/scribe-emergency-room-fix-health-care-ai-prognosis/?utm_campaign=rss",
@@ -932,14 +931,6 @@
       "text": "A new wave of illegal fruity vapes, more and more kids on GLP-1s, and other health news from Morning Rounds",
       "link": "https://www.statnews.com/2026/09/08/health-news-administrative-gap-delays-access-to-revmed-pancreatic-cancer-drug/?utm_campaign=rss",
       "date": "Tue, 08 Sep 2026 11:32:23 +0000",
-      "source": "STAT",
-      "cat": "HEALTHCARE"
-    },
-    {
-      "title": "STAT+: Inhibrx claims first win for long-sought immunotherapy target",
-      "text": "“Pushing this is like a rock up a hill, because there’s been so much failure in the space,” said Inhibrx CEO Mark Lappe.",
-      "link": "https://www.statnews.com/2026/09/08/inhibrx-inbrx-106-ox40-immunotherapy-head-and-neck-cancer-hpv-positive/?utm_campaign=rss",
-      "date": "Tue, 08 Sep 2026 11:30:00 +0000",
       "source": "STAT",
       "cat": "HEALTHCARE"
     },
@@ -1088,6 +1079,86 @@
       "cat": "SCIENCE"
     },
     {
+      "title": "Harvey hits $15.5B valuation, months after reaching $11B",
+      "text": "The legal AI startup and VC darling has nearly doubled its valuation in nine months.",
+      "link": "https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/",
+      "date": "Wed, 09 Sep 2026 18:34:24 +0000",
+      "source": "TechCrunch",
+      "cat": "TECH"
+    },
+    {
+      "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
+      "text": "The update uses Apple Intelligence to make better sense of your health data.",
+      "link": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
+      "date": "Wed, 09 Sep 2026 18:16:29 +0000",
+      "source": "TechCrunch",
+      "cat": "TECH"
+    },
+    {
+      "title": "Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day",
+      "text": "Most notably, Apple is taking aim at the growing wave of AI wearables with new \"Audio Intelligence\" features that let you rewind moments and remember details from daily conversations.",
+      "link": "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/",
+      "date": "Wed, 09 Sep 2026 18:08:46 +0000",
+      "source": "TechCrunch",
+      "cat": "TECH"
+    },
+    {
+      "title": "Apple has a new way prove your iPhone photos aren’t AI slop",
+      "text": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
+      "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+      "date": "Wed, 09 Sep 2026 18:08:35 +0000",
+      "source": "TechCrunch",
+      "cat": "TECH"
+    },
+    {
+      "title": "Apple shows off AirPods 5 with improved active noise cancellation",
+      "text": "The AirPods 5 support better noise cancellation, Siri AI, and offer volume controls on the stem.",
+      "link": "https://techcrunch.com/2026/09/09/apple-shows-off-airpods-5-with-improved-active-noise-cancellation/",
+      "date": "Wed, 09 Sep 2026 18:06:40 +0000",
+      "source": "TechCrunch",
+      "cat": "TECH"
+    },
+    {
+      "title": "Apple unveils its first foldable, the iPhone Duo",
+      "text": "Apple today introduced its first foldable device, named the iPhone Duo, at its &#8220;Surprise and Shine&#8221; iPhone event held in Cupertino. The phone is the first marquee device launched under the company&#8217;s new CEO, John Ternus. Unlike early iterations of foldables, which looked like vertical slabs, Apple adopted a wider form factor that could aid [&#8230;]",
+      "link": "https://techcrunch.com/2026/09/09/apple-unveils-its-first-foldable-the-iphone-duo/",
+      "date": "Wed, 09 Sep 2026 17:58:14 +0000",
+      "source": "TechCrunch",
+      "cat": "TECH"
+    },
+    {
+      "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
+      "text": "The company also argued that its on-device models offer consumers more privacy.",
+      "link": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
+      "date": "Wed, 09 Sep 2026 17:36:05 +0000",
+      "source": "TechCrunch",
+      "cat": "TECH"
+    },
+    {
+      "title": "Apple launches iPhone 18 Pro with upgraded camera",
+      "text": "Apple's new iPhone 18 Pro lineup upgrades the camera and comes in burgundy.",
+      "link": "https://techcrunch.com/2026/09/09/apple-launches-iphone-18-pro-with-upgraded-camera/",
+      "date": "Wed, 09 Sep 2026 17:26:05 +0000",
+      "source": "TechCrunch",
+      "cat": "TECH"
+    },
+    {
+      "title": "DOJ wants more answers on Fox’s $22B Roku deal",
+      "text": "Fox’s $22 billion plan to buy Roku has hit a new hurdle. The Justice Department sent Fox and Roku what’s known as a “second request” on Tuesday, asking the companies to turn over more data and documents as it takes a closer look at the deal. That’s a fairly standard step in a major antitrust [&#8230;]",
+      "link": "https://techcrunch.com/2026/09/09/doj-wants-more-answers-on-foxs-22b-roku-deal/",
+      "date": "Wed, 09 Sep 2026 16:44:21 +0000",
+      "source": "TechCrunch",
+      "cat": "TECH"
+    },
+    {
+      "title": "Superintelligence is coming. Should we let it?",
+      "text": "AI companies have been talking about superintelligent AI like&#160;it&#8217;s&#160;inevitable, but recent&#160;safety incidents&#160;like&#160;OpenAI&#8217;s&#160;Hugging Face breach&#160;are&#160;demonstrating&#160;the potential dangers of deploying AI systems that are more capable than&#160;humans.&#160;So&#160;what happens when we&#160;can&#8217;t&#160;reliably control what these systems do?&#160; On this episode of TechCrunch&#8217;s&#160;Equity&#160;podcast, Rebecca Bellan is joined by&#160",
+      "link": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
+      "date": "Wed, 09 Sep 2026 16:05:35 +0000",
+      "source": "TechCrunch",
+      "cat": "TECH"
+    },
+    {
       "title": "Viral AI assistant Instinct now has its own email address",
       "text": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
       "link": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
@@ -1097,7 +1168,7 @@
     },
     {
       "title": "Uber rival inDrive scales beyond ride-hailing to capture more consumer spending",
-      "text": "inDrive's ad business, first piloted in July 2025, has served more than 2 billion impressions and attracted over 2,000 paying advertisers a month.",
+      "text": "First piloted in July 2025, inDrive's ad business has served more than 2 billion impressions and attracted over 2,000 paying advertisers a month.",
       "link": "https://techcrunch.com/2026/09/09/uber-rival-indrive-scales-beyond-ride-hailing-to-capture-more-consumer-spending/",
       "date": "Wed, 09 Sep 2026 15:10:41 +0000",
       "source": "TechCrunch",
@@ -1129,7 +1200,7 @@
     },
     {
       "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
-      "text": "Falling token costs, cheaper models, and less spend per employee—AI adoption isn't playing out the way hyperscalers hoped.",
+      "text": "Falling token costs, cheaper models, and less spend per employee — AI adoption isn't playing out the way hyperscalers hoped.",
       "link": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
       "date": "Wed, 09 Sep 2026 14:18:34 +0000",
       "source": "TechCrunch",
@@ -1148,86 +1219,6 @@
       "text": "Instacart is the latest app to bake a conversational AI assistant into its platform.",
       "link": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
       "date": "Wed, 09 Sep 2026 13:00:00 +0000",
-      "source": "TechCrunch",
-      "cat": "TECH"
-    },
-    {
-      "title": "Autonomy pivots to gas vehicles to keep the dream of car subscriptions alive",
-      "text": "Scott Painter, founder of TrueCar, is still trying to build a business around vehicle subscriptions, where you can cancel at any time.",
-      "link": "https://techcrunch.com/2026/09/09/autonomy-pivots-to-gas-vehicles-to-keep-the-dream-of-car-subscriptions-alive/",
-      "date": "Wed, 09 Sep 2026 13:00:00 +0000",
-      "source": "TechCrunch",
-      "cat": "TECH"
-    },
-    {
-      "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
-      "text": "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.",
-      "link": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
-      "date": "Wed, 09 Sep 2026 13:00:00 +0000",
-      "source": "TechCrunch",
-      "cat": "TECH"
-    },
-    {
-      "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
-      "text": "If you want to manufacture in space—and bring the products back again—there&#8217;s a limited set of options: Wait to go to the International Space Station, or partner with a handful of start-ups launching spacecraft that spend time in orbit before they return to Earth. But the vehicle that goes to space and comes back to [&#8230;]",
-      "link": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
-      "date": "Wed, 09 Sep 2026 12:30:00 +0000",
-      "source": "TechCrunch",
-      "cat": "TECH"
-    },
-    {
-      "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
-      "text": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model.",
-      "link": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
-      "date": "Wed, 09 Sep 2026 12:05:34 +0000",
-      "source": "TechCrunch",
-      "cat": "TECH"
-    },
-    {
-      "title": "Google DeepMind alumni are building tools to accelerate fusion power for the grid",
-      "text": "Fusionality is developing control systems and simulation environments to help fusion power startups move faster.",
-      "link": "https://techcrunch.com/2026/09/08/google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid/",
-      "date": "Wed, 09 Sep 2026 06:00:00 +0000",
-      "source": "TechCrunch",
-      "cat": "TECH"
-    },
-    {
-      "title": "CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks",
-      "text": "UK-based manufacturing software startup CloudNC announced Wednesday a $20 million B extension round, bringing its lifetime total raised amount to $128 million.",
-      "link": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
-      "date": "Wed, 09 Sep 2026 04:01:00 +0000",
-      "source": "TechCrunch",
-      "cat": "TECH"
-    },
-    {
-      "title": "White House takes down ‘Build the Wall’ game after the Tetris Company complains",
-      "text": "The Trump administration's short-lived arcade game \"Build the Wall\" is now nowhere to be found after the Tetris Company posted that it takes \"copyright infringement very seriously.\"",
-      "link": "https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/",
-      "date": "Tue, 08 Sep 2026 23:23:23 +0000",
-      "source": "TechCrunch",
-      "cat": "TECH"
-    },
-    {
-      "title": "Hackers are stealing Claude tokens from subscribers",
-      "text": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
-      "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-      "date": "Tue, 08 Sep 2026 21:10:27 +0000",
-      "source": "TechCrunch",
-      "cat": "TECH"
-    },
-    {
-      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-      "text": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
-      "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-      "date": "Tue, 08 Sep 2026 21:04:06 +0000",
-      "source": "TechCrunch",
-      "cat": "TECH"
-    },
-    {
-      "title": "The Exploration Company nabs $450 million to challenge SpaceX",
-      "text": "The Exploration Company (TEC) has raised $450 million to build reusable spacecraft, in what it describes as “the largest-ever Series C by a European space company.”",
-      "link": "https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/",
-      "date": "Tue, 08 Sep 2026 20:47:34 +0000",
       "source": "TechCrunch",
       "cat": "TECH"
     },
@@ -1376,6 +1367,38 @@
       "cat": "TECH"
     },
     {
+      "title": "I Let an AI Agent Hack All My Gadgets—and I’d Do It Again",
+      "text": "After I removed the safety guardrails from a powerful open-source model, it found vulnerabilities in my household devices and hacked into a PC. But it also told me how to make everything a lot more secure.",
+      "link": "https://www.wired.com/story/i-used-ai-to-hack-my-home-network/",
+      "date": "Wed, 09 Sep 2026 18:30:00 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
+      "title": "Apple Debuts the iPhone Duo, Its First Folding iPhone",
+      "text": "The iPhone with a folding screen is the first radical redesign of Apple’s flagship handset in years. The iPhone Duo will cost $1,999 when it arrives in October.",
+      "link": "https://www.wired.com/story/apple-debuts-the-iphone-duo-its-first-folding-iphone/",
+      "date": "Wed, 09 Sep 2026 17:57:45 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
+      "title": "Apple Watch Series 12 and Apple Watch Ultra 4: Ceramic, Specs, Release Date",
+      "text": "Apple’s latest smartwatches—the Apple Watch Series 12 and Ultra 4, get a faster chip, expanded health tracking, and new Siri capabilities. Plus, the ceramic finish is back.",
+      "link": "https://www.wired.com/story/apple-watch-series-12-apple-watch-ultra-4/",
+      "date": "Wed, 09 Sep 2026 17:43:38 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
+      "title": "You Can Now Destroy Flock Cameras for Cash in GTA V",
+      "text": "A new GTA mod lets you smash and shoot Flock’s automatic license plate readers around the fictional Los Santos.",
+      "link": "https://www.wired.com/story/you-can-now-destroy-flock-cameras-for-cash-in-gta-v/",
+      "date": "Wed, 09 Sep 2026 16:30:00 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
       "title": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
       "text": "Kepler Computing claims a new approach to chip design—and a proprietary material—can help end the supply bottlenecks that have sent memory prices surging.",
       "link": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/",
@@ -1417,7 +1440,7 @@
     },
     {
       "title": "A New Startup Lets You Freeze Your Eggs For Free. But Is Anything Ever Free?",
-      "text": "Cofertility manages the costs of egg freezing and storage, in exchange for half the batch. One young client becomes suspicious of the arrangement—and starts to investigate.",
+      "text": "Cofertility manages the costs of egg freezing and storage, in exchange for half the batch. One young client became suspicious of the arrangement—and started to investigate.",
       "link": "https://www.wired.com/story/egg-freezing-startup-cofertility-weirder-than-you-could-imagine/",
       "date": "Wed, 09 Sep 2026 10:00:00 +0000",
       "source": "Wired",
@@ -1428,14 +1451,6 @@
       "text": "With affordable replacement parts, a five-year warranty, and updates through 2033, the Fairphone proves sustainability doesn’t mean major compromise.",
       "link": "https://www.wired.com/review/the-fairphone-gen-6-plus/",
       "date": "Wed, 09 Sep 2026 09:30:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "20% Off Brooks Promo Code | September 2026",
-      "text": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.",
-      "link": "https://www.wired.com/story/brooks-promo-code/",
-      "date": "Wed, 09 Sep 2026 05:00:00 +0000",
       "source": "Wired",
       "cat": "TECH"
     },
@@ -1488,33 +1503,9 @@
       "cat": "TECH"
     },
     {
-      "title": "Squarespace Promo Codes: 20% Off in September 2026",
-      "text": "Get 20% off your next website, 10% off with exclusive Squarespace discount code, 50% off plans, and more top coupons from WIRED.",
-      "link": "https://www.wired.com/story/squarespace-promo-code/",
-      "date": "Wed, 09 Sep 2026 05:00:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "Alo Discount Code: 20% Off September 2026",
-      "text": "Refresh your workout wardrobe. Save on buttery-soft leggings, chic streetwear, and activewear essentials with verified Alo Yoga discount codes, free shipping, and loyalty program perks.",
-      "link": "https://www.wired.com/story/alo-yoga-discount-code/",
-      "date": "Wed, 09 Sep 2026 05:00:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "H&R Block Coupon: 25% Off DIY + Tax Pro Assist",
-      "text": "Save over 25% when you opt for H&R Block’s free online offering, plus a tax pro review.",
-      "link": "https://www.wired.com/story/hr-block-coupon/",
-      "date": "Wed, 09 Sep 2026 05:00:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "LegalZoom Promo Code: Exclusive 10% Off LLC Formations",
-      "text": "Save on top services at LegalZoom, like LLC registration, incorporation, estate plans, and more with coupons and deals from WIRED.",
-      "link": "https://www.wired.com/story/legalzoom-promo-code/",
+      "title": "20% Off Brooks Promo Code | September 2026",
+      "text": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.",
+      "link": "https://www.wired.com/story/brooks-promo-code/",
       "date": "Wed, 09 Sep 2026 05:00:00 +0000",
       "source": "Wired",
       "cat": "TECH"
