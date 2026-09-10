@@ -1,16 +1,6 @@
 {
-  "generated_at": "2026-09-10T18:50:42.132344+00:00",
+  "generated_at": "2026-09-10T21:19:15.757803+00:00",
   "items": [
-    {
-      "title": "Rust is tier-1 language at Microsoft",
-      "text": "Hacker News discussion and source.",
-      "link": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
-      "date": "2026-09-10T13:39:16+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 407,
-      "kindLabel": "HN API"
-    },
     {
       "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
       "text": "Hacker News discussion and source.",
@@ -18,17 +8,7 @@
       "date": "2026-09-10T15:29:47+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 168,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "I have a theory that software drives people insane",
-      "text": "Hacker News discussion and source.",
-      "link": "https://graybeard.ing/software-drives-people-insane/",
-      "date": "2026-09-10T16:13:42+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 139,
+      "points": 286,
       "kindLabel": "HN API"
     },
     {
@@ -38,7 +18,7 @@
       "date": "2026-09-10T06:49:43+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 268,
+      "points": 435,
       "kindLabel": "HN API"
     },
     {
@@ -48,7 +28,17 @@
       "date": "2026-09-10T15:29:30+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 111,
+      "points": 202,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Don't let anyone take away your big box of cables",
+      "text": "Hacker News discussion and source.",
+      "link": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
+      "date": "2026-09-10T15:27:22+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 160,
       "kindLabel": "HN API"
     },
     {
@@ -58,17 +48,7 @@
       "date": "2026-09-10T14:09:31+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 512,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Neki",
-      "text": "Hacker News discussion and source.",
-      "link": "https://planetscale.com/blog/introducing-neki",
-      "date": "2026-09-10T15:43:49+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 112,
+      "points": 600,
       "kindLabel": "HN API"
     },
     {
@@ -78,17 +58,7 @@
       "date": "2026-09-10T15:57:40+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 53,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Douglas Hofstadter: Analogy as the Core of Cognition [video]",
-      "text": "Hacker News discussion and source.",
-      "link": "https://www.youtube.com/watch?v=n8m7lFQ3njk",
-      "date": "2026-09-06T14:59:33+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 59,
+      "points": 107,
       "kindLabel": "HN API"
     },
     {
@@ -98,17 +68,37 @@
       "date": "2026-09-10T17:14:12+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 21,
+      "points": 93,
       "kindLabel": "HN API"
     },
     {
-      "title": "Silicon Valley Is Transforming the Military-Industrial Complex",
+      "title": "What happens when a GPU writes memory",
       "text": "Hacker News discussion and source.",
-      "link": "https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex",
-      "date": "2026-09-10T15:47:50+00:00",
+      "link": "https://blog.doubleword.ai/what-happens-when-a-gpu-writes-memory",
+      "date": "2026-09-08T19:46:59+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 63,
+      "points": 19,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
+      "text": "Hacker News discussion and source.",
+      "link": "https://merybenavente.me/blog/proof-of-capture",
+      "date": "2026-09-10T19:44:15+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 16,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Rust is tier-1 language at Microsoft",
+      "text": "Hacker News discussion and source.",
+      "link": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+      "date": "2026-09-10T13:39:16+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 535,
       "kindLabel": "HN API"
     },
     {
@@ -118,67 +108,7 @@
       "date": "2026-09-09T14:54:12+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 233,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": ">10x More Efficient Pretraining",
-      "text": "Hacker News discussion and source.",
-      "link": "https://magic.dev/blog/pretraining#",
-      "date": "2026-09-08T16:59:53+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 87,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "DeepSeek v4.1 Flash",
-      "text": "Hacker News discussion and source.",
-      "link": "https://twitter.com/deepseek_ai/status/2097930608790167907",
-      "date": "2026-09-10T06:11:05+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 827,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Neki is sharded Postgres by PlanetScale",
-      "text": "Hacker News discussion and source.",
-      "link": "https://neki.dev/",
-      "date": "2026-09-10T15:48:14+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 80,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1",
-      "text": "Hacker News discussion and source.",
-      "link": "https://tokenstead.ai/models/swe-2",
-      "date": "2026-09-10T16:52:11+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 15,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "What algorithm did Windows XP use to choose your initial user picture?",
-      "text": "Hacker News discussion and source.",
-      "link": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
-      "date": "2026-09-10T09:04:14+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 289,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "List of references on Sony websites to players \"owning\" their digital games",
-      "text": "Hacker News discussion and source.",
-      "link": "https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit",
-      "date": "2026-09-10T12:18:06+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 269,
+      "points": 259,
       "kindLabel": "HN API"
     },
     {
@@ -188,47 +118,107 @@
       "date": "2026-09-10T17:30:39+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 14,
+      "points": 47,
       "kindLabel": "HN API"
     },
     {
-      "title": "Macbeth and His Problems",
+      "title": "OpenAI Agents API",
       "text": "Hacker News discussion and source.",
-      "link": "https://porticoquarterly.com/essay/macbeth-and-his-problems/",
-      "date": "2026-09-07T20:34:32+00:00",
+      "link": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "date": "2026-09-10T19:43:22+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 61,
+      "points": 15,
       "kindLabel": "HN API"
     },
     {
-      "title": "Casablanca: How an unproduced play marched into movie history",
+      "title": "DeepSeek v4.1 Flash",
       "text": "Hacker News discussion and source.",
-      "link": "https://www.thecollector.com/casablanca-unproduced-play-movie-history/",
-      "date": "2026-09-10T15:52:02+00:00",
+      "link": "https://twitter.com/deepseek_ai/status/2097930608790167907",
+      "date": "2026-09-10T06:11:05+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 33,
+      "points": 903,
       "kindLabel": "HN API"
     },
     {
-      "title": "Python sets and dictionaries can have quadratic-time performance",
+      "title": "Neki",
       "text": "Hacker News discussion and source.",
-      "link": "https://lemire.me/blog/2026/09/03/python-sets-and-dictionaries-can-have-quadratic-time-performance/",
-      "date": "2026-09-08T16:17:51+00:00",
+      "link": "https://planetscale.com/blog/introducing-neki",
+      "date": "2026-09-10T15:43:49+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 52,
+      "points": 163,
       "kindLabel": "HN API"
     },
     {
-      "title": "Stockfish 19",
+      "title": "Douglas Hofstadter: Analogy as the Core of Cognition [video]",
       "text": "Hacker News discussion and source.",
-      "link": "https://stockfishchess.org/blog/2026/stockfish-19/",
-      "date": "2026-09-07T16:17:27+00:00",
+      "link": "https://www.youtube.com/watch?v=n8m7lFQ3njk",
+      "date": "2026-09-06T14:59:33+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 225,
+      "points": 102,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Silicon Valley Is Transforming the Military-Industrial Complex",
+      "text": "Hacker News discussion and source.",
+      "link": "https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex",
+      "date": "2026-09-10T15:47:50+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 119,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Creativity is the New Moat",
+      "text": "Hacker News discussion and source.",
+      "link": "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat",
+      "date": "2026-09-10T19:03:34+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 79,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1",
+      "text": "Hacker News discussion and source.",
+      "link": "https://tokenstead.ai/models/swe-2",
+      "date": "2026-09-10T16:52:11+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 40,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "What algorithm did Windows XP use to choose your initial user picture?",
+      "text": "Hacker News discussion and source.",
+      "link": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
+      "date": "2026-09-10T09:04:14+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 319,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Compute-efficient pretraining and scaling to trillion-parameter models",
+      "text": "Hacker News discussion and source.",
+      "link": "https://magic.dev/blog/pretraining#",
+      "date": "2026-09-08T16:59:53+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 103,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Schemy Lisp En DOS",
+      "text": "Hacker News discussion and source.",
+      "link": "https://sled.neocities.org/",
+      "date": "2026-09-06T12:58:54+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 70,
       "kindLabel": "HN API"
     },
     {
@@ -238,7 +228,17 @@
       "date": "2026-09-09T18:15:43+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 1363,
+      "points": 1393,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "List of references on Sony websites to players \"owning\" their digital games",
+      "text": "Hacker News discussion and source.",
+      "link": "https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit",
+      "date": "2026-09-10T12:18:06+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 321,
       "kindLabel": "HN API"
     },
     {
@@ -506,7 +506,7 @@
       "title": "Author Correction: The molecular basis of force selectivity by PIEZO2",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11079-1",
-      "date": "2026-09-10T18:50:39.153899+00:00",
+      "date": "2026-09-10T21:19:13.841588+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -514,7 +514,7 @@
       "title": "Distant sensors announced a fearsome tsunami’s birth",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02809-6",
-      "date": "2026-09-10T18:50:39.153937+00:00",
+      "date": "2026-09-10T21:19:13.841624+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -522,7 +522,7 @@
       "title": "AI researchers reckon with the $1.5 million ‘academia tax’",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02026-1",
-      "date": "2026-09-10T18:50:39.153956+00:00",
+      "date": "2026-09-10T21:19:13.841644+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -530,7 +530,7 @@
       "title": "Highly efficient base editing at <i>PCSK9</i> and normal human embryo development",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11118-x",
-      "date": "2026-09-10T18:50:39.153993+00:00",
+      "date": "2026-09-10T21:19:13.841683+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -538,7 +538,7 @@
       "title": "Phone tutoring boosts math scores when schools are forced to close",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02843-4",
-      "date": "2026-09-10T18:50:39.154012+00:00",
+      "date": "2026-09-10T21:19:13.841703+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -546,7 +546,7 @@
       "title": "How AI is changing PhD programmes: join our free webinar",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02751-7",
-      "date": "2026-09-10T18:50:39.154028+00:00",
+      "date": "2026-09-10T21:19:13.841719+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -554,7 +554,7 @@
       "title": "Bacteria recruited to treat cancer",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02823-8",
-      "date": "2026-09-10T18:50:39.154043+00:00",
+      "date": "2026-09-10T21:19:13.841734+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -562,7 +562,7 @@
       "title": "Ruins of ancient Asian city show engineering prowess and organization",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02821-w",
-      "date": "2026-09-10T18:50:39.154060+00:00",
+      "date": "2026-09-10T21:19:13.841750+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -570,7 +570,7 @@
       "title": "Breaking timescales with generative sampling of conformational transitions",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11025-1",
-      "date": "2026-09-10T18:50:39.154082+00:00",
+      "date": "2026-09-10T21:19:13.841772+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -578,7 +578,7 @@
       "title": "Within-family effect of ancestry on complex traits in a Mexican population",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11039-9",
-      "date": "2026-09-10T18:50:39.154111+00:00",
+      "date": "2026-09-10T21:19:13.841804+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -586,7 +586,7 @@
       "title": "Neocortical long-range inhibition promotes cortical synchrony and sleep",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-10876-y",
-      "date": "2026-09-10T18:50:39.154150+00:00",
+      "date": "2026-09-10T21:19:13.841845+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -594,7 +594,7 @@
       "title": "An operational perturbation proteomics-based virtual cell model",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11001-9",
-      "date": "2026-09-10T18:50:39.154194+00:00",
+      "date": "2026-09-10T21:19:13.841892+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -602,7 +602,7 @@
       "title": "PLA2G2D in tumour-draining lymph nodes regulates anti-tumour immunity",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-10954-1",
-      "date": "2026-09-10T18:50:39.154240+00:00",
+      "date": "2026-09-10T21:19:13.841942+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -610,7 +610,7 @@
       "title": "Foaming photopolymers as a high-resolution biomimetic printing platform",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-10968-9",
-      "date": "2026-09-10T18:50:39.154271+00:00",
+      "date": "2026-09-10T21:19:13.841974+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -618,7 +618,7 @@
       "title": "Advancing conflict research and response through satellite-derived data",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11004-6",
-      "date": "2026-09-10T18:50:39.154301+00:00",
+      "date": "2026-09-10T21:19:13.842006+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -626,7 +626,7 @@
       "title": "Denisovans from southwestern China and their subsistence strategies",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-10997-4",
-      "date": "2026-09-10T18:50:39.154339+00:00",
+      "date": "2026-09-10T21:19:13.842045+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -634,7 +634,7 @@
       "title": "A serpin–myeloid axis in pancreatic cancer heterogeneity and immune evasion",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11002-8",
-      "date": "2026-09-10T18:50:39.154367+00:00",
+      "date": "2026-09-10T21:19:13.842075+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -642,9 +642,17 @@
       "title": "Mobile education builds resilience during shocks in five countries",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-10990-x",
-      "date": "2026-09-10T18:50:39.154393+00:00",
+      "date": "2026-09-10T21:19:13.842100+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
+    },
+    {
+      "title": "Codeveloper of Ethernet Predecessor Dies at 91",
+      "text": "Franklin “Frank” Kuo Codeveloper of ALOHAnet Fellow, 91; died 14 April Kuo helped develop ALOHAnet , a pioneering computer system at the University of Hawaii at Mānoa , in Honolulu. The system went online in 1971 and represented the first public demonstration of a wireless packet data network . It was an inspiration for Robert Metcalfe ’s development of Ethernet a couple of years later. In 2020 ALOHAnet was designated as an IEEE Milestone . Kuo earned bachelor’s, master’s, and doctoral degrees i",
+      "link": "https://spectrum.ieee.org/codeveloper-of-ethernet-predecessor-dies",
+      "date": "Thu, 10 Sep 2026 20:00:04 +0000",
+      "source": "IEEE Spectrum",
+      "cat": "TECH"
     },
     {
       "title": "An Engineer’s Guide to Surviving a Layoff",
@@ -783,12 +791,12 @@
       "cat": "TECH"
     },
     {
-      "title": "IBM Built the Cold War’s Most Powerful Code Breaker for the NSA",
-      "text": "At the height of the Cold War, one very specialized computer was so secret that the world didn’t know it existed. It ran its jobs up to 200 times as fast as any other computer of its time. It was the U.S. National Security Agency’s main cryptographic processor in operation from the time of the Cuban Missile Crisis in 1962 through the Vietnam War and on past the 1975 Helsinki Accords . The machine stopped running only when its moving parts finally gave out. The Harvest computer mattered because o",
-      "link": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
-      "date": "Tue, 25 Aug 2026 13:00:01 +0000",
-      "source": "IEEE Spectrum",
-      "cat": "TECH"
+      "title": "STAT+: Right before midterms, Trump dangles $500 refunds for select ACA enrollees",
+      "text": "The legal basis for the $500 checks, and who would get them, isn't entirely clear.",
+      "link": "https://www.statnews.com/2026/09/10/trump-affordable-care-act-refund-checks-who-is-eligible/?utm_campaign=rss",
+      "date": "Thu, 10 Sep 2026 19:57:28 +0000",
+      "source": "STAT",
+      "cat": "HEALTHCARE"
     },
     {
       "title": "Platinum-based chemotherapy in childhood causes mutations that age the liver",
@@ -923,14 +931,6 @@
       "text": "AI can't change the ER's problems, which exemplify health care's bigger problems, writes Brittany Trang in this week's AI Prognosis.",
       "link": "https://www.statnews.com/2026/09/09/scribe-emergency-room-fix-health-care-ai-prognosis/?utm_campaign=rss",
       "date": "Wed, 09 Sep 2026 14:58:55 +0000",
-      "source": "STAT",
-      "cat": "HEALTHCARE"
-    },
-    {
-      "title": "STAT+: Orexin discoverers awarded prestigious Lasker award",
-      "text": "A new FDA CBER head, AI company Schrodinger with a new startup, and more biotech news from The Readout",
-      "link": "https://www.statnews.com/2026/09/09/biotech-news-orexin-discovers-awawrded-prestigious-lasker-award/?utm_campaign=rss",
-      "date": "Wed, 09 Sep 2026 13:38:20 +0000",
       "source": "STAT",
       "cat": "HEALTHCARE"
     },
@@ -1079,8 +1079,40 @@
       "cat": "SCIENCE"
     },
     {
+      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+      "text": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
+      "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+      "date": "Thu, 10 Sep 2026 20:59:51 +0000",
+      "source": "TechCrunch",
+      "cat": "TECH"
+    },
+    {
+      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+      "text": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
+      "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+      "date": "Thu, 10 Sep 2026 20:57:30 +0000",
+      "source": "TechCrunch",
+      "cat": "TECH"
+    },
+    {
+      "title": "Furo’s founders left Silicon Valley — and it’s paying off",
+      "text": "The three 28-year-old founders behind energy startup Furo moved from Silicon Valley and back to Germany, and yet secured $4 million in funding from mostly U.S. backers.",
+      "link": "https://techcrunch.com/2026/09/10/furos-founders-left-silicon-valley-and-its-paying-off/",
+      "date": "Thu, 10 Sep 2026 20:48:00 +0000",
+      "source": "TechCrunch",
+      "cat": "TECH"
+    },
+    {
+      "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
+      "text": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
+      "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+      "date": "Thu, 10 Sep 2026 19:50:04 +0000",
+      "source": "TechCrunch",
+      "cat": "TECH"
+    },
+    {
       "title": "Proxima Fusion bets €140M on a critical fusion ingredient dominated by Asian suppliers",
-      "text": "Proxima Fusion's new high-temperature superconducting magnet factory will help supply its commercial power plant.",
+      "text": "Proxima Fusion said Wednesday it plans to build a €140 million ($162.6 million) factory to produce fusion-grade high-temperature superconducting (HTS) tape, which will provide the startup with key component to its reactor design.",
       "link": "https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/",
       "date": "Thu, 10 Sep 2026 18:38:00 +0000",
       "source": "TechCrunch",
@@ -1191,35 +1223,59 @@
       "cat": "TECH"
     },
     {
-      "title": "European founders and VCs urge lawmakers ‘to get EU Inc right’",
-      "text": "Amid negotiations for a new EU-wide corporate status, an open letter signed by unicorn founders and investors warns that 'EU Inc.' shouldn’t be watered down.",
-      "link": "https://techcrunch.com/2026/09/10/european-founders-and-vcs-urge-lawmakers-to-get-eu-inc-right/",
-      "date": "Thu, 10 Sep 2026 12:25:08 +0000",
-      "source": "TechCrunch",
+      "title": "LinkedIn beats \"BrowserGate\" lawsuits over scanning users' Chrome extensions",
+      "text": "Judge tosses lawsuits, says plaintiffs didn't allege any real privacy violation.",
+      "link": "https://arstechnica.com/tech-policy/2026/09/linkedin-beats-browsergate-lawsuits-over-scanning-users-chrome-extensions/",
+      "date": "Thu, 10 Sep 2026 20:55:29 +0000",
+      "source": "Ars Technica",
       "cat": "TECH"
     },
     {
-      "title": "US Army places $11M bet on Austin-based GPS alternative Tern",
-      "text": "Tern has described its tech as \"Google Maps for the battlefield.\"",
-      "link": "https://techcrunch.com/2026/09/10/us-army-places-11m-bet-on-austin-based-gps-alternative-tern/",
-      "date": "Thu, 10 Sep 2026 12:00:00 +0000",
-      "source": "TechCrunch",
+      "title": "Europe will go it alone on Venus mission after NASA yanks radar instrument",
+      "text": "Europe is looking inward, and perhaps to China, as the White House tries to cancel some NASA partnerships.",
+      "link": "https://arstechnica.com/space/2026/09/europe-will-go-it-alone-on-venus-mission-after-nasa-yanks-radar-instrument/",
+      "date": "Thu, 10 Sep 2026 19:09:29 +0000",
+      "source": "Ars Technica",
       "cat": "TECH"
     },
     {
-      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-      "text": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
-      "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-      "date": "Thu, 10 Sep 2026 00:00:37 +0000",
-      "source": "TechCrunch",
+      "title": "Android can now securely migrate your logins between password managers",
+      "text": "App support is slim right now, but Google says more are coming.",
+      "link": "https://arstechnica.com/gadgets/2026/09/android-can-now-securely-migrate-your-logins-between-password-managers/",
+      "date": "Thu, 10 Sep 2026 18:41:09 +0000",
+      "source": "Ars Technica",
       "cat": "TECH"
     },
     {
-      "title": "Automattic’s board forces CEO Matt Mullenweg into leave of absence",
-      "text": "Mullenweg said in a company Slack message that it was against his will.",
-      "link": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
-      "date": "Wed, 09 Sep 2026 23:14:29 +0000",
-      "source": "TechCrunch",
+      "title": "Panic builds over bankrupt Spirit’s looming data sale to Google",
+      "text": "\"Bankruptcy cannot become the new land grab for AI.”",
+      "link": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
+      "date": "Thu, 10 Sep 2026 18:14:14 +0000",
+      "source": "Ars Technica",
+      "cat": "TECH"
+    },
+    {
+      "title": "Physicist does the math on Star Trek’s “Picard maneuver”",
+      "text": "The trick from Next Generation would be even more effective in real life.",
+      "link": "https://arstechnica.com/science/2026/09/physicist-does-the-math-on-star-treks-picard-maneuver/",
+      "date": "Thu, 10 Sep 2026 17:54:33 +0000",
+      "source": "Ars Technica",
+      "cat": "TECH"
+    },
+    {
+      "title": "Kimmel's ABC show won't air interview with Democrat because of Trump FCC threats",
+      "text": "Talarico talk to be on YouTube to save ABC stations the hassle of dealing with FCC.",
+      "link": "https://arstechnica.com/tech-policy/2026/09/kimmels-abc-show-wont-air-interview-with-democrat-because-of-trump-fcc-threats/",
+      "date": "Thu, 10 Sep 2026 17:30:09 +0000",
+      "source": "Ars Technica",
+      "cat": "TECH"
+    },
+    {
+      "title": "Drones deliver food and remove bodies after Nepal’s flood disaster",
+      "text": "DJI drones that already supply Mount Everest camps assist Nepal’s flood relief.",
+      "link": "https://arstechnica.com/gadgets/2026/09/drones-deliver-food-and-remove-bodies-after-nepals-flood-disaster/",
+      "date": "Thu, 10 Sep 2026 16:53:52 +0000",
+      "source": "Ars Technica",
       "cat": "TECH"
     },
     {
@@ -1311,59 +1367,19 @@
       "cat": "TECH"
     },
     {
-      "title": "Popular navigation apps unlikely to ditch Mercator maps despite UN resolution",
-      "text": "UN-backed Equal Earth map has educational value but won’t alter navigation apps.",
-      "link": "https://arstechnica.com/gadgets/2026/09/un-correct-the-map-resolution-wont-change-mercator-map-use-in-navigation-apps/",
-      "date": "Wed, 09 Sep 2026 17:11:46 +0000",
-      "source": "Ars Technica",
+      "title": "Is AI Actually Going to Kill Us All?",
+      "text": "This week on “Uncanny Valley,” we dig into a former Anthropic researcher’s AI doomsday warning, the latest upgrades from Apple’s event, and the census report that claimed Trump won the 2020 election.",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/",
+      "date": "Thu, 10 Sep 2026 20:30:37 +0000",
+      "source": "Wired",
       "cat": "TECH"
     },
     {
-      "title": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
-      "text": "\"We really do earnestly believe AI could kill all humans!\"",
-      "link": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
-      "date": "Wed, 09 Sep 2026 16:59:40 +0000",
-      "source": "Ars Technica",
-      "cat": "TECH"
-    },
-    {
-      "title": "Prime Video releases full trailer for Mike Flanagan's Carrie",
-      "text": "\"All I ever wanted was to go to school.\"",
-      "link": "https://arstechnica.com/culture/2026/09/prime-video-releases-full-trailer-for-mike-flanagans-carrie/",
-      "date": "Wed, 09 Sep 2026 16:40:45 +0000",
-      "source": "Ars Technica",
-      "cat": "TECH"
-    },
-    {
-      "title": "Google's AI genome system evaluates every possible one-base change",
-      "text": "Most one-base changes to the human genome do nothing, but a few are significant.",
-      "link": "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/",
-      "date": "Wed, 09 Sep 2026 16:34:18 +0000",
-      "source": "Ars Technica",
-      "cat": "TECH"
-    },
-    {
-      "title": "NOAA is putting commercial fishing ahead of conservation",
-      "text": "Critics say the new agenda could weaken science-based rules and marine protections.",
-      "link": "https://arstechnica.com/science/2026/09/noaa-is-putting-commercial-fishing-ahead-of-conservation/",
-      "date": "Wed, 09 Sep 2026 13:58:44 +0000",
-      "source": "Ars Technica",
-      "cat": "TECH"
-    },
-    {
-      "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
-      "text": "Man with bipolar disorder sued OpenAI after surviving ChatGPT-linked suicide attempt.",
-      "link": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
-      "date": "Wed, 09 Sep 2026 11:00:10 +0000",
-      "source": "Ars Technica",
-      "cat": "TECH"
-    },
-    {
-      "title": "LG TV shown scanning LAN for third-party phones and other devices",
-      "text": "“It doesn’t cost a lot to store text forever.”",
-      "link": "https://arstechnica.com/gadgets/2026/09/lg-tv-shown-capable-of-tracking-user-activity-even-when-offline/",
-      "date": "Tue, 08 Sep 2026 21:52:29 +0000",
-      "source": "Ars Technica",
+      "title": "August 2026 Was the Hottest Month Ever Recorded: Copernicus Data",
+      "text": "While the strengthening El Niño helped boost temperatures, climate change is the main culprit for making August so hot.",
+      "link": "https://www.wired.com/story/august-2026-is-hottest-month-ever-recorded/",
+      "date": "Thu, 10 Sep 2026 20:20:23 +0000",
+      "source": "Wired",
       "cat": "TECH"
     },
     {
@@ -1407,17 +1423,17 @@
       "cat": "TECH"
     },
     {
-      "title": "Everything New You Can Do With Siri AI",
-      "text": "When iOS 27 arrives, it will bring with it a fully revamped assistant for your iPhone.",
-      "link": "https://www.wired.com/story/everything-new-you-can-do-with-siri-ai/",
+      "title": "9 Windows Laptops That Give MacBooks a Run for Their Money",
+      "text": "Windows laptops have never been so good, and they’re only going to get better as we move through 2026.",
+      "link": "https://www.wired.com/gallery/best-windows-laptops/",
       "date": "Thu, 10 Sep 2026 10:30:00 +0000",
       "source": "Wired",
       "cat": "TECH"
     },
     {
-      "title": "9 Windows Laptops That Give MacBooks a Run for Their Money",
-      "text": "Windows laptops have never been so good, and they’re only going to get better as we move through 2026.",
-      "link": "https://www.wired.com/gallery/best-windows-laptops/",
+      "title": "Everything New You Can Do With Siri AI",
+      "text": "When iOS 27 arrives, it will bring with it a fully revamped assistant for your iPhone.",
+      "link": "https://www.wired.com/story/everything-new-you-can-do-with-siri-ai/",
       "date": "Thu, 10 Sep 2026 10:30:00 +0000",
       "source": "Wired",
       "cat": "TECH"
@@ -1487,25 +1503,9 @@
       "cat": "TECH"
     },
     {
-      "title": "Hungryroot Coupon Codes: 30% Off This September 2026",
-      "text": "Get up to 30% off your first order and free gifts using a Hungryroot promo code today. Discover our best coupons and discounts to let you save on your healthy groceries as a new or returning customer.",
-      "link": "https://www.wired.com/story/hungryroot-promo-code/",
-      "date": "Thu, 10 Sep 2026 05:00:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "Norton Coupon Codes: Up to 58% Off",
-      "text": "Whether you’re looking to protect your small business or your personal computer, we have the top coupons and deals to help you save at Norton.",
-      "link": "https://www.wired.com/story/norton-coupon-code/",
-      "date": "Thu, 10 Sep 2026 05:00:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "Govee Discount Codes and Deals: 30% Off",
-      "text": "New to Govee? Get a $5 coupon on your first purchase just for signing up.",
-      "link": "https://www.wired.com/story/govee-discount-code/",
+      "title": "NZXT Discount Codes: 50% Off in September 2026",
+      "text": "Save 50%, plus up to $250 with NZXT promo codes and discounts.",
+      "link": "https://www.wired.com/story/nzxt-discount-code/",
       "date": "Thu, 10 Sep 2026 05:00:00 +0000",
       "source": "Wired",
       "cat": "TECH"
