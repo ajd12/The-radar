@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T01:18:05.713201+00:00",
+  "generated_at": "2026-09-10T06:13:08.397760+00:00",
   "items": [
     {
       "title": "iPhone Duo",
@@ -8,7 +8,47 @@
       "date": "2026-09-09T18:15:43+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 864,
+      "points": 1088,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Show HN: What if the speed of light was 5 km/h?",
+      "text": "Hacker News discussion and source.",
+      "link": "https://rivendell.dmitrybrant.com/relativity/",
+      "date": "2026-09-10T01:58:00+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 176,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Version Control Second Coming",
+      "text": "Hacker News discussion and source.",
+      "link": "https://psantosl.github.io/posts/version-control-second-coming/",
+      "date": "2026-09-07T21:42:11+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 41,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "ESP32 Bit Pirate Hardware Hacking Kit with Web Tools That Speaks Every Protocol",
+      "text": "Hacker News discussion and source.",
+      "link": "https://geo-tp.github.io/ESP32-Bit-Pirate/",
+      "date": "2026-09-06T15:28:59+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 60,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "All grown-ups were once children… but only few of them remember it",
+      "text": "Hacker News discussion and source.",
+      "link": "https://mathstodon.xyz/@tao/117244102901892965",
+      "date": "2026-09-10T04:04:38+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 19,
       "kindLabel": "HN API"
     },
     {
@@ -18,7 +58,7 @@
       "date": "2026-09-09T13:27:11+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 883,
+      "points": 976,
       "kindLabel": "HN API"
     },
     {
@@ -28,17 +68,7 @@
       "date": "2026-09-08T18:11:05+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 359,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "AirPods 5",
-      "text": "Hacker News discussion and source.",
-      "link": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-      "date": "2026-09-09T17:39:24+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 368,
+      "points": 468,
       "kindLabel": "HN API"
     },
     {
@@ -48,17 +78,37 @@
       "date": "2026-09-09T17:14:59+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 201,
+      "points": 306,
       "kindLabel": "HN API"
     },
     {
-      "title": "iPhone 18 Pro and iPhone 18 Pro Max",
+      "title": "Training a 3.8B LLM to 0.384 CORE for $998 – Hugo Vergnes",
       "text": "Hacker News discussion and source.",
-      "link": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
-      "date": "2026-09-09T17:33:20+00:00",
+      "link": "https://hugovergnes.github.io/little-lm-3-8b/",
+      "date": "2026-09-10T02:04:11+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 270,
+      "points": 39,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "AirPods 5",
+      "text": "Hacker News discussion and source.",
+      "link": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "date": "2026-09-09T17:39:24+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 428,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Show HN: Compute polynomials twice as fast",
+      "text": "Hacker News discussion and source.",
+      "link": "https://thomasahle.com/fast-polynomials/",
+      "date": "2026-09-09T08:53:58+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 59,
       "kindLabel": "HN API"
     },
     {
@@ -68,7 +118,7 @@
       "date": "2026-09-09T15:47:42+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 292,
+      "points": 346,
       "kindLabel": "HN API"
     },
     {
@@ -78,27 +128,37 @@
       "date": "2026-09-09T14:37:47+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 345,
+      "points": 388,
       "kindLabel": "HN API"
     },
     {
-      "title": "Apple Watch Series 12",
+      "title": "iPhone 18 Pro and iPhone 18 Pro Max",
       "text": "Hacker News discussion and source.",
-      "link": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
-      "date": "2026-09-09T17:56:17+00:00",
+      "link": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+      "date": "2026-09-09T17:33:20+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 206,
+      "points": 334,
       "kindLabel": "HN API"
     },
     {
-      "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+      "title": "A Stupid Idea for AI Alignment We Came with by Looking at Specification Gaming",
       "text": "Hacker News discussion and source.",
-      "link": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
-      "date": "2026-09-09T17:24:28+00:00",
+      "link": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/",
+      "date": "2026-09-10T01:59:51+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 167,
+      "points": 45,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Automattic's board forces CEO Matt Mullenweg into leave of absence",
+      "text": "Hacker News discussion and source.",
+      "link": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
+      "date": "2026-09-09T23:49:29+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 173,
       "kindLabel": "HN API"
     },
     {
@@ -108,17 +168,17 @@
       "date": "2026-09-09T20:16:08+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 16,
+      "points": 74,
       "kindLabel": "HN API"
     },
     {
-      "title": "I'm sorry, you're not going to die from an AI-engineered supervirus",
+      "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
       "text": "Hacker News discussion and source.",
-      "link": "https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from",
-      "date": "2026-09-10T01:02:44+00:00",
+      "link": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+      "date": "2026-09-09T17:24:28+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 3,
+      "points": 200,
       "kindLabel": "HN API"
     },
     {
@@ -128,7 +188,37 @@
       "date": "2026-09-09T11:39:46+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 388,
+      "points": 428,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Apple Watch Series 12",
+      "text": "Hacker News discussion and source.",
+      "link": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
+      "date": "2026-09-09T17:56:17+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 245,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Aardman (Wallace and Gromit) Is Selling Its Original Movie Puppets",
+      "text": "Hacker News discussion and source.",
+      "link": "https://gizmodo.com/aardman-is-selling-its-original-movie-puppets-this-month-2000807968",
+      "date": "2026-09-07T01:35:21+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 26,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Rivian's gambit for full autonomy",
+      "text": "Hacker News discussion and source.",
+      "link": "https://spectrum.ieee.org/rivian-self-driving",
+      "date": "2026-09-08T19:09:50+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 63,
       "kindLabel": "HN API"
     },
     {
@@ -138,7 +228,7 @@
       "date": "2026-09-09T15:53:06+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 168,
+      "points": 191,
       "kindLabel": "HN API"
     },
     {
@@ -148,232 +238,205 @@
       "date": "2026-09-09T11:43:21+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 356,
+      "points": 384,
       "kindLabel": "HN API"
     },
     {
-      "title": "Understanding the recent DDoS attack against Read the Docs",
-      "text": "Hacker News discussion and source.",
-      "link": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
-      "date": "2026-09-09T15:55:53+00:00",
-      "source": "Hacker News",
+      "title": "Likelihood-free inference with nuisance parameters through normalizing flows",
+      "text": "We present a simple decomposition of a neural-network-based normalizing flow that naturally uncovers a pivotal statistic (or something close) in the presence of nuisance parameters, based only on a sample generator from the distribution of interest. We show that the statistic is near-pivotal in the sense of minimum average KL-divergence of its $p$-values versus uniform and we argue that it can be expected to have good power when the dimension of the statistic equals the dimension of the paramete",
+      "link": "http://arxiv.org/abs/2609.10534v1",
+      "date": "2026-09-09T17:58:15Z",
+      "source": "arXiv · AI/ML",
+      "cat": "SCIENCE",
+      "kindLabel": "ARXIV"
+    },
+    {
+      "title": "A positive resolution of the gap-entropy conjecture",
+      "text": "We prove the gap-entropy conjecture for fixed-confidence best-arm identification with independent unit-variance Gaussian arms, means in $[0,1]$, and a unique optimal arm. For each suboptimal arm $i$, let $Δ_i=μ_*-μ_i$ be its gap from the optimal mean, and write $H=\\sum_{i\\ne *}Δ_i^{-2}$. Let $p_r$ be the fraction of $H$ contributed by arms with $2^{-(r+1)} 0} p_r\\log(1/p_r)$. Among all algorithms that identify the optimal arm with probability at least $1-δ$ on every Gaussian instance, the optima",
+      "link": "http://arxiv.org/abs/2609.10529v1",
+      "date": "2026-09-09T17:57:11Z",
+      "source": "arXiv · AI/ML",
+      "cat": "SCIENCE",
+      "kindLabel": "ARXIV"
+    },
+    {
+      "title": "Characterizing Language Generation in the Limit: Finite Witnesses and a Separation-Width Hierarch",
+      "text": "Language generation in the limit asks for valid unseen elements from every exhaustive positive presentation of an unknown infinite language. We characterize this task for arbitrary families over a countable universe. Generation is possible exactly when each target can be assigned a finite positive witness so that the targets activated by any finite sample have an infinite common intersection. The necessary direction follows from a universal normalization: a search through unconfirmed histories c",
+      "link": "http://arxiv.org/abs/2609.10525v1",
+      "date": "2026-09-09T17:54:30Z",
+      "source": "arXiv · AI/ML",
+      "cat": "SCIENCE",
+      "kindLabel": "ARXIV"
+    },
+    {
+      "title": "Show-Harness: Just a VLM Agent Can Play Robots",
+      "text": "Foundation vision-language models (VLMs) exhibit broad intelligence about the world, yet translating this intelligence into robot control remains challenging. We present Show-Harness, an Embodied Harness that enables VLMs to \"play\" robots through a compact semantic interface linking intent to action. Show-Harness exposes discrete semantic action units that VLMs can naturally reason over, while embodiment-specific interpreters deterministically ground them into local robot actions, keeping the VL",
+      "link": "http://arxiv.org/abs/2609.10522v1",
+      "date": "2026-09-09T17:53:38Z",
+      "source": "arXiv · AI/ML",
+      "cat": "SCIENCE",
+      "kindLabel": "ARXIV"
+    },
+    {
+      "title": "Optimal Low-Rank Quantum State Tomography with Bounded-Sample Joint Measurements",
+      "text": "We determine the optimal sample complexity of low-rank quantum state tomography when each measurement may act jointly on at most $t$ samples. For sufficiently small $\\varepsilon$, estimating an unknown state on $\\mathbb{C}^d$ of rank at most $r$ to trace norm error $\\varepsilon$ with constant success probability requires, and is achievable with, $$ Θ\\left( \\frac{dr}{\\varepsilon^2} \\max\\left\\{1,\\frac r{\\sqrt t}\\right\\} \\right)$$ samples. The lower bound allows the protocol to choose each joint me",
+      "link": "http://arxiv.org/abs/2609.10514v1",
+      "date": "2026-09-09T17:48:41Z",
+      "source": "arXiv · AI/ML",
+      "cat": "SCIENCE",
+      "kindLabel": "ARXIV"
+    },
+    {
+      "title": "Quantum Feature Engineering for Credit Default Prediction: When and Why IQP Circuits Help Linear Classifiers",
+      "text": "Credit default prediction is a tabular classification problem in which modest gains in F1 translate directly into reduced financial exposure. We ask whether Instantaneous Quantum Polynomial-time (IQP) circuits can produce features that improve a classifier over both its raw classical baseline and Kernel PCA - the strongest unsupervised classical non-linear alternative - at an equal feature budget. The dataset provides 23 financial attributes per client; for an n-qubit circuit we select n of them",
+      "link": "http://arxiv.org/abs/2609.10505v1",
+      "date": "2026-09-09T17:41:27Z",
+      "source": "arXiv · AI/ML",
+      "cat": "SCIENCE",
+      "kindLabel": "ARXIV"
+    },
+    {
+      "title": "Cross-Model Agreement as a Deployment-Time Reliability Signal for Automatic Polyp Segmentation",
+      "text": "In real-time colonoscopy, ground-truth annotations are unavailable at inference, so polyp segmentation models can fail silently. We propose Referee-Based Quality Estimation (RBQE), a reference-free framework measuring agreement between a primary segmentation model and an independently trained referee on the same image. RBQE is evaluated on a standardized 1,223-image external benchmark drawn from four public datasets, using four referee configurations chosen to separate two design axes: referee i",
+      "link": "http://arxiv.org/abs/2609.10495v1",
+      "date": "2026-09-09T17:32:43Z",
+      "source": "arXiv · AI/ML",
+      "cat": "SCIENCE",
+      "kindLabel": "ARXIV"
+    },
+    {
+      "title": "IBIB: A Protocol for Measuring Enterprise AI Systems by Serving Route, Not Model Identifier",
+      "text": "Enterprises deploy systems, not checkpoints. Usable capability depends jointly on weights, serving route, precision, output contract, and harness, yet all 18 audited benchmarks score advertised model identifiers. We treat this as measurement error and give a protocol that makes it reportable. It has three parts. A gold-blind capability-binding preflight verifies that a route can execute the evaluation contract before any task reaches it; a reliability-inclusive first-pass scoring rule keeps fail",
+      "link": "http://arxiv.org/abs/2609.10494v1",
+      "date": "2026-09-09T17:31:29Z",
+      "source": "arXiv · AI/ML",
+      "cat": "SCIENCE",
+      "kindLabel": "ARXIV"
+    },
+    {
+      "title": "Learning with Covariance Matrices: Principal Component Analysis Meets Learning with Graphs",
+      "text": "This feature article provides an overview of the theoretical foundations for coVariance neural networks (VNNs), i.e., graph neural networks (GNNs) operating on covariance matrices as graphs. Covariance matrices are ubiquitous across domains, and hence, the deployment of GNNs often leverages graphs of pairwise statistical dependencies. Existing theoretical contributions on GNNs consider abstract graph representations and cannot accommodate the data-driven nuances associated with covariance matric",
+      "link": "http://arxiv.org/abs/2609.10490v1",
+      "date": "2026-09-09T17:28:46Z",
+      "source": "arXiv · AI/ML",
+      "cat": "SCIENCE",
+      "kindLabel": "ARXIV"
+    },
+    {
+      "title": "Nonmaximal sums of maximally monotone operators under Rockafellar's constraint qualification",
+      "text": "We construct counterexamples to Rockafellar's sum conjecture in which two maximally monotone operators satisfy the interior-domain condition but their sum is not maximally monotone. We give one counterexample on $c_0$ and another on $\\ell^1$ with its usual norm. We establish a general construction theorem that computes the entire monotone polar of a class of graphs, gives a necessary and sufficient condition for their maximal monotonicity, and shows how a positive rank-one perturbation yields a ",
+      "link": "http://arxiv.org/abs/2609.10487v1",
+      "date": "2026-09-09T17:26:26Z",
+      "source": "arXiv · AI/ML",
+      "cat": "SCIENCE",
+      "kindLabel": "ARXIV"
+    },
+    {
+      "title": "Deep Learning-Based Detection of Electrical Faults and Power Quality Disturbances in Aerospace Power Systems",
+      "text": "More Electric Aircraft require fast and reliable monitoring of high-frequency electrical networks, yet most power quality disturbance and fault diagnosis methods are developed for conventional 50 or 60 Hz grids. This work presents a hardware-aware deep learning framework for multiclass detection of electrical faults and power quality disturbances in a 400 Hz aerospace power system. A high-fidelity simulation model inspired by the Boeing 787 electrical architecture generates voltage and current w",
+      "link": "http://arxiv.org/abs/2609.10479v1",
+      "date": "2026-09-09T17:19:14Z",
+      "source": "arXiv · AI/ML",
+      "cat": "SCIENCE",
+      "kindLabel": "ARXIV"
+    },
+    {
+      "title": "Semigroup-JEPA: Latent Dynamics Consistency for Zero-Shot Physics Generalization",
+      "text": "Joint-Embedding Predictive Architecture (JEPA) world models learn a compact latent representation of the world that supports prediction and planning, but their capability to learn physics and generate physically realistic dynamics remains hitherto untested. In this work, we introduce SemiGroup-JEPA (SG-JEPA), which extends the LeWorldModel framework by supplying the parameter governing the physics to the temporal model via action-conditioning and jointly training an encoder and predictor through",
+      "link": "http://arxiv.org/abs/2609.10464v1",
+      "date": "2026-09-09T17:08:13Z",
+      "source": "arXiv · AI/ML",
+      "cat": "SCIENCE",
+      "kindLabel": "ARXIV"
+    },
+    {
+      "title": "JarvisGUI: Towards Cross-Device GUI Agents with Dynamic Task Composition",
+      "text": "Real-world GUI usage frequently involves workflows that span multiple devices and platforms, requiring the transfer of intermediate results, maintenance of shared state, and coordination across heterogeneous environments. However, existing GUI benchmarks overwhelmingly evaluate agents on single-device, statically defined tasks, thus leaving such cross-device capabilities largely unexamined, resulting in an overly optimistic assessment of agents' readiness for real-world usage. We introduce Jarvi",
+      "link": "http://arxiv.org/abs/2609.10451v1",
+      "date": "2026-09-09T16:59:59Z",
+      "source": "arXiv · AI/ML",
+      "cat": "SCIENCE",
+      "kindLabel": "ARXIV"
+    },
+    {
+      "title": "ConvMem: Convolutional Memory for Long-Context Reasoning",
+      "text": "While Large Language Models (LLMs) have demonstrated impressive capabilities, they often struggle with extremely long contexts due to fixed context limits. To address this, sequential approaches like MemAgent extend the effective context by reading text in segments and iteratively updating a fixed-size memory. However, this sequential paradigm suffers from high latency and requires costly reinforcement learning (RL) training, which can lead to overfitting on specific datasets. To overcome these ",
+      "link": "http://arxiv.org/abs/2609.10441v1",
+      "date": "2026-09-09T16:53:02Z",
+      "source": "arXiv · AI/ML",
+      "cat": "SCIENCE",
+      "kindLabel": "ARXIV"
+    },
+    {
+      "title": "Forgetting Only What Matters: Layer-Selective Unlearning toward Robust LLMs",
+      "text": "Large Language Models (LLMs) can memorize and reproduce sensitive, copyrighted, or otherwise undesirable training content, creating privacy, safety, and regulatory concerns. Machine unlearning offers a practical alternative to full retraining, but many existing methods apply broad or fixed parameter updates that can degrade utility and remain brittle under deployment changes such as post-training quantization, where forgotten knowledge may partially re-emerge. We propose Forgetting Only What Mat",
+      "link": "http://arxiv.org/abs/2609.10439v1",
+      "date": "2026-09-09T16:50:41Z",
+      "source": "arXiv · AI/ML",
+      "cat": "SCIENCE",
+      "kindLabel": "ARXIV"
+    },
+    {
+      "title": "PASCAL: A Phase-Aware Shared-Cache Model for Parallel Scans",
+      "text": "In modern AI Accelerators and GPGPUs, many concurrent cores repeatedly access the same shared data. This pattern occurs in attention, where different query tiles share the same K/V block, GEMM, where every tile in a row reads the same panel, and many other operators. We name this pattern parallel scan. Due to a significant amount of data reuse in this pattern, the cache is expected to capture as much data reuse as possible and largely reduce requests sent to the main memory for both performance ",
+      "link": "http://arxiv.org/abs/2609.10515v1",
+      "date": "2026-09-09T17:48:51Z",
+      "source": "arXiv · Systems",
       "cat": "TECH",
-      "points": 153,
-      "kindLabel": "HN API"
+      "kindLabel": "ARXIV"
     },
     {
-      "title": "Planet Labs' open satellite feed",
-      "text": "Hacker News discussion and source.",
-      "link": "https://tech.marksblogg.com/planet-labs-open-satellite-feed.html",
-      "date": "2026-09-09T15:44:09+00:00",
-      "source": "Hacker News",
+      "title": "Avatar: Toward Autonomous End-to-End Orchestration of Scientific Workflows using LLMs",
+      "text": "Scientific workflow management (WMSs) systems automate execution, yet orchestrate using fixed, hand-tuned rules. LLM agents promise more autonomous orchestration, but it remains unclear where to introduce agentic reasoning, how to bound its risk, and when it actually helps. We present Avatar, an actor-based architecture comprising an orchestrator, an executor, and a provenance monitor. Each actor's decision policy is pluggable (rule-based or LLM-backed) via a single adapter-validated action cata",
+      "link": "http://arxiv.org/abs/2609.10509v1",
+      "date": "2026-09-09T17:45:36Z",
+      "source": "arXiv · Systems",
       "cat": "TECH",
-      "points": 143,
-      "kindLabel": "HN API"
+      "kindLabel": "ARXIV"
     },
     {
-      "title": "The Kuycon P20 – 28\" 4500x3000px 3:2 monitor",
-      "text": "Hacker News discussion and source.",
-      "link": "https://taoofmac.com/space/reviews/2026/09/06/1800",
-      "date": "2026-09-06T22:24:18+00:00",
-      "source": "Hacker News",
+      "title": "Multivariate linear regression without prior assumptions",
+      "text": "Recovering the linear relationships that govern a system from noisy measurements is a basic task across the physical and engineering sciences. Because every measured variable may carry an unknown amount of noise, classical regression must commit in advance to a set of structural assumptions: ordinary least squares requires a declared input-output partition with input variables being noise-free, total least squares assumes equal noise variance across all variables, and generalized total least squ",
+      "link": "http://arxiv.org/abs/2609.10477v1",
+      "date": "2026-09-09T17:18:04Z",
+      "source": "arXiv · Systems",
       "cat": "TECH",
-      "points": 17,
-      "kindLabel": "HN API"
+      "kindLabel": "ARXIV"
     },
     {
-      "title": "Blizzard Workers Win Historic Union Contract",
-      "text": "Hacker News discussion and source.",
-      "link": "https://www.gamespot.com/articles/blizzard-workers-win-historic-union-contract-that-could-set-a-new-standard-for-game-developers",
-      "date": "2026-09-09T22:22:53+00:00",
-      "source": "Hacker News",
+      "title": "The U.S. Interconnection Queue System: Cascading Vulnerability Analysis and a Resilience Engineering Framework",
+      "text": "As of 2025, the U.S. interconnection queues, the grid-access gateway for new generation and storage, contain roughly 8,200 projects totaling 2,061 GW of capacity. Only 13% of capacity queued in 2000-2020 (19% by project count) has reached operation. We argue that the queue architecture is vulnerable to self-reinforcing project withdrawal cascades arising from restudy and cost reallocation, independent of study delays. Adapting failure contagion models from financial and interdependent infrastruc",
+      "link": "http://arxiv.org/abs/2609.10455v1",
+      "date": "2026-09-09T17:04:46Z",
+      "source": "arXiv · Systems",
       "cat": "TECH",
-      "points": 74,
-      "kindLabel": "HN API"
+      "kindLabel": "ARXIV"
     },
     {
-      "title": "Use Vsock with Libzmq",
-      "text": "Hacker News discussion and source.",
-      "link": "https://blog.remijouan.net/posts/libzmq-vsock-pyzmq/",
-      "date": "2026-09-07T20:24:53+00:00",
-      "source": "Hacker News",
+      "title": "Mobility Information Capacity in the Sky: A Gaussian Channel Perspective",
+      "text": "Existing airspace capacity metrics mainly quantify occupancy or flow, although the same number of aerial vehicles may result in different motion alternatives. This letter establishes \\emph{mobility information capacity} as an information-theoretic measure for low-altitude wireless networks. It quantifies the maximum information that trajectory observations reveal about intentional maneuver inputs under a given maneuver-resource budget and environmental uncertainty. For a common fixed feedback ar",
+      "link": "http://arxiv.org/abs/2609.10436v1",
+      "date": "2026-09-09T16:48:28Z",
+      "source": "arXiv · Systems",
       "cat": "TECH",
-      "points": 24,
-      "kindLabel": "HN API"
+      "kindLabel": "ARXIV"
     },
     {
-      "title": "Electrostatic Cathode Ray Tube Project 1 (2014)",
-      "text": "Hacker News discussion and source.",
-      "link": "https://labguysworld.com/Project_ESCRTs_001.htm",
-      "date": "2026-09-08T05:25:22+00:00",
-      "source": "Hacker News",
+      "title": "Tethered UAVs for Dense Urban Connectivity",
+      "text": "This paper evaluates the downlink performance of 5G non-terrestrial networks (NTNs) realized via tethered unmanned aerial vehicle (TUAV)-mounted base stations, and compares it against conventional 5G terrestrial networks (TNs) in a realistic dense urban scenario. Unlike battery-limited UAVs, TUAVs are connected to ground stations via lightweight cables, enabling stable positioning and near-line-of-sight links to users without the endurance constraints of untethered platforms. Using a 3GPP-compli",
+      "link": "http://arxiv.org/abs/2609.10414v1",
+      "date": "2026-09-09T16:32:20Z",
+      "source": "arXiv · Systems",
       "cat": "TECH",
-      "points": 11,
-      "kindLabel": "HN API"
+      "kindLabel": "ARXIV"
     },
     {
-      "title": "Bespoke: A programming language for people who say please",
-      "text": "Hacker News discussion and source.",
-      "link": "https://blog.hofstede.it/bespoke-a-programming-language-for-people-who-say-please/",
-      "date": "2026-09-06T08:13:53+00:00",
-      "source": "Hacker News",
+      "title": "Economic Evaluation of V2G-Enabled Fast Charging Stations Under Endogenous EV Adoption Dynamics",
+      "text": "Building fast charging stations (FCSs) is crucial for transportation electrification, but there exists an indirect network effect: while the increasing number of electric vehicles (EVs) decides the FCS capacity expansion, the spatial locations of these facilities strongly influence drivers' willingness to adopt EVs. Ignoring this interaction can lead to bad capital investments and exacerbate power grid vulnerabilities during tidal traffic peaks. Therefore, we explicitly model the EV adoption dyn",
+      "link": "http://arxiv.org/abs/2609.10388v1",
+      "date": "2026-09-09T16:11:09Z",
+      "source": "arXiv · Systems",
       "cat": "TECH",
-      "points": 121,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Microsoft says email spammers are adopting ASCII smuggling",
-      "text": "Hacker News discussion and source.",
-      "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
-      "date": "2026-09-05T06:24:26+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 44,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Claude, change the “Add to Cart” button to blue",
-      "text": "Hacker News discussion and source.",
-      "link": "https://opusfived.dev/",
-      "date": "2026-09-09T09:39:46+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 1003,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "OmniMed-FL: A Robust Multimodal Federated Learning Framework for Clinical Diagnosis",
-      "text": "Simultaneous assessment of medical imaging and patient records is often required in clinical diagnosis. However, standard machine learning algorithms cannot analyze these data types together. Meanwhile, compliance with HIPAA and GDPR can constrain centralized aggregation of sensitive patient data. This leaves a crucial void of secure fusion of visual and textual context across distant networks. Thus, we present OmniMed-FL, a controlled systems study of multimodal federated learning for five-clas",
-      "link": "http://arxiv.org/abs/2609.10364v1",
-      "date": "2026-09-09T15:56:26Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "A Later Test Set Is Not a New Domain: Pretraining Familiarity Survives a Contamination-Free Hold-Out",
-      "text": "Time-series foundation models are evaluated almost exclusively on public archives that predate them, so a strong score cannot be separated from having seen the test set during pretraining. The obvious remedy is a hold-out that postdates the models. We build one: thirteen forecasters -- four classical, three trained per dataset, six pretrained -- on seven groups drawn from five domains, every observation published after the last model was released, and every dataset rebuildable without an API key",
-      "link": "http://arxiv.org/abs/2609.10357v1",
-      "date": "2026-09-09T15:52:55Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Cyber-Financial Contagion: Modeling the Propagation of an AI Vendor Compromise Through the Banking System",
-      "text": "The banking system now depends on a small set of shared artificial intelligence vendors for fraud screening, credit decisioning, anti-money-laundering triage, customer analytics, and internal decision support. This paper studies how a compromise inside one of those vendors can propagate along a chain of operational, informational, and financial linkages until it triggers losses that look, from the outside, like a classical banking crisis. We build a four-layer heterogeneous network that couples ",
-      "link": "http://arxiv.org/abs/2609.10350v1",
-      "date": "2026-09-09T15:46:16Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Beyond One-Size-Fits-All: Sample-Adaptive Strategy Routing for Vision Token Pruning in MLLMs",
-      "text": "Multimodal large language models (MLLMs) process hundreds or thousands of visual tokens per image, incurring prohibitive inference costs. While existing vision token pruning methods mitigate this overhead, they implicitly assume that a single fixed pruning strategy can be applied uniformly across all inputs. Our analysis further reveals that ranking pruning methods by average benchmark accuracy conceals substantial sample-wise complementarity: although the average-best strategy excels overall, a",
-      "link": "http://arxiv.org/abs/2609.10346v1",
-      "date": "2026-09-09T15:44:32Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "TimeCues Studio: A Workspace for Music Annotation and Algorithm Prototyping",
-      "text": "Multimedia applications require precise music annotation-labeled positions, segments, or loops-placed by hand or algorithmically. Machine-learning algorithms are scalable and effective but need annotated training data, scarce for many tasks. TimeCues Studio is an open-source workspace where algorithm-development teams annotate a music corpus, compare detection algorithms against those annotations, and prototype new ones. Unlike existing tools built for a single track at a time, TimeCues targets ",
-      "link": "http://arxiv.org/abs/2609.10338v1",
-      "date": "2026-09-09T15:35:36Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "From Symbolic Perception to Logical Deduction: A Framework for Guiding Language Models in Geometric Reasoning",
-      "text": "Plane geometry remains a significant challenge in AI, requiring the integration of visual perception and mathematical reasoning. While Large Multimodal Models (LMMs) naturally handle visuo-linguistic inputs, they are often computationally intensive and opaque. We demonstrate that a pure Large Language Model (LLM), when equipped with specialized modules, can rival state-of-the-art LMMs on complex geometry problems. Our framework integrates a Geometric Vision Parser, which translates diagrams into",
-      "link": "http://arxiv.org/abs/2609.10335v1",
-      "date": "2026-09-09T15:33:25Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "TRACE: Training Reasoning Agents for Causal Exploration with Synthesized Rewards",
-      "text": "Reinforcement learning with verifiable rewards (RLVR) has advanced language-model reasoning in domains such as mathematics and code, where objective answers are inexpensive to check. Diagnostic reasoning over complex data lacks this advantage: establishing the true cause of an anomaly often requires costly expert investigation and may remain ambiguous after the fact. We ask whether this asymmetry of verification can instead be engineered. We sample an intervention, inject it into a controlled si",
-      "link": "http://arxiv.org/abs/2609.10315v1",
-      "date": "2026-09-09T15:21:47Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "One Loop, Two Gains: Can Active Learning win the Lottery for Free?",
-      "text": "The lottery ticket hypothesis posits the existence of winning tickets: sparse subnetworks that, when trained in isolation from their original initialization, match the accuracy of the full dense network. The predominant method for discovering such tickets, iterative magnitude pruning, alternates pruning with full retraining from scratch until convergence over many cycles. Similarly, deep active learning also retrains a model from scratch after each acquisition round as new labels become availabl",
-      "link": "http://arxiv.org/abs/2609.10311v1",
-      "date": "2026-09-09T15:18:37Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "View-Structured Conformal Prediction for 3D Gaussian Splatting",
-      "text": "3D Gaussian Splatting (3DGS) renders novel views in real time, but an uncertainty heatmap does not certify that a rendered view meets a certain prediction coverage. We treat novel-view synthesis as structured regression and ask that, with probability at least $1-α$, RGB prediction boxes cover at least a $1-β$ fraction of pixels in a new view. We propose View-Structured Conformal Prediction (VSCP). It splits the pre-calibration scale into a spatial shape from the renderer and a transferable view-",
-      "link": "http://arxiv.org/abs/2609.10307v1",
-      "date": "2026-09-09T15:16:52Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "RiLM: Parameter-Efficient Language Modeling via Geodesic Decoding",
-      "text": "Language models under one million parameters matter for edge deployment, domain adaptation, and reproducible research, yet a two-layer LSTM or Transformer at embedding width d = 128 still spends roughly one third of its capacity on the output matrix W_out in R^(d x |V|). We propose Riemannian Language Models (RiLM), which remove that layer entirely: context unfolds as a trajectory on a Riemannian manifold, and next-token probabilities arise from squared geodesic distance between the current stat",
-      "link": "http://arxiv.org/abs/2609.10305v1",
-      "date": "2026-09-09T15:16:31Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "A Dominant Diffuse Phase in the Sparse Autoencoder Phase Diagram",
-      "text": "Sparse autoencoders (SAEs) are increasingly used to recover interpretable features from neural-network activations, yet systematic feature co-occurrence can cause distinct features to be absorbed or merged. The MAIS-O43 open problem proposes a controlled experiment to characterize when recovery of a true synthetic dictionary gives way to feature merging as the nesting fraction $γ$, sparsity penalty $λ$, and dictionary size $M$ vary. We implement the specified protocol and evaluate 200 independen",
-      "link": "http://arxiv.org/abs/2609.10299v1",
-      "date": "2026-09-09T15:13:42Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Learning Intrusion Response Strategies for OT Systems",
-      "text": "Cyberattacks against Operational Technology (OT) systems, which monitor and control industrial processes, pose an increasing threat to essential societal services. For this reason, developing automated intrusion response strategies is highly important. In this paper, we present a formal model of an OT intrusion response use case using the POMDP framework. It includes a realistic model of partial observability that is based on traffic measurements. This approach allows us to develop tractable, le",
-      "link": "http://arxiv.org/abs/2609.10298v1",
-      "date": "2026-09-09T15:12:52Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "The Semantic Bottleneck: Leveraging Semantic Representations for Non-Invasive Speech Decoding",
-      "text": "Non-invasive speech decoding remains constrained by the low signal-to-noise ratio of neural recordings, which makes fine-grained reconstruction of phonemes or individual words difficult. Motivated by neuroscientific evidence that high-level semantic representations are distributed across cortical regions and evolve over slower temporal scales, we hypothesize that semantic content may provide a more suitable target for non-invasive decoding than low-level acoustic or lexical features. We introduc",
-      "link": "http://arxiv.org/abs/2609.10296v1",
-      "date": "2026-09-09T15:11:57Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "GANDR: Claim Auditing for Verifiable Legal Answer Generation",
-      "text": "In high-stakes domains such as legal practice, a language-model answer is only useful to the extent that a reader can verify each claim against the source the system cites. Current grounded-generation pipelines score the answer as a whole, so a correct conclusion can rest on fabricated or loosely matched citations and still score well. Closing this gap requires both a system built for per-claim verification and an evaluation that measures it. We introduce GANDR (Grounded ANswer DRafter), a two-a",
-      "link": "http://arxiv.org/abs/2609.10293v1",
-      "date": "2026-09-09T15:08:09Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Training Trajectories Determine Circuit Removability in Annealable Soft-Prior Transformers",
-      "text": "Soft positional priors can help small Transformers learn retrieval circuits, but it is unclear whether the resulting circuits remain functional once the prior is removed. We test this with an annealable soft-prior Transformer whose attention biases can be learned, faded, or zeroed during training and evaluation. On associative recall, unforced models perform well with the prior active ($0.772 \\pm 0.020$) but collapse at zero gate ($0.095 \\pm 0.009$). Smooth fade-to-zero training preserves high z",
-      "link": "http://arxiv.org/abs/2609.10287v1",
-      "date": "2026-09-09T15:06:40Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
       "kindLabel": "ARXIV"
     },
     {
@@ -440,82 +503,18 @@
       "kindLabel": "ARXIV"
     },
     {
-      "title": "Distributed ToA Localization of Acoustic Sources with Unknown Time of Emission via Operator Splitting",
-      "text": "Localization of non-cooperative acoustic sources using multiple spatially distributed receivers is critical for applications such as marine-life tracking, search-and-rescue operations, and maritime security in underwater environments. In conventional Time of Arrival (ToA) systems, the emission time is typically known explicitly or implicitly through clock synchronization or two-way communication, so the problem reduces to range-based localization. In passive settings, however, only reception tim",
-      "link": "http://arxiv.org/abs/2609.10182v1",
-      "date": "2026-09-09T13:51:44Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Can AI Agents Deliver Verifiable Network-Wide Outcomes Across Authority Boundaries?",
-      "text": "AI agents are increasingly involved in network automation, where they can initiate configuration changes through mediated operational interfaces and assess the resulting state. Nonetheless, operational networks usually span many devices and administrative domains. Realizing an operator's intent requires coordinating agents with distinct authority scopes that define the resources they can access, the operations they can invoke, and the network state they can observe. This division limits the blas",
-      "link": "http://arxiv.org/abs/2609.10181v1",
-      "date": "2026-09-09T13:51:15Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "CEDD-optimizer: Enabling Cost-Efficient Dataset Distillation on Geographically Distributed Edge Systems",
-      "text": "Centralized learning is a fundamental paradigm in modern AI, in which data are collected from distributed edge devices and aggregated at a central host for model training. However, this pipeline is often bottlenecked by the substantial communication overhead of data collection. Dataset Distillation (DD), with its high compression ratio, is therefore attractive for centralized learning on distributed data. Yet, the cost efficiency of DD in non-uniform edge environments remains largely unexplored.",
-      "link": "http://arxiv.org/abs/2609.10151v1",
-      "date": "2026-09-09T13:29:28Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Context operations to architecture modelling output from large language models and evaluation criteria for their use in systems engineering design",
-      "text": "The development of generative artificial intelligence resources enables opportunities of speeding up systems and engineering design work. This contribution introduces a framework of formal operations for assembling context in LLM-based engineering design. This framework involves the assembly of modular context units, including policy prompts, reference units with persistence, and user questions with prompt vectoring. This approach enables the systematic structuring of interactions with generativ",
-      "link": "http://arxiv.org/abs/2609.10132v1",
-      "date": "2026-09-09T13:09:01Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Joint nonlinearity in a stiffened aluminium wingbox panel and what it requires of a reduced basis",
-      "text": "A shell finite-element model of a stiffened aluminium wingbox panel, a laboratory structure shared by several experimental studies, is built with its plate-to-stiffener joints at the $78$ physical fastener positions and calibrated against measured modal data, a six-parameter sensitivity update of the substructure moduli within $\\pm20\\%$ reproducing the first five measured modes to $1.1$--$4.3\\%$ with modal-assurance values of $0.88$--$1.00$. Making the fasteners nonlinear, at equal mesh, mass an",
-      "link": "http://arxiv.org/abs/2609.10088v1",
-      "date": "2026-09-09T12:09:47Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Introvert Clustering for Distributed Graph Algorithms",
-      "text": "We introduce a graph decomposition primitive called introvert clustering, which strengthens standard low-diameter clustering by guaranteeing that every clustered vertex keeps at least a $\\left(\\frac12-\\varepsilon\\right)$-fraction of its relevant neighbors in its own cluster. Repeatedly applying this primitive yields a layered introvert network decomposition with $O(\\log n)$ layers and weak diameter $O(\\log n)$. We give two applications in the $\\mathsf{LOCAL}$ model. For every constant $\\varepsil",
-      "link": "http://arxiv.org/abs/2609.10044v1",
-      "date": "2026-09-09T11:18:00Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Elastoformer: Enabling Dynamic Adaptivity via Elastic Model Transformation",
-      "text": "EdgeAI systems are increasingly employing computer vision applications to enable intelligent, on-device decision-making in real-time. However, these deployments face highly dynamic operational conditions, with fluctuating constraints on latency, power availability, and memory resources. Deep Neural Networks (DNN), which follow fixed computational execution flows, lack the flexibility to adapt to such variability, resulting in inefficient and suboptimal performance in edge scenarios. This undersc",
-      "link": "http://arxiv.org/abs/2609.10018v1",
-      "date": "2026-09-09T10:52:21Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Review on State-of-the-art Energy Systems in Arctic",
-      "text": "The Arctic regions remain heavily dependent on fossil fuels for energy generation. At the same time, the Arctic is warming at a rate considerably faster than the global average, increasing the need for low-carbon and climate-resilient energy systems. This review documents the current energy systems and assesses state-of-the-art energy solutions applicable to Arctic and cold-climate regions, as well as the future direction of these emerging energy systems, and analyses the role of energy storage,",
-      "link": "http://arxiv.org/abs/2609.09992v1",
-      "date": "2026-09-09T10:17:16Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
+      "title": "Distant sensors announced a fearsome tsunami’s birth",
+      "text": "",
+      "link": "https://www.nature.com/articles/d41586-026-02809-6",
+      "date": "2026-09-10T06:13:06.101760+00:00",
+      "source": "Nature",
+      "cat": "SCIENCE"
     },
     {
       "title": "Highly efficient base editing at <i>PCSK9</i> and normal human embryo development",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11118-x",
-      "date": "2026-09-10T01:18:04.090306+00:00",
+      "date": "2026-09-10T06:13:06.101817+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -523,7 +522,7 @@
       "title": "Phone tutoring boosts math scores when schools are forced to close",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02843-4",
-      "date": "2026-09-10T01:18:04.090385+00:00",
+      "date": "2026-09-10T06:13:06.101841+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -531,7 +530,7 @@
       "title": "How AI is changing PhD programmes: join our free webinar",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02751-7",
-      "date": "2026-09-10T01:18:04.090411+00:00",
+      "date": "2026-09-10T06:13:06.101858+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -539,7 +538,15 @@
       "title": "Bacteria recruited to treat cancer",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02823-8",
-      "date": "2026-09-10T01:18:04.090433+00:00",
+      "date": "2026-09-10T06:13:06.101874+00:00",
+      "source": "Nature",
+      "cat": "SCIENCE"
+    },
+    {
+      "title": "Ruins of ancient Asian city show engineering prowess and organization",
+      "text": "",
+      "link": "https://www.nature.com/articles/d41586-026-02821-w",
+      "date": "2026-09-10T06:13:06.101891+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -547,7 +554,7 @@
       "title": "Breaking timescales with generative sampling of conformational transitions",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11025-1",
-      "date": "2026-09-10T01:18:04.090461+00:00",
+      "date": "2026-09-10T06:13:06.101912+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -555,7 +562,7 @@
       "title": "Within-family effect of ancestry on complex traits in a Mexican population",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11039-9",
-      "date": "2026-09-10T01:18:04.090506+00:00",
+      "date": "2026-09-10T06:13:06.101946+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -563,7 +570,7 @@
       "title": "Neocortical long-range inhibition promotes cortical synchrony and sleep",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-10876-y",
-      "date": "2026-09-10T01:18:04.090559+00:00",
+      "date": "2026-09-10T06:13:06.101987+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -571,7 +578,7 @@
       "title": "An operational perturbation proteomics-based virtual cell model",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11001-9",
-      "date": "2026-09-10T01:18:04.090622+00:00",
+      "date": "2026-09-10T06:13:06.102037+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -579,7 +586,7 @@
       "title": "PLA2G2D in tumour-draining lymph nodes regulates anti-tumour immunity",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-10954-1",
-      "date": "2026-09-10T01:18:04.090688+00:00",
+      "date": "2026-09-10T06:13:06.102090+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -587,7 +594,7 @@
       "title": "Foaming photopolymers as a high-resolution biomimetic printing platform",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-10968-9",
-      "date": "2026-09-10T01:18:04.090732+00:00",
+      "date": "2026-09-10T06:13:06.102125+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -595,7 +602,7 @@
       "title": "Advancing conflict research and response through satellite-derived data",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11004-6",
-      "date": "2026-09-10T01:18:04.090775+00:00",
+      "date": "2026-09-10T06:13:06.102159+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -603,7 +610,7 @@
       "title": "Denisovans from southwestern China and their subsistence strategies",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-10997-4",
-      "date": "2026-09-10T01:18:04.090827+00:00",
+      "date": "2026-09-10T06:13:06.102199+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -611,7 +618,7 @@
       "title": "A serpin–myeloid axis in pancreatic cancer heterogeneity and immune evasion",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11002-8",
-      "date": "2026-09-10T01:18:04.090868+00:00",
+      "date": "2026-09-10T06:13:06.102231+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -619,7 +626,7 @@
       "title": "Mobile education builds resilience during shocks in five countries",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-10990-x",
-      "date": "2026-09-10T01:18:04.090903+00:00",
+      "date": "2026-09-10T06:13:06.102260+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -627,7 +634,7 @@
       "title": "Ancient proteins identify various Denisovan remains from Southwest China",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-10976-9",
-      "date": "2026-09-10T01:18:04.090943+00:00",
+      "date": "2026-09-10T06:13:06.102292+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -635,23 +642,7 @@
       "title": "Predicting genome-wide functional constraints with GPN-Star",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11005-5",
-      "date": "2026-09-10T01:18:04.090977+00:00",
-      "source": "Nature",
-      "cat": "SCIENCE"
-    },
-    {
-      "title": "Imaging cellular activity across all organs reveals body-wide circuits",
-      "text": "",
-      "link": "https://www.nature.com/articles/s41586-026-10979-6",
-      "date": "2026-09-10T01:18:04.091031+00:00",
-      "source": "Nature",
-      "cat": "SCIENCE"
-    },
-    {
-      "title": "TRI-611, a selective, brain-penetrant molecular glue degrader of ALK",
-      "text": "",
-      "link": "https://www.nature.com/articles/s41586-026-10998-3",
-      "date": "2026-09-10T01:18:04.091088+00:00",
+      "date": "2026-09-10T06:13:06.102318+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -660,14 +651,6 @@
       "text": "This article is crossposted from IEEE Spectrum ’s careers newsletter. Sign up now to get insider tips, expert advice, and practical strategies, written i n partnership with tech career development company Parsity and delivered to your inbox for free! I lost a cushy engineering management position at the same time I purchased a business, with a mortgage, three kids, and every other financial obligation of being an adult. It was one of the most stressful stretches of my life. If something similar ",
       "link": "https://spectrum.ieee.org/how-to-survive-a-layoff",
       "date": "Wed, 09 Sep 2026 15:03:38 +0000",
-      "source": "IEEE Spectrum",
-      "cat": "TECH"
-    },
-    {
-      "title": "Rivian’s Gambit for Full Autonomy",
-      "text": "I’m sitting in a Rivian R1S SUV as it drives itself down the leafy streets of Palo Alto, Calif. , through areas crowded with touchstones of tech history. We cruise near the landmark HP Garage , the one-car workshop where Hewlett-Packard, and, arguably, Silicon Valley, was founded in 1939. I skirt Stanford University, where a team led by computer science professor Sebastian Thrun won a US $2 million DARPA Grand Challenge in 2005. The team’s Volkswagen SUV, named Stanley, became the world’s first ",
-      "link": "https://spectrum.ieee.org/rivian-self-driving",
-      "date": "Tue, 08 Sep 2026 13:00:04 +0000",
       "source": "IEEE Spectrum",
       "cat": "TECH"
     },
@@ -968,10 +951,26 @@
       "cat": "SCIENCE"
     },
     {
-      "title": "I made a way to migrate between embedding models without re-embedding your entire corpus [R]",
-      "text": "So I was playingw ith embedding models I saw that when you upgrade from model A to B, you face a very big backfilling cost Ie, suppose you have a 1b vectors from model A, and then you want to use model B. This would mean you have to re-embed all of your documents with model B before you can even serve with the model, and on an H100, it would take ~108 days (qwen embed 8b, 106 docs/second). But I found an easier way to do it. The method is really simple; from the old index made with the source mo",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wc34d2/i_made_a_way_to_migrate_between_embedding_models/",
-      "date": "2026-09-10T00:14:24+00:00",
+      "title": "ICDE Results [D]",
+      "text": "Who else is anticipating ICDE results tomorrow? Post your results here and let&#39;s discuss! &#32; submitted by &#32; /u/mythrowaway0852 [link] &#32; [comments]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wc5zak/icde_results_d/",
+      "date": "2026-09-10T02:19:07+00:00",
+      "source": "Reddit · MachineLearning",
+      "cat": "SCIENCE"
+    },
+    {
+      "title": "I trained a 348M model trained from scratch on 22.7B tokens that does 14 digit arithmetic [P]",
+      "text": "Hello this is my fifth small language model I&#39;ve made and apart of my third series and it has been a lot of work but it payed off: **348M parameters, 22.7B tokens**, then fine-tuned into a math model that solves arithmetic by *showing the work* — column addition with carries, borrow chains, partial-product multiplication — rather than guessing at an answer. Last time I posted a 326M model trained on 10B tokens. This has about 2.3× the data, and the math side is WAY better than my previous tw",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wc7hmu/i_trained_a_348m_model_trained_from_scratch_on/",
+      "date": "2026-09-10T03:28:41+00:00",
+      "source": "Reddit · MachineLearning",
+      "cat": "SCIENCE"
+    },
+    {
+      "title": "I tried to make a real fly connectome learn to play Pong. It didn't — and auditing why turned out to be way more interesting than if it had worked [p]",
+      "text": "You&#39;ve probably seen the fly-brain-plays-Doom / Minecraft / Beat Saber clips going around this week, from the new MaleCNS v1.0 connectome release (166k neurons, real EM reconstruction, not a toy model). Cool clips. Nobody seemed to be checking whether any of it works though, versus just producing motion in a game engine generous enough to make anything look alive. So I picked the least forgiving test bed around: Pong, one binary hit or miss signal measured every frame, nowhere to hide a null",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wc67ci/i_tried_to_make_a_real_fly_connectome_learn_to/",
+      "date": "2026-09-10T02:28:58+00:00",
       "source": "Reddit · MachineLearning",
       "cat": "SCIENCE"
     },
@@ -980,6 +979,14 @@
       "text": "hey all. the NeurIPS Position Paper Track just used a proprietary AI detector (Pangram) to desk-reject 18.4% of all submissions. no human review, no appeal process, just out. there&#39;s been a lot of noise about this, so i went through the actual conference statements and Pangram&#39;s technical docs to see how this actually went down. the reality is wildly worse than just &quot;the AI detector made a mistake.&quot; here are the receipts: The track chairs would have failed their own test. Indep",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1wakf62/neurips_deskrejected_178_papers_for_being/",
       "date": "2026-09-08T10:19:04+00:00",
+      "source": "Reddit · MachineLearning",
+      "cat": "SCIENCE"
+    },
+    {
+      "title": "I made a way to migrate between embedding models without re-embedding your entire corpus [R]",
+      "text": "So I was playingw ith embedding models I saw that when you upgrade from model A to B, you face a very big backfilling cost Ie, suppose you have a 1b vectors from model A, and then you want to use model B. This would mean you have to re-embed all of your documents with model B before you can even serve with the model, and on an H100, it would take ~108 days (qwen embed 8b, 106 docs/second). But I found an easier way to do it. The method is really simple; from the old index made with the source mo",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wc34d2/i_made_a_way_to_migrate_between_embedding_models/",
+      "date": "2026-09-10T00:14:24+00:00",
       "source": "Reddit · MachineLearning",
       "cat": "SCIENCE"
     },
@@ -1064,42 +1071,10 @@
       "cat": "SCIENCE"
     },
     {
-      "title": "Automotive Radar Object Classification [P]",
-      "text": "Hello all, I&#39;m a radar signal processing engineer and i trained a 5-class classifier (car, large_vehicle, two_wheeler, pedestrian, pedestrian_group) on RadarScenes radar point clouds. The input vector is a per-scan histogram (16 bins) and the network is a 3-layer MLP. The loss function is a class-weighted cross-entropy loss. This work is based on &quot;Histogram-based Deep Learning for Automotive Radar&quot; paper. I scoped the project to be one scan only. Accumulation of multiple scans is t",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w9m26u/automotive_radar_object_classification_p/",
-      "date": "2026-09-07T08:10:55+00:00",
-      "source": "Reddit · MachineLearning",
-      "cat": "SCIENCE"
-    },
-    {
-      "title": "Measuring LLM performance drift: observations and methodology from 31,352 repeated benchmark measurements [D]",
-      "text": "One thing that has bothered me about LLM benchmarks for a while is that most of them are essentially snapshots. A model is evaluated, a score is published, and we tend to talk about that score as if it describes a relatively stable object. But with API-served models, the thing behind the model name can change over time: serving infrastructure changes, provider configurations change, versions change, and sometimes behaviour changes without an obvious public version transition. So we started appro",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w9llr4/measuring_llm_performance_drift_observations_and/",
-      "date": "2026-09-07T07:44:34+00:00",
-      "source": "Reddit · MachineLearning",
-      "cat": "SCIENCE"
-    },
-    {
-      "title": "PINNStudio: A free, open-source no-code GUI for setting up, training, and visualizing PINNs [P]",
-      "text": "When I first started working in scientific machine learning, I understood the physics much better than the coding. Every time I wanted to try a new physics-informed neural network problem, I had to start almost from scratch: changing the PDE, updating boundary conditions, modifying the architecture, tweaking the training schedule, debugging errors, and generating plots—all by hand. That frustration pushed me to build PINNStudio . It is a free, open-source no-code GUI designed to eliminate boiler",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w9a2i7/pinnstudio_a_free_opensource_nocode_gui_for/",
-      "date": "2026-09-06T22:19:27+00:00",
-      "source": "Reddit · MachineLearning",
-      "cat": "SCIENCE"
-    },
-    {
       "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
       "text": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
       "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
       "date": "Thu, 10 Sep 2026 00:00:37 +0000",
-      "source": "TechCrunch",
-      "cat": "TECH"
-    },
-    {
-      "title": "Automattic’s board forces CEO Matt Mullenweg into leave of absence",
-      "text": "Mullenweg said in a company Slack message that it was against his will.",
-      "link": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
-      "date": "Wed, 09 Sep 2026 23:14:29 +0000",
       "source": "TechCrunch",
       "cat": "TECH"
     },
@@ -1376,6 +1351,54 @@
       "cat": "TECH"
     },
     {
+      "title": "NZXT Discount Codes: 50% Off in September 2026",
+      "text": "Save 50%, plus up to $250 with NZXT promo codes and discounts.",
+      "link": "https://www.wired.com/story/nzxt-discount-code/",
+      "date": "Thu, 10 Sep 2026 05:00:00 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
+      "title": "Hungryroot Coupon Codes: 30% Off This September 2026",
+      "text": "Get up to 30% off your first order and free gifts using a Hungryroot promo code today. Discover our best coupons and discounts to let you save on your healthy groceries as a new or returning customer.",
+      "link": "https://www.wired.com/story/hungryroot-promo-code/",
+      "date": "Thu, 10 Sep 2026 05:00:00 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
+      "title": "Norton Coupon Codes: Up to 58% Off",
+      "text": "Whether you’re looking to protect your small business or your personal computer, we have the top coupons and deals to help you save at Norton.",
+      "link": "https://www.wired.com/story/norton-coupon-code/",
+      "date": "Thu, 10 Sep 2026 05:00:00 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
+      "title": "Govee Discount Codes and Deals: 30% Off",
+      "text": "New to Govee? Get a $5 coupon on your first purchase just for signing up.",
+      "link": "https://www.wired.com/story/govee-discount-code/",
+      "date": "Thu, 10 Sep 2026 05:00:00 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
+      "title": "Herman Miller Promo Codes: 40% Off September 2026",
+      "text": "Whether you’re looking for a Herman Miller promo code or discounts in their sale, here is how to save on the world's best ergonomic office furniture in September 2026.",
+      "link": "https://www.wired.com/story/herman-miller-promo-code/",
+      "date": "Thu, 10 Sep 2026 05:00:00 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
+      "title": "Coleman Promo Codes and Deals: Up to 75% Off in September 2026",
+      "text": "Gear up for your next adventure with these Coleman coupons and discount codes to save on camping essentials and outdoor gear.",
+      "link": "https://www.wired.com/story/coleman-promo-code/",
+      "date": "Thu, 10 Sep 2026 05:00:00 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
       "title": "The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’",
       "text": "Jacob Coxon talks to WIRED about the “mini Manhattan project” inside Anthropic, the problem with alignment, and why AI labs have just a few years left to make their systems safe.",
       "link": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
@@ -1468,54 +1491,6 @@
       "text": "Get all the news when it happens, as our reporters bring you live updates from Apple Park, the company’s headquarters in Cupertino, California.",
       "link": "https://www.wired.com/live/apple-event-live-blog-september-2026-iphone-launch/",
       "date": "Wed, 09 Sep 2026 11:00:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "MS NOW Wants to Turn Its Viewers Into a Fandom",
-      "text": "The cable news network’s president, Rebecca Kutler, wants to leverage its massive online and TV audience to create a fan community. First up: letting you chat with Rachel Maddow.",
-      "link": "https://www.wired.com/story/the-big-interview-podcast-rebecca-kutler-ms-now/",
-      "date": "Wed, 09 Sep 2026 10:30:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "Lyft Sees a Future for Its Drivers in a Driverless World: Servicing Waymos",
-      "text": "A team-up with Waymo in Nashville has former Lyft drivers maintaining self-driving cars. What’s next?",
-      "link": "https://www.wired.com/story/lyft-waymo-partnership-nashville/",
-      "date": "Wed, 09 Sep 2026 10:00:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "A US Census Report on Noncitizen Voting Used Bad Data to Reach Faulty Conclusions",
-      "text": "Trump has touted a recent Census report. WIRED found grave flaws in its analysis and the process behind it, and confirmed the identity of several of its authors—among them a one-time DOGE affiliate.",
-      "link": "https://www.wired.com/story/a-us-census-report-on-noncitizen-voting-used-bad-data-to-reach-faulty-conclusions/",
-      "date": "Wed, 09 Sep 2026 10:00:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "A New Startup Lets You Freeze Your Eggs For Free. But Is Anything Ever Free?",
-      "text": "Cofertility manages the costs of egg freezing and storage, in exchange for half the batch. One young client became suspicious of the arrangement—and started to investigate.",
-      "link": "https://www.wired.com/story/egg-freezing-startup-cofertility-weirder-than-you-could-imagine/",
-      "date": "Wed, 09 Sep 2026 10:00:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "The Fairphone (Gen 6+) Review: Finally in the US",
-      "text": "With affordable replacement parts, a five-year warranty, and updates through 2033, the Fairphone proves sustainability doesn’t mean major compromise.",
-      "link": "https://www.wired.com/review/the-fairphone-gen-6-plus/",
-      "date": "Wed, 09 Sep 2026 09:30:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "20% Off Brooks Promo Code | September 2026",
-      "text": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.",
-      "link": "https://www.wired.com/story/brooks-promo-code/",
-      "date": "Wed, 09 Sep 2026 05:00:00 +0000",
       "source": "Wired",
       "cat": "TECH"
     }
