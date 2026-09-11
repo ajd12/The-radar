@@ -1,6 +1,36 @@
 {
-  "generated_at": "2026-09-11T06:16:08.292379+00:00",
+  "generated_at": "2026-09-11T11:37:39.310473+00:00",
   "items": [
+    {
+      "title": "The Waymo effect: how AI is quietly making research less collaborative",
+      "text": "Hacker News discussion and source.",
+      "link": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+      "date": "2026-09-11T11:17:50+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 23,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Cherenkov Radiation - traveling faster than light",
+      "text": "Hacker News discussion and source.",
+      "link": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
+      "date": "2026-09-11T08:42:04+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 95,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "RTK reports token savings, but our cost benchmarks disagree",
+      "text": "Hacker News discussion and source.",
+      "link": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
+      "date": "2026-09-11T11:15:13+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 12,
+      "kindLabel": "HN API"
+    },
     {
       "title": "Shopify is moving from React Native back to Swift and Kotlin",
       "text": "Hacker News discussion and source.",
@@ -8,17 +38,17 @@
       "date": "2026-09-10T14:09:31+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 954,
+      "points": 1099,
       "kindLabel": "HN API"
     },
     {
-      "title": "The little holes in your bread are telling you something",
+      "title": "So you want to use OpenRouter?",
       "text": "Hacker News discussion and source.",
-      "link": "https://edconway.substack.com/p/the-little-holes-in-your-bread-are",
-      "date": "2026-09-08T14:28:10+00:00",
+      "link": "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/",
+      "date": "2026-09-09T05:37:21+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 30,
+      "points": 178,
       "kindLabel": "HN API"
     },
     {
@@ -28,107 +58,17 @@
       "date": "2026-09-10T15:27:22+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 437,
+      "points": 576,
       "kindLabel": "HN API"
     },
     {
-      "title": "Nine coding harnesses vs. your laptop",
+      "title": "Claude is no longer available for minors",
       "text": "Hacker News discussion and source.",
-      "link": "https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74",
-      "date": "2026-09-10T22:54:01+00:00",
+      "link": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "date": "2026-09-11T10:48:00+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 50,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "OpenAI Agents API",
-      "text": "Hacker News discussion and source.",
-      "link": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-      "date": "2026-09-10T19:43:22+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 212,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
-      "text": "Hacker News discussion and source.",
-      "link": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
-      "date": "2026-09-11T01:00:56+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 135,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-      "text": "Hacker News discussion and source.",
-      "link": "https://cognition.com/blog/swe-2",
-      "date": "2026-09-10T15:29:47+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 398,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
-      "text": "Hacker News discussion and source.",
-      "link": "https://auberon.xyz/blog/posts/deathray/",
-      "date": "2026-09-10T19:34:20+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 138,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "The Gemini app is now available for Windows",
-      "text": "Hacker News discussion and source.",
-      "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
-      "date": "2026-09-11T04:52:20+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 12,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
-      "text": "Hacker News discussion and source.",
-      "link": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
-      "date": "2026-09-10T15:29:30+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 311,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
-      "text": "Hacker News discussion and source.",
-      "link": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
-      "date": "2026-09-11T00:42:41+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 183,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
-      "text": "Hacker News discussion and source.",
-      "link": "https://system76.com/workstations/thelio-mira-ai",
-      "date": "2026-09-10T23:10:06+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 78,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "NTSB issues investigative update on B-767 runway excursion accident in Miami",
-      "text": "Hacker News discussion and source.",
-      "link": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx",
-      "date": "2026-09-10T21:30:55+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 84,
+      "points": 62,
       "kindLabel": "HN API"
     },
     {
@@ -138,27 +78,107 @@
       "date": "2026-09-08T06:31:59+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 4,
+      "points": 62,
       "kindLabel": "HN API"
     },
     {
-      "title": "Exercise intensity is associated with cardiometabolic health",
+      "title": "Resist \"AI\"",
       "text": "Hacker News discussion and source.",
-      "link": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2",
-      "date": "2026-09-11T03:48:10+00:00",
+      "link": "https://ronjeffries.com/articles/-v026/x/t/",
+      "date": "2026-09-11T10:19:59+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 65,
+      "points": 37,
       "kindLabel": "HN API"
     },
     {
-      "title": "Music Theory for the 21st-Century Classroom",
+      "title": "OpenAI Agents API",
       "text": "Hacker News discussion and source.",
-      "link": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
-      "date": "2026-09-10T17:14:12+00:00",
+      "link": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "date": "2026-09-10T19:43:22+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 201,
+      "points": 274,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "CSS Curiosities of the Past",
+      "text": "Hacker News discussion and source.",
+      "link": "https://vale.rocks/posts/css-relics",
+      "date": "2026-09-11T07:57:17+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 17,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
+      "text": "Hacker News discussion and source.",
+      "link": "https://auberon.xyz/blog/posts/deathray/",
+      "date": "2026-09-10T19:34:20+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 214,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "GPT‑Live‑1 in the API",
+      "text": "Hacker News discussion and source.",
+      "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api/",
+      "date": "2026-09-11T05:45:19+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 38,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
+      "text": "Hacker News discussion and source.",
+      "link": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
+      "date": "2026-09-11T01:00:56+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 244,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
+      "text": "Hacker News discussion and source.",
+      "link": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
+      "date": "2026-09-10T15:29:30+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 345,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "iPod Classic 6G in QEMU",
+      "text": "Hacker News discussion and source.",
+      "link": "https://www.reddit.com/r/emulation/s/VL4Au2HGxq",
+      "date": "2026-09-08T14:54:57+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 22,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Neijuan",
+      "text": "Hacker News discussion and source.",
+      "link": "https://en.wikipedia.org/wiki/Neijuan",
+      "date": "2026-09-11T08:26:56+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 52,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Nine coding harnesses vs. your laptop",
+      "text": "Hacker News discussion and source.",
+      "link": "https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74",
+      "date": "2026-09-10T22:54:01+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 115,
       "kindLabel": "HN API"
     },
     {
@@ -168,37 +188,27 @@
       "date": "2026-09-10T06:49:43+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 771,
+      "points": 823,
       "kindLabel": "HN API"
     },
     {
-      "title": "YuE2 · Frontier Music with Symbolic Planning",
+      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
       "text": "Hacker News discussion and source.",
-      "link": "https://map-yue2.github.io/",
-      "date": "2026-09-11T00:33:26+00:00",
+      "link": "https://cognition.com/blog/swe-2",
+      "date": "2026-09-10T15:29:47+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 77,
+      "points": 422,
       "kindLabel": "HN API"
     },
     {
-      "title": "iPhone Duo",
+      "title": "Music Theory for the 21st-Century Classroom",
       "text": "Hacker News discussion and source.",
-      "link": "https://www.apple.com/iphone-duo/",
-      "date": "2026-09-09T18:15:43+00:00",
+      "link": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
+      "date": "2026-09-10T17:14:12+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 1431,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
-      "text": "Hacker News discussion and source.",
-      "link": "https://merybenavente.me/blog/proof-of-capture",
-      "date": "2026-09-10T19:44:15+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 90,
+      "points": 241,
       "kindLabel": "HN API"
     },
     {
@@ -208,7 +218,7 @@
       "date": "2026-09-10T15:57:40+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 166,
+      "points": 193,
       "kindLabel": "HN API"
     },
     {
@@ -218,27 +228,17 @@
       "date": "2026-09-10T15:43:49+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 224,
+      "points": 251,
       "kindLabel": "HN API"
     },
     {
-      "title": "Herdr Studio",
+      "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
       "text": "Hacker News discussion and source.",
-      "link": "https://powerfooI.github.io/herdr-studio/",
-      "date": "2026-09-11T00:54:36+00:00",
+      "link": "https://merybenavente.me/blog/proof-of-capture",
+      "date": "2026-09-10T19:44:15+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 24,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Rust is tier-1 language at Microsoft",
-      "text": "Hacker News discussion and source.",
-      "link": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
-      "date": "2026-09-10T13:39:16+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 643,
+      "points": 114,
       "kindLabel": "HN API"
     },
     {
@@ -506,7 +506,7 @@
       "title": "Author Correction: The molecular basis of force selectivity by PIEZO2",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11079-1",
-      "date": "2026-09-11T06:16:06.669784+00:00",
+      "date": "2026-09-11T11:37:38.122310+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -514,7 +514,7 @@
       "title": "The neurons that can put a brake on a nervous-system cancer",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02834-5",
-      "date": "2026-09-11T06:16:06.669823+00:00",
+      "date": "2026-09-11T11:37:38.122349+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -522,7 +522,7 @@
       "title": "Distant sensors announced a fearsome tsunami’s birth",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02809-6",
-      "date": "2026-09-11T06:16:06.669847+00:00",
+      "date": "2026-09-11T11:37:38.122373+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -530,7 +530,7 @@
       "title": "AI researchers reckon with the $1.5 million ‘academia tax’",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02026-1",
-      "date": "2026-09-11T06:16:06.669870+00:00",
+      "date": "2026-09-11T11:37:38.122397+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -538,7 +538,7 @@
       "title": "Highly efficient base editing at <i>PCSK9</i> and normal human embryo development",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11118-x",
-      "date": "2026-09-11T06:16:06.669923+00:00",
+      "date": "2026-09-11T11:37:38.122447+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -546,7 +546,7 @@
       "title": "Phone tutoring boosts math scores when schools are forced to close",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02843-4",
-      "date": "2026-09-11T06:16:06.669951+00:00",
+      "date": "2026-09-11T11:37:38.122475+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -554,7 +554,7 @@
       "title": "How AI is changing PhD programmes: join our free webinar",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02751-7",
-      "date": "2026-09-11T06:16:06.669973+00:00",
+      "date": "2026-09-11T11:37:38.122497+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -562,7 +562,7 @@
       "title": "Bacteria recruited to treat cancer",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02823-8",
-      "date": "2026-09-11T06:16:06.669997+00:00",
+      "date": "2026-09-11T11:37:38.122520+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -570,7 +570,7 @@
       "title": "Ruins of ancient Asian city show engineering prowess and organization",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02821-w",
-      "date": "2026-09-11T06:16:06.670019+00:00",
+      "date": "2026-09-11T11:37:38.122543+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -578,7 +578,7 @@
       "title": "Breaking timescales with generative sampling of conformational transitions",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11025-1",
-      "date": "2026-09-11T06:16:06.670063+00:00",
+      "date": "2026-09-11T11:37:38.122570+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -586,7 +586,7 @@
       "title": "Within-family effect of ancestry on complex traits in a Mexican population",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11039-9",
-      "date": "2026-09-11T06:16:06.670107+00:00",
+      "date": "2026-09-11T11:37:38.122613+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -594,7 +594,7 @@
       "title": "Neocortical long-range inhibition promotes cortical synchrony and sleep",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-10876-y",
-      "date": "2026-09-11T06:16:06.670160+00:00",
+      "date": "2026-09-11T11:37:38.122664+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -602,7 +602,7 @@
       "title": "An operational perturbation proteomics-based virtual cell model",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11001-9",
-      "date": "2026-09-11T06:16:06.670222+00:00",
+      "date": "2026-09-11T11:37:38.122729+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -610,7 +610,7 @@
       "title": "PLA2G2D in tumour-draining lymph nodes regulates anti-tumour immunity",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-10954-1",
-      "date": "2026-09-11T06:16:06.670288+00:00",
+      "date": "2026-09-11T11:37:38.122793+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -618,7 +618,7 @@
       "title": "Foaming photopolymers as a high-resolution biomimetic printing platform",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-10968-9",
-      "date": "2026-09-11T06:16:06.670331+00:00",
+      "date": "2026-09-11T11:37:38.122835+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -626,7 +626,7 @@
       "title": "Advancing conflict research and response through satellite-derived data",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11004-6",
-      "date": "2026-09-11T06:16:06.670374+00:00",
+      "date": "2026-09-11T11:37:38.122893+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -634,7 +634,7 @@
       "title": "Denisovans from southwestern China and their subsistence strategies",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-10997-4",
-      "date": "2026-09-11T06:16:06.670426+00:00",
+      "date": "2026-09-11T11:37:38.122944+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -642,7 +642,7 @@
       "title": "A serpin–myeloid axis in pancreatic cancer heterogeneity and immune evasion",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11002-8",
-      "date": "2026-09-11T06:16:06.670466+00:00",
+      "date": "2026-09-11T11:37:38.122984+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -791,6 +791,38 @@
       "cat": "TECH"
     },
     {
+      "title": "STAT+: An AI tool aims to catch harder-to-detect heart attacks in EKGs",
+      "text": "A newly approved AI tool can scan EKGs for severe heart attacks and, the company says, for rarer patterns indicating blocked arteries.",
+      "link": "https://www.statnews.com/2026/09/11/fda-new-ekg-heart-attack-detection-algo-queen-of-hearts/?utm_campaign=rss",
+      "date": "Fri, 11 Sep 2026 08:30:00 +0000",
+      "source": "STAT",
+      "cat": "HEALTHCARE"
+    },
+    {
+      "title": "STAT+: Novartis, Novo Nordisk drug failures will likely ‘pop a hole in the balloon’ of the field",
+      "text": "The back-to-back failures of cardiovascular drugs from Novartis and Novo Nordisk made headlines. They could also have a chilling effect across the industry.",
+      "link": "https://www.statnews.com/2026/09/11/novartis-novo-nordisk-cardiovascular-drug-trials-fallout/?utm_campaign=rss",
+      "date": "Fri, 11 Sep 2026 08:30:00 +0000",
+      "source": "STAT",
+      "cat": "HEALTHCARE"
+    },
+    {
+      "title": "Opinion: I’m a public health communications consultant. Pro-vaccine advocacy needs more fun",
+      "text": "“Somewhere along the way, we forgot how to celebrate vaccines,” writes public health communications consultant Adam Zimmerman.",
+      "link": "https://www.statnews.com/2026/09/11/pro-vaccine-advocacy-celebration-party/?utm_campaign=rss",
+      "date": "Fri, 11 Sep 2026 08:30:00 +0000",
+      "source": "STAT",
+      "cat": "HEALTHCARE"
+    },
+    {
+      "title": "Opinion: I’m a thoracic surgeon in New York City. For many of my patients, Sept. 11 is still not over",
+      "text": "“For thousands of families, the Sept. 11 attack did not end when the fires were extinguished. It simply changed form,” writes Raja Flores.",
+      "link": "https://www.statnews.com/2026/09/11/sept-11-25th-anniversary-ground-zero-exposure-cancer-moment-of-silence/?utm_campaign=rss",
+      "date": "Fri, 11 Sep 2026 08:30:00 +0000",
+      "source": "STAT",
+      "cat": "HEALTHCARE"
+    },
+    {
       "title": "STAT+: Right before midterms, Trump dangles $500 refunds for select ACA enrollees",
       "text": "The legal basis for the $500 checks, and who would get them, isn't entirely clear.",
       "link": "https://www.statnews.com/2026/09/10/trump-affordable-care-act-refund-checks-who-is-eligible/?utm_campaign=rss",
@@ -903,38 +935,6 @@
       "cat": "HEALTHCARE"
     },
     {
-      "title": "STAT+: U.K. unveils recommendations for regulating AI in medicine",
-      "text": "A U.K. commission has unveiled its recommendations for how the country should regulate artificial intelligence in medicine.",
-      "link": "https://www.statnews.com/2026/09/09/uk-unveils-recommendations-ai-regulation-medicine/?utm_campaign=rss",
-      "date": "Wed, 09 Sep 2026 23:01:00 +0000",
-      "source": "STAT",
-      "cat": "HEALTHCARE"
-    },
-    {
-      "title": "Coroner releases details of infants who died amid growing Pennsylvania measles outbreak",
-      "text": "The two measles-related deaths in Pennsylvania last month involved infants, and the virus itself caused one of the deaths, a Pennsylvania coroner confirmed Wednesday.",
-      "link": "https://www.statnews.com/2026/09/09/coroner-details-infant-deaths-pennsylvania-measles-outbreak/?utm_campaign=rss",
-      "date": "Wed, 09 Sep 2026 21:44:07 +0000",
-      "source": "STAT",
-      "cat": "HEALTHCARE"
-    },
-    {
-      "title": "STAT+: ARPA-H to invest $62 million to develop FDA-authorized AI to help treat heart failure",
-      "text": "ARPA-H, the government agency that funds cutting edge health research, plans to commit $62.7 million to develop artificial intelligence bots that direct treatment of heart failure.",
-      "link": "https://www.statnews.com/2026/09/09/arpa-h-advocate-program-autonomous-ai-bots-for-heart-failure/?utm_campaign=rss",
-      "date": "Wed, 09 Sep 2026 16:01:00 +0000",
-      "source": "STAT",
-      "cat": "HEALTHCARE"
-    },
-    {
-      "title": "STAT+: Can AI fix the emergency room?",
-      "text": "AI can't change the ER's problems, which exemplify health care's bigger problems, writes Brittany Trang in this week's AI Prognosis.",
-      "link": "https://www.statnews.com/2026/09/09/scribe-emergency-room-fix-health-care-ai-prognosis/?utm_campaign=rss",
-      "date": "Wed, 09 Sep 2026 14:58:55 +0000",
-      "source": "STAT",
-      "cat": "HEALTHCARE"
-    },
-    {
       "title": "Teach ML! Community service project from Stanford [N]",
       "text": "Hi r/machinelearning . Nice to meet you! My name is Chris Piech and I&#39;m a professor at Stanford University in the AI lab. I built a class called Probability for AI: pai.stanford.edu. It starts Oct 9th and applications are due end of Sept. Its (hopefully) cool for a few reasons: The plan is to have one volunteer teacher for every 10 students! Apps have been open for a week and over 1,000+ folks have applied to teach. So we might actually be able to make this pretty big. I have built a lot of ",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1wbf3ox/teach_ml_community_service_project_from_stanford_n/",
@@ -951,14 +951,6 @@
       "cat": "SCIENCE"
     },
     {
-      "title": "Why is TMLR so slow in recent times [D]",
-      "text": "A final-year PhD student here. A few months back, I submitted a solo-authored paper to TMLR. The reviewers were on time and extremely positive, with some minor revisions. After submitting the revised version, there was absolute silence from the reviewers, with just one acknowledging that their concerns were addressed Since then, it has been 2+ months. I have sent a reminder to the Action Editor as well as the Editor-in-Chief, but unfortunately the status remains the same. I understand a typical ",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wd5mki/why_is_tmlr_so_slow_in_recent_times_d/",
-      "date": "2026-09-11T04:09:09+00:00",
-      "source": "Reddit · MachineLearning",
-      "cat": "SCIENCE"
-    },
-    {
       "title": "ACL Sustainable Reviewing Policy [D]",
       "text": "ACL just announced on X how they are planning to handle the increased submission numbers. Interestingly enough, they call it &quot;the proposal&quot;. My understanding is that, in a nutshell, each submission should come with someone who can review, otherwise it may only get a slot through a lottery. Additionally, they cap total submissions at 20 and first-author submissions per cycle at 5. What do you think of it? IMO it makes a lot of sense - especially given the large numbers of submissions wi",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1wd7b83/acl_sustainable_reviewing_policy_d/",
@@ -967,10 +959,26 @@
       "cat": "SCIENCE"
     },
     {
+      "title": "Why is TMLR so slow in recent times [D]",
+      "text": "A final-year PhD student here. A few months back, I submitted a solo-authored paper to TMLR. The reviewers were on time and extremely positive, with some minor revisions. After submitting the revised version, there was absolute silence from the reviewers, with just one acknowledging that their concerns were addressed Since then, it has been 2+ months. I have sent a reminder to the Action Editor as well as the Editor-in-Chief, but unfortunately the status remains the same. I understand a typical ",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wd5mki/why_is_tmlr_so_slow_in_recent_times_d/",
+      "date": "2026-09-11T04:09:09+00:00",
+      "source": "Reddit · MachineLearning",
+      "cat": "SCIENCE"
+    },
+    {
       "title": "Any tools to turn a codebase into a fine tuning dataset? [D]",
       "text": "I have a few web projects with pretty good UI/UX and I’m wondering if there’s any tool or workflow that can turn an existing codebase into a dataset for fine tuning. For example, given a React/Next.js project with components, pages, styling, etc. or a static html site, I’d like to turn it into something like: instruction/prompt -&gt; code or whatever format actually makes sense for training an instruct/thinking/diffusion coding model. Also curious how people handle things like: keeping the conte",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1wd5zkk/any_tools_to_turn_a_codebase_into_a_fine_tuning/",
       "date": "2026-09-11T04:27:12+00:00",
+      "source": "Reddit · MachineLearning",
+      "cat": "SCIENCE"
+    },
+    {
+      "title": "Neurips 2026: site selection email [D]",
+      "text": "We just received the email for site selection for our neurips paper. Although it is obviously not an acceptance decision, I wonder whether every single non-withdrawn submission received this email, or this might hint towards a higher acceptance chance for our paper? &#32; submitted by &#32; /u/CantKillTheLifeless [link] &#32; [comments]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wdaur9/neurips_2026_site_selection_email_d/",
+      "date": "2026-09-11T09:02:43+00:00",
       "source": "Reddit · MachineLearning",
       "cat": "SCIENCE"
     },
@@ -1007,18 +1015,18 @@
       "cat": "SCIENCE"
     },
     {
-      "title": "I tried to make a real fly connectome learn to play Pong. It didn't — and auditing why turned out to be way more interesting than if it had worked [p]",
-      "text": "You&#39;ve probably seen the fly-brain-plays-Doom / Minecraft / Beat Saber clips going around this week, from the new MaleCNS v1.0 connectome release (166k neurons, real EM reconstruction, not a toy model). Cool clips. Nobody seemed to be checking whether any of it works though, versus just producing motion in a game engine generous enough to make anything look alive. So I picked the least forgiving test bed around: Pong, one binary hit or miss signal measured every frame, nowhere to hide a null",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wc67ci/i_tried_to_make_a_real_fly_connectome_learn_to/",
-      "date": "2026-09-10T02:28:58+00:00",
-      "source": "Reddit · MachineLearning",
-      "cat": "SCIENCE"
-    },
-    {
       "title": "NeurIPS desk-rejected 178 papers for being \"AI-generated\". The detector flagged the track chairs' own papers at 24-69% [N]",
       "text": "hey all. the NeurIPS Position Paper Track just used a proprietary AI detector (Pangram) to desk-reject 18.4% of all submissions. no human review, no appeal process, just out. there&#39;s been a lot of noise about this, so i went through the actual conference statements and Pangram&#39;s technical docs to see how this actually went down. the reality is wildly worse than just &quot;the AI detector made a mistake.&quot; here are the receipts: The track chairs would have failed their own test. Indep",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1wakf62/neurips_deskrejected_178_papers_for_being/",
       "date": "2026-09-08T10:19:04+00:00",
+      "source": "Reddit · MachineLearning",
+      "cat": "SCIENCE"
+    },
+    {
+      "title": "I tried to make a real fly connectome learn to play Pong. It didn't — and auditing why turned out to be way more interesting than if it had worked [p]",
+      "text": "You&#39;ve probably seen the fly-brain-plays-Doom / Minecraft / Beat Saber clips going around this week, from the new MaleCNS v1.0 connectome release (166k neurons, real EM reconstruction, not a toy model). Cool clips. Nobody seemed to be checking whether any of it works though, versus just producing motion in a game engine generous enough to make anything look alive. So I picked the least forgiving test bed around: Pong, one binary hit or miss signal measured every frame, nowhere to hide a null",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wc67ci/i_tried_to_make_a_real_fly_connectome_learn_to/",
+      "date": "2026-09-10T02:28:58+00:00",
       "source": "Reddit · MachineLearning",
       "cat": "SCIENCE"
     },
@@ -1071,14 +1079,6 @@
       "cat": "SCIENCE"
     },
     {
-      "title": "LLM-guided program evolution improves 10 best-known circle-packing solutions (Packomania csqv, N=101-114) [R]",
-      "text": "I used an LLM to iteratively evolve an optimization algorithm rather than solve the packing directly. Starting from a simple seed solver, the LLM proposes algorithmic changes guided by a scoreboard of results and a history of prior attempts, and each candidate is scored by an independent verifier so improvements are kept and failures discarded. On the Packomania csqv benchmark it improved the best-known sum-of-radii for 10 values of N from 101 to 114, by 2.4 to 5.4%, in 15 iterations. Total LLM ",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1w9xlyi/llmguided_program_evolution_improves_10_bestknown/",
-      "date": "2026-09-07T16:54:55+00:00",
-      "source": "Reddit · MachineLearning",
-      "cat": "SCIENCE"
-    },
-    {
       "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
       "text": "Collaborative Fund just bought into D.C. United and its stadium, with firm founder Craig Shapiro pitching it as a way to showcase for the firm's startups.",
       "link": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
@@ -1096,7 +1096,7 @@
     },
     {
       "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-      "text": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.",
+      "text": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
       "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
       "date": "Thu, 10 Sep 2026 21:35:00 +0000",
       "source": "TechCrunch",
@@ -1367,6 +1367,78 @@
       "cat": "TECH"
     },
     {
+      "title": "He’s One of Just 50 People With Olive Garden’s Lifetime Pasta Pass. You Choose What He Eats Next",
+      "text": "Braden Sinclair has turned his love affair with the restaurant chain into an interactive trove of dietary data.",
+      "link": "https://www.wired.com/story/this-man-has-a-cult-internet-following-over-his-olive-garden-lifetime-pasta-pass/",
+      "date": "Fri, 11 Sep 2026 11:00:00 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
+      "title": "8 Best Travel Adapters (2026): 20+ Models Tested",
+      "text": "When going abroad, the right plugs are essential to keep your gadgets charged. These are my favorite travel adapters and chargers that I’ve tested myself.",
+      "link": "https://www.wired.com/gallery/best-travel-adapters/",
+      "date": "Fri, 11 Sep 2026 11:00:00 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
+      "title": "I Fixed a Tractor Using John Deere’s Self-Repair Service. Farmers Aren’t Sold on It",
+      "text": "The agricultural machine manufacturer has a subscription service that lets owners repair their own equipment. Why is barely anybody using it?",
+      "link": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
+      "date": "Fri, 11 Sep 2026 10:45:00 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
+      "title": "We Tried the Most Popular Mushroom Coffees. These Are the Best (2026)",
+      "text": "“Coffee” made with functional mushrooms like lion’s mane and chaga is all the rage. We tried the most popular brands to find which were the most palatable.",
+      "link": "https://www.wired.com/gallery/best-mushroom-coffee/",
+      "date": "Fri, 11 Sep 2026 10:33:00 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
+      "title": "The Trump Alien ‘Disclosure Speech’ Rumors Are Reaching a Fever Pitch",
+      "text": "The US government has been sharing more information about UFOs. That's fueling excitement over the possibility of the president announcing that humans are not alone.",
+      "link": "https://www.wired.com/story/the-trump-alien-disclosure-speech-rumors-are-reaching-a-fever-pitch/",
+      "date": "Fri, 11 Sep 2026 10:30:00 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
+      "title": "How 9/11 Made Everyone a Conspiracy Theorist",
+      "text": "Crackpot theories were once the stuff of shortwave radio, but September 11 unleashed the Age of Alex Jones.",
+      "link": "https://www.wired.com/story/conspiracy-how-9-11-broke-americas-brain/",
+      "date": "Fri, 11 Sep 2026 10:00:00 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
+      "title": "The US and Mexico Announce They’re Teaming Up Against Drones",
+      "text": "The new joint operation uses laser-based technology capable of detecting, tracking, and disabling commercial drones linked to human and drug trafficking.",
+      "link": "https://www.wired.com/story/us-and-mexico-announce-teaming-up-against-drones/",
+      "date": "Fri, 11 Sep 2026 09:15:00 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
+      "title": "Samsung Galaxy S26 FE Review: Same as Before, but for More Money",
+      "text": "Samsung is resting on its laurels with the midrange S26 FE, with an unwelcome price bump and only a new processor to show for it.",
+      "link": "https://www.wired.com/review/samsung-galaxy-s26-fe/",
+      "date": "Fri, 11 Sep 2026 09:00:00 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
+      "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
+      "text": "A combination of rapid advances, recursive self-improvement, and agentic swarms are genuinely “spooking people” inside big labs.",
+      "link": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
+      "date": "Fri, 11 Sep 2026 09:00:00 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
       "title": "Lenovo Coupon Codes: 15% Off in September 2026",
       "text": "Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.",
       "link": "https://www.wired.com/story/lenovo-coupon-code/",
@@ -1386,6 +1458,14 @@
       "title": "Home Depot Promo Codes: 30% Off in September 2026",
       "text": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this September.",
       "link": "https://www.wired.com/story/home-depot-promo-code/",
+      "date": "Fri, 11 Sep 2026 05:00:00 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
+      "title": "Corsair Discount Code: Up to 50% Off for September 2026",
+      "text": "Upgrade your gaming setup or PC build for less with these verified Corsair coupon codes, student discounts, and refurbished deals.",
+      "link": "https://www.wired.com/story/corsair-coupon/",
       "date": "Fri, 11 Sep 2026 05:00:00 +0000",
       "source": "Wired",
       "cat": "TECH"
@@ -1427,86 +1507,6 @@
       "text": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
       "link": "https://www.wired.com/story/lg-promo-code/",
       "date": "Fri, 11 Sep 2026 05:00:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "Corsair Discount Code: Up to 50% Off for September 2026",
-      "text": "Upgrade your gaming setup or PC build for less with these verified Corsair coupon codes, student discounts, and refurbished deals.",
-      "link": "https://www.wired.com/story/corsair-coupon/",
-      "date": "Fri, 11 Sep 2026 05:00:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "Stearns and Foster Promo Codes: $300 Off in September 2026",
-      "text": "Discover the best Stearns and Foster promo codes, discounts, and deals to elevate your sleep experience with premium comfort and quality.",
-      "link": "https://www.wired.com/story/stearns-and-foster-promo-code/",
-      "date": "Fri, 11 Sep 2026 05:00:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "Sealy Promo Codes: $100 Off",
-      "text": "Whether you’re switching from springs to memory foam or just want to sleep cooler this summer, these Sealy mattress deals will have you waking up refreshed—and with cash left in your wallet.",
-      "link": "https://www.wired.com/story/sealy-promo-code/",
-      "date": "Fri, 11 Sep 2026 05:00:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "AT&T Promo Codes: $50 Off This September 2026",
-      "text": "Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&T coupons and deals.",
-      "link": "https://www.wired.com/story/att-promo-code/",
-      "date": "Fri, 11 Sep 2026 05:00:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "Castlery Promo Codes: 15% Off for September 2026",
-      "text": "Refresh your living space for less with these verified Castlery coupons, including free shipping offers and furniture set discounts.",
-      "link": "https://www.wired.com/story/castlery-promo-code/",
-      "date": "Fri, 11 Sep 2026 05:00:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "Skullcandy Discount Code: 30% Off | September 2026",
-      "text": "Save on today’s top Skullcandy Promo Codes for Crusher Evo headphones, 36% off Crusher ANC 2 noise-canceling headphones, and more with amazing deals.",
-      "link": "https://www.wired.com/story/skullcandy-discount-code/",
-      "date": "Fri, 11 Sep 2026 05:00:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "20% Off Samsung Promo Code | September 2026",
-      "text": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.",
-      "link": "https://www.wired.com/story/samsung-promo-codes/",
-      "date": "Fri, 11 Sep 2026 05:00:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
-      "text": "AI leaders worry antitrust law could stand in the way of what they view as an increasingly urgent push to coordinate a slowdown in AI development.",
-      "link": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
-      "date": "Thu, 10 Sep 2026 23:28:42 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "Is AI Actually Going to Kill Us All?",
-      "text": "This week on “Uncanny Valley,” we dig into a former Anthropic researcher’s AI doomsday warning, the latest upgrades from Apple’s event, and the census report that claimed Trump won the 2020 election.",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-is-ai-actually-going-to-kill-us-all/",
-      "date": "Thu, 10 Sep 2026 20:30:37 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "August 2026 Was the Hottest Month Ever Recorded: Copernicus Data",
-      "text": "While the strengthening El Niño helped boost temperatures, climate change is the main culprit for making August so hot.",
-      "link": "https://www.wired.com/story/august-2026-is-hottest-month-ever-recorded/",
-      "date": "Thu, 10 Sep 2026 20:20:23 +0000",
       "source": "Wired",
       "cat": "TECH"
     }
