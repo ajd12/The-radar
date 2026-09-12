@@ -1,16 +1,6 @@
 {
-  "generated_at": "2026-09-12T19:31:12.937889+00:00",
+  "generated_at": "2026-09-12T21:50:57.927301+00:00",
   "items": [
-    {
-      "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
-      "text": "Hacker News discussion and source.",
-      "link": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
-      "date": "2026-09-10T15:31:37+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 175,
-      "kindLabel": "HN API"
-    },
     {
       "title": "Make your first edit to OpenStreetMap",
       "text": "Hacker News discussion and source.",
@@ -18,7 +8,7 @@
       "date": "2026-09-12T16:25:08+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 119,
+      "points": 214,
       "kindLabel": "HN API"
     },
     {
@@ -28,197 +18,17 @@
       "date": "2026-09-12T15:08:27+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 221,
+      "points": 301,
       "kindLabel": "HN API"
     },
     {
-      "title": "Will There Be a 7G?",
+      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
       "text": "Hacker News discussion and source.",
-      "link": "https://arxiv.org/abs/2609.01877",
-      "date": "2026-09-12T17:05:31+00:00",
+      "link": "https://withspecific.com/benchmarks/real-swe",
+      "date": "2026-09-12T20:25:48+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 40,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "IKEA made a mod for Skyrim [video]",
-      "text": "Hacker News discussion and source.",
-      "link": "https://www.youtube.com/watch?v=iZODN0QUgjI",
-      "date": "2026-09-10T07:20:50+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 481,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "We must pace the frontier",
-      "text": "Hacker News discussion and source.",
-      "link": "https://darioamodei.com/post/we-must-pace-the-frontier",
-      "date": "2026-09-12T14:10:49+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 318,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
-      "text": "Hacker News discussion and source.",
-      "link": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
-      "date": "2026-09-12T15:49:52+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 53,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "I made a build visualizer to understand Bun's compile times",
-      "text": "Hacker News discussion and source.",
-      "link": "https://lalitm.com/post/buildprof/",
-      "date": "2026-09-12T14:45:28+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 24,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "google.com/goto: Google's anti-scraping update",
-      "text": "Hacker News discussion and source.",
-      "link": "https://www.autom.dev/blog/google-search-goto-links",
-      "date": "2026-09-12T03:14:20+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 576,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "A Mathematical Framework for Transformer Circuits (2021)",
-      "text": "Hacker News discussion and source.",
-      "link": "https://transformer-circuits.pub/2021/framework/index.html",
-      "date": "2026-09-12T13:56:58+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 58,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "An open letter to Dario: if you mean it, open the weights",
-      "text": "Hacker News discussion and source.",
-      "link": "https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/",
-      "date": "2026-09-12T19:15:32+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 12,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "A few good ideas in programming languages",
-      "text": "Hacker News discussion and source.",
-      "link": "https://prydt.xyz/blog/a-few-good-ideas-in-pl/",
-      "date": "2026-09-12T13:07:52+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 53,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
-      "text": "Hacker News discussion and source.",
-      "link": "https://eiln.github.io/posts/ane.html",
-      "date": "2026-09-12T07:54:03+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 196,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "How Trail of Bits helps verify the integrity of Signal chats",
-      "text": "Hacker News discussion and source.",
-      "link": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
-      "date": "2026-09-12T11:27:55+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 14,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Eating Fruit Skins",
-      "text": "Hacker News discussion and source.",
-      "link": "https://pgadey.ca/blog/eating-fruit-skins/",
-      "date": "2026-09-09T12:01:38+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 37,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Android NAT-T keepalive offload bypasses VPN lockdown",
-      "text": "Hacker News discussion and source.",
-      "link": "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass",
-      "date": "2026-09-11T21:16:48+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 133,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Performance of WebAssembly Runtimes in 2026",
-      "text": "Hacker News discussion and source.",
-      "link": "https://00f.net/2026/06/23/webassembly-runtimes-2026/",
-      "date": "2026-09-09T10:00:59+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 61,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "I fixed a tractor using John Deere's self-repair service. Farmers aren't sold",
-      "text": "Hacker News discussion and source.",
-      "link": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
-      "date": "2026-09-11T14:07:08+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 54,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Navier-Stokes Announcement",
-      "text": "Hacker News discussion and source.",
-      "link": "https://www.claymath.org/news/navier-stokes-announcement/",
-      "date": "2026-09-12T04:09:43+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 263,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "I refuse to let SPICE die",
-      "text": "Hacker News discussion and source.",
-      "link": "https://github.com/nefarius/vd_agent/",
-      "date": "2026-09-12T14:25:07+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 59,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "The worst spam emails: iLands AI agent hustle",
-      "text": "Hacker News discussion and source.",
-      "link": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
-      "date": "2026-09-12T11:13:38+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 85,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "LRU is harder to beat than the KV-cache papers suggest",
-      "text": "Hacker News discussion and source.",
-      "link": "https://github.com/gauravapiscean/agentic-kv-cache",
-      "date": "2026-09-10T13:39:11+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 76,
+      "points": 25,
       "kindLabel": "HN API"
     },
     {
@@ -228,17 +38,207 @@
       "date": "2026-09-09T11:57:45+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 7,
+      "points": 86,
       "kindLabel": "HN API"
     },
     {
-      "title": "λ Snap – An inviting programming language for kids and adults for CS study",
+      "title": "Benchmark: CadQuery vs. OpenSCAD for agentic CAD work",
       "text": "Hacker News discussion and source.",
-      "link": "https://snap.berkeley.edu/",
-      "date": "2026-09-11T17:36:11+00:00",
+      "link": "https://modelrift.com/blog/cadquery-vs-openscad/",
+      "date": "2026-09-12T19:57:19+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 164,
+      "points": 17,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+      "text": "Hacker News discussion and source.",
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
+      "date": "2026-09-10T15:31:37+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 328,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Apple iPod Engraver (2019)",
+      "text": "Hacker News discussion and source.",
+      "link": "https://dunstanorchard.com/apple-ipod-engraver/",
+      "date": "2026-09-09T01:57:37+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 24,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Will There Be a 7G?",
+      "text": "Hacker News discussion and source.",
+      "link": "https://arxiv.org/abs/2609.01877",
+      "date": "2026-09-12T17:05:31+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 63,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "I made a build visualizer to understand Bun's compile times",
+      "text": "Hacker News discussion and source.",
+      "link": "https://lalitm.com/post/buildprof/",
+      "date": "2026-09-12T14:45:28+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 62,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "IKEA made a mod for Skyrim [video]",
+      "text": "Hacker News discussion and source.",
+      "link": "https://www.youtube.com/watch?v=iZODN0QUgjI",
+      "date": "2026-09-10T07:20:50+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 515,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "We must pace the frontier",
+      "text": "Hacker News discussion and source.",
+      "link": "https://darioamodei.com/post/we-must-pace-the-frontier",
+      "date": "2026-09-12T14:10:49+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 437,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
+      "text": "Hacker News discussion and source.",
+      "link": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
+      "date": "2026-09-12T15:49:52+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 64,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "How Trail of Bits helps verify the integrity of Signal chats",
+      "text": "Hacker News discussion and source.",
+      "link": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
+      "date": "2026-09-12T11:27:55+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 36,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
+      "text": "Hacker News discussion and source.",
+      "link": "https://hachyderm.io/@simontatham/117201594980991062",
+      "date": "2026-09-12T18:58:57+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 65,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "A Mathematical Framework for Transformer Circuits (2021)",
+      "text": "Hacker News discussion and source.",
+      "link": "https://transformer-circuits.pub/2021/framework/index.html",
+      "date": "2026-09-12T13:56:58+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 69,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "I fixed a tractor using John Deere's self-repair service. Farmers aren't sold",
+      "text": "Hacker News discussion and source.",
+      "link": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
+      "date": "2026-09-11T14:07:08+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 83,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+      "text": "Hacker News discussion and source.",
+      "link": "https://eiln.github.io/posts/ane.html",
+      "date": "2026-09-12T07:54:03+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 207,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "LG Says We're Fake News [video]",
+      "text": "Hacker News discussion and source.",
+      "link": "https://www.youtube.com/watch?v=ToP9xfLDSME",
+      "date": "2026-09-12T19:35:36+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 35,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "The Magic Behind Cubacadabra",
+      "text": "Hacker News discussion and source.",
+      "link": "https://andrewarrow.dev/2026/moon/2/day/19/the-magic-behind-cubacadabra/",
+      "date": "2026-09-10T18:01:47+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 6,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Android NAT-T keepalive offload bypasses VPN lockdown",
+      "text": "Hacker News discussion and source.",
+      "link": "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass",
+      "date": "2026-09-11T21:16:48+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 158,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Eating Fruit Skins",
+      "text": "Hacker News discussion and source.",
+      "link": "https://pgadey.ca/blog/eating-fruit-skins/",
+      "date": "2026-09-09T12:01:38+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 58,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Performance of WebAssembly Runtimes in 2026",
+      "text": "Hacker News discussion and source.",
+      "link": "https://00f.net/2026/06/23/webassembly-runtimes-2026/",
+      "date": "2026-09-09T10:00:59+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 77,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Navier-Stokes Announcement",
+      "text": "Hacker News discussion and source.",
+      "link": "https://www.claymath.org/news/navier-stokes-announcement/",
+      "date": "2026-09-12T04:09:43+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 296,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "LRU is harder to beat than the KV-cache papers suggest",
+      "text": "Hacker News discussion and source.",
+      "link": "https://github.com/gauravapiscean/agentic-kv-cache",
+      "date": "2026-09-10T13:39:11+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 89,
       "kindLabel": "HN API"
     },
     {
@@ -506,7 +506,7 @@
       "title": "Briefing Chat: The Bunsen burner myth that turns out to be just hot air",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02893-8",
-      "date": "2026-09-12T19:31:11.698473+00:00",
+      "date": "2026-09-12T21:50:55.841290+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -514,7 +514,7 @@
       "title": "NSF moves to overhaul funding approach in line with White House priorities",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02892-9",
-      "date": "2026-09-12T19:31:11.698513+00:00",
+      "date": "2026-09-12T21:50:55.841330+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -522,7 +522,7 @@
       "title": "People trust scientists seen to be 'on their side', UK study find",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02883-w",
-      "date": "2026-09-12T19:31:11.698538+00:00",
+      "date": "2026-09-12T21:50:55.841355+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -530,7 +530,7 @@
       "title": "El Niño goes viral — and scientists learn what makes people care about the climate",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02763-3",
-      "date": "2026-09-12T19:31:11.698562+00:00",
+      "date": "2026-09-12T21:50:55.841379+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -538,7 +538,7 @@
       "title": "Successful early-career scientists rely on network of mentors",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02827-4",
-      "date": "2026-09-12T19:31:11.698584+00:00",
+      "date": "2026-09-12T21:50:55.841401+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -546,7 +546,7 @@
       "title": "Osteoporosis affects millions: could modified cells rebuild their bones?",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02828-3",
-      "date": "2026-09-12T19:31:11.698607+00:00",
+      "date": "2026-09-12T21:50:55.841428+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -554,7 +554,7 @@
       "title": "Author Correction: The molecular basis of force selectivity by PIEZO2",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11079-1",
-      "date": "2026-09-12T19:31:11.698638+00:00",
+      "date": "2026-09-12T21:50:55.841455+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -562,7 +562,7 @@
       "title": "The neurons that can put a brake on a nervous-system cancer",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02834-5",
-      "date": "2026-09-12T19:31:11.698660+00:00",
+      "date": "2026-09-12T21:50:55.841477+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -570,7 +570,7 @@
       "title": "Distant sensors announced a fearsome tsunami’s birth",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02809-6",
-      "date": "2026-09-12T19:31:11.698682+00:00",
+      "date": "2026-09-12T21:50:55.841498+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -578,7 +578,7 @@
       "title": "Rivers deliver unexpectedly high loads of microplastics to the sea",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02866-x",
-      "date": "2026-09-12T19:31:11.698706+00:00",
+      "date": "2026-09-12T21:50:55.841520+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -586,7 +586,7 @@
       "title": "Daily briefing: Text-message tutoring keeps kids learning when schools close",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02888-5",
-      "date": "2026-09-12T19:31:11.698729+00:00",
+      "date": "2026-09-12T21:50:55.841545+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -594,7 +594,7 @@
       "title": "AI researchers reckon with the $1.5 million ‘academia tax’",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02026-1",
-      "date": "2026-09-12T19:31:11.698752+00:00",
+      "date": "2026-09-12T21:50:55.841568+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -602,7 +602,7 @@
       "title": "Highly efficient base editing at <i>PCSK9</i> and normal human embryo development",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11118-x",
-      "date": "2026-09-12T19:31:11.698804+00:00",
+      "date": "2026-09-12T21:50:55.841618+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -610,7 +610,7 @@
       "title": "Phone tutoring boosts math scores when schools are forced to close",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02843-4",
-      "date": "2026-09-12T19:31:11.698831+00:00",
+      "date": "2026-09-12T21:50:55.841645+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -618,7 +618,7 @@
       "title": "How AI is changing PhD programmes: join our free webinar",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02751-7",
-      "date": "2026-09-12T19:31:11.698854+00:00",
+      "date": "2026-09-12T21:50:55.841667+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -626,7 +626,7 @@
       "title": "Bacteria recruited to treat cancer",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02823-8",
-      "date": "2026-09-12T19:31:11.698876+00:00",
+      "date": "2026-09-12T21:50:55.841689+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -634,7 +634,7 @@
       "title": "Ruins of ancient Asian city show engineering prowess and organization",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02821-w",
-      "date": "2026-09-12T19:31:11.698897+00:00",
+      "date": "2026-09-12T21:50:55.841709+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -642,7 +642,7 @@
       "title": "Breaking timescales with generative sampling of conformational transitions",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11025-1",
-      "date": "2026-09-12T19:31:11.698925+00:00",
+      "date": "2026-09-12T21:50:55.841737+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -959,6 +959,14 @@
       "cat": "SCIENCE"
     },
     {
+      "title": "How do you control different character pose in SDXL when using a reference image? [R][D]",
+      "text": "Hi, I’m working on generating ~128×128 pixel art and trying to generate different poses of the same character. My current approach is roughly: Start with a reference image and preprocess it into cleaner/more pixel-art-like data (often removing transparency or setting up fixed number of pallets or descaling) Use IP-Adapter for the character/reference appearance. Use ControlNet pose/rig conditioning to control the target pose. I’m also experimenting with multiple references (front, rear, left, rig",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wep88z/how_do_you_control_different_character_pose_in/",
+      "date": "2026-09-12T21:45:25+00:00",
+      "source": "Reddit · MachineLearning",
+      "cat": "SCIENCE"
+    },
+    {
       "title": "Training a 210M text-to-image DiT from scratch on one GPU: what I measured [P]",
       "text": "I trained a 210M-parameter text-to-image diffusion transformer from scratch (3.5 days, one RTX PRO 6000, 4.2M images at 256²) mainly to understand the recipe end to end. Three measurements came out of it that I have not seen stated plainly elsewhere, so I&#39;m posting those rather than the samples. 1. Learned null attention slots become the sink. Following the register-token idea, the model has 16 register tokens in the image stream plus 2 learned key/value slots appended to every cross-attenti",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1wdfmvq/training_a_210m_texttoimage_dit_from_scratch_on/",
@@ -1071,26 +1079,26 @@
       "cat": "SCIENCE"
     },
     {
-      "title": "What Sante's 83.83 on DiagnosisArena-MCQ actually measures [D]",
-      "text": "https://preview.redd.it/xv2epabu6ioh1.png?width=1171&amp;format=png&amp;auto=webp&amp;s=4e22c69855ec509bd63a038a24f765caeaafa59c Ant Ling reports 83.83 on DiagnosisArena-MCQ for Ling-3.0-flash-Sante, its new medical reasoning model. The suffix matters: the task provides case information, examinations and tests, then asks the model to choose from four diagnoses. That result tells us about selecting an answer when the candidate set and case evidence are supplied. It does not establish how the same",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wbkxsa/what_santes_8383_on_diagnosisarenamcq_actually/",
-      "date": "2026-09-09T13:01:01+00:00",
-      "source": "Reddit · MachineLearning",
-      "cat": "SCIENCE"
+      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "text": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+      "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "date": "Sat, 12 Sep 2026 20:19:16 +0000",
+      "source": "TechCrunch",
+      "cat": "TECH"
+    },
+    {
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "text": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+      "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "date": "Sat, 12 Sep 2026 19:34:44 +0000",
+      "source": "TechCrunch",
+      "cat": "TECH"
     },
     {
       "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
       "text": "Tesla’s halo sports car was first announced in November 2017.",
       "link": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
       "date": "Sat, 12 Sep 2026 19:21:19 +0000",
-      "source": "TechCrunch",
-      "cat": "TECH"
-    },
-    {
-      "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
-      "text": "What would it actually look like to \"pace the frontier\"?",
-      "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-      "date": "Sat, 12 Sep 2026 15:52:11 +0000",
       "source": "TechCrunch",
       "cat": "TECH"
     },
@@ -1211,14 +1219,6 @@
       "text": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
       "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
       "date": "Thu, 10 Sep 2026 21:51:59 +0000",
-      "source": "TechCrunch",
-      "cat": "TECH"
-    },
-    {
-      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-      "text": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
-      "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-      "date": "Thu, 10 Sep 2026 21:35:00 +0000",
       "source": "TechCrunch",
       "cat": "TECH"
     },
