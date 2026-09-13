@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-09-13T16:52:04.697841+00:00",
+  "generated_at": "2026-09-13T19:09:02.236279+00:00",
   "items": [
+    {
+      "title": "I'm being cyberattacked by Tesla, Inc",
+      "text": "Hacker News discussion and source.",
+      "link": "https://dreamstation.systems/personal/tesla.html",
+      "date": "2026-09-13T18:03:09+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 214,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Why is Google still serving dodgy ads?",
+      "text": "Hacker News discussion and source.",
+      "link": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+      "date": "2026-09-13T17:37:44+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 129,
+      "kindLabel": "HN API"
+    },
     {
       "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
       "text": "Hacker News discussion and source.",
@@ -8,7 +28,7 @@
       "date": "2026-09-13T14:28:36+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 128,
+      "points": 254,
       "kindLabel": "HN API"
     },
     {
@@ -18,7 +38,7 @@
       "date": "2026-09-13T07:49:46+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 372,
+      "points": 434,
       "kindLabel": "HN API"
     },
     {
@@ -28,17 +48,17 @@
       "date": "2026-09-13T14:25:13+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 40,
+      "points": 91,
       "kindLabel": "HN API"
     },
     {
-      "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
+      "title": "Data collected by cars and sold to third parties",
       "text": "Hacker News discussion and source.",
-      "link": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
-      "date": "2026-09-13T12:01:52+00:00",
+      "link": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+      "date": "2026-09-13T13:45:08+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 76,
+      "points": 113,
       "kindLabel": "HN API"
     },
     {
@@ -48,67 +68,17 @@
       "date": "2026-09-13T12:30:15+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 60,
+      "points": 122,
       "kindLabel": "HN API"
     },
     {
-      "title": "Cpak – OCI application package format for Linux desktops, servers and devices",
+      "title": "Sean Carroll explains the biggest ideas in the universe – Full Interview [video]",
       "text": "Hacker News discussion and source.",
-      "link": "https://cpak.it/",
-      "date": "2026-09-13T15:02:56+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 13,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Libraries Run Rust Inside Python (With PyO3)",
-      "text": "Hacker News discussion and source.",
-      "link": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/",
-      "date": "2026-09-13T15:24:05+00:00",
+      "link": "https://www.youtube.com/watch?v=_TBNJyztai0",
+      "date": "2026-09-10T23:32:12+00:00",
       "source": "Hacker News",
       "cat": "TECH",
       "points": 21,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
-      "text": "Hacker News discussion and source.",
-      "link": "https://bensimms.moe/reverse-engineering-scooter/",
-      "date": "2026-09-10T03:32:04+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 150,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Why are AI agents lying, cheating and coordinating?",
-      "text": "Hacker News discussion and source.",
-      "link": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "date": "2026-09-13T01:22:31+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 467,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-      "text": "Hacker News discussion and source.",
-      "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "date": "2026-09-13T15:44:38+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 40,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
-      "text": "Hacker News discussion and source.",
-      "link": "https://github.com/FeralFirmware/TailTalk/",
-      "date": "2026-09-12T23:43:31+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 47,
       "kindLabel": "HN API"
     },
     {
@@ -118,7 +88,117 @@
       "date": "2026-09-13T14:09:53+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 20,
+      "points": 74,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
+      "text": "Hacker News discussion and source.",
+      "link": "https://bensimms.moe/reverse-engineering-scooter/",
+      "date": "2026-09-10T03:32:04+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 227,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+      "text": "Hacker News discussion and source.",
+      "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "date": "2026-09-13T15:44:38+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 197,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Cpak – OCI application package format for Linux desktops, servers and devices",
+      "text": "Hacker News discussion and source.",
+      "link": "https://cpak.it/",
+      "date": "2026-09-13T15:02:56+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 26,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Why are AI agents lying, cheating and coordinating?",
+      "text": "Hacker News discussion and source.",
+      "link": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "date": "2026-09-13T01:22:31+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 511,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Flock cameras used to arrest a child for playing on a swing",
+      "text": "Hacker News discussion and source.",
+      "link": "https://www.youtube.com/watch?v=koclOnlde0E",
+      "date": "2026-09-13T18:47:26+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 15,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+      "text": "Hacker News discussion and source.",
+      "link": "https://twitter.com/DavidSacks/status/2098973625252708460",
+      "date": "2026-09-13T16:52:33+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 116,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
+      "text": "Hacker News discussion and source.",
+      "link": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
+      "date": "2026-09-13T12:01:52+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 88,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
+      "text": "Hacker News discussion and source.",
+      "link": "https://github.com/FeralFirmware/TailTalk/",
+      "date": "2026-09-12T23:43:31+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 55,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Romania soccer introduces black card to 'combat abusive behaviour' from parents",
+      "text": "Hacker News discussion and source.",
+      "link": "https://www.nytimes.com/athletic/7586821/2026/09/12/football-black-card-referee/",
+      "date": "2026-09-13T17:08:16+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 48,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
+      "text": "Hacker News discussion and source.",
+      "link": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
+      "date": "2026-09-11T03:45:42+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 4,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Libraries Run Rust Inside Python (With PyO3)",
+      "text": "Hacker News discussion and source.",
+      "link": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/",
+      "date": "2026-09-13T15:24:05+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 35,
       "kindLabel": "HN API"
     },
     {
@@ -128,57 +208,17 @@
       "date": "2026-09-11T15:34:53+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 17,
+      "points": 47,
       "kindLabel": "HN API"
     },
     {
-      "title": "Predictive intelligence to anticipate anything.",
+      "title": "Device Drivers lab exercise – COSC562",
       "text": "Hacker News discussion and source.",
-      "link": "https://prior.chat/",
-      "date": "2026-09-13T15:11:22+00:00",
+      "link": "https://web.eecs.utk.edu/~smarz1/courses/cosc562/drivers.html",
+      "date": "2026-09-13T17:41:50+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 11,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Base84 deserves a place in file names",
-      "text": "Hacker News discussion and source.",
-      "link": "https://00f.net/2026/09/09/base84/",
-      "date": "2026-09-11T09:06:45+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 35,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Homebrew 7.0.0",
-      "text": "Hacker News discussion and source.",
-      "link": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
-      "date": "2026-09-13T08:41:17+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 387,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Aligned to whom?",
-      "text": "Hacker News discussion and source.",
-      "link": "https://hyperbo.la/w/aligned-to-whom/",
-      "date": "2026-09-13T03:17:18+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 142,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Key symbols we lost to time, pt. 1: The PC side",
-      "text": "Hacker News discussion and source.",
-      "link": "https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-1-the-pc-side/",
-      "date": "2026-09-13T14:00:44+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 40,
+      "points": 3,
       "kindLabel": "HN API"
     },
     {
@@ -188,64 +228,14 @@
       "date": "2026-09-12T16:25:08+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 550,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "On Binary Translation and Its Consequences",
-      "text": "Hacker News discussion and source.",
-      "link": "https://chipsandcheese.com/p/on-binary-translation-and-its-consequences",
-      "date": "2026-09-10T22:41:57+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 30,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "The Interim Computer Museum",
-      "text": "Hacker News discussion and source.",
-      "link": "https://icm.museum/",
-      "date": "2026-09-13T02:43:57+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 149,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "I Added a Non-Wi-Fi Mitsubishi AC to Home Assistant",
-      "text": "Hacker News discussion and source.",
-      "link": "https://medium.com/@ivangomezarnedo/how-i-added-a-non-wi-fi-mitsubishi-ac-to-home-assistant-22770661dd77",
-      "date": "2026-09-10T09:32:17+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 140,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "US Customs supervisor busted for stealing hardware from Homeland Security PCs",
-      "text": "Hacker News discussion and source.",
-      "link": "https://www.tomshardware.com/pc-components/us-customs-supervisor-busted-for-stealing-core-i7-cpus-ram-and-hard-drives-from-homeland-security-pcs-stolen-tech-swapped-with-inferior-hardware-and-cashed-out-on-newegg",
-      "date": "2026-09-13T13:24:28+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 86,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Ode to Metadata",
-      "text": "Hacker News discussion and source.",
-      "link": "https://www.autodidacts.io/ode-to-metadata/",
-      "date": "2026-09-10T14:24:47+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 12,
+      "points": 568,
       "kindLabel": "HN API"
     },
     {
       "title": "Briefing Chat: The Bunsen burner myth that turns out to be just hot air",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02893-8",
-      "date": "2026-09-13T16:52:03.003200+00:00",
+      "date": "2026-09-13T19:09:01.008817+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -253,7 +243,7 @@
       "title": "NSF moves to overhaul funding approach in line with White House priorities",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02892-9",
-      "date": "2026-09-13T16:52:03.003245+00:00",
+      "date": "2026-09-13T19:09:01.008858+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -261,7 +251,7 @@
       "title": "People trust scientists seen to be 'on their side', UK study find",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02883-w",
-      "date": "2026-09-13T16:52:03.003271+00:00",
+      "date": "2026-09-13T19:09:01.008885+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -269,7 +259,7 @@
       "title": "El Niño goes viral — and scientists learn what makes people care about the climate",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02763-3",
-      "date": "2026-09-13T16:52:03.003295+00:00",
+      "date": "2026-09-13T19:09:01.008909+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -277,7 +267,7 @@
       "title": "Successful early-career scientists rely on network of mentors",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02827-4",
-      "date": "2026-09-13T16:52:03.003321+00:00",
+      "date": "2026-09-13T19:09:01.008933+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -285,7 +275,7 @@
       "title": "Osteoporosis affects millions: could modified cells rebuild their bones?",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02828-3",
-      "date": "2026-09-13T16:52:03.003346+00:00",
+      "date": "2026-09-13T19:09:01.008959+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -293,7 +283,7 @@
       "title": "Author Correction: The molecular basis of force selectivity by PIEZO2",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11079-1",
-      "date": "2026-09-13T16:52:03.003373+00:00",
+      "date": "2026-09-13T19:09:01.008987+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -301,7 +291,7 @@
       "title": "The neurons that can put a brake on a nervous-system cancer",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02834-5",
-      "date": "2026-09-13T16:52:03.003396+00:00",
+      "date": "2026-09-13T19:09:01.009032+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -309,7 +299,7 @@
       "title": "Distant sensors announced a fearsome tsunami’s birth",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02809-6",
-      "date": "2026-09-13T16:52:03.003417+00:00",
+      "date": "2026-09-13T19:09:01.009056+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -317,7 +307,7 @@
       "title": "Rivers deliver unexpectedly high loads of microplastics to the sea",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02866-x",
-      "date": "2026-09-13T16:52:03.003439+00:00",
+      "date": "2026-09-13T19:09:01.009079+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -325,7 +315,7 @@
       "title": "Daily briefing: Text-message tutoring keeps kids learning when schools close",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02888-5",
-      "date": "2026-09-13T16:52:03.003463+00:00",
+      "date": "2026-09-13T19:09:01.009103+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -333,7 +323,7 @@
       "title": "AI researchers reckon with the $1.5 million ‘academia tax’",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02026-1",
-      "date": "2026-09-13T16:52:03.003486+00:00",
+      "date": "2026-09-13T19:09:01.009128+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -341,7 +331,7 @@
       "title": "Highly efficient base editing at <i>PCSK9</i> and normal human embryo development",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11118-x",
-      "date": "2026-09-13T16:52:03.003538+00:00",
+      "date": "2026-09-13T19:09:01.009183+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -349,7 +339,7 @@
       "title": "Phone tutoring boosts math scores when schools are forced to close",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02843-4",
-      "date": "2026-09-13T16:52:03.003567+00:00",
+      "date": "2026-09-13T19:09:01.009212+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -357,7 +347,7 @@
       "title": "How AI is changing PhD programmes: join our free webinar",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02751-7",
-      "date": "2026-09-13T16:52:03.003589+00:00",
+      "date": "2026-09-13T19:09:01.009237+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -365,7 +355,7 @@
       "title": "Bacteria recruited to treat cancer",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02823-8",
-      "date": "2026-09-13T16:52:03.003611+00:00",
+      "date": "2026-09-13T19:09:01.009259+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -373,7 +363,7 @@
       "title": "Ruins of ancient Asian city show engineering prowess and organization",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02821-w",
-      "date": "2026-09-13T16:52:03.003632+00:00",
+      "date": "2026-09-13T19:09:01.009281+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -381,7 +371,7 @@
       "title": "Breaking timescales with generative sampling of conformational transitions",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11025-1",
-      "date": "2026-09-13T16:52:03.003660+00:00",
+      "date": "2026-09-13T19:09:01.009311+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -698,6 +688,14 @@
       "cat": "SCIENCE"
     },
     {
+      "title": "[Upcoming AMA] Waymo AI Team AMA – Drop Your Questions Early! [D]",
+      "text": "Hi r/MachineLearning , Join our AI leads as they answer your questions on foundation models, simulation, and scaling the Waymo Driver. Our AMA thread is officially open, and you can start dropping your questions now. From multimodality and end-to-end architectures to the realities of validating models for fully autonomous vehicles, our team will be answering your questions live, tomorrow. The key details: Date: Monday, September 14 Time: 2:00 – 3:30 PM PT Location: r/MachineLearning Mark your ca",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wfesc0/upcoming_ama_waymo_ai_team_ama_drop_your/",
+      "date": "2026-09-13T18:01:03+00:00",
+      "source": "Reddit · MachineLearning",
+      "cat": "SCIENCE"
+    },
+    {
       "title": "I trained an 825k-parameter model to generate drawing programs that execute exactly on an RP2040 [P]",
       "text": "I’ve been working on a small research project about whether sub-million-parameter models can learn to generate executable drawing programs for constrained hardware. The current system is an 825k-parameter autoregressive transformer which generates ~100 bytes of drawing bytecode rather than pixels. The bytecode is then transferred to a Raspberry Pi Pico, where a small fixed-point virtual machine executes it and streams the resulting geometry back over UART. The model runs on the host. The Pico on",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1wf611v/i_trained_an_825kparameter_model_to_generate/",
@@ -714,10 +712,10 @@
       "cat": "SCIENCE"
     },
     {
-      "title": "AI incidents are starting to look less like isolated bugs, and more like subcritical chain reactions [N]",
-      "text": "There is a useful idea from reactor physics that I think helps clarify the recent wave of AI sandbox-escape and autonomous-cyber incidents. Call it the AI reproduction number : k_AI = the expected number of independently persistent AI deployments created by one deployment before containment. If k_AI &lt; 1, a lineage dies out unless humans keep injecting new agents. If k_AI &gt; 1, autonomous propagation can in principle become self-sustaining. That distinction matters because raw incident count",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wfcslf/ai_incidents_are_starting_to_look_less_like/",
-      "date": "2026-09-13T16:46:48+00:00",
+      "title": "Got scipy's KD-tree to handle inserts and deletes without rebuilding. Three things I learned [P]",
+      "text": "I built a small library called whitetree for exact Mahalanobis nearest-neighbour search on low-dimensional sensor data that keeps arriving. The idea is old. Whiten with the Cholesky factor of the covariance so Mahalanobis becomes Euclidean, then keep several scipy cKDTrees instead of one so inserts and deletes never force a full rebuild. Three measurements came out of it that I haven&#39;t seen stated plainly anywhere, so I&#39;m posting those rather than a pitch. The short version first. On the",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wfg8e3/got_scipys_kdtree_to_handle_inserts_and_deletes/",
+      "date": "2026-09-13T18:54:18+00:00",
       "source": "Reddit · MachineLearning",
       "cat": "SCIENCE"
     },
@@ -806,14 +804,6 @@
       "text": "As reported by the New York Times: https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html?smid=nytcore-ios-share OpenAI’s announcement: https://openai.com/index/navier-stokes-solution/ &#32; submitted by &#32; /u/Shizuka_Kuze [link] &#32; [comments]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1wavdi7/openal_says_it_has_cracked_one_of_maths/",
       "date": "2026-09-08T17:42:57+00:00",
-      "source": "Reddit · MachineLearning",
-      "cat": "SCIENCE"
-    },
-    {
-      "title": "Anybody working on Test Time Training over here? Lemme work with u pls [D]",
-      "text": "I&#39;m an undergrad student who got a taste of research. I love it. I currently have a draft, which me and my mentor have planned for TMLR, and plan to submit it by next month for the first round of review. It was some work on self explanation methods of LLM models. We are confident that it&#39;ll get accepted (I hope it does, I&#39;ve put a lotta hours polishing it into making it a good accept :_) ). I&#39;m very, very interested in TTT. I&#39;ve got a strong feeling that this is gonna be the ",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wcjn2b/anybody_working_on_test_time_training_over_here/",
-      "date": "2026-09-10T13:44:25+00:00",
       "source": "Reddit · MachineLearning",
       "cat": "SCIENCE"
     },
@@ -1260,13 +1250,13 @@
       "name": "arXiv · AI/ML",
       "ok": false,
       "count": 0,
-      "error": "HTTP Error 429: Too Many Requests"
+      "error": "The read operation timed out"
     },
     {
       "name": "arXiv · Systems",
       "ok": false,
       "count": 0,
-      "error": "HTTP Error 429: Unknown Error"
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "name": "Nature",
