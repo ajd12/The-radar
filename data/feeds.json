@@ -1,14 +1,24 @@
 {
-  "generated_at": "2026-09-13T07:33:37.904010+00:00",
+  "generated_at": "2026-09-13T12:59:27.479767+00:00",
   "items": [
     {
-      "title": "The Interim Computer Museum",
+      "title": "JetKVM Mini",
       "text": "Hacker News discussion and source.",
-      "link": "https://icm.museum/",
-      "date": "2026-09-13T02:43:57+00:00",
+      "link": "https://jetkvm.com/blog/introducing-jetkvm-mini",
+      "date": "2026-09-13T07:49:46+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 95,
+      "points": 232,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
+      "text": "Hacker News discussion and source.",
+      "link": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
+      "date": "2026-09-13T12:01:52+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 14,
       "kindLabel": "HN API"
     },
     {
@@ -18,17 +28,7 @@
       "date": "2026-09-13T01:22:31+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 118,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "When Anyone Can Build Software, Who Decides What Not to Build?",
-      "text": "Hacker News discussion and source.",
-      "link": "https://architectureintel.com/when-anyone-can-build-software-who-decides-what-not-to-build-ae07fdb370e4",
-      "date": "2026-09-13T05:59:26+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 14,
+      "points": 332,
       "kindLabel": "HN API"
     },
     {
@@ -38,67 +38,37 @@
       "date": "2026-09-12T16:25:08+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 427,
+      "points": 509,
       "kindLabel": "HN API"
     },
     {
-      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "title": "Matt Mullenweg reportedly returns as Automattic CEO 2 days after getting booted",
       "text": "Hacker News discussion and source.",
-      "link": "https://withspecific.com/benchmarks/real-swe",
-      "date": "2026-09-12T20:25:48+00:00",
+      "link": "https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return",
+      "date": "2026-09-13T12:30:28+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 224,
+      "points": 11,
       "kindLabel": "HN API"
     },
     {
-      "title": "I Added a Non-Wi-Fi Mitsubishi AC to Home Assistant",
+      "title": "The Interim Computer Museum",
       "text": "Hacker News discussion and source.",
-      "link": "https://medium.com/@ivangomezarnedo/how-i-added-a-non-wi-fi-mitsubishi-ac-to-home-assistant-22770661dd77",
-      "date": "2026-09-10T09:32:17+00:00",
+      "link": "https://icm.museum/",
+      "date": "2026-09-13T02:43:57+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 51,
+      "points": 133,
       "kindLabel": "HN API"
     },
     {
-      "title": "After Math",
+      "title": "Homebrew 7.0.0",
       "text": "Hacker News discussion and source.",
-      "link": "https://terrytao.wordpress.com/2026/09/12/after-math/",
-      "date": "2026-09-13T03:16:41+00:00",
+      "link": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
+      "date": "2026-09-13T08:41:17+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 42,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Nvidia is the central bank of AI",
-      "text": "Hacker News discussion and source.",
-      "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "date": "2026-09-12T15:08:27+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 456,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Apple iPod Engraver (2019)",
-      "text": "Hacker News discussion and source.",
-      "link": "https://dunstanorchard.com/apple-ipod-engraver/",
-      "date": "2026-09-09T01:57:37+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 192,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "A succession crisis that tore England apart (2023)",
-      "text": "Hacker News discussion and source.",
-      "link": "https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart",
-      "date": "2026-09-13T03:18:29+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 24,
+      "points": 149,
       "kindLabel": "HN API"
     },
     {
@@ -108,17 +78,67 @@
       "date": "2026-09-13T03:17:18+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 27,
+      "points": 85,
       "kindLabel": "HN API"
     },
     {
-      "title": "Everyone should slow down AI development except for me",
+      "title": "I Added a Non-Wi-Fi Mitsubishi AC to Home Assistant",
       "text": "Hacker News discussion and source.",
-      "link": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
-      "date": "2026-09-13T00:30:44+00:00",
+      "link": "https://medium.com/@ivangomezarnedo/how-i-added-a-non-wi-fi-mitsubishi-ac-to-home-assistant-22770661dd77",
+      "date": "2026-09-10T09:32:17+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 384,
+      "points": 109,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
+      "text": "Hacker News discussion and source.",
+      "link": "https://bensimms.moe/reverse-engineering-scooter/",
+      "date": "2026-09-10T03:32:04+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 18,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Revolut confirms customer data breach through fake government requests",
+      "text": "Hacker News discussion and source.",
+      "link": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+      "date": "2026-09-13T09:59:58+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 58,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Apple iPod Engraver (2019)",
+      "text": "Hacker News discussion and source.",
+      "link": "https://dunstanorchard.com/apple-ipod-engraver/",
+      "date": "2026-09-09T01:57:37+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 245,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Nvidia is the central bank of AI",
+      "text": "Hacker News discussion and source.",
+      "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "date": "2026-09-12T15:08:27+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 510,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Operation Smart Kettle – Börzels Blog",
+      "text": "Hacker News discussion and source.",
+      "link": "https://blog.boerzel.de/de/blog/operation-smart-kettle",
+      "date": "2026-09-10T14:53:30+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 29,
       "kindLabel": "HN API"
     },
     {
@@ -128,7 +148,47 @@
       "date": "2026-09-09T11:57:45+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 174,
+      "points": 214,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Nvidia dismisses \"circular financing\", says every $1 it invests brings back $100",
+      "text": "Hacker News discussion and source.",
+      "link": "https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/",
+      "date": "2026-09-13T10:29:18+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 87,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Everyone should slow down AI development except for me",
+      "text": "Hacker News discussion and source.",
+      "link": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+      "date": "2026-09-13T00:30:44+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 583,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "On Binary Translation and Its Consequences",
+      "text": "Hacker News discussion and source.",
+      "link": "https://chipsandcheese.com/p/on-binary-translation-and-its-consequences",
+      "date": "2026-09-10T22:41:57+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 5,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Don't be the out of touch Kung Fu master",
+      "text": "Hacker News discussion and source.",
+      "link": "https://twitter.com/ID_AA_Carmack/status/2098443262214230095",
+      "date": "2026-09-12T21:51:43+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 160,
       "kindLabel": "HN API"
     },
     {
@@ -138,27 +198,7 @@
       "date": "2026-09-13T03:34:53+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 9,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "AgentsDock: An IDE designed for agentic AI research",
-      "text": "Hacker News discussion and source.",
-      "link": "https://agentsdock.net/",
-      "date": "2026-09-12T23:45:58+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 41,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Durable execution without history replay",
-      "text": "Hacker News discussion and source.",
-      "link": "https://trigora.dev/blog/durable-execution-without-history-replay/",
-      "date": "2026-09-09T22:41:14+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 15,
+      "points": 35,
       "kindLabel": "HN API"
     },
     {
@@ -168,37 +208,7 @@
       "date": "2026-09-09T16:58:27+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 56,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
-      "text": "Hacker News discussion and source.",
-      "link": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
-      "date": "2026-09-10T15:31:37+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 504,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "P(doom)",
-      "text": "Hacker News discussion and source.",
-      "link": "https://lucumr.pocoo.org/2026/9/12/pdoom/",
-      "date": "2026-09-12T21:35:38+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 61,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Liesegang Rings",
-      "text": "Hacker News discussion and source.",
-      "link": "https://chillphysicsenjoyer.substack.com/p/liesegang-rings",
-      "date": "2026-09-09T13:20:36+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 32,
+      "points": 85,
       "kindLabel": "HN API"
     },
     {
@@ -208,44 +218,34 @@
       "date": "2026-09-10T00:16:10+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 129,
+      "points": 175,
       "kindLabel": "HN API"
     },
     {
-      "title": "We must pace the frontier",
+      "title": "P(doom)",
       "text": "Hacker News discussion and source.",
-      "link": "https://darioamodei.com/post/we-must-pace-the-frontier",
-      "date": "2026-09-12T14:10:49+00:00",
+      "link": "https://lucumr.pocoo.org/2026/9/12/pdoom/",
+      "date": "2026-09-12T21:35:38+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 619,
+      "points": 120,
       "kindLabel": "HN API"
     },
     {
-      "title": "Günther Anders, the Philosopher at the End of the World",
+      "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
       "text": "Hacker News discussion and source.",
-      "link": "https://www.compactmag.com/article/gunther-anders-the-philosopher-at-the-end-of-the-world/",
-      "date": "2026-09-11T04:28:17+00:00",
+      "link": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
+      "date": "2026-09-10T15:31:37+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 8,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Will there be a 7G?",
-      "text": "Hacker News discussion and source.",
-      "link": "https://arxiv.org/abs/2609.01877",
-      "date": "2026-09-12T17:05:31+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 94,
+      "points": 561,
       "kindLabel": "HN API"
     },
     {
       "title": "Briefing Chat: The Bunsen burner myth that turns out to be just hot air",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02893-8",
-      "date": "2026-09-13T07:33:36.529918+00:00",
+      "date": "2026-09-13T12:59:26.074498+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -253,7 +253,7 @@
       "title": "NSF moves to overhaul funding approach in line with White House priorities",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02892-9",
-      "date": "2026-09-13T07:33:36.529962+00:00",
+      "date": "2026-09-13T12:59:26.074539+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -261,7 +261,7 @@
       "title": "People trust scientists seen to be 'on their side', UK study find",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02883-w",
-      "date": "2026-09-13T07:33:36.529988+00:00",
+      "date": "2026-09-13T12:59:26.074566+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -269,7 +269,7 @@
       "title": "El Niño goes viral — and scientists learn what makes people care about the climate",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02763-3",
-      "date": "2026-09-13T07:33:36.530013+00:00",
+      "date": "2026-09-13T12:59:26.074590+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -277,7 +277,7 @@
       "title": "Successful early-career scientists rely on network of mentors",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02827-4",
-      "date": "2026-09-13T07:33:36.530039+00:00",
+      "date": "2026-09-13T12:59:26.074613+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -285,7 +285,7 @@
       "title": "Osteoporosis affects millions: could modified cells rebuild their bones?",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02828-3",
-      "date": "2026-09-13T07:33:36.530062+00:00",
+      "date": "2026-09-13T12:59:26.074640+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -293,7 +293,7 @@
       "title": "Author Correction: The molecular basis of force selectivity by PIEZO2",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11079-1",
-      "date": "2026-09-13T07:33:36.530091+00:00",
+      "date": "2026-09-13T12:59:26.074695+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -301,7 +301,7 @@
       "title": "The neurons that can put a brake on a nervous-system cancer",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02834-5",
-      "date": "2026-09-13T07:33:36.530114+00:00",
+      "date": "2026-09-13T12:59:26.074725+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -309,7 +309,7 @@
       "title": "Distant sensors announced a fearsome tsunami’s birth",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02809-6",
-      "date": "2026-09-13T07:33:36.530136+00:00",
+      "date": "2026-09-13T12:59:26.074747+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -317,7 +317,7 @@
       "title": "Rivers deliver unexpectedly high loads of microplastics to the sea",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02866-x",
-      "date": "2026-09-13T07:33:36.530158+00:00",
+      "date": "2026-09-13T12:59:26.074770+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -325,7 +325,7 @@
       "title": "Daily briefing: Text-message tutoring keeps kids learning when schools close",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02888-5",
-      "date": "2026-09-13T07:33:36.530182+00:00",
+      "date": "2026-09-13T12:59:26.074794+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -333,7 +333,7 @@
       "title": "AI researchers reckon with the $1.5 million ‘academia tax’",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02026-1",
-      "date": "2026-09-13T07:33:36.530207+00:00",
+      "date": "2026-09-13T12:59:26.074818+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -341,7 +341,7 @@
       "title": "Highly efficient base editing at <i>PCSK9</i> and normal human embryo development",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11118-x",
-      "date": "2026-09-13T07:33:36.530261+00:00",
+      "date": "2026-09-13T12:59:26.074871+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -349,7 +349,7 @@
       "title": "Phone tutoring boosts math scores when schools are forced to close",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02843-4",
-      "date": "2026-09-13T07:33:36.530290+00:00",
+      "date": "2026-09-13T12:59:26.074899+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -357,7 +357,7 @@
       "title": "How AI is changing PhD programmes: join our free webinar",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02751-7",
-      "date": "2026-09-13T07:33:36.530315+00:00",
+      "date": "2026-09-13T12:59:26.074922+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -365,7 +365,7 @@
       "title": "Bacteria recruited to treat cancer",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02823-8",
-      "date": "2026-09-13T07:33:36.530338+00:00",
+      "date": "2026-09-13T12:59:26.074943+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -373,7 +373,7 @@
       "title": "Ruins of ancient Asian city show engineering prowess and organization",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02821-w",
-      "date": "2026-09-13T07:33:36.530362+00:00",
+      "date": "2026-09-13T12:59:26.074965+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -381,7 +381,7 @@
       "title": "Breaking timescales with generative sampling of conformational transitions",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11025-1",
-      "date": "2026-09-13T07:33:36.530391+00:00",
+      "date": "2026-09-13T12:59:26.074994+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -690,6 +690,14 @@
       "cat": "SCIENCE"
     },
     {
+      "title": "Zachery Lipton: \"CS academia broke the system...perhaps all that it takes for the system to rebuild is for it to burn to the ground\" [D]",
+      "text": "Sept 9, 2026 hits an all time daily high of 447 new machine learning papers uploaded to cs.LG ( https://arxiv.org/list/cs.LG/recent?skip=0&amp;show=500 ). This is many times more papers than what a human being or even a sizeable reading group could feasibly read and digest in a year. This is preceded by around 200/day of new ML papers before and after. Are we pass the point of no return? Should the system be be, like he says, &quot;burned to the ground&quot; before good science can resume? &#32;",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wf4b5g/zachery_lipton_cs_academia_broke_the/",
+      "date": "2026-09-13T10:42:53+00:00",
+      "source": "Reddit · MachineLearning",
+      "cat": "SCIENCE"
+    },
+    {
       "title": "A Severe Misalignment of AI in Mathematics (Declaration by 25 Fields Medalists) [D]",
       "text": "Note: this declaration was drafted by Mathematicians, and is mostly addressed to the mathematical community. It&#39;d be interesting to discuss, among others, if what is written in the declaration may also apply to other communities---and, specifically, the AI/ML one. &#32; submitted by &#32; /u/hihey54 [link] &#32; [comments]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1wea1t7/a_severe_misalignment_of_ai_in_mathematics/",
@@ -698,10 +706,26 @@
       "cat": "SCIENCE"
     },
     {
-      "title": "Getting Mac Air m2/m3/m4 is it good [D]",
-      "text": "So want to switch to macbook after running epochs on my run down vivobook which still works pretty well thanks to its rtx 3050. Now my budget us nearly 80,000-1lac rupees(800-1000$) and buying it second hand is also an option. I could have asked this in any apple Reddit pages but most of my work include python programming, sql and LLM frameworks. Also I’m a 26 passout looking for jobs thats y building projects and always posting on x. I wanted suggestion which to buy M2 - can buy easily M3 - mod",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wewuw5/getting_mac_air_m2m3m4_is_it_good_d/",
-      "date": "2026-09-13T03:41:17+00:00",
+      "title": "I trained an 825k-parameter model to generate drawing programs that execute exactly on an RP2040 [P]",
+      "text": "I’ve been working on a small research project about whether sub-million-parameter models can learn to generate executable drawing programs for constrained hardware. The current system is an 825k-parameter autoregressive transformer which generates ~100 bytes of drawing bytecode rather than pixels. The bytecode is then transferred to a Raspberry Pi Pico, where a small fixed-point virtual machine executes it and streams the resulting geometry back over UART. The model runs on the host. The Pico on",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wf611v/i_trained_an_825kparameter_model_to_generate/",
+      "date": "2026-09-13T12:12:39+00:00",
+      "source": "Reddit · MachineLearning",
+      "cat": "SCIENCE"
+    },
+    {
+      "title": "[D] Canadian universities for ML/AI research besides top universities (UofT, Waterloo, etc..)? [D]",
+      "text": "I’m looking into Master’s programs in Canada for ML/AI research. What are some universities with strong ML/AI research and good professors/supervisors, other than the usual top choices like UofT and Waterloo? &#32; submitted by &#32; /u/DryHat3296 [link] &#32; [comments]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wf706x/d_canadian_universities_for_mlai_research_besides/",
+      "date": "2026-09-13T12:57:43+00:00",
+      "source": "Reddit · MachineLearning",
+      "cat": "SCIENCE"
+    },
+    {
+      "title": "When NeurIPS'26 final decision release? [D]",
+      "text": "Will it be strictly Sep&#39;24 AoE? Is there any possibility for releasing before Sep&#39;18 AoE, ICLR abstract submission date? &#32; submitted by &#32; /u/No_Fig_3372 [link] &#32; [comments]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wf48kt/when_neurips26_final_decision_release_d/",
+      "date": "2026-09-13T10:38:50+00:00",
       "source": "Reddit · MachineLearning",
       "cat": "SCIENCE"
     },
@@ -722,18 +746,18 @@
       "cat": "SCIENCE"
     },
     {
-      "title": "How much do tech reports matter for a PhD application? [D]",
-      "text": "The title, by tech reports I don&#39;t mean arXiv submissions, but reports of a large model, like say Kimi K3, DeepSeek, Gemini, Mistral Leanstral, etc. Is it much above, above, much below, below or equal to a first author A* paper? &#32; submitted by &#32; /u/simple-Flat0263 [link] &#32; [comments]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1weedmk/how_much_do_tech_reports_matter_for_a_phd/",
-      "date": "2026-09-12T14:40:54+00:00",
-      "source": "Reddit · MachineLearning",
-      "cat": "SCIENCE"
-    },
-    {
       "title": "Confusion regarding EMNLP registration [D]",
       "text": "Hi, I posted some months ago and got some very helpful responses (for another conference), but I have some confusions regarding EMNLP (and the way registration works here). To give some context, I used to work as an intern during my undergrads at an Indian uni (final year), and managed to write a paper as first-author and it got accepted to EMNLP Findings. Now, post-graduation, I joined another university for my Masters, and when I applied for grant, they rejected, explicitly stating the lack of",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1wdw5o0/confusion_regarding_emnlp_registration_d/",
       "date": "2026-09-11T23:24:01+00:00",
+      "source": "Reddit · MachineLearning",
+      "cat": "SCIENCE"
+    },
+    {
+      "title": "How much do tech reports matter for a PhD application? [D]",
+      "text": "The title, by tech reports I don&#39;t mean arXiv submissions, but reports of a large model, like say Kimi K3, DeepSeek, Gemini, Mistral Leanstral, etc. Is it much above, above, much below, below or equal to a first author A* paper? &#32; submitted by &#32; /u/simple-Flat0263 [link] &#32; [comments]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1weedmk/how_much_do_tech_reports_matter_for_a_phd/",
+      "date": "2026-09-12T14:40:54+00:00",
       "source": "Reddit · MachineLearning",
       "cat": "SCIENCE"
     },
@@ -794,30 +818,6 @@
       "cat": "SCIENCE"
     },
     {
-      "title": "ICDE Results [D]",
-      "text": "Who else is anticipating ICDE results tomorrow? Post your results here and let&#39;s discuss! &#32; submitted by &#32; /u/mythrowaway0852 [link] &#32; [comments]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wc5zak/icde_results_d/",
-      "date": "2026-09-10T02:19:07+00:00",
-      "source": "Reddit · MachineLearning",
-      "cat": "SCIENCE"
-    },
-    {
-      "title": "I trained a 348M model trained from scratch on 22.7B tokens that does 14 digit arithmetic [P]",
-      "text": "Hello this is my fifth small language model I&#39;ve made and apart of my third series and it has been a lot of work but it payed off: **348M parameters, 22.7B tokens**, then fine-tuned into a math model that solves arithmetic by *showing the work* — column addition with carries, borrow chains, partial-product multiplication — rather than guessing at an answer. Last time I posted a 326M model trained on 10B tokens. This has about 2.3× the data, and the math side is WAY better than my previous tw",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wc7hmu/i_trained_a_348m_model_trained_from_scratch_on/",
-      "date": "2026-09-10T03:28:41+00:00",
-      "source": "Reddit · MachineLearning",
-      "cat": "SCIENCE"
-    },
-    {
-      "title": "NeurIPS desk-rejected 178 papers for being \"AI-generated\". The detector flagged the track chairs' own papers at 24-69% [N]",
-      "text": "hey all. the NeurIPS Position Paper Track just used a proprietary AI detector (Pangram) to desk-reject 18.4% of all submissions. no human review, no appeal process, just out. there&#39;s been a lot of noise about this, so i went through the actual conference statements and Pangram&#39;s technical docs to see how this actually went down. the reality is wildly worse than just &quot;the AI detector made a mistake.&quot; here are the receipts: The track chairs would have failed their own test. Indep",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wakf62/neurips_deskrejected_178_papers_for_being/",
-      "date": "2026-09-08T10:19:04+00:00",
-      "source": "Reddit · MachineLearning",
-      "cat": "SCIENCE"
-    },
-    {
       "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
       "text": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"",
       "link": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
@@ -846,14 +846,6 @@
       "text": "Tesla’s halo sports car was first announced in November 2017.",
       "link": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
       "date": "Sat, 12 Sep 2026 19:21:19 +0000",
-      "source": "TechCrunch",
-      "cat": "TECH"
-    },
-    {
-      "title": "Revolut confirms customer data breach through fake government requests",
-      "text": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.",
-      "link": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
-      "date": "Sat, 12 Sep 2026 14:40:00 +0000",
       "source": "TechCrunch",
       "cat": "TECH"
     },
@@ -959,6 +951,14 @@
       "link": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
       "date": "Thu, 10 Sep 2026 22:30:00 +0000",
       "source": "TechCrunch",
+      "cat": "TECH"
+    },
+    {
+      "title": "I fixed a tractor using John Deere’s self-repair service. Farmers aren’t sold on it.",
+      "text": "The manufacturer has a service that lets owners repair their own equipment.",
+      "link": "https://arstechnica.com/gadgets/2026/09/i-fixed-a-tractor-using-john-deeres-self-repair-service-farmers-arent-sold-on-it/",
+      "date": "Sun, 13 Sep 2026 11:00:41 +0000",
+      "source": "Ars Technica",
       "cat": "TECH"
     },
     {
@@ -1098,11 +1098,51 @@
       "cat": "TECH"
     },
     {
-      "title": "Android can now securely migrate your logins between password managers",
-      "text": "App support is slim right now, but Google says more are coming.",
-      "link": "https://arstechnica.com/gadgets/2026/09/android-can-now-securely-migrate-your-logins-between-password-managers/",
-      "date": "Thu, 10 Sep 2026 18:41:09 +0000",
-      "source": "Ars Technica",
+      "title": "The Smart Bird Feeders Everyone’s Talking About (and Actually Buying) (2026)",
+      "text": "These bird feeders come with cameras and connected apps to let you see and learn about the birds in your neighborhood.",
+      "link": "https://www.wired.com/story/best-smart-bird-feeders/",
+      "date": "Sun, 13 Sep 2026 11:00:00 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
+      "title": "Try These 3 iOS 27 Safari Settings to Get More Out of Apple’s Browser",
+      "text": "Apple’s Safari browser gets a few helpful automation and personalization features in iOS 27.",
+      "link": "https://www.wired.com/story/iphone-settings-ios-27-safari-browser/",
+      "date": "Sun, 13 Sep 2026 10:30:00 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
+      "title": "Best Indoor Garden Systems I’ve Been Testing All Year (2026)",
+      "text": "Grow a backyard’s worth of greens and vegetables in your house with a vertical hydroponic garden. Here are a few that might be worth the investment.",
+      "link": "https://www.wired.com/gallery/best-indoor-gardening-systems/",
+      "date": "Sun, 13 Sep 2026 10:30:00 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
+      "title": "Coway Airmega Halo Review: Is Your Air Really Clean?",
+      "text": "Coway’s new Airmega Halo runs quietly and clears visible smoke quickly, but its air-quality readings weren’t always reassuring.",
+      "link": "https://www.wired.com/review/coway-airmega-halo/",
+      "date": "Sun, 13 Sep 2026 10:05:00 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
+      "title": "AI Agents Are Thirsty for Power",
+      "text": "Silicon Valley is shifting away from chatbot queries toward a future filled with resource-intensive agentic AI—and it's driving the data center buildout.",
+      "link": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
+      "date": "Sun, 13 Sep 2026 10:00:00 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
+      "title": "With a Better Understanding of Physics, We Could Predict Volcanic Eruptions",
+      "text": "“There’s no reason we can’t think that, at some point in the future, we can have volcano forecasts that are like weather forecasts.”",
+      "link": "https://www.wired.com/story/physics-predict-volcanic-eruptions/",
+      "date": "Sun, 13 Sep 2026 09:30:00 +0000",
+      "source": "Wired",
       "cat": "TECH"
     },
     {
@@ -1138,17 +1178,17 @@
       "cat": "TECH"
     },
     {
-      "title": "Branch Ergonomic Chair Pro (Sega Edition) Review: Comfy, Not Boring",
-      "text": "Turns out that the best office chair is also the best gaming chair, now with aesthetics to match.",
-      "link": "https://www.wired.com/review/branch-ergonomic-chair-pro-sega-edition/",
+      "title": "‘I’m Really Terrified’: A Mathematician Grapples With AI’s Recent Breakthroughs",
+      "text": "Steven Strogatz coauthored a book about how math is moving beyond human understanding. He spoke with WIRED about the seismic impact artificial intelligence has had on his life’s work.",
+      "link": "https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/",
       "date": "Sat, 12 Sep 2026 10:00:00 +0000",
       "source": "Wired",
       "cat": "TECH"
     },
     {
-      "title": "‘I’m Really Terrified’: A Mathematician Grapples With AI’s Recent Breakthroughs",
-      "text": "Steven Strogatz coauthored a book about how math is moving beyond human understanding. He spoke with WIRED about the seismic impact artificial intelligence has had on his life’s work.",
-      "link": "https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/",
+      "title": "Branch Ergonomic Chair Pro (Sega Edition) Review: Comfy, Not Boring",
+      "text": "Turns out that the best office chair is also the best gaming chair, now with aesthetics to match.",
+      "link": "https://www.wired.com/review/branch-ergonomic-chair-pro-sega-edition/",
       "date": "Sat, 12 Sep 2026 10:00:00 +0000",
       "source": "Wired",
       "cat": "TECH"
@@ -1200,54 +1240,6 @@
       "date": "Fri, 11 Sep 2026 15:00:00 +0000",
       "source": "Wired",
       "cat": "TECH"
-    },
-    {
-      "title": "This Man Has a Cult Internet Following Over His Olive Garden Lifetime Pasta Pass",
-      "text": "Braden Sinclair is one of just 50 people in the world who can have unlimited pasta at the chain for life. Now, fans are deciding what he should eat next.",
-      "link": "https://www.wired.com/story/this-man-has-a-cult-internet-following-over-his-olive-garden-lifetime-pasta-pass/",
-      "date": "Fri, 11 Sep 2026 11:00:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "8 Best Travel Adapters (2026): 20+ Models Tested",
-      "text": "When going abroad, the right plugs are essential to keep your gadgets charged. These are my favorite travel adapters and chargers that I’ve tested myself.",
-      "link": "https://www.wired.com/gallery/best-travel-adapters/",
-      "date": "Fri, 11 Sep 2026 11:00:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "I Fixed a Tractor Using John Deere’s Self-Repair Service. Farmers Aren’t Sold on It",
-      "text": "The agricultural machine manufacturer has a subscription service that lets owners repair their own equipment. Why is barely anybody using it?",
-      "link": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
-      "date": "Fri, 11 Sep 2026 10:45:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "We Tried the Most Popular Mushroom Coffees. These Are the Best (2026)",
-      "text": "“Coffee” made with functional mushrooms like lion’s mane and chaga is all the rage. We tried the most popular brands to find which were the most palatable.",
-      "link": "https://www.wired.com/gallery/best-mushroom-coffee/",
-      "date": "Fri, 11 Sep 2026 10:33:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "The Trump Alien ‘Disclosure Speech’ Rumors Are Reaching a Fever Pitch",
-      "text": "The US government has been sharing more information about UFOs. That's fueling excitement over the possibility of the president announcing that humans are not alone.",
-      "link": "https://www.wired.com/story/the-trump-alien-disclosure-speech-rumors-are-reaching-a-fever-pitch/",
-      "date": "Fri, 11 Sep 2026 10:30:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "How 9/11 Made Everyone a Conspiracy Theorist",
-      "text": "Crackpot theories were once the stuff of shortwave radio, but September 11 unleashed the Age of Alex Jones.",
-      "link": "https://www.wired.com/story/conspiracy-how-9-11-broke-americas-brain/",
-      "date": "Fri, 11 Sep 2026 10:00:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
     }
   ],
   "health": [
@@ -1260,13 +1252,13 @@
       "name": "arXiv · AI/ML",
       "ok": false,
       "count": 0,
-      "error": "HTTP Error 429: Unknown Error"
+      "error": "The read operation timed out"
     },
     {
       "name": "arXiv · Systems",
       "ok": false,
       "count": 0,
-      "error": "HTTP Error 429: Unknown Error"
+      "error": "The read operation timed out"
     },
     {
       "name": "Nature",
