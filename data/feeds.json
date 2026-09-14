@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T19:53:15.667263+00:00",
+  "generated_at": "2026-09-14T22:52:26.687506+00:00",
   "items": [
     {
       "title": "Pion, an agent designed to run any company autonomously",
@@ -8,7 +8,17 @@
       "date": "2026-09-14T17:16:06+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 165,
+      "points": 230,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
+      "text": "Hacker News discussion and source.",
+      "link": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
+      "date": "2026-09-14T21:05:22+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 132,
       "kindLabel": "HN API"
     },
     {
@@ -18,27 +28,17 @@
       "date": "2026-09-14T16:02:01+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 145,
+      "points": 208,
       "kindLabel": "HN API"
     },
     {
-      "title": "Steam Frame starts at $1059",
+      "title": "Compressing a Flag to 11 Bits",
       "text": "Hacker News discussion and source.",
-      "link": "https://store.steampowered.com/hardware/steamframe",
-      "date": "2026-09-14T17:27:55+00:00",
+      "link": "https://read.vantezzen.io/miniflags",
+      "date": "2026-09-12T15:57:43+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 273,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Why don't machine learning research agents overfit?",
-      "text": "Hacker News discussion and source.",
-      "link": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-      "date": "2026-09-14T16:32:23+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 69,
+      "points": 15,
       "kindLabel": "HN API"
     },
     {
@@ -48,17 +48,7 @@
       "date": "2026-09-14T15:33:07+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 81,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Principles for Fast Tokio Applications",
-      "text": "Hacker News discussion and source.",
-      "link": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
-      "date": "2026-09-14T15:27:56+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 104,
+      "points": 149,
       "kindLabel": "HN API"
     },
     {
@@ -68,17 +58,17 @@
       "date": "2026-09-14T12:40:57+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 249,
+      "points": 332,
       "kindLabel": "HN API"
     },
     {
-      "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
+      "title": "Charts built for Chat",
       "text": "Hacker News discussion and source.",
-      "link": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
-      "date": "2026-09-14T17:02:34+00:00",
+      "link": "https://dbtcharts.com/blog/charts-built-for-chat/",
+      "date": "2026-09-14T21:22:54+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 40,
+      "points": 21,
       "kindLabel": "HN API"
     },
     {
@@ -88,7 +78,17 @@
       "date": "2026-09-14T16:23:16+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 56,
+      "points": 123,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Principles for Fast Tokio Applications",
+      "text": "Hacker News discussion and source.",
+      "link": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
+      "date": "2026-09-14T15:27:56+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 150,
       "kindLabel": "HN API"
     },
     {
@@ -98,17 +98,77 @@
       "date": "2026-09-14T09:51:50+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 260,
+      "points": 383,
       "kindLabel": "HN API"
     },
     {
-      "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+      "title": "Why don't machine learning research agents overfit?",
       "text": "Hacker News discussion and source.",
-      "link": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
-      "date": "2026-09-14T13:59:09+00:00",
+      "link": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+      "date": "2026-09-14T16:32:23+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 92,
+      "points": 91,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Optimizing a Spin-Lock",
+      "text": "Hacker News discussion and source.",
+      "link": "https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/",
+      "date": "2026-09-12T09:43:44+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 22,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
+      "text": "Hacker News discussion and source.",
+      "link": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
+      "date": "2026-09-14T17:02:34+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 69,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+      "text": "Hacker News discussion and source.",
+      "link": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+      "date": "2026-09-14T19:56:20+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 74,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme",
+      "text": "Hacker News discussion and source.",
+      "link": "https://www.neobrutalism.dev/",
+      "date": "2026-09-14T16:02:02+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 122,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",
+      "text": "Hacker News discussion and source.",
+      "link": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
+      "date": "2026-09-14T16:07:58+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 57,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Microsoft patches Windows and Excel – breaks audio, remote access, and paste",
+      "text": "Hacker News discussion and source.",
+      "link": "https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085",
+      "date": "2026-09-14T16:09:45+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 175,
       "kindLabel": "HN API"
     },
     {
@@ -122,53 +182,23 @@
       "kindLabel": "HN API"
     },
     {
-      "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",
-      "text": "Hacker News discussion and source.",
-      "link": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
-      "date": "2026-09-14T16:07:58+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 28,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Show HN: Apollo Lunar Module landing simulation",
-      "text": "Hacker News discussion and source.",
-      "link": "https://gosandeep.com/eagles-descent/",
-      "date": "2026-09-09T18:29:37+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 14,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "iOS 27, iPadOS 27, and macOS 27",
-      "text": "Hacker News discussion and source.",
-      "link": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
-      "date": "2026-09-14T17:50:29+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 210,
-      "kindLabel": "HN API"
-    },
-    {
       "title": "An atlas of periodic solutions to the three-body problem",
       "text": "Hacker News discussion and source.",
       "link": "https://www.threebodyorbits.com/",
       "date": "2026-09-12T10:13:24+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 281,
+      "points": 322,
       "kindLabel": "HN API"
     },
     {
-      "title": "Truncated SVD (2023)",
+      "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
       "text": "Hacker News discussion and source.",
-      "link": "https://brashandplucky.com/2023/09/09/truncated-svd.html",
-      "date": "2026-09-14T16:00:33+00:00",
+      "link": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
+      "date": "2026-09-14T13:59:09+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 26,
+      "points": 105,
       "kindLabel": "HN API"
     },
     {
@@ -178,27 +208,17 @@
       "date": "2026-09-13T17:31:38+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 265,
+      "points": 286,
       "kindLabel": "HN API"
     },
     {
-      "title": "Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme",
+      "title": "Largest known Roman mosaic, beneath Baths of Trajan, opens to the public",
       "text": "Hacker News discussion and source.",
-      "link": "https://www.neobrutalism.dev/",
-      "date": "2026-09-14T16:02:02+00:00",
+      "link": "https://www.theartnewspaper.com/2026/09/14/largest-roman-mosaic-opens-to-the-public",
+      "date": "2026-09-14T13:01:04+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 79,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
-      "text": "Hacker News discussion and source.",
-      "link": "https://spectrum.ieee.org/adversarial-fashion",
-      "date": "2026-09-14T14:04:53+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 71,
+      "points": 37,
       "kindLabel": "HN API"
     },
     {
@@ -208,37 +228,17 @@
       "date": "2026-09-14T08:25:47+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 201,
+      "points": 212,
       "kindLabel": "HN API"
     },
     {
-      "title": "Show HN: Pelican-bicycle alternatives",
+      "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
       "text": "Hacker News discussion and source.",
-      "link": "https://gally.net/temp/20260914pelican-alternatives/index.html",
-      "date": "2026-09-14T13:20:22+00:00",
+      "link": "https://spectrum.ieee.org/adversarial-fashion",
+      "date": "2026-09-14T14:04:53+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 78,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Trying to Make a Loop Auto-Vectorize",
-      "text": "Hacker News discussion and source.",
-      "link": "https://jsgroth.dev/blog/posts/trying-to-make-a-loop-auto-vectorize/",
-      "date": "2026-09-10T04:50:25+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 41,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "A 386 PC for Your RP2350",
-      "text": "Hacker News discussion and source.",
-      "link": "https://github.com/rh1tech/frank-386",
-      "date": "2026-09-14T08:25:57+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 189,
+      "points": 89,
       "kindLabel": "HN API"
     },
     {
@@ -515,7 +515,7 @@
       "title": "Encoded and non-genetic protein variants expand human functional proteome",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11124-z",
-      "date": "2026-09-14T19:53:13.871303+00:00",
+      "date": "2026-09-14T22:52:25.480584+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -523,7 +523,7 @@
       "title": "The roots of astrology, the mysterious nature of time and more: Books in brief",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02908-4",
-      "date": "2026-09-14T19:53:13.871339+00:00",
+      "date": "2026-09-14T22:52:25.480623+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -531,7 +531,7 @@
       "title": "How is climate change affecting conifers and their ability to sequester carbon?",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02847-0",
-      "date": "2026-09-14T19:53:13.871358+00:00",
+      "date": "2026-09-14T22:52:25.480648+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -539,7 +539,7 @@
       "title": "The pet trade puts reptiles and amphibians at risk: close legal gaps now",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02852-3",
-      "date": "2026-09-14T19:53:13.871383+00:00",
+      "date": "2026-09-14T22:52:25.480688+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -547,7 +547,7 @@
       "title": "Donor-funded science is rising in Brazil ― upending a long tradition",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02829-2",
-      "date": "2026-09-14T19:53:13.871402+00:00",
+      "date": "2026-09-14T22:52:25.480736+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -555,7 +555,7 @@
       "title": "‘Multifunctional’ brain implant translates speech and gestures in real time",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02895-6",
-      "date": "2026-09-14T19:53:13.871419+00:00",
+      "date": "2026-09-14T22:52:25.480762+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -563,7 +563,7 @@
       "title": "UK universities are on the brink — what is their greatest source of stress?",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02608-z",
-      "date": "2026-09-14T19:53:13.871438+00:00",
+      "date": "2026-09-14T22:52:25.480789+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -571,7 +571,7 @@
       "title": "Fraud sealed the fate of controversial zoologist Paul Kammerer — 100 years on, his ideas deserve revisiting",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02851-4",
-      "date": "2026-09-14T19:53:13.871455+00:00",
+      "date": "2026-09-14T22:52:25.480812+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -579,7 +579,7 @@
       "title": "Drug firms’ secret data supercharge AI protein models",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02882-x",
-      "date": "2026-09-14T19:53:13.871471+00:00",
+      "date": "2026-09-14T22:52:25.480834+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -587,7 +587,7 @@
       "title": "The super El Niño is already wreaking havoc: here’s what’s in store",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02826-5",
-      "date": "2026-09-14T19:53:13.871487+00:00",
+      "date": "2026-09-14T22:52:25.480857+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -595,7 +595,7 @@
       "title": "Briefing Chat: The Bunsen burner myth that turns out to be just hot air",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02893-8",
-      "date": "2026-09-14T19:53:13.871506+00:00",
+      "date": "2026-09-14T22:52:25.480881+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -603,7 +603,7 @@
       "title": "NSF moves to overhaul funding approach in line with White House priorities",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02892-9",
-      "date": "2026-09-14T19:53:13.871524+00:00",
+      "date": "2026-09-14T22:52:25.480904+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -611,7 +611,7 @@
       "title": "People trust scientists seen to be ‘on their side’, UK study finds",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02883-w",
-      "date": "2026-09-14T19:53:13.871541+00:00",
+      "date": "2026-09-14T22:52:25.480926+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -619,7 +619,7 @@
       "title": "El Niño goes viral — and scientists learn what makes people care about the climate",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02763-3",
-      "date": "2026-09-14T19:53:13.871557+00:00",
+      "date": "2026-09-14T22:52:25.480948+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -627,7 +627,7 @@
       "title": "Successful early-career scientists rely on network of mentors",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02827-4",
-      "date": "2026-09-14T19:53:13.871573+00:00",
+      "date": "2026-09-14T22:52:25.480971+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -635,7 +635,7 @@
       "title": "Osteoporosis affects millions: could modified cells rebuild their bones?",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02828-3",
-      "date": "2026-09-14T19:53:13.871590+00:00",
+      "date": "2026-09-14T22:52:25.480993+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -643,7 +643,7 @@
       "title": "Daily briefing: Skeleton teeth show evidence of the earliest known habitual drug use",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02901-x",
-      "date": "2026-09-14T19:53:13.871607+00:00",
+      "date": "2026-09-14T22:52:25.481016+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -651,7 +651,7 @@
       "title": "Author Correction: The molecular basis of force selectivity by PIEZO2",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11079-1",
-      "date": "2026-09-14T19:53:13.871628+00:00",
+      "date": "2026-09-14T22:52:25.481042+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -800,6 +800,14 @@
       "cat": "TECH"
     },
     {
+      "title": "Judge blocks Trump administration plans to limit visa length for grad students, postdocs",
+      "text": "A federal judge halted a Trump administration plan to place a four-year cap on the kinds of visas used by graduate students and postdocs",
+      "link": "https://www.statnews.com/2026/09/14/court-halts-dhs-visa-limits-foreign-scholars/?utm_campaign=rss",
+      "date": "Mon, 14 Sep 2026 21:20:48 +0000",
+      "source": "STAT",
+      "cat": "HEALTHCARE"
+    },
+    {
       "title": "Abbott agrees to settlement over closure of largest baby formula plant in the U.S.",
       "text": "Abbott has agreed to a $385 million settlement over the closure of the largest baby formula plant in the U.S., which led to the supply shortages in 2022.",
       "link": "https://www.statnews.com/2026/09/14/abbott-settlement-closure-baby-formula-plant-shortages/?utm_campaign=rss",
@@ -936,14 +944,6 @@
       "cat": "HEALTHCARE"
     },
     {
-      "title": "STAT+: Up and down the ladder: The latest comings and goings",
-      "text": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
-      "link": "https://www.statnews.com/pharmalot/2026/09/11/up-down-ladder-jobs-pharma-biotech/?utm_campaign=rss",
-      "date": "Fri, 11 Sep 2026 15:13:06 +0000",
-      "source": "STAT",
-      "cat": "HEALTHCARE"
-    },
-    {
       "title": "Teach ML! Community service project from Stanford [N]",
       "text": "Hi r/machinelearning . Nice to meet you! My name is Chris Piech and I&#39;m a professor at Stanford University in the AI lab. I built a class called Probability for AI: pai.stanford.edu. It starts Oct 9th and applications are due end of Sept. Its (hopefully) cool for a few reasons: The plan is to have one volunteer teacher for every 10 students! Apps have been open for a week and over 1,000+ folks have applied to teach. So we might actually be able to make this pretty big. I have built a lot of ",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1wbf3ox/teach_ml_community_service_project_from_stanford_n/",
@@ -1024,6 +1024,14 @@
       "cat": "SCIENCE"
     },
     {
+      "title": "Horse racing as an ML ranking problem: 1.18M runners, walk-forward validation and a very strong market baseline [D]",
+      "text": "Hi 👋 long time lurker It’s been a few years since the last post about Horse Racing within this sub. A few years ago I was reading a popular science book and came across the story Bill Benter and the statistical models his team developed for Hong Kong racing. What stayed with me wasn’t simply the idea of using a model to gamble. Horse racing seemed like an unusually difficult applied ML problem: variable-sized fields, one winner per race, highly correlated competitors, missing and changing data, ",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wfivb2/horse_racing_as_an_ml_ranking_problem_118m/",
+      "date": "2026-09-13T20:32:22+00:00",
+      "source": "Reddit · MachineLearning",
+      "cat": "SCIENCE"
+    },
+    {
       "title": "Duplicating baseline benchmarks [D]",
       "text": "Suppose I create two machine learning models suppose tree and neural network for a task let&#39;s suppose regression problem, now suppose I am sending both of this paper to two different journals, now the thing is the baseline models I need to only run once because I have reported same baseline in both papers, so the RMSE tables looks exactly same except the proposed model, does it lead to any problems like palgiarism?? Edit : I don&#39;t know why I am getting downvotes &#32; submitted by &#32; ",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1wg1tdn/duplicating_baseline_benchmarks_d/",
@@ -1036,14 +1044,6 @@
       "text": "I built a small library called whitetree for exact Mahalanobis nearest-neighbour search on low-dimensional sensor data that keeps arriving. The idea is old. Whiten with the Cholesky factor of the covariance so Mahalanobis becomes Euclidean, then keep several scipy cKDTrees instead of one so inserts and deletes never force a full rebuild. Three measurements came out of it that I haven&#39;t seen stated plainly anywhere, so I&#39;m posting those rather than a pitch. The short version first. On the",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1wfg8e3/got_scipys_kdtree_to_handle_inserts_and_deletes/",
       "date": "2026-09-13T18:54:18+00:00",
-      "source": "Reddit · MachineLearning",
-      "cat": "SCIENCE"
-    },
-    {
-      "title": "Horse racing as an ML ranking problem: 1.18M runners, walk-forward validation and a very strong market baseline [D]",
-      "text": "Hi 👋 long time lurker It’s been a few years since the last post about Horse Racing within this sub. A few years ago I was reading a popular science book and came across the story Bill Benter and the statistical models his team developed for Hong Kong racing. What stayed with me wasn’t simply the idea of using a model to gamble. Horse racing seemed like an unusually difficult applied ML problem: variable-sized fields, one winner per race, highly correlated competitors, missing and changing data, ",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wfivb2/horse_racing_as_an_ml_ranking_problem_118m/",
-      "date": "2026-09-13T20:32:22+00:00",
       "source": "Reddit · MachineLearning",
       "cat": "SCIENCE"
     },
@@ -1086,6 +1086,30 @@
       "date": "2026-09-12T21:45:25+00:00",
       "source": "Reddit · MachineLearning",
       "cat": "SCIENCE"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+      "text": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+      "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "date": "Mon, 14 Sep 2026 21:51:02 +0000",
+      "source": "TechCrunch",
+      "cat": "TECH"
+    },
+    {
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "text": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+      "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "date": "Mon, 14 Sep 2026 20:44:14 +0000",
+      "source": "TechCrunch",
+      "cat": "TECH"
+    },
+    {
+      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+      "text": "The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data to arrive.",
+      "link": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
+      "date": "Mon, 14 Sep 2026 20:07:37 +0000",
+      "source": "TechCrunch",
+      "cat": "TECH"
     },
     {
       "title": "Amazon Prime Video takes on TikTok with short-form news clips",
@@ -1153,7 +1177,7 @@
     },
     {
       "title": "Sources say Automattic’s board is out after failed attempt to oust CEO Matt Mullenweg",
-      "text": "Automattic’s board is out, days after its members voted to put chief executive Matt Mullenweg on leave, sources tell TechCrunch.",
+      "text": "Given that these departed board members were those who voted to put Mullenweg on a paid leave of absence to begin with, it makes sense that a board shakeup has taken place.",
       "link": "https://techcrunch.com/2026/09/14/sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg/",
       "date": "Mon, 14 Sep 2026 15:34:31 +0000",
       "source": "TechCrunch",
@@ -1169,7 +1193,7 @@
     },
     {
       "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-      "text": "Fathom said that it has over 400,000 monthly active users.",
+      "text": "The notetaker offers a generous free plan, and that has resulted in over 400,000 monthly active users. The company said that over 1 million people have recorded meetings until now.",
       "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
       "date": "Mon, 14 Sep 2026 14:45:44 +0000",
       "source": "TechCrunch",
@@ -1208,32 +1232,56 @@
       "cat": "TECH"
     },
     {
-      "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
-      "text": "Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion.",
-      "link": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
-      "date": "Sun, 13 Sep 2026 20:49:38 +0000",
-      "source": "TechCrunch",
+      "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
+      "text": "Musk stops attacking Apple over ChatGPT integration but not OpenAI.",
+      "link": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
+      "date": "Mon, 14 Sep 2026 19:45:13 +0000",
+      "source": "Ars Technica",
       "cat": "TECH"
     },
     {
-      "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
-      "text": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch.",
-      "link": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
-      "date": "Sun, 13 Sep 2026 20:28:00 +0000",
-      "source": "TechCrunch",
+      "title": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
+      "text": "Wang Xingxing micromanaged Unitree to success—will his leadership style scale?",
+      "link": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
+      "date": "Mon, 14 Sep 2026 19:38:46 +0000",
+      "source": "Ars Technica",
       "cat": "TECH"
     },
     {
-      "title": "What’s behind the AI industry’s latest warnings of doom?",
-      "text": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
-      "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-      "date": "Sun, 13 Sep 2026 19:40:15 +0000",
-      "source": "TechCrunch",
+      "title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
+      "text": "This is also the last version of macOS to support Rosetta for Intel apps.",
+      "link": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
+      "date": "Mon, 14 Sep 2026 19:28:42 +0000",
+      "source": "Ars Technica",
+      "cat": "TECH"
+    },
+    {
+      "title": "AI leaders want to hit the brakes after years of reckless speed",
+      "text": "Safety is the watchword, but there could be ulterior benefits for the industry.",
+      "link": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
+      "date": "Mon, 14 Sep 2026 19:06:13 +0000",
+      "source": "Ars Technica",
+      "cat": "TECH"
+    },
+    {
+      "title": "Online hate researcher keeps hammering X despite deportation threat",
+      "text": "US won’t back down from fight to deport technology researchers.",
+      "link": "https://arstechnica.com/tech-policy/2026/09/online-hate-researcher-keeps-hammering-x-despite-deportation-threat/",
+      "date": "Mon, 14 Sep 2026 18:24:09 +0000",
+      "source": "Ars Technica",
+      "cat": "TECH"
+    },
+    {
+      "title": "A new solar cell could generate electricity underwater",
+      "text": "The trick isn't using perovskites—the trick is making them last.",
+      "link": "https://arstechnica.com/science/2026/09/a-new-solar-cell-could-generate-electricity-underwater/",
+      "date": "Mon, 14 Sep 2026 18:03:16 +0000",
+      "source": "Ars Technica",
       "cat": "TECH"
     },
     {
       "title": "Prehistoric builders transported Devil's Arrows 11 miles",
-      "text": "Isotropic analysis revealed the most likely source to be Brimham Rocks, not the nearby Plumpton Rocks.",
+      "text": "Isotopic analysis revealed the most likely source to be Brimham Rocks, not the nearby Plumpton Rocks.",
       "link": "https://arstechnica.com/science/2026/09/prehistoric-builders-transported-devils-arrows-11-miles/",
       "date": "Mon, 14 Sep 2026 17:10:54 +0000",
       "source": "Ars Technica",
@@ -1241,7 +1289,7 @@
     },
     {
       "title": "Steam Frame: The Ars Technica review",
-      "text": "Valve's new $1,049 VR hardware tries to revive an abandoned VR \"revolution.\"",
+      "text": "Valve's new $1,059 VR hardware tries to revive an abandoned VR \"revolution.\"",
       "link": "https://arstechnica.com/gaming/2026/09/steam-frame-the-ars-technica-review/",
       "date": "Mon, 14 Sep 2026 17:00:07 +0000",
       "source": "Ars Technica",
@@ -1324,54 +1372,6 @@
       "text": "The Department of Energy declared an \"emergency\" when none existed.",
       "link": "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/",
       "date": "Fri, 11 Sep 2026 20:32:59 +0000",
-      "source": "Ars Technica",
-      "cat": "TECH"
-    },
-    {
-      "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
-      "text": "\"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says.",
-      "link": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
-      "date": "Fri, 11 Sep 2026 19:34:09 +0000",
-      "source": "Ars Technica",
-      "cat": "TECH"
-    },
-    {
-      "title": "Scientists unlock secrets of ancient Egyptian materials with proteomics",
-      "text": "Analysis revealed seed proteins from sesame and moringa, which held religious and symbolic significance.",
-      "link": "https://arstechnica.com/science/2026/09/scientists-unlock-secrets-of-ancient-egyptian-materials-with-proteomics/",
-      "date": "Fri, 11 Sep 2026 18:49:39 +0000",
-      "source": "Ars Technica",
-      "cat": "TECH"
-    },
-    {
-      "title": "Oracle tries to appease Stargate data center opponents with renewables push",
-      "text": "Renewables pledge won’t change the Oracle and OpenAI data center’s use of gas.",
-      "link": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/",
-      "date": "Fri, 11 Sep 2026 18:22:22 +0000",
-      "source": "Ars Technica",
-      "cat": "TECH"
-    },
-    {
-      "title": "NASA moving at warp speed to set up US Space Academy",
-      "text": "NASA asks US states to show them the money.",
-      "link": "https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy/",
-      "date": "Fri, 11 Sep 2026 16:20:43 +0000",
-      "source": "Ars Technica",
-      "cat": "TECH"
-    },
-    {
-      "title": "Claude users found ways around safeguards for bioweapons research",
-      "text": "Some dangerous biology looks much like legitimate research, complicating AI safeguards.",
-      "link": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
-      "date": "Fri, 11 Sep 2026 13:02:35 +0000",
-      "source": "Ars Technica",
-      "cat": "TECH"
-    },
-    {
-      "title": "ClickFix attacks infecting PCs and Macs are going viral",
-      "text": "Simplicity—combined with the difficulty of getting stuff done—makes ClickFix ideal.",
-      "link": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
-      "date": "Fri, 11 Sep 2026 11:30:58 +0000",
       "source": "Ars Technica",
       "cat": "TECH"
     },
