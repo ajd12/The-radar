@@ -1,44 +1,234 @@
 {
-  "generated_at": "2026-09-14T08:21:24.149036+00:00",
+  "generated_at": "2026-09-14T15:08:37.551776+00:00",
   "items": [
     {
-      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "title": "How to Write an Effective Software Design Document",
       "text": "Hacker News discussion and source.",
-      "link": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-      "date": "2026-09-13T21:06:13+00:00",
+      "link": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
+      "date": "2026-09-14T13:00:46+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 861,
+      "points": 109,
       "kindLabel": "HN API"
     },
     {
-      "title": "Spaceships (Reverse Asteroid)",
+      "title": "New $100K H-1B Visa Fee Pushes Tech Jobs Offshore",
       "text": "Hacker News discussion and source.",
-      "link": "https://spaceships.treybastian.com/",
-      "date": "2026-09-10T04:44:32+00:00",
+      "link": "https://spectrum.ieee.org/h-1b-visa-us-government",
+      "date": "2026-09-14T14:09:10+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 206,
+      "points": 75,
       "kindLabel": "HN API"
     },
     {
-      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+      "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
       "text": "Hacker News discussion and source.",
-      "link": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
-      "date": "2026-09-13T21:47:04+00:00",
+      "link": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
+      "date": "2026-09-14T13:59:09+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 229,
+      "points": 20,
       "kindLabel": "HN API"
     },
     {
-      "title": "Of Gods and Languages: On \"When God Spoke Greek\" (2013)",
+      "title": "The AI job market in 2026",
       "text": "Hacker News discussion and source.",
-      "link": "https://lareviewofbooks.org/article/of-gods-and-languages-on-when-god-spoke-greek/",
-      "date": "2026-09-14T06:34:06+00:00",
+      "link": "https://www.ilinmaks.com/blog/en/ai-jobs-market-2026",
+      "date": "2026-09-14T13:49:57+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 26,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "RubyGems Open Source Supply Chain Security and OpenAI",
+      "text": "Hacker News discussion and source.",
+      "link": "https://rietta.com/blog/rubygems-supply-chain-openai/",
+      "date": "2026-09-14T14:39:01+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 10,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Where has Construction Automation been successful?",
+      "text": "Hacker News discussion and source.",
+      "link": "https://www.construction-physics.com/p/where-has-construction-automation",
+      "date": "2026-09-14T14:13:52+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 14,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Graphic Rants: Nanite Tessellation",
+      "text": "Hacker News discussion and source.",
+      "link": "http://graphicrants.blogspot.com/2026/02/nanite-tessellation.html",
+      "date": "2026-09-14T14:27:24+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 8,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "EuroBirdPortal – Live bird movements across Europe",
+      "text": "Hacker News discussion and source.",
+      "link": "https://www.eurobirdportal.org/ebp/en/",
+      "date": "2026-09-14T08:25:47+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 183,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "A 386 PC for Your RP2350",
+      "text": "Hacker News discussion and source.",
+      "link": "https://github.com/rh1tech/frank-386",
+      "date": "2026-09-14T08:25:57+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 149,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "An atlas of periodic solutions to the three-body problem",
+      "text": "Hacker News discussion and source.",
+      "link": "https://www.threebodyorbits.com/",
+      "date": "2026-09-12T10:13:24+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 179,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Devil's Arrows: Ancient builders hauled 55k-lb stones 11 miles for UK stone row",
+      "text": "Hacker News discussion and source.",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260909005152.htm",
+      "date": "2026-09-11T14:55:41+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 25,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Jabber/XMPP: How Do We Gain Traction?",
+      "text": "Hacker News discussion and source.",
+      "link": "https://gultsch.de/posts/how-do-we-gain-traction/",
+      "date": "2026-09-14T14:37:49+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 11,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Understanding FlashAttention Pt 1: Personal Notes",
+      "text": "Hacker News discussion and source.",
+      "link": "https://chizkidd.github.io//2026/09/13/flashattention/",
+      "date": "2026-09-14T14:01:04+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 8,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+      "text": "Hacker News discussion and source.",
+      "link": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+      "date": "2026-09-14T12:01:32+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 155,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Largest known Roman mosaic, beneath Baths of Trajan, opens to the public",
+      "text": "Hacker News discussion and source.",
+      "link": "https://www.theartnewspaper.com/2026/09/14/largest-roman-mosaic-opens-to-the-public",
+      "date": "2026-09-14T13:01:04+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 16,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "SDR–; open source SDR with a patchable signal graph, Rust DSP, web UI",
+      "text": "Hacker News discussion and source.",
+      "link": "https://github.com/Newspicel/sdrminusminus",
+      "date": "2026-09-14T12:35:56+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 18,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Show HN: Pelican-bicycle alternatives (updated for 2026)",
+      "text": "Hacker News discussion and source.",
+      "link": "https://gally.net/temp/20260914pelican-alternatives/index.html",
+      "date": "2026-09-14T13:20:22+00:00",
       "source": "Hacker News",
       "cat": "TECH",
       "points": 21,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Unsolved Problem by Fields Medalist Breached by Two High School Students",
+      "text": "Hacker News discussion and source.",
+      "link": "https://www.htx.com/en-in/news/internet-shocked-unsolved-problem-by-fields-medalist-breache-IBDgZG2j/",
+      "date": "2026-09-14T12:23:11+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 17,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Texas judge rules TikTok misled users on child safety feature",
+      "text": "Hacker News discussion and source.",
+      "link": "https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/",
+      "date": "2026-09-14T12:37:42+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 88,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Trying to Make a Loop Auto-Vectorize",
+      "text": "Hacker News discussion and source.",
+      "link": "https://jsgroth.dev/blog/posts/trying-to-make-a-loop-auto-vectorize/",
+      "date": "2026-09-10T04:50:25+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 4,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Show HN: Kinesis – Control your Mac with the Meta Neural Band",
+      "text": "Hacker News discussion and source.",
+      "link": "https://github.com/callbacked/kinesis",
+      "date": "2026-09-14T12:01:31+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 80,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
+      "text": "Hacker News discussion and source.",
+      "link": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
+      "date": "2026-09-14T13:38:58+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 45,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "OpenArch – PyTorch implementations of modern LLM architectures",
+      "text": "Hacker News discussion and source.",
+      "link": "https://github.com/anuj0456/OpenArch",
+      "date": "2026-09-14T07:55:19+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 102,
       "kindLabel": "HN API"
     },
     {
@@ -48,204 +238,62 @@
       "date": "2026-09-14T00:11:21+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 164,
+      "points": 315,
       "kindLabel": "HN API"
     },
     {
-      "title": "The case against JPEG XL",
-      "text": "Hacker News discussion and source.",
-      "link": "https://giannirosato.com/blog/post/case-against-jxl/",
-      "date": "2026-09-14T01:02:37+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 135,
-      "kindLabel": "HN API"
+      "title": "The roots of astrology, the mysterious nature of time and more: Books in brief",
+      "text": "",
+      "link": "https://www.nature.com/articles/d41586-026-02908-4",
+      "date": "2026-09-14T15:08:35.634287+00:00",
+      "source": "Nature",
+      "cat": "SCIENCE"
     },
     {
-      "title": "Data collected by cars and sold to third parties",
-      "text": "Hacker News discussion and source.",
-      "link": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
-      "date": "2026-09-13T13:45:08+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 413,
-      "kindLabel": "HN API"
+      "title": "How is climate change affecting conifers and their ability to sequester carbon?",
+      "text": "",
+      "link": "https://www.nature.com/articles/d41586-026-02847-0",
+      "date": "2026-09-14T15:08:35.634319+00:00",
+      "source": "Nature",
+      "cat": "SCIENCE"
     },
     {
-      "title": "Rope, twine and thread: Invisible technologies of the Stone Age",
-      "text": "Hacker News discussion and source.",
-      "link": "https://knowablemagazine.org/content/article/society/2026/prehistory-lost-threads",
-      "date": "2026-09-11T17:38:11+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 56,
-      "kindLabel": "HN API"
+      "title": "The pet trade puts reptiles and amphibians at risk: close legal gaps now",
+      "text": "",
+      "link": "https://www.nature.com/articles/d41586-026-02852-3",
+      "date": "2026-09-14T15:08:35.634345+00:00",
+      "source": "Nature",
+      "cat": "SCIENCE"
     },
     {
-      "title": "Julia 1.13 highlights",
-      "text": "Hacker News discussion and source.",
-      "link": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
-      "date": "2026-09-10T12:27:25+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 221,
-      "kindLabel": "HN API"
+      "title": "UK universities are on the brink — what is their greatest source of stress?",
+      "text": "",
+      "link": "https://www.nature.com/articles/d41586-026-02608-z",
+      "date": "2026-09-14T15:08:35.634365+00:00",
+      "source": "Nature",
+      "cat": "SCIENCE"
     },
     {
-      "title": "Ask HN: What are you working on? (September 2026)",
-      "text": "Hacker News discussion and source.",
-      "link": "https://news.ycombinator.com/item?id=49686380",
-      "date": "2026-09-13T17:31:38+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 156,
-      "kindLabel": "HN API"
+      "title": "Fraud sealed the fate of controversial zoologist Paul Kammerer — 100 years on, his ideas deserve revisiting",
+      "text": "",
+      "link": "https://www.nature.com/articles/d41586-026-02851-4",
+      "date": "2026-09-14T15:08:35.634385+00:00",
+      "source": "Nature",
+      "cat": "SCIENCE"
     },
     {
-      "title": "Mullenweg has returned as CEO after attempted board ouster",
-      "text": "Hacker News discussion and source.",
-      "link": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
-      "date": "2026-09-13T20:19:06+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 136,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "OEMpocalypse: Unprivileged Android app to root on Samsung, Xiaomi, others",
-      "text": "Hacker News discussion and source.",
-      "link": "https://calif.io/research/oempocalypse",
-      "date": "2026-09-14T02:25:44+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 47,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Why is Google still serving dodgy ads?",
-      "text": "Hacker News discussion and source.",
-      "link": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
-      "date": "2026-09-13T17:37:44+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 789,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Show HN: EterDB, a Postgres fork that makes it easy to recover from incidents",
-      "text": "Hacker News discussion and source.",
-      "link": "https://eterdb.com/",
-      "date": "2026-09-10T15:41:36+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 30,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "The GDR and Vietnam: From Fake Coffee to Coffee Empire",
-      "text": "Hacker News discussion and source.",
-      "link": "https://www.katjahoyer.uk/p/the-gdr-and-vietnam-from-fake-coffee",
-      "date": "2026-09-10T19:39:13+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 74,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Flawed routers flood University of Wisconsin internet time server (2003)",
-      "text": "Hacker News discussion and source.",
-      "link": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
-      "date": "2026-09-13T20:33:18+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 80,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Five Words from Vanishing Fleece",
-      "text": "Hacker News discussion and source.",
-      "link": "https://blog.wordnik.com/five-words-from-vanishing-fleece",
-      "date": "2026-09-11T16:00:58+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 5,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "'Coltrane' Review: Sound and Spirit",
-      "text": "Hacker News discussion and source.",
-      "link": "https://www.wsj.com/arts-culture/books/coltrane-review-sound-and-spirit-b2417282",
-      "date": "2026-09-12T21:23:27+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 3,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Who gets to define the rules for AI?",
-      "text": "Hacker News discussion and source.",
-      "link": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
-      "date": "2026-09-14T04:49:51+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 33,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Open-source AI and open models reading list",
-      "text": "Hacker News discussion and source.",
-      "link": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-      "date": "2026-09-14T00:22:51+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 102,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Bad benchmarks and evals: Senior SWE-Bench, napkin math, and winter tires",
-      "text": "Hacker News discussion and source.",
-      "link": "https://danluu.com/exercise-7/",
-      "date": "2026-09-11T09:31:27+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 22,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "The Malicious Use of Artificial Intelligence",
-      "text": "Hacker News discussion and source.",
-      "link": "https://arxiv.org/abs/1802.07228",
-      "date": "2026-09-14T01:22:35+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 61,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "CUDA for AMD on Windows",
-      "text": "Hacker News discussion and source.",
-      "link": "https://github.com/Speedstu/CUDA-for-AMD-Windows",
-      "date": "2026-09-13T14:25:13+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 160,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout",
-      "text": "Hacker News discussion and source.",
-      "link": "https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/",
-      "date": "2026-09-14T02:50:40+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 101,
-      "kindLabel": "HN API"
+      "title": "Drug firms’ secret data supercharge AI protein models",
+      "text": "",
+      "link": "https://www.nature.com/articles/d41586-026-02882-x",
+      "date": "2026-09-14T15:08:35.634402+00:00",
+      "source": "Nature",
+      "cat": "SCIENCE"
     },
     {
       "title": "The super El Niño is already wreaking havoc: here’s what’s in store",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02826-5",
-      "date": "2026-09-14T08:21:22.623979+00:00",
+      "date": "2026-09-14T15:08:35.634419+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -253,7 +301,7 @@
       "title": "Briefing Chat: The Bunsen burner myth that turns out to be just hot air",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02893-8",
-      "date": "2026-09-14T08:21:22.624016+00:00",
+      "date": "2026-09-14T15:08:35.634439+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -261,15 +309,15 @@
       "title": "NSF moves to overhaul funding approach in line with White House priorities",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02892-9",
-      "date": "2026-09-14T08:21:22.624060+00:00",
+      "date": "2026-09-14T15:08:35.634456+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
     {
-      "title": "People trust scientists seen to be 'on their side', UK study find",
+      "title": "People trust scientists seen to be 'on their side', UK study finds",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02883-w",
-      "date": "2026-09-14T08:21:22.624085+00:00",
+      "date": "2026-09-14T15:08:35.634484+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -277,7 +325,7 @@
       "title": "El Niño goes viral — and scientists learn what makes people care about the climate",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02763-3",
-      "date": "2026-09-14T08:21:22.624108+00:00",
+      "date": "2026-09-14T15:08:35.634503+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -285,7 +333,7 @@
       "title": "Successful early-career scientists rely on network of mentors",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02827-4",
-      "date": "2026-09-14T08:21:22.624132+00:00",
+      "date": "2026-09-14T15:08:35.634520+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -293,7 +341,15 @@
       "title": "Osteoporosis affects millions: could modified cells rebuild their bones?",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02828-3",
-      "date": "2026-09-14T08:21:22.624159+00:00",
+      "date": "2026-09-14T15:08:35.634538+00:00",
+      "source": "Nature",
+      "cat": "SCIENCE"
+    },
+    {
+      "title": "Daily briefing: Skeleton teeth show evidence of the earliest known habitual drug use",
+      "text": "",
+      "link": "https://www.nature.com/articles/d41586-026-02901-x",
+      "date": "2026-09-14T15:08:35.634557+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -301,7 +357,7 @@
       "title": "Author Correction: The molecular basis of force selectivity by PIEZO2",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11079-1",
-      "date": "2026-09-14T08:21:22.624187+00:00",
+      "date": "2026-09-14T15:08:35.634577+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -309,7 +365,7 @@
       "title": "The neurons that can put a brake on a nervous-system cancer",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02834-5",
-      "date": "2026-09-14T08:21:22.624212+00:00",
+      "date": "2026-09-14T15:08:35.634594+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -317,7 +373,7 @@
       "title": "Distant sensors announced a fearsome tsunami’s birth",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02809-6",
-      "date": "2026-09-14T08:21:22.624234+00:00",
+      "date": "2026-09-14T15:08:35.634609+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -325,65 +381,17 @@
       "title": "Rivers deliver unexpectedly high loads of microplastics to the sea",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02866-x",
-      "date": "2026-09-14T08:21:22.624257+00:00",
+      "date": "2026-09-14T15:08:35.634624+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
     {
-      "title": "Daily briefing: Text-message tutoring keeps kids learning when schools close",
-      "text": "",
-      "link": "https://www.nature.com/articles/d41586-026-02888-5",
-      "date": "2026-09-14T08:21:22.624280+00:00",
-      "source": "Nature",
-      "cat": "SCIENCE"
-    },
-    {
-      "title": "AI researchers reckon with the $1.5 million ‘academia tax’",
-      "text": "",
-      "link": "https://www.nature.com/articles/d41586-026-02026-1",
-      "date": "2026-09-14T08:21:22.624304+00:00",
-      "source": "Nature",
-      "cat": "SCIENCE"
-    },
-    {
-      "title": "Highly efficient base editing at <i>PCSK9</i> and normal human embryo development",
-      "text": "",
-      "link": "https://www.nature.com/articles/s41586-026-11118-x",
-      "date": "2026-09-14T08:21:22.624356+00:00",
-      "source": "Nature",
-      "cat": "SCIENCE"
-    },
-    {
-      "title": "Phone tutoring boosts math scores when schools are forced to close",
-      "text": "",
-      "link": "https://www.nature.com/articles/d41586-026-02843-4",
-      "date": "2026-09-14T08:21:22.624384+00:00",
-      "source": "Nature",
-      "cat": "SCIENCE"
-    },
-    {
-      "title": "How AI is changing PhD programmes: join our free webinar",
-      "text": "",
-      "link": "https://www.nature.com/articles/d41586-026-02751-7",
-      "date": "2026-09-14T08:21:22.624406+00:00",
-      "source": "Nature",
-      "cat": "SCIENCE"
-    },
-    {
-      "title": "Bacteria recruited to treat cancer",
-      "text": "",
-      "link": "https://www.nature.com/articles/d41586-026-02823-8",
-      "date": "2026-09-14T08:21:22.624428+00:00",
-      "source": "Nature",
-      "cat": "SCIENCE"
-    },
-    {
-      "title": "Ruins of ancient Asian city show engineering prowess and organization",
-      "text": "",
-      "link": "https://www.nature.com/articles/d41586-026-02821-w",
-      "date": "2026-09-14T08:21:22.624448+00:00",
-      "source": "Nature",
-      "cat": "SCIENCE"
+      "title": "Responsible AI for Higher Education",
+      "text": "This interactive webinar will introduce the different types of AI, address the concerns with AI, share how we IBM are approaching Responsible AI, and offer guidance to students about what they can do - as individuals, and members of their IEEE chapters. Participants will also have the opportunity to to apply the Responsible AI approach to a particular use case - IBM Bob, a software development life cycle agent, and Q&A. This will be an interactive session, so have phones ready to engage! Registe",
+      "link": "https://webinars.on24.com/wileyevents/ResponsibleAI",
+      "date": "Mon, 14 Sep 2026 14:18:11 +0000",
+      "source": "IEEE Spectrum",
+      "cat": "TECH"
     },
     {
       "title": "IEEE to Reward Sections for High Voter Turnout in Annual Election",
@@ -522,12 +530,76 @@
       "cat": "TECH"
     },
     {
-      "title": "IEEE Student Conference Provides Visibility to Budding Authors",
-      "text": "The IEEE–Eta Kappa Nu (IEEE-HKN) honor society is preparing to host the Innovating the Future event on 6 November. The inaugural one-day, in-person event is designed to provide a forum for IEEE and IEEE-HKN undergraduate and graduate student authors to present their original research papers. A keynote address and thematic presentation sessions are planned as well. Student attendees can network with their peers and gain firsthand experience with the academic publishing process. To present at the ",
-      "link": "https://spectrum.ieee.org/ieee-student-conference-budding-authors",
-      "date": "Wed, 26 Aug 2026 20:00:04 +0000",
-      "source": "IEEE Spectrum",
-      "cat": "TECH"
+      "title": "Pennsylvania officials report state’s third death involving measles",
+      "text": "A Pennsylvania woman has died from complications associated with measles, the third death in the state this year involving the virus.",
+      "link": "https://www.statnews.com/2026/09/14/third-measles-related-death-pennsylvania-outbreak/?utm_campaign=rss",
+      "date": "Mon, 14 Sep 2026 14:34:20 +0000",
+      "source": "STAT",
+      "cat": "HEALTHCARE"
+    },
+    {
+      "title": "STAT+: GSK touts lung cancer data from two drugs",
+      "text": "Late-stage results for Definium's LSD treatment, AstraZeneca breast cancer drug fails key trial, and more biotech news from The Readout",
+      "link": "https://www.statnews.com/2026/09/14/biotech-news-gsk-touts-lung-cancer-data-from-two-drugs/?utm_campaign=rss",
+      "date": "Mon, 14 Sep 2026 13:34:37 +0000",
+      "source": "STAT",
+      "cat": "HEALTHCARE"
+    },
+    {
+      "title": "STAT+: Pharmalittle: We’re reading about another AstraZeneca trial failure, a Novo name change, and more",
+      "text": "AstraZeneca disclosed that a breast cancer pill failed in a pivotal trial testing it as a first-line therapy in advanced tumors",
+      "link": "https://www.statnews.com/pharmalot/2026/09/14/another-astrazeneca-trial-failure-novo-name-change/?utm_campaign=rss",
+      "date": "Mon, 14 Sep 2026 13:07:51 +0000",
+      "source": "STAT",
+      "cat": "HEALTHCARE"
+    },
+    {
+      "title": "Pennsylvania records third measles-related death amid outbreak",
+      "text": "RSV season approaches, a federal judge pauses AAP challenge of RFK J.r vaccine charges, and more health news",
+      "link": "https://www.statnews.com/2026/09/14/health-enws-pennsylvania-records-third-measles-related-death-amid-outbreak/?utm_campaign=rss",
+      "date": "Mon, 14 Sep 2026 11:49:09 +0000",
+      "source": "STAT",
+      "cat": "HEALTHCARE"
+    },
+    {
+      "title": "STAT+: Definium’s LSD therapy eased anxiety in second large trial",
+      "text": "The first wave of biotechs is nearing regulatory approval for psychedelic therapies, a class of treatments that appear to exert rapid benefits.",
+      "link": "https://www.statnews.com/2026/09/14/definiums-lsd-therapy-eased-anxiety-large-trial-psychedelic/?utm_campaign=rss",
+      "date": "Mon, 14 Sep 2026 11:00:00 +0000",
+      "source": "STAT",
+      "cat": "HEALTHCARE"
+    },
+    {
+      "title": "STAT+: What’s in a name? Novo looks to a rebrand",
+      "text": "Novo Nordisk is now going by Novo, part of a rebrand that the company hopes can signal a more focused, competitive future.",
+      "link": "https://www.statnews.com/2026/09/14/novo-nordisk-company-rebrand-obesity-diabetes/?utm_campaign=rss",
+      "date": "Mon, 14 Sep 2026 08:58:48 +0000",
+      "source": "STAT",
+      "cat": "HEALTHCARE"
+    },
+    {
+      "title": "Opinion: Am I a hypocrite for loving football despite CTE?",
+      "text": "Sportswriter and football fan Michael Arkush has known about CTE for years. But he increasingly feels uneasy about watching the game he loves.",
+      "link": "https://www.statnews.com/2026/09/14/football-cte-risk-should-we-feel-guilty-for-watching-nfl/?utm_campaign=rss",
+      "date": "Mon, 14 Sep 2026 08:30:00 +0000",
+      "source": "STAT",
+      "cat": "HEALTHCARE"
+    },
+    {
+      "title": "Opinion: Restoring public trust in science doesn’t have a simple solution. That’s OK",
+      "text": "“Messaging can’t substitute for the relational infrastructure needed for building and sustaining trust,” write Michelle Groman and Caroline Montojo.",
+      "link": "https://www.statnews.com/2026/09/14/trust-in-science-academia-research-communication-listening/?utm_campaign=rss",
+      "date": "Mon, 14 Sep 2026 08:30:00 +0000",
+      "source": "STAT",
+      "cat": "HEALTHCARE"
+    },
+    {
+      "title": "The GOP’s $50 billion rural health fund is coming up short, hospital leaders say",
+      "text": "Hospital leaders were excited about the Rural Health Transformation Fund until they saw the fine print.",
+      "link": "https://www.statnews.com/2026/09/14/rural-health-transformation-fund-skepticism-shortcomings-part-5-unraveled-series/?utm_campaign=rss",
+      "date": "Mon, 14 Sep 2026 08:30:00 +0000",
+      "source": "STAT",
+      "cat": "HEALTHCARE"
     },
     {
       "title": "STAT+: Trump’s secretive pharma deals may undermine ‘most-favored nation’ pricing, an analysis suggests",
@@ -602,78 +674,6 @@
       "cat": "HEALTHCARE"
     },
     {
-      "title": "Boycott launched against American Diabetes Association includes journal",
-      "text": "Trump's $500 Obamacare promise, childhood cancer treatment with long-term risks, and more health news",
-      "link": "https://www.statnews.com/2026/09/11/health-news-boycott-launched-against-ada-includes-journal/?utm_campaign=rss",
-      "date": "Fri, 11 Sep 2026 11:43:20 +0000",
-      "source": "STAT",
-      "cat": "HEALTHCARE"
-    },
-    {
-      "title": "STAT+: An AI tool aims to catch harder-to-detect heart attacks in EKGs",
-      "text": "A newly approved AI tool can scan EKGs for severe heart attacks and, the company says, for rarer patterns indicating blocked arteries.",
-      "link": "https://www.statnews.com/2026/09/11/fda-new-ekg-heart-attack-detection-algo-queen-of-hearts/?utm_campaign=rss",
-      "date": "Fri, 11 Sep 2026 08:30:00 +0000",
-      "source": "STAT",
-      "cat": "HEALTHCARE"
-    },
-    {
-      "title": "STAT+: Novartis, Novo Nordisk drug failures will likely ‘pop a hole in the balloon’ of the field",
-      "text": "The back-to-back failures of cardiovascular drugs from Novartis and Novo Nordisk made headlines. They could also have a chilling effect across the industry.",
-      "link": "https://www.statnews.com/2026/09/11/novartis-novo-nordisk-cardiovascular-drug-trials-fallout/?utm_campaign=rss",
-      "date": "Fri, 11 Sep 2026 08:30:00 +0000",
-      "source": "STAT",
-      "cat": "HEALTHCARE"
-    },
-    {
-      "title": "Opinion: I’m a public health communications consultant. Pro-vaccine advocacy needs more fun",
-      "text": "“Somewhere along the way, we forgot how to celebrate vaccines,” writes public health communications consultant Adam Zimmerman.",
-      "link": "https://www.statnews.com/2026/09/11/pro-vaccine-advocacy-celebration-party/?utm_campaign=rss",
-      "date": "Fri, 11 Sep 2026 08:30:00 +0000",
-      "source": "STAT",
-      "cat": "HEALTHCARE"
-    },
-    {
-      "title": "Opinion: I’m a thoracic surgeon in New York City. For many of my patients, Sept. 11 is still not over",
-      "text": "“For thousands of families, the Sept. 11 attack did not end when the fires were extinguished. It simply changed form,” writes Raja Flores.",
-      "link": "https://www.statnews.com/2026/09/11/sept-11-25th-anniversary-ground-zero-exposure-cancer-moment-of-silence/?utm_campaign=rss",
-      "date": "Fri, 11 Sep 2026 08:30:00 +0000",
-      "source": "STAT",
-      "cat": "HEALTHCARE"
-    },
-    {
-      "title": "STAT+: Right before midterms, Trump dangles $500 refunds for select ACA enrollees",
-      "text": "The legal basis for the $500 checks, and who would get them, isn't entirely clear.",
-      "link": "https://www.statnews.com/2026/09/10/trump-affordable-care-act-refund-checks-who-is-eligible/?utm_campaign=rss",
-      "date": "Thu, 10 Sep 2026 19:57:28 +0000",
-      "source": "STAT",
-      "cat": "HEALTHCARE"
-    },
-    {
-      "title": "Platinum-based chemotherapy in childhood causes mutations that age the liver",
-      "text": "Platinum chemotherapy aged the liver cells of treated children, making them look more like adult liver cells and possibly raising the long-term risk of new tumors",
-      "link": "https://www.statnews.com/2026/09/10/childhood-chemotherapy-cisplatin-carboplatin-new-study-liver-impact/?utm_campaign=rss",
-      "date": "Thu, 10 Sep 2026 18:00:00 +0000",
-      "source": "STAT",
-      "cat": "HEALTHCARE"
-    },
-    {
-      "title": "Why two promising heart drugs flopped and what’s next",
-      "text": "This week on \"The Readout LOUD\" podcast: Two experimental drugs were heralded as the next era in heart disease treatment — why did they fail?",
-      "link": "https://www.statnews.com/2026/09/10/readout-loud-podcast-heart-disease-drugs-failed-trials/?utm_campaign=rss",
-      "date": "Thu, 10 Sep 2026 17:29:23 +0000",
-      "source": "STAT",
-      "cat": "HEALTHCARE"
-    },
-    {
-      "title": "STAT+: The gifts from pharma companies that keep on giving",
-      "text": "There has been rancorous debate over doctors accepting free gifts and speaking fees from pharma companies. That doesn't mean doctors have reconsidered.",
-      "link": "https://www.statnews.com/pharmalot/2026/09/10/many-doctors-still-embrace-pharma-freebies-rely-on-sales-reps/?utm_campaign=rss",
-      "date": "Thu, 10 Sep 2026 16:47:22 +0000",
-      "source": "STAT",
-      "cat": "HEALTHCARE"
-    },
-    {
       "title": "Teach ML! Community service project from Stanford [N]",
       "text": "Hi r/machinelearning . Nice to meet you! My name is Chris Piech and I&#39;m a professor at Stanford University in the AI lab. I built a class called Probability for AI: pai.stanford.edu. It starts Oct 9th and applications are due end of Sept. Its (hopefully) cool for a few reasons: The plan is to have one volunteer teacher for every 10 students! Apps have been open for a week and over 1,000+ folks have applied to teach. So we might actually be able to make this pretty big. I have built a lot of ",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1wbf3ox/teach_ml_community_service_project_from_stanford_n/",
@@ -714,6 +714,38 @@
       "cat": "SCIENCE"
     },
     {
+      "title": "[P] Wine synthesis using VAE [P]",
+      "text": "I have created a VAE model using PyTorch on White Wine dataset. Basically, the main goal is to discover a brand-new white wine recipe. It puts all the wines into a latent space, finds the best part where higher bands are located, and then it makes 100 steps with a step size of 0.5, multiplying by 0.96 with every step till it reaches the highest possible score. The regression model then evaluates the newly generated wine recipe, after first passing the latent coordinates through a decoder, and no",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wg5wxy/p_wine_synthesis_using_vae_p/",
+      "date": "2026-09-14T15:03:43+00:00",
+      "source": "Reddit · MachineLearning",
+      "cat": "SCIENCE"
+    },
+    {
+      "title": "MS MARCO click-translation expansion tables (\"poor man's\" DSSM) [P]",
+      "text": "TLDR: I made &quot;poor man’s&quot; DSSM (Deep Structured Semantic Model) — the count-based translation table that can enrich the inverted index for full-text search. This trick can improve baseline BM25. So the idea is the following: - You have supervised pairs (query, relevant document), e.g., MS MARCO or click logs. - You tokenize both sides into some units (char n‑grams, wordpieces, words). - You count cross‑pair co‑occurrences: unit u on the document side vs. unit v on the query side (not c",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wg3g03/ms_marco_clicktranslation_expansion_tables_poor/",
+      "date": "2026-09-14T13:28:01+00:00",
+      "source": "Reddit · MachineLearning",
+      "cat": "SCIENCE"
+    },
+    {
+      "title": "Duplicating baseline benchmarks [D]",
+      "text": "Suppose I create two machine learning models suppose tree and neural network for a task let&#39;s suppose regression problem, now suppose I am sending both of this paper to two different journals, now the thing is the baseline models I need to only run once because I have reported same baseline in both papers, so the RMSE tables looks exactly same except the proposed model, does it lead to any problems like palgiarism?? Edit : I don&#39;t know why I am getting downvotes &#32; submitted by &#32; ",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wg1tdn/duplicating_baseline_benchmarks_d/",
+      "date": "2026-09-14T12:18:06+00:00",
+      "source": "Reddit · MachineLearning",
+      "cat": "SCIENCE"
+    },
+    {
+      "title": "PhD branding question [R]",
+      "text": "I&#39;m starting a PhD where I will be doing Graph ML (somewhere along the lines of graph signal processing/ graph deep learning.) My eventual goal is research scientist at big tech, or whichever company has a strong research division, where I can continue similar AI/ML work. I have concerns about the job market (both now and in 5 years), and I&#39;m wondering whether I should do my degree under the CS or EE department. For context, my research is within the eecs overlap and this degree would no",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wfte3b/phd_branding_question_r/",
+      "date": "2026-09-14T04:26:46+00:00",
+      "source": "Reddit · MachineLearning",
+      "cat": "SCIENCE"
+    },
+    {
       "title": "Horse racing as an ML ranking problem: 1.18M runners, walk-forward validation and a very strong market baseline [D]",
       "text": "Hi 👋 long time lurker It’s been a few years since the last post about Horse Racing within this sub. A few years ago I was reading a popular science book and came across the story Bill Benter and the statistical models his team developed for Hong Kong racing. What stayed with me wasn’t simply the idea of using a model to gamble. Horse racing seemed like an unusually difficult applied ML problem: variable-sized fields, one winner per race, highly correlated competitors, missing and changing data, ",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1wfivb2/horse_racing_as_an_ml_ranking_problem_118m/",
@@ -722,10 +754,10 @@
       "cat": "SCIENCE"
     },
     {
-      "title": "I trained an 825k-parameter model to generate drawing programs that execute exactly on an RP2040 [P]",
-      "text": "I’ve been working on a small research project about whether sub-million-parameter models can learn to generate executable drawing programs for constrained hardware. The current system is an 825k-parameter autoregressive transformer which generates ~100 bytes of drawing bytecode rather than pixels. The bytecode is then transferred to a Raspberry Pi Pico, where a small fixed-point virtual machine executes it and streams the resulting geometry back over UART. The model runs on the host. The Pico on",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wf611v/i_trained_an_825kparameter_model_to_generate/",
-      "date": "2026-09-13T12:12:39+00:00",
+      "title": "[P] Built a 100% Client-Side Vision Pipeline for Real-Time Chessboard & Multi-Board Detection (Chrome/Firefox Extension) [P]",
+      "text": "Hi everyone, Inspired by tools like Chessvision.ai, I wanted to take a different architectural approach and build a browser extension ( ChessInsights AI ) that performs chessboard detection and piece recognition 100% client-side using local inference—with zero image data ever leaving the user&#39;s machine, support for detecting multiple boards in a single frame, and entirely free features. The main goal was to bridge passive chess content (YouTube, Twitch, PDFs, articles) with active engine ana",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wfzzml/p_built_a_100_clientside_vision_pipeline_for/",
+      "date": "2026-09-14T10:47:39+00:00",
       "source": "Reddit · MachineLearning",
       "cat": "SCIENCE"
     },
@@ -738,10 +770,10 @@
       "cat": "SCIENCE"
     },
     {
-      "title": "PhD branding question [R]",
-      "text": "I&#39;m starting a PhD where I will be doing Graph ML (somewhere along the lines of graph signal processing/ graph deep learning.) My eventual goal is research scientist at big tech, or whichever company has a strong research division, where I can continue similar AI/ML work. I have concerns about the job market (both now and in 5 years), and I&#39;m wondering whether I should do my degree under the CS or EE department. For context, my research is within the eecs overlap and this degree would no",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wfte3b/phd_branding_question_r/",
-      "date": "2026-09-14T04:26:46+00:00",
+      "title": "I trained an 825k-parameter model to generate drawing programs that execute exactly on an RP2040 [P]",
+      "text": "I’ve been working on a small research project about whether sub-million-parameter models can learn to generate executable drawing programs for constrained hardware. The current system is an 825k-parameter autoregressive transformer which generates ~100 bytes of drawing bytecode rather than pixels. The bytecode is then transferred to a Raspberry Pi Pico, where a small fixed-point virtual machine executes it and streams the resulting geometry back over UART. The model runs on the host. The Pico on",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wf611v/i_trained_an_825kparameter_model_to_generate/",
+      "date": "2026-09-13T12:12:39+00:00",
       "source": "Reddit · MachineLearning",
       "cat": "SCIENCE"
     },
@@ -762,18 +794,18 @@
       "cat": "SCIENCE"
     },
     {
-      "title": "Training a 210M text-to-image DiT from scratch on one GPU: what I measured [P]",
-      "text": "I trained a 210M-parameter text-to-image diffusion transformer from scratch (3.5 days, one RTX PRO 6000, 4.2M images at 256²) mainly to understand the recipe end to end. Three measurements came out of it that I have not seen stated plainly elsewhere, so I&#39;m posting those rather than the samples. 1. Learned null attention slots become the sink. Following the register-token idea, the model has 16 register tokens in the image stream plus 2 learned key/value slots appended to every cross-attenti",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wdfmvq/training_a_210m_texttoimage_dit_from_scratch_on/",
-      "date": "2026-09-11T13:00:11+00:00",
-      "source": "Reddit · MachineLearning",
-      "cat": "SCIENCE"
-    },
-    {
       "title": "How do you control different character pose in SDXL when using a reference image? [R][D]",
       "text": "Hi, I’m working on generating ~128×128 pixel art and trying to generate different poses of the same character. My current approach is roughly: Start with a reference image and preprocess it into cleaner/more pixel-art-like data (often removing transparency or setting up fixed number of pallets or descaling) Use IP-Adapter for the character/reference appearance. Use ControlNet pose/rig conditioning to control the target pose. I’m also experimenting with multiple references (front, rear, left, rig",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1wep88z/how_do_you_control_different_character_pose_in/",
       "date": "2026-09-12T21:45:25+00:00",
+      "source": "Reddit · MachineLearning",
+      "cat": "SCIENCE"
+    },
+    {
+      "title": "Training a 210M text-to-image DiT from scratch on one GPU: what I measured [P]",
+      "text": "I trained a 210M-parameter text-to-image diffusion transformer from scratch (3.5 days, one RTX PRO 6000, 4.2M images at 256²) mainly to understand the recipe end to end. Three measurements came out of it that I have not seen stated plainly elsewhere, so I&#39;m posting those rather than the samples. 1. Learned null attention slots become the sink. Following the register-token idea, the model has 16 register tokens in the image stream plus 2 learned key/value slots appended to every cross-attenti",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wdfmvq/training_a_210m_texttoimage_dit_from_scratch_on/",
+      "date": "2026-09-11T13:00:11+00:00",
       "source": "Reddit · MachineLearning",
       "cat": "SCIENCE"
     },
@@ -786,36 +818,44 @@
       "cat": "SCIENCE"
     },
     {
-      "title": "How much do tech reports matter for a PhD application? [D]",
-      "text": "The title, by tech reports I don&#39;t mean arXiv submissions, but reports of a large model, like say Kimi K3, DeepSeek, Gemini, Mistral Leanstral, etc. Is it much above, above, much below, below or equal to a first author A* paper? &#32; submitted by &#32; /u/simple-Flat0263 [link] &#32; [comments]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1weedmk/how_much_do_tech_reports_matter_for_a_phd/",
-      "date": "2026-09-12T14:40:54+00:00",
-      "source": "Reddit · MachineLearning",
-      "cat": "SCIENCE"
+      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+      "text": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. The greatest risk isn't building a weak product — it's building a strong one that eventually becomes someone else's feature. You don’t want to miss this interactive session on the Builders Stage at TechCrunch Disrupt 2026. Register before Sept 25 to save up to $200.",
+      "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+      "date": "Mon, 14 Sep 2026 15:00:00 +0000",
+      "source": "TechCrunch",
+      "cat": "TECH"
     },
     {
-      "title": "Why is TMLR so slow in recent times [D]",
-      "text": "A final-year PhD student here. A few months back, I submitted a solo-authored paper to TMLR. The reviewers were on time and extremely positive, with some minor revisions. After submitting the revised version, there was absolute silence from the reviewers, with just one acknowledging that their concerns were addressed Since then, it has been 2+ months. I have sent a reminder to the Action Editor as well as the Editor-in-Chief, but unfortunately the status remains the same. I understand a typical ",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wd5mki/why_is_tmlr_so_slow_in_recent_times_d/",
-      "date": "2026-09-11T04:09:09+00:00",
-      "source": "Reddit · MachineLearning",
-      "cat": "SCIENCE"
+      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+      "text": "Fathom said that it has over 400,000 monthly active users",
+      "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+      "date": "Mon, 14 Sep 2026 14:45:44 +0000",
+      "source": "TechCrunch",
+      "cat": "TECH"
     },
     {
-      "title": "ACL Sustainable Reviewing Policy [D]",
-      "text": "ACL just announced on X how they are planning to handle the increased submission numbers. Interestingly enough, they call it &quot;the proposal&quot;. My understanding is that, in a nutshell, each submission should come with someone who can review, otherwise it may only get a slot through a lottery. Additionally, they cap total submissions at 20 and first-author submissions per cycle at 5. What do you think of it? IMO it makes a lot of sense - especially given the large numbers of submissions wi",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wd7b83/acl_sustainable_reviewing_policy_d/",
-      "date": "2026-09-11T05:38:02+00:00",
-      "source": "Reddit · MachineLearning",
-      "cat": "SCIENCE"
+      "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
+      "text": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it&#8217;s the mission of a billion-dollar startup. Advances in artificial intelligence, genetics, and computational biology are changing what&#8217;s possible in conservation research, raising questions that extend far beyond the laboratory. If technology can help revive extinct species, should it? And [&#8230;]",
+      "link": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
+      "date": "Mon, 14 Sep 2026 14:30:00 +0000",
+      "source": "TechCrunch",
+      "cat": "TECH"
     },
     {
-      "title": "How to handle cofound variables? [D]",
-      "text": "edit: confound Hello all, I am working on a object classification with a automotive radar point clouds. I compared many models and feature vectors. Once i used range as feature, all models scored higher f1 in all K validation sets and on the final test set. One particular artifact of a radar, is that as the farther the object is the less number of points it returns to the radar. Although the performance improved and there is no overfit in the classical sense, i am afraid my model is learning the",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wdpat4/how_to_handle_cofound_variables_d/",
-      "date": "2026-09-11T18:57:40+00:00",
-      "source": "Reddit · MachineLearning",
-      "cat": "SCIENCE"
+      "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
+      "text": "The last day to apply for an exhibit table at TechCrunch Disrupt 2026 on Sept 18. Just 5 days left. Secure your spot on the Expo Hall floor and put your business in front of 10,000+ founders, investors, and tech leaders.",
+      "link": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/",
+      "date": "Mon, 14 Sep 2026 14:00:00 +0000",
+      "source": "TechCrunch",
+      "cat": "TECH"
+    },
+    {
+      "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
+      "text": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
+      "link": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/",
+      "date": "Mon, 14 Sep 2026 13:55:00 +0000",
+      "source": "TechCrunch",
+      "cat": "TECH"
     },
     {
       "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
@@ -918,46 +958,6 @@
       "text": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
       "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
       "date": "Fri, 11 Sep 2026 22:58:17 +0000",
-      "source": "TechCrunch",
-      "cat": "TECH"
-    },
-    {
-      "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
-      "text": "\"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two.",
-      "link": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
-      "date": "Fri, 11 Sep 2026 21:19:05 +0000",
-      "source": "TechCrunch",
-      "cat": "TECH"
-    },
-    {
-      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-      "text": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
-      "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "date": "Fri, 11 Sep 2026 20:59:47 +0000",
-      "source": "TechCrunch",
-      "cat": "TECH"
-    },
-    {
-      "title": "OpenAI’s feud with mathematicians is only escalating",
-      "text": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
-      "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-      "date": "Fri, 11 Sep 2026 20:57:36 +0000",
-      "source": "TechCrunch",
-      "cat": "TECH"
-    },
-    {
-      "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-      "text": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
-      "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
-      "date": "Fri, 11 Sep 2026 20:33:18 +0000",
-      "source": "TechCrunch",
-      "cat": "TECH"
-    },
-    {
-      "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
-      "text": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
-      "link": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
-      "date": "Fri, 11 Sep 2026 20:30:17 +0000",
       "source": "TechCrunch",
       "cat": "TECH"
     },
@@ -1106,6 +1106,70 @@
       "cat": "TECH"
     },
     {
+      "title": "The Best Air Purifier of 2026: Tested Picks for Every Room",
+      "text": "Protect your home against dust, pets, allergens, and more with the best air purifiers, tested firsthand.",
+      "link": "https://www.wired.com/gallery/best-air-purifiers/",
+      "date": "Mon, 14 Sep 2026 11:33:00 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
+      "title": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
+      "text": "Sam Altman and Elon Musk this weekend backed a call for restraint, after Dario Amodei called on Washington to slow AI development. Donald Trump, meanwhile, wants the US to maintain its lead over China.",
+      "link": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
+      "date": "Mon, 14 Sep 2026 11:00:00 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
+      "title": "The Best Soundbars (2026): Sonos, LG, TCL, Bose, and More",
+      "text": "I tested soundbars of all shapes and sizes—these are the best for clear dialogue, booming bass, and realistic surround sound.",
+      "link": "https://www.wired.com/story/best-soundbars/",
+      "date": "Mon, 14 Sep 2026 11:00:00 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
+      "title": "Sexually Explicit Deepfake Sites Target 100-Plus Politicians in Europe",
+      "text": "An analysis of 160 deepfake websites reveals politicians in 22 countries appear on them. Nearly all of them are women.",
+      "link": "https://www.wired.com/story/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/",
+      "date": "Mon, 14 Sep 2026 11:00:00 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
+      "title": "Roborock Qrevo 2 Review (2026): A New Budget Vacuum King?",
+      "text": "Roborock's more affordable vacuum did well on corners and navigating my home, but thresholds and small objects remain a challenge. Still, it's a good vacuum for the price, especially when it's on sale.",
+      "link": "https://www.wired.com/review/roborock-qrevo-2-pro/",
+      "date": "Mon, 14 Sep 2026 10:30:00 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
+      "title": "Best Noise-Canceling Earbuds (2026): Bose, Apple, Samsung, Beats, and More",
+      "text": "I’ve tested dozens of wireless earbuds. These are the best for when you want to tune out the world, wherever you are.",
+      "link": "https://www.wired.com/story/best-noise-canceling-earbuds/",
+      "date": "Mon, 14 Sep 2026 10:00:00 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
+      "title": "A College Girl Was Exploited on Camera. A Network of Anonymous Men Got to Work",
+      "text": "Maddie Kowalski is one of countless young women who’ve had their lives destroyed by the burnerverse, a loosely connected online community of sports fans. Now she’s fighting back.",
+      "link": "https://www.wired.com/story/burnerverse-maddie-kowalski/",
+      "date": "Mon, 14 Sep 2026 10:00:00 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
+      "title": "‘I Like My Big Rat Wife’: Meet the People Using Chatbots to Write Custom Fiction",
+      "text": "While the publishing industry frets over how authors are using AI, many readers are taking things into their own hands.",
+      "link": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/",
+      "date": "Mon, 14 Sep 2026 09:00:00 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
       "title": "The Smart Bird Feeders Everyone’s Talking About (and Actually Buying) (2026)",
       "text": "These bird feeders come with cameras and connected apps to let you see and learn about the birds in your neighborhood.",
       "link": "https://www.wired.com/story/best-smart-bird-feeders/",
@@ -1184,70 +1248,6 @@
       "date": "Sat, 12 Sep 2026 10:30:00 +0000",
       "source": "Wired",
       "cat": "TECH"
-    },
-    {
-      "title": "‘I’m Really Terrified’: A Mathematician Grapples With AI’s Recent Breakthroughs",
-      "text": "Steven Strogatz coauthored a book about how math is moving beyond human understanding. He spoke with WIRED about the seismic impact artificial intelligence has had on his life’s work.",
-      "link": "https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/",
-      "date": "Sat, 12 Sep 2026 10:00:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "Branch Ergonomic Chair Pro (Sega Edition) Review: Comfy, Not Boring",
-      "text": "Turns out that the best office chair is also the best gaming chair, now with aesthetics to match.",
-      "link": "https://www.wired.com/review/branch-ergonomic-chair-pro-sega-edition/",
-      "date": "Sat, 12 Sep 2026 10:00:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "You Don’t Have a Right to Safe Drinking Water, Trump-Appointed Judge Rules",
-      "text": "And if your tap water is undrinkable, you have no “constitutional right to truthful information” about it.",
-      "link": "https://www.wired.com/story/you-dont-have-right-to-safe-drinking-water-trump-appointed-judge-rules/",
-      "date": "Sat, 12 Sep 2026 09:30:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "The 9 Best TV Shows to Stream This Month (September 2026)",
-      "text": "South Park, Slow Horses, Neon Genesis Evangelion, and a Lego-fied Mandalorian are just a few of the things you should be watching right now.",
-      "link": "https://www.wired.com/story/the-9-best-shows-to-stream-right-now/",
-      "date": "Fri, 11 Sep 2026 19:36:43 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "The US Government Launched 3 Previously Unreported Investigations of Polymarket Trades",
-      "text": "The agency that oversees prediction markets has investigated Polymarket trades on Biden pardons and the Iran war—and even more potential insider trading at Google, documents obtained by WIRED show.",
-      "link": "https://www.wired.com/story/polymarket-investigations-iran-biden-google-foia/",
-      "date": "Fri, 11 Sep 2026 19:21:34 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "Meta Sued Over Training Data for Its AI and Face-Recognition Systems",
-      "text": "The proposed class action alleges Meta illegally harvested people’s Facebook and Instagram photos to train its AI image-generation models and to build its unreleased “NameTag” face recognition feature.",
-      "link": "https://www.wired.com/story/meta-sued-over-training-data-for-its-ai-and-face-recognition-systems/",
-      "date": "Fri, 11 Sep 2026 18:59:25 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "Petlibro Offers: 30% Off in September 2026",
-      "text": "Save on Petlibro essentials, including automatic feeders, water fountains, and accessories to keep cats and dogs fed, hydrated, and comfortable every day.",
-      "link": "https://www.wired.com/story/petlibro-discount-code/",
-      "date": "Fri, 11 Sep 2026 16:19:49 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "One of AI’s Fiercest Critics Says All the Doom Talk Is ‘Meant to Distract Us’",
-      "text": "Timnit Gebru argues that AI companies are stoking fears of extinction to avoid discussing actual harms, like autonomous weapons.",
-      "link": "https://www.wired.com/story/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/",
-      "date": "Fri, 11 Sep 2026 15:00:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
     }
   ],
   "health": [
@@ -1260,13 +1260,13 @@
       "name": "arXiv · AI/ML",
       "ok": false,
       "count": 0,
-      "error": "HTTP Error 429: Unknown Error"
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "name": "arXiv · Systems",
       "ok": false,
       "count": 0,
-      "error": "HTTP Error 429: Unknown Error"
+      "error": "The read operation timed out"
     },
     {
       "name": "Nature",
