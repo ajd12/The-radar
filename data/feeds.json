@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T01:05:43.726037+00:00",
+  "generated_at": "2026-09-15T06:19:58.975080+00:00",
   "items": [
     {
       "title": "iOS 27, iPadOS 27, and macOS 27",
@@ -8,187 +8,27 @@
       "date": "2026-09-14T17:50:29+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 348,
+      "points": 522,
       "kindLabel": "HN API"
     },
     {
-      "title": "Pion, an agent designed to run any company autonomously",
+      "title": "Linux from Scratch",
       "text": "Hacker News discussion and source.",
-      "link": "https://andonlabs.com/blog/why-we-built-pion",
-      "date": "2026-09-14T17:16:06+00:00",
+      "link": "https://www.linuxfromscratch.org/",
+      "date": "2026-09-15T04:15:23+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 277,
+      "points": 49,
       "kindLabel": "HN API"
     },
     {
-      "title": "Charts built for Chat",
+      "title": "OpenArm: An open-source 7DOF humanoid arm",
       "text": "Hacker News discussion and source.",
-      "link": "https://dbtcharts.com/blog/charts-built-for-chat/",
-      "date": "2026-09-14T21:22:54+00:00",
+      "link": "https://github.com/enactic/OpenArm",
+      "date": "2026-09-13T14:17:49+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 80,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
-      "text": "Hacker News discussion and source.",
-      "link": "https://github.com/JamesRyanATX/fcbnerd",
-      "date": "2026-09-14T23:01:36+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 28,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Compressing a Flag to 11 Bits",
-      "text": "Hacker News discussion and source.",
-      "link": "https://read.vantezzen.io/miniflags",
-      "date": "2026-09-12T15:57:43+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 57,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Distributed Systems Classics (2017)",
-      "text": "Hacker News discussion and source.",
-      "link": "https://nvartolomei.com/dist-sys-classics/",
-      "date": "2026-09-14T16:02:01+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 230,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-      "text": "Hacker News discussion and source.",
-      "link": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-      "date": "2026-09-14T12:40:57+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 364,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-      "text": "Hacker News discussion and source.",
-      "link": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
-      "date": "2026-09-14T14:29:23+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 20,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "XCancel service is suspended until further notice",
-      "text": "Hacker News discussion and source.",
-      "link": "https://xcancel.com/#",
-      "date": "2026-09-14T09:51:50+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 441,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
-      "text": "Hacker News discussion and source.",
-      "link": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
-      "date": "2026-09-14T21:05:22+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 163,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "A Beginning for Mathematics",
-      "text": "Hacker News discussion and source.",
-      "link": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
-      "date": "2026-09-14T15:33:07+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 166,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Principles for Fast Tokio Applications",
-      "text": "Hacker News discussion and source.",
-      "link": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
-      "date": "2026-09-14T15:27:56+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 158,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "How my e-reader lost its stripes",
-      "text": "Hacker News discussion and source.",
-      "link": "https://www.serpentine.com/posts/2026/x3-stripes/",
-      "date": "2026-09-14T16:23:16+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 146,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Optimizing a Spin-Lock",
-      "text": "Hacker News discussion and source.",
-      "link": "https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/",
-      "date": "2026-09-12T09:43:44+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 40,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Steam Frame starts at $1059",
-      "text": "Hacker News discussion and source.",
-      "link": "https://store.steampowered.com/hardware/steamframe",
-      "date": "2026-09-14T17:27:55+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 486,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Why don't machine learning research agents overfit?",
-      "text": "Hacker News discussion and source.",
-      "link": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-      "date": "2026-09-14T16:32:23+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 102,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
-      "text": "Hacker News discussion and source.",
-      "link": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
-      "date": "2026-09-14T17:02:34+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 84,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Ask HN: What are you working on? (September 2026)",
-      "text": "Hacker News discussion and source.",
-      "link": "https://news.ycombinator.com/item?id=49686380",
-      "date": "2026-09-13T17:31:38+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 294,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "An atlas of periodic solutions to the three-body problem",
-      "text": "Hacker News discussion and source.",
-      "link": "https://www.threebodyorbits.com/",
-      "date": "2026-09-12T10:13:24+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 349,
+      "points": 29,
       "kindLabel": "HN API"
     },
     {
@@ -198,7 +38,147 @@
       "date": "2026-09-12T18:51:40+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 3,
+      "points": 90,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Pion, an agent designed to run any company autonomously",
+      "text": "Hacker News discussion and source.",
+      "link": "https://andonlabs.com/blog/why-we-built-pion",
+      "date": "2026-09-14T17:16:06+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 360,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Charts built for Chat",
+      "text": "Hacker News discussion and source.",
+      "link": "https://dbtcharts.com/blog/charts-built-for-chat/",
+      "date": "2026-09-14T21:22:54+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 186,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Every invoice in Brazil's economy runs on SOAP 1.2. We mapped it all",
+      "text": "Hacker News discussion and source.",
+      "link": "https://github.com/stoix-dev/sefaz-webservices-postman",
+      "date": "2026-09-13T03:19:54+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 54,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+      "text": "Hacker News discussion and source.",
+      "link": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+      "date": "2026-09-14T14:29:23+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 87,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "XCancel service is suspended until further notice",
+      "text": "Hacker News discussion and source.",
+      "link": "https://xcancel.com/#",
+      "date": "2026-09-14T09:51:50+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 562,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+      "text": "Hacker News discussion and source.",
+      "link": "https://github.com/JamesRyanATX/fcbnerd",
+      "date": "2026-09-14T23:01:36+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 54,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+      "text": "Hacker News discussion and source.",
+      "link": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+      "date": "2026-09-14T12:40:57+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 426,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "A beginning for mathematics",
+      "text": "Hacker News discussion and source.",
+      "link": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
+      "date": "2026-09-14T15:33:07+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 192,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Compressing a Flag to 11 Bits",
+      "text": "Hacker News discussion and source.",
+      "link": "https://read.vantezzen.io/miniflags",
+      "date": "2026-09-12T15:57:43+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 112,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Distributed Systems Classics (2017)",
+      "text": "Hacker News discussion and source.",
+      "link": "https://nvartolomei.com/dist-sys-classics/",
+      "date": "2026-09-14T16:02:01+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 270,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "When code is a maze, smart developers make maps",
+      "text": "Hacker News discussion and source.",
+      "link": "https://medium.com/@simonsmartiom/when-code-is-a-maze-smart-developers-make-maps-fbc452a48c1b",
+      "date": "2026-09-14T08:35:30+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 6,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Show HN: Redis City – Explore how Redis works in an interactive 3D model",
+      "text": "Hacker News discussion and source.",
+      "link": "https://poltora.dev/redis",
+      "date": "2026-09-12T19:43:34+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 36,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Principles for Fast Tokio Applications",
+      "text": "Hacker News discussion and source.",
+      "link": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
+      "date": "2026-09-14T15:27:56+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 192,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Ask HN: What are you working on? (September 2026)",
+      "text": "Hacker News discussion and source.",
+      "link": "https://news.ycombinator.com/item?id=49686380",
+      "date": "2026-09-13T17:31:38+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 318,
       "kindLabel": "HN API"
     },
     {
@@ -208,44 +188,64 @@
       "date": "2026-09-14T13:23:53+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 91,
+      "points": 144,
       "kindLabel": "HN API"
     },
     {
-      "title": "Cua (YC P25) Is Hiring a Founding Technical GTM Lead",
+      "title": "Steam Frame starts at $1059",
       "text": "Hacker News discussion and source.",
-      "link": "https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead",
-      "date": "2026-09-14T17:00:53+00:00",
+      "link": "https://store.steampowered.com/hardware/steamframe",
+      "date": "2026-09-14T17:27:55+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 1,
+      "points": 619,
       "kindLabel": "HN API"
     },
     {
-      "title": "Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme",
+      "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
       "text": "Hacker News discussion and source.",
-      "link": "https://www.neobrutalism.dev/",
-      "date": "2026-09-14T16:02:02+00:00",
+      "link": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
+      "date": "2026-09-14T13:38:58+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 139,
+      "points": 140,
       "kindLabel": "HN API"
     },
     {
-      "title": "Largest known Roman mosaic, beneath Baths of Trajan, opens to the public",
+      "title": "The biggest dinosaurs couldn't sit on their eggs",
       "text": "Hacker News discussion and source.",
-      "link": "https://www.theartnewspaper.com/2026/09/14/largest-roman-mosaic-opens-to-the-public",
-      "date": "2026-09-14T13:01:04+00:00",
+      "link": "https://www.cbc.ca/news/science/titanosaur-eggs-9.7336841",
+      "date": "2026-09-14T00:00:30+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 46,
+      "points": 33,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
+      "text": "Hacker News discussion and source.",
+      "link": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
+      "date": "2026-09-14T17:02:34+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 103,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "How my e-reader lost its stripes",
+      "text": "Hacker News discussion and source.",
+      "link": "https://www.serpentine.com/posts/2026/x3-stripes/",
+      "date": "2026-09-14T16:23:16+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 185,
       "kindLabel": "HN API"
     },
     {
       "title": "Encoded and non-genetic protein variants expand human functional proteome",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11124-z",
-      "date": "2026-09-15T01:05:42.300263+00:00",
+      "date": "2026-09-15T06:19:57.930899+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -253,7 +253,7 @@
       "title": "The roots of astrology, the mysterious nature of time and more: Books in brief",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02908-4",
-      "date": "2026-09-15T01:05:42.300311+00:00",
+      "date": "2026-09-15T06:19:57.930939+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -261,7 +261,7 @@
       "title": "How is climate change affecting conifers and their ability to sequester carbon?",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02847-0",
-      "date": "2026-09-15T01:05:42.300337+00:00",
+      "date": "2026-09-15T06:19:57.930966+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -269,7 +269,7 @@
       "title": "The pet trade puts reptiles and amphibians at risk: close legal gaps now",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02852-3",
-      "date": "2026-09-15T01:05:42.300370+00:00",
+      "date": "2026-09-15T06:19:57.930997+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -277,7 +277,7 @@
       "title": "Donor-funded science is rising in Brazil ― upending a long tradition",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02829-2",
-      "date": "2026-09-15T01:05:42.300399+00:00",
+      "date": "2026-09-15T06:19:57.931021+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -285,7 +285,7 @@
       "title": "‘Multifunctional’ brain implant translates speech and gestures in real time",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02895-6",
-      "date": "2026-09-15T01:05:42.300424+00:00",
+      "date": "2026-09-15T06:19:57.931050+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -293,7 +293,7 @@
       "title": "UK universities are on the brink — what is their greatest source of stress?",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02608-z",
-      "date": "2026-09-15T01:05:42.300449+00:00",
+      "date": "2026-09-15T06:19:57.931076+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -301,7 +301,7 @@
       "title": "Fraud sealed the fate of controversial zoologist Paul Kammerer — 100 years on, his ideas deserve revisiting",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02851-4",
-      "date": "2026-09-15T01:05:42.300472+00:00",
+      "date": "2026-09-15T06:19:57.931099+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -309,7 +309,7 @@
       "title": "Drug firms’ secret data supercharge AI protein models",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02882-x",
-      "date": "2026-09-15T01:05:42.300496+00:00",
+      "date": "2026-09-15T06:19:57.931122+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -317,7 +317,7 @@
       "title": "The super El Niño is already wreaking havoc: here’s what’s in store",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02826-5",
-      "date": "2026-09-15T01:05:42.300519+00:00",
+      "date": "2026-09-15T06:19:57.931145+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -325,7 +325,7 @@
       "title": "Briefing Chat: The Bunsen burner myth that turns out to be just hot air",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02893-8",
-      "date": "2026-09-15T01:05:42.300545+00:00",
+      "date": "2026-09-15T06:19:57.931170+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -333,7 +333,7 @@
       "title": "NSF moves to overhaul funding approach in line with White House priorities",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02892-9",
-      "date": "2026-09-15T01:05:42.300569+00:00",
+      "date": "2026-09-15T06:19:57.931193+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -341,7 +341,7 @@
       "title": "People trust scientists seen to be ‘on their side’, UK study finds",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02883-w",
-      "date": "2026-09-15T01:05:42.300593+00:00",
+      "date": "2026-09-15T06:19:57.931216+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -349,7 +349,7 @@
       "title": "El Niño goes viral — and scientists learn what makes people care about the climate",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02763-3",
-      "date": "2026-09-15T01:05:42.300617+00:00",
+      "date": "2026-09-15T06:19:57.931241+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -357,7 +357,7 @@
       "title": "Successful early-career scientists rely on network of mentors",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02827-4",
-      "date": "2026-09-15T01:05:42.300643+00:00",
+      "date": "2026-09-15T06:19:57.931263+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -365,7 +365,7 @@
       "title": "Osteoporosis affects millions: could modified cells rebuild their bones?",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02828-3",
-      "date": "2026-09-15T01:05:42.300668+00:00",
+      "date": "2026-09-15T06:19:57.931285+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -373,7 +373,7 @@
       "title": "Daily briefing: Skeleton teeth show evidence of the earliest known habitual drug use",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02901-x",
-      "date": "2026-09-15T01:05:42.300691+00:00",
+      "date": "2026-09-15T06:19:57.931307+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -381,7 +381,7 @@
       "title": "Author Correction: The molecular basis of force selectivity by PIEZO2",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11079-1",
-      "date": "2026-09-15T01:05:42.300720+00:00",
+      "date": "2026-09-15T06:19:57.931335+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -706,18 +706,18 @@
       "cat": "SCIENCE"
     },
     {
-      "title": "Zachery Lipton: \"CS academia broke the system...perhaps all that it takes for the system to rebuild is for it to burn to the ground\" [D]",
-      "text": "Sept 9, 2026 hits an all time daily high of 447 new machine learning papers uploaded to cs.LG ( https://arxiv.org/list/cs.LG/recent?skip=0&amp;show=500 ). This is many times more papers than what a human being or even a sizeable reading group could feasibly read and digest in a year. This is preceded by around 200/day of new ML papers before and after. Are we pass the point of no return? Should the system be be, like he says, &quot;burned to the ground&quot; before good science can resume? &#32;",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wf4b5g/zachery_lipton_cs_academia_broke_the/",
-      "date": "2026-09-13T10:42:53+00:00",
-      "source": "Reddit · MachineLearning",
-      "cat": "SCIENCE"
-    },
-    {
       "title": "ARR August Discussion [D]",
       "text": "This round seems to be very small, but still creating this thread for discussion. &#32; submitted by &#32; /u/Striking-Warning9533 [link] &#32; [comments]",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1wft2qd/arr_august_discussion_d/",
       "date": "2026-09-14T04:10:52+00:00",
+      "source": "Reddit · MachineLearning",
+      "cat": "SCIENCE"
+    },
+    {
+      "title": "Zachery Lipton: \"CS academia broke the system...perhaps all that it takes for the system to rebuild is for it to burn to the ground\" [D]",
+      "text": "Sept 9, 2026 hits an all time daily high of 447 new machine learning papers uploaded to cs.LG ( https://arxiv.org/list/cs.LG/recent?skip=0&amp;show=500 ). This is many times more papers than what a human being or even a sizeable reading group could feasibly read and digest in a year. This is preceded by around 200/day of new ML papers before and after. Are we pass the point of no return? Should the system be be, like he says, &quot;burned to the ground&quot; before good science can resume? &#32;",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wf4b5g/zachery_lipton_cs_academia_broke_the/",
+      "date": "2026-09-13T10:42:53+00:00",
       "source": "Reddit · MachineLearning",
       "cat": "SCIENCE"
     },
@@ -816,6 +816,14 @@
       "date": "2026-09-12T21:45:25+00:00",
       "source": "Reddit · MachineLearning",
       "cat": "SCIENCE"
+    },
+    {
+      "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+      "text": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.",
+      "link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+      "date": "Tue, 15 Sep 2026 01:50:48 +0000",
+      "source": "TechCrunch",
+      "cat": "TECH"
     },
     {
       "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
@@ -954,11 +962,11 @@
       "cat": "TECH"
     },
     {
-      "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
-      "text": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $90 billion firm is deliberately staying diversified.",
-      "link": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
-      "date": "Sun, 13 Sep 2026 21:30:00 +0000",
-      "source": "TechCrunch",
+      "title": "For the first time, the US military confirms it has deployed weapons in orbit",
+      "text": "\"The United States now has on-orbit space control weapons capable of defending the joint force.\"",
+      "link": "https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit/",
+      "date": "Tue, 15 Sep 2026 03:47:36 +0000",
+      "source": "Ars Technica",
       "cat": "TECH"
     },
     {
@@ -1098,14 +1106,6 @@
       "cat": "TECH"
     },
     {
-      "title": "Some satellite companies still have an appetite for boutique launch services",
-      "text": "\"Dedicated launch is pretty essential for us for most of our missions.\"",
-      "link": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
-      "date": "Fri, 11 Sep 2026 23:34:45 +0000",
-      "source": "Ars Technica",
-      "cat": "TECH"
-    },
-    {
       "title": "The Supreme Court Just Blocked Trump’s Efforts to Control Mail-In Voting for the Midterms",
       "text": "The ruling bars the United States Postal Service from implementing restrictions that experts and election officials say would upend voting in November.",
       "link": "https://www.wired.com/story/the-supreme-court-just-blocked-trumps-efforts-to-control-mail-in-voting-for-the-midterms/",
@@ -1138,17 +1138,17 @@
       "cat": "TECH"
     },
     {
-      "title": "The Best Soundbars (2026): Sonos, LG, TCL, Bose, and More",
-      "text": "I tested soundbars of all shapes and sizes—these are the best for clear dialogue, booming bass, and realistic surround sound.",
-      "link": "https://www.wired.com/story/best-soundbars/",
+      "title": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
+      "text": "Sam Altman and Elon Musk backed Anthropic CEO Dario Amodei’s weekend plea for regulation. The White House seems unlikely to oblige.",
+      "link": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
       "date": "Mon, 14 Sep 2026 11:00:00 +0000",
       "source": "Wired",
       "cat": "TECH"
     },
     {
-      "title": "AI Leaders Are Calling for a Slowdown. Trump’s Team Says It’s on Them",
-      "text": "Sam Altman and Elon Musk backed Anthropic CEO Dario Amodei’s weekend plea for regulation. The White House seems unlikely to oblige.",
-      "link": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
+      "title": "The Best Soundbars (2026): Sonos, LG, TCL, Bose, and More",
+      "text": "I tested soundbars of all shapes and sizes—these are the best for clear dialogue, booming bass, and realistic surround sound.",
+      "link": "https://www.wired.com/story/best-soundbars/",
       "date": "Mon, 14 Sep 2026 11:00:00 +0000",
       "source": "Wired",
       "cat": "TECH"
@@ -1260,13 +1260,13 @@
       "name": "arXiv · AI/ML",
       "ok": false,
       "count": 0,
-      "error": "The read operation timed out"
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "name": "arXiv · Systems",
       "ok": false,
       "count": 0,
-      "error": "HTTP Error 429: Unknown Error"
+      "error": "The read operation timed out"
     },
     {
       "name": "Nature",
