@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-09-14T22:52:26.687506+00:00",
+  "generated_at": "2026-09-15T01:05:43.726037+00:00",
   "items": [
+    {
+      "title": "iOS 27, iPadOS 27, and macOS 27",
+      "text": "Hacker News discussion and source.",
+      "link": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "date": "2026-09-14T17:50:29+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 348,
+      "kindLabel": "HN API"
+    },
     {
       "title": "Pion, an agent designed to run any company autonomously",
       "text": "Hacker News discussion and source.",
@@ -8,57 +18,7 @@
       "date": "2026-09-14T17:16:06+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 230,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
-      "text": "Hacker News discussion and source.",
-      "link": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
-      "date": "2026-09-14T21:05:22+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 132,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Distributed Systems Classics (2017)",
-      "text": "Hacker News discussion and source.",
-      "link": "https://nvartolomei.com/dist-sys-classics/",
-      "date": "2026-09-14T16:02:01+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 208,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Compressing a Flag to 11 Bits",
-      "text": "Hacker News discussion and source.",
-      "link": "https://read.vantezzen.io/miniflags",
-      "date": "2026-09-12T15:57:43+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 15,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "A Beginning for Mathematics",
-      "text": "Hacker News discussion and source.",
-      "link": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
-      "date": "2026-09-14T15:33:07+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 149,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-      "text": "Hacker News discussion and source.",
-      "link": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-      "date": "2026-09-14T12:40:57+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 332,
+      "points": 277,
       "kindLabel": "HN API"
     },
     {
@@ -68,27 +28,57 @@
       "date": "2026-09-14T21:22:54+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 21,
+      "points": 80,
       "kindLabel": "HN API"
     },
     {
-      "title": "How my e-reader lost its stripes",
+      "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
       "text": "Hacker News discussion and source.",
-      "link": "https://www.serpentine.com/posts/2026/x3-stripes/",
-      "date": "2026-09-14T16:23:16+00:00",
+      "link": "https://github.com/JamesRyanATX/fcbnerd",
+      "date": "2026-09-14T23:01:36+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 123,
+      "points": 28,
       "kindLabel": "HN API"
     },
     {
-      "title": "Principles for Fast Tokio Applications",
+      "title": "Compressing a Flag to 11 Bits",
       "text": "Hacker News discussion and source.",
-      "link": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
-      "date": "2026-09-14T15:27:56+00:00",
+      "link": "https://read.vantezzen.io/miniflags",
+      "date": "2026-09-12T15:57:43+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 150,
+      "points": 57,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Distributed Systems Classics (2017)",
+      "text": "Hacker News discussion and source.",
+      "link": "https://nvartolomei.com/dist-sys-classics/",
+      "date": "2026-09-14T16:02:01+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 230,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+      "text": "Hacker News discussion and source.",
+      "link": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+      "date": "2026-09-14T12:40:57+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 364,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+      "text": "Hacker News discussion and source.",
+      "link": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+      "date": "2026-09-14T14:29:23+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 20,
       "kindLabel": "HN API"
     },
     {
@@ -98,17 +88,47 @@
       "date": "2026-09-14T09:51:50+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 383,
+      "points": 441,
       "kindLabel": "HN API"
     },
     {
-      "title": "Why don't machine learning research agents overfit?",
+      "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
       "text": "Hacker News discussion and source.",
-      "link": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-      "date": "2026-09-14T16:32:23+00:00",
+      "link": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
+      "date": "2026-09-14T21:05:22+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 91,
+      "points": 163,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "A Beginning for Mathematics",
+      "text": "Hacker News discussion and source.",
+      "link": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
+      "date": "2026-09-14T15:33:07+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 166,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Principles for Fast Tokio Applications",
+      "text": "Hacker News discussion and source.",
+      "link": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
+      "date": "2026-09-14T15:27:56+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 158,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "How my e-reader lost its stripes",
+      "text": "Hacker News discussion and source.",
+      "link": "https://www.serpentine.com/posts/2026/x3-stripes/",
+      "date": "2026-09-14T16:23:16+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 146,
       "kindLabel": "HN API"
     },
     {
@@ -118,7 +138,27 @@
       "date": "2026-09-12T09:43:44+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 22,
+      "points": 40,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Steam Frame starts at $1059",
+      "text": "Hacker News discussion and source.",
+      "link": "https://store.steampowered.com/hardware/steamframe",
+      "date": "2026-09-14T17:27:55+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 486,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Why don't machine learning research agents overfit?",
+      "text": "Hacker News discussion and source.",
+      "link": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+      "date": "2026-09-14T16:32:23+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 102,
       "kindLabel": "HN API"
     },
     {
@@ -128,47 +168,47 @@
       "date": "2026-09-14T17:02:34+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 69,
+      "points": 84,
       "kindLabel": "HN API"
     },
     {
-      "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+      "title": "Ask HN: What are you working on? (September 2026)",
       "text": "Hacker News discussion and source.",
-      "link": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
-      "date": "2026-09-14T19:56:20+00:00",
+      "link": "https://news.ycombinator.com/item?id=49686380",
+      "date": "2026-09-13T17:31:38+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 74,
+      "points": 294,
       "kindLabel": "HN API"
     },
     {
-      "title": "Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme",
+      "title": "An atlas of periodic solutions to the three-body problem",
       "text": "Hacker News discussion and source.",
-      "link": "https://www.neobrutalism.dev/",
-      "date": "2026-09-14T16:02:02+00:00",
+      "link": "https://www.threebodyorbits.com/",
+      "date": "2026-09-12T10:13:24+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 122,
+      "points": 349,
       "kindLabel": "HN API"
     },
     {
-      "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",
+      "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
       "text": "Hacker News discussion and source.",
-      "link": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
-      "date": "2026-09-14T16:07:58+00:00",
+      "link": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
+      "date": "2026-09-12T18:51:40+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 57,
+      "points": 3,
       "kindLabel": "HN API"
     },
     {
-      "title": "Microsoft patches Windows and Excel – breaks audio, remote access, and paste",
+      "title": "People who can't picture anything are rewriting the science of imagination",
       "text": "Hacker News discussion and source.",
-      "link": "https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085",
-      "date": "2026-09-14T16:09:45+00:00",
+      "link": "https://dailyneuron.com/aphantasia-mental-imagery-brain-network/",
+      "date": "2026-09-14T13:23:53+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 175,
+      "points": 91,
       "kindLabel": "HN API"
     },
     {
@@ -182,33 +222,13 @@
       "kindLabel": "HN API"
     },
     {
-      "title": "An atlas of periodic solutions to the three-body problem",
+      "title": "Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme",
       "text": "Hacker News discussion and source.",
-      "link": "https://www.threebodyorbits.com/",
-      "date": "2026-09-12T10:13:24+00:00",
+      "link": "https://www.neobrutalism.dev/",
+      "date": "2026-09-14T16:02:02+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 322,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
-      "text": "Hacker News discussion and source.",
-      "link": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
-      "date": "2026-09-14T13:59:09+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 105,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Ask HN: What are you working on? (September 2026)",
-      "text": "Hacker News discussion and source.",
-      "link": "https://news.ycombinator.com/item?id=49686380",
-      "date": "2026-09-13T17:31:38+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 286,
+      "points": 139,
       "kindLabel": "HN API"
     },
     {
@@ -218,304 +238,14 @@
       "date": "2026-09-14T13:01:04+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 37,
+      "points": 46,
       "kindLabel": "HN API"
-    },
-    {
-      "title": "EuroBirdPortal – Live bird movements across Europe",
-      "text": "Hacker News discussion and source.",
-      "link": "https://www.eurobirdportal.org/ebp/en/",
-      "date": "2026-09-14T08:25:47+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 212,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
-      "text": "Hacker News discussion and source.",
-      "link": "https://spectrum.ieee.org/adversarial-fashion",
-      "date": "2026-09-14T14:04:53+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 89,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Rethinking Heterogeneous System Disaggregation for Subquadratic Attention",
-      "text": "Frontier language models are more aggressively using subquadratic attention to reduce the memory footprint and compute requirements during inference while still delivering frontier accuracy. While existing systems make dense attention-centric disaggregated serving decisions, we show that disaggregating inference around the unique arithmetic intensity and memory footprint of subquadratic attention LLMs can achieve significant throughput and energy efficiency gains on emerging DRAM-based and SRAM-",
-      "link": "http://arxiv.org/abs/2609.13134v1",
-      "date": "2026-09-11T17:55:45Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "A Hybrid LSTM-XGBoost Framework for Multi-Horizon Stock Return Prediction Across Diversified Equity Portfolios",
-      "text": "Accurate prediction of equity returns remains a major challenge in computational finance due to the non-stationary, nonlinear, and low signal-to-noise ratio nature of financial time series. This paper proposes a hybrid two-stage architecture that combines a long short-term memory (LSTM) network with an XGBoost gradient-boosted regressor for multi-horizon stock return prediction across a diversified panel of 14 U.S. equities spanning six industry sectors. The LSTM component, comprising two stacke",
-      "link": "http://arxiv.org/abs/2609.13125v1",
-      "date": "2026-09-11T17:51:47Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "CMA-OT: Hierarchical Expert Supervision for Dance-to-Music Generation",
-      "text": "Dance-to-music (D2M) generation aims to synthesize music that is rhythmically and stylistically aligned with dance videos. A key challenge arises from the semantic mismatch between sparse dance cues, such as rhythm and style, and the dense information required for music composition, including structure, instrumentation, and expressive dynamics. Existing methods typically rely on these sparse cues and supervise only the final audio output, resulting in poorly learned music representations and gen",
-      "link": "http://arxiv.org/abs/2609.13118v1",
-      "date": "2026-09-11T17:46:15Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "A Ranking Approach for Measuring Calibration",
-      "text": "When providing forecasted probabilities with a predictive model, the ideal model offers perfect calibration: the true probability of the outcome (i.e., the probability that $Y=1$) exactly matches the forecasted probability $f(X)$. In practice, models inevitably exhibit calibration error, and it is therefore important to be able to measure this miscalibration to assess a model's reliability. The Expected Calibration Error (ECE) is the most widely used measure of miscalibration, but is known to be",
-      "link": "http://arxiv.org/abs/2609.13100v1",
-      "date": "2026-09-11T17:34:25Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "ASTRIL-MPC: Autonomous Traversal Framework of Articulated Tracked Robots with Language-Guided Neural-Kinematic MPC",
-      "text": "In urban search and rescue, articulated tracked robots (ATRs) must traverse structured but contact-rich environments such as stairwells and cluttered building interiors. Reliable autonomy remains challenging because robot-terrain interaction (RTI) is hybrid and discontinuous, and effective flipper-track coordination is difficult to model analytically. We present ASTRIL-MPC, a language-guided neural kinematics model predictive control (MPC) framework for autonomous traversal. A learned kinematics",
-      "link": "http://arxiv.org/abs/2609.13083v1",
-      "date": "2026-09-11T17:17:52Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Embodied-BenchForge: A Closed-Loop Agentic Workflow for Embodied Benchmark Construction",
-      "text": "Agentic systems offer a promising way to automate embodied benchmark construction, but existing approaches typically cover isolated stages or remain specialized to predefined environments and task families. More importantly, multi-step construction produces dependent intermediate artifacts that are often passed downstream without artifact-specific verification, allowing local defects to propagate into the final benchmark. We present Embodied-BenchForge, an agentic framework that transforms user-",
-      "link": "http://arxiv.org/abs/2609.13082v1",
-      "date": "2026-09-11T17:16:01Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "MP-Bench: Evaluating Voice Agents as a Multiparty Conversation Participant",
-      "text": "Conversational voice agents have advanced significantly, offering increasingly natural human-machine interactions through both cascaded and end-to-end architectures. However, while recent benchmarks extensively evaluate dyadic interactions and passive audio comprehension, they largely overlook a prevalent real-world scenario: multi-party conversations. Evaluating agents in these settings is fundamentally more challenging than in dyadic interactions due to the exponentially greater conversational",
-      "link": "http://arxiv.org/abs/2609.13076v1",
-      "date": "2026-09-11T17:11:55Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Autonomous Research for Open-Ended Problems: A Case Study on Telecom Ticket Retrieval",
-      "text": "Recent breakthroughs in LLM-based systems and their abilities in problem solving and coding have allowed progress in the AI for Science paradigm, potentially replacing human roles in machine learning (ML) research. However, while several frameworks of fully autonomous end-to-end ML research have been proposed, successful implementations of them are often limited to problems with narrow search spaces, like language modeling or biomedical ML benchmarks. In this paper, we explore how autonomous res",
-      "link": "http://arxiv.org/abs/2609.13073v1",
-      "date": "2026-09-11T17:09:15Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "MAxBench: A Multinomial Concept Recovery Benchmark",
-      "text": "Fine-grained control of language model behaviors (e.g., steering) is among the more actionable outcomes of interpretability research. For binary concepts such as refusal, a single direction in activation space often suffices for steering. However, many concepts are not binary: Animals and Countries contain many subcategories, each with multiple instances. For these concepts, the search space over possible representation geometries is far larger than for binary concepts; it is thus not clear what",
-      "link": "http://arxiv.org/abs/2609.13072v1",
-      "date": "2026-09-11T17:08:57Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Involving before Evolving: A Vision for Trustworthy Enterprise Digital Twin Engineering",
-      "text": "Enterprise Digital Twins (EDTs) promise data-driven decision support at organizational scale, but realizing them requires navigating siloed departments, tacit knowledge, and high-stakes decisions with long-horizon consequences. Existing approaches involve domain experts during model development but focus less on early organizational buy-in in EDTs. We present a vision for trustworthy EDT engineering grounded in an `involving before evolving' paradigm: rapidly involving stakeholders through a wor",
-      "link": "http://arxiv.org/abs/2609.13071v1",
-      "date": "2026-09-11T17:06:48Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Anchoring Clinical Events in Time: UID-Preserving Multimodal Reconstruction and Source-Grounded Adjudication",
-      "text": "Clinical timelines support treatment-window analysis and leakage-free modeling, but discharge summaries often obscure chronology and structured EHR tables describe only part of the patient course. We present a UID-preserving framework that links each narrative event occurrence to its source span and retains that identity through text-only estimation, structured-evidence retrieval, timestamped source-row grounding, and joint revision. We also present GAVEL, an LLM judge that compares two UID-alig",
-      "link": "http://arxiv.org/abs/2609.13062v1",
-      "date": "2026-09-11T17:01:10Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "CanvasAnneal: Curriculum Reinforcement Learning for Diffusion Language Models",
-      "text": "Diffusion Language Models (DLMs) offer promising parallel generation capabilities but lag behind autoregressive models in complex reasoning and tool-use tasks. While Reinforcement Learning (RL) has recently been applied to enhance DLMs, standard RL approaches suffer from an exploration bottleneck. To address this, we inject reasoning priors from a stronger teacher model to guide RL exploration. In this paper, we introduce CanvasAnneal, a curriculum-guided diffusion RL framework. During the initi",
-      "link": "http://arxiv.org/abs/2609.13060v1",
-      "date": "2026-09-11T16:59:52Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Benign Loss Landscapes Can Coexist with Worst-Case Hardness",
-      "text": "Deep neural networks are expressive enough to contain worst-case targets that can be evaluated in polynomial time but cannot be learned in polynomial time by gradient descent. For practical tasks they nonetheless learn well, raising the question of what non-generic structure of real-world targets enables this. Existing surrogate models cannot pose this question because they either lack hard-to-learn targets entirely (deep linear networks) or cannot evaluate such targets efficiently (kernel metho",
-      "link": "http://arxiv.org/abs/2609.13057v1",
-      "date": "2026-09-11T16:57:02Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Dynin-Robotics: Omnimodal Unified Diffusion Vision-Language-Action Model",
-      "text": "Visual goal and dynamics prediction can provide language-conditioned robot policies with both a target outcome and a representation of action-dependent scene changes. We bring these predictions into action generation and selection through a shared trajectory model. Dynin-Robotics implements this formulation on Dynin-Omni, an omnimodal masked-diffusion backbone, representing language, visual observations, goals, and actions as discrete tokens. By varying conditioning and target spans, the same mo",
-      "link": "http://arxiv.org/abs/2609.13053v1",
-      "date": "2026-09-11T16:49:26Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "A Unified and Constrained View of Regularization-Based Robust Reinforcement Learning",
-      "text": "Regularization-based methods have become a standard approach for training Deep Reinforcement Learning policies against adversarial input perturbations. In this paper, we unify these methods by deriving new upper bounds on the performance gap between the nominal and worst-case policies. Each upper bound is expressed as an existing regularization objective plus a KL-divergence penalty between the nominal and worst-case policies, which further explains why adding a KL penalty improves robustness in",
-      "link": "http://arxiv.org/abs/2609.13050v1",
-      "date": "2026-09-11T16:45:36Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Extreme-Scale Linear-Scaling Kohn-Sham DFT at 100 Million Atoms: Bridging Quantum Simulations and Experiments",
-      "text": "Kohn-Sham density functional theory (DFT) remains the workhorse of ab initio materials simulation, yet cubic computational and quadratic memory scaling have confined calculations to a few hundred to thousands of atoms, spanning only nanometers, far below experimentally relevant length scales. We introduce XLSDFT, a linear-scaling DFT framework based on divide-and-conquer decomposition of the one-particle density matrix and Chebyshev-filtered subspace iteration, achieving linear computational and",
-      "link": "http://arxiv.org/abs/2609.13115v1",
-      "date": "2026-09-11T17:45:03Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "An Equivariant Filter for Spacecraft Nonlinear Relative Navigation with Range and Bearing Measurements",
-      "text": "Relative navigation is a fundamental task in space proximity operations and autonomous rendezvous. The nonlinear relative orbital dynamics are equivariant and admit a semidirect product Lie group symmetry. This property is used to design an Equivariant Filter (EqF). The filter estimates the relative position and velocity between a chaser spacecraft and a target by lifting the filter dynamics to the group, while respecting the underlying geometry of the problem. Simulations demonstrate the filter",
-      "link": "http://arxiv.org/abs/2609.13094v1",
-      "date": "2026-09-11T17:29:09Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "NFT-Based Reward Mechanisms: Sybil Farming, Vesting, and Stochastic Verification",
-      "text": "We study NFT-based reward mechanisms in which a user can create multiple identities and submit fraudulent claims that mature a reward subject to vesting. We assume that the issuer stochastically verifies claims during the vesting period and that identities can be linked into clusters so that the detection of one identity submitting a fraudulent claim causes the whole cluster to be forfeited through a penalty. A farmer's payoff is then non-linear in the number of identities: rewards increase line",
-      "link": "http://arxiv.org/abs/2609.13064v1",
-      "date": "2026-09-11T17:02:35Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Global Path Planner with Multi-Model Switching",
-      "text": "This work enhances global path planning via a pure-pursuit controller with multi-model kinematic switching that sustains plan fidelity across diverse terrains. The system includes a traversability graph for terrain analysis, a Heading-Aware A* algorithm for generating feasible paths, and a multi-model Pure Pursuit controller for dynamic tracking. A core innovation is adaptive kinematic modeling, enabling real-time switching between kinematic models based on terrain features and robot states. Thi",
-      "link": "http://arxiv.org/abs/2609.13015v1",
-      "date": "2026-09-11T16:12:53Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "An Adaptive Multi-Parameter ADMM Algorithm for Embedded MPC",
-      "text": "We introduce an adaptive multi-parameter variant of ADMM and prove that it exhibits local superlinear convergence once the set of active constraints has been identified. In simulations, the proposed algorithm consistently outperforms OSQP, a standard ADMM solver, in terms of iteration count. We then implement an MPC solver based on our method and compare its runtime against a broader selection of state-of-the-art algorithms. Evaluations on challenging benchmark problems reveal that our approach ",
-      "link": "http://arxiv.org/abs/2609.12992v1",
-      "date": "2026-09-11T15:54:39Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Safe Stabilising Full-Order Affine Control Barrier Functions for Linear Systems (Extended)",
-      "text": "Control barrier function safety filters enforce constraints by modifying a nominal input, but the resulting switching can destabilise the closed loop even when the nominal and filtered modes are individually stable. This paper presents a design framework for safe and globally exponentially stabilising controllers for linear systems with a single full-relative-degree affine constraint. We show that the filtered-mode spectrum is fixed by the barrier tuning and is independent of the plant, nominal ",
-      "link": "http://arxiv.org/abs/2609.12990v1",
-      "date": "2026-09-11T15:54:08Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "A Dynamic Vertical Scaling Strategy for Distributed Stream Processing Applications in Edge Computing",
-      "text": "Distributed Stream Processing applications at the edge must reconcile low latency and high throughput with limited and heterogeneous resources. This paper presents a dynamic vertical scaling strategy based on Proximal Policy Optimization, formulated as a Partially Observable Markov Decision Process. The policy jointly adjusts task allocations and prioritizes compliance with a p95 end-to-end latency Service Level Objective. In EdgeStreamPy simulation experiments with two application profiles, two",
-      "link": "http://arxiv.org/abs/2609.12975v1",
-      "date": "2026-09-11T15:38:35Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Tuning ROS 2 for Energy-Efficient Navigation: Empirical Insights from Costmap 2D Configurations",
-      "text": "Robots are increasingly used in diverse application areas, where autonomous navigation plays a central role. As these systems become more widespread, improving their energy efficiency is critical to extending operational time and reducing environmental impact. The Robot Operating System (ROS) is a widely adopted middleware for robotics, offering a rich set of configurable packages. However, this flexibility can result in suboptimal software configurations in dynamic environments, negatively affe",
-      "link": "http://arxiv.org/abs/2609.12971v1",
-      "date": "2026-09-11T15:34:01Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "End-to-End Battery Dispatch with Exact Rainflow Degradation via Mixed-Integer Differentiable Predictive Control",
-      "text": "Optimal dispatch of battery energy storage systems requires balancing energy arbitrage against cycle-induced degradation, which is accurately quantified through rainflow cycle counting. However, rainflow's combinatorial, nondifferentiable algorithm is incompatible with both convex optimization and gradient-based neural network training. We present a self-supervised mixed-integer differentiable predictive control framework that trains neural policies directly on exact rainflow degradation through",
-      "link": "http://arxiv.org/abs/2609.12968v1",
-      "date": "2026-09-11T15:31:18Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Dissecting GPU Utilization for LLM Inference on Nvidia Hopper",
-      "text": "A single SM utilization percentage can make an LLM inference workload look compute-saturated while hiding how much useful work is being done. The problem is not that the counter is wrong, but that it collapses several different mechanisms into one number. This is most severe during decode, where each request contributes only one new token and dense projection GEMMs become small-row matrix multiplications. On Hopper, the bfloat16 GMMA path executes these operations in fixed 64-row matrix fragment",
-      "link": "http://arxiv.org/abs/2609.12923v1",
-      "date": "2026-09-11T14:49:05Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Aerial Non-Stop Trajectories Preserving the Equilibrium of Loads Suspended by Variable-Length Cables",
-      "text": "This work studies equilibrium-preserving non-stop trajectories of aerial carriers connected to rigid loads by variable-length cables. Internal-force motions vary the cable directions without changing the load wrench, while cable-length actuation shapes the radial realization of the carrier trajectories. We derive an explicit cable-length law for realizing prescribed carrier-position profiles along a fixed direction, with constant altitude as a relevant specialization. Under this constraint, a ca",
-      "link": "http://arxiv.org/abs/2609.12922v1",
-      "date": "2026-09-11T14:48:26Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Hidden in Rounds: Predicting the Time Cost of 802.11 Contention in Federated Learning",
-      "text": "Federated learning over IEEE~802.11 shares the wireless channel among clients that send model updates. We use ns-3 to measure the frame-delivery ratio and saturation throughput for different client densities and offered loads. A separate FedAvg trainer uses the frame-delivery ratio as a first-order proxy for the update-admission probability and uses an equation to estimate communication time. The method does not simulate the delivery of a complete model update or measure end-to-end training time",
-      "link": "http://arxiv.org/abs/2609.12903v1",
-      "date": "2026-09-11T14:30:26Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Very Exciting: Zero-Shot Model Predictive Control of Buildings via Excitation-Based Generalized Transfer Learning Models",
-      "text": "The widespread adoption of data-driven, energy-efficient model predictive control (MPC) in buildings remains hindered by substantial effort to collect data and train models for individual buildings. Transfer learning (TL) has consequently gained increasing attention for target building modeling, as it reduces data requirements and modeling effort by reusing pretrained source models. However, these TL models are typically evaluated only on prediction accuracy in the target, without testing downst",
-      "link": "http://arxiv.org/abs/2609.12853v1",
-      "date": "2026-09-11T13:42:45Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "VertexCBF: Improving Neural Control Barrier Functions via Vertex-Restricted Control Search",
-      "text": "As the number of autonomous robots continues to grow, safety becomes increasingly important. Control barrier functions (CBFs) provide a theoretically grounded framework for ensuring safety, but existing design methods often face limitations in effectiveness, scalability, or interpretability, and may result in overly conservative safe sets. In this paper, we propose \\emph{VertexCBF}, a framework for learning neural CBFs in a scalable, systematic, and explainable way. We approximate the stationary",
-      "link": "http://arxiv.org/abs/2609.12831v1",
-      "date": "2026-09-11T13:24:45Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "4D Parallelism Unlocks Exascale Bayesian Neural Networks for High-Fidelity Atmospheric Modeling",
-      "text": "We present BEAST, the first-ever Bayesian Swin Transformer for atmospheric forecasting on 0.25$^\\circ$ global resolution able to accurately quantify both aleatoric and epistemic uncertainty. To overcome the associated computational bottlenecks, we devise an orthogonal 4D-parallelization scheme that introduces a unique domain-tensor-parallelism strategy and a novel uncertainty parallel method, enabling us to fully leverage GPU capacity and efficiently scale model training. For a 2.4-billion-param",
-      "link": "http://arxiv.org/abs/2609.12815v1",
-      "date": "2026-09-11T13:08:17Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
     },
     {
       "title": "Encoded and non-genetic protein variants expand human functional proteome",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11124-z",
-      "date": "2026-09-14T22:52:25.480584+00:00",
+      "date": "2026-09-15T01:05:42.300263+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -523,7 +253,7 @@
       "title": "The roots of astrology, the mysterious nature of time and more: Books in brief",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02908-4",
-      "date": "2026-09-14T22:52:25.480623+00:00",
+      "date": "2026-09-15T01:05:42.300311+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -531,7 +261,7 @@
       "title": "How is climate change affecting conifers and their ability to sequester carbon?",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02847-0",
-      "date": "2026-09-14T22:52:25.480648+00:00",
+      "date": "2026-09-15T01:05:42.300337+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -539,7 +269,7 @@
       "title": "The pet trade puts reptiles and amphibians at risk: close legal gaps now",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02852-3",
-      "date": "2026-09-14T22:52:25.480688+00:00",
+      "date": "2026-09-15T01:05:42.300370+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -547,7 +277,7 @@
       "title": "Donor-funded science is rising in Brazil ― upending a long tradition",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02829-2",
-      "date": "2026-09-14T22:52:25.480736+00:00",
+      "date": "2026-09-15T01:05:42.300399+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -555,7 +285,7 @@
       "title": "‘Multifunctional’ brain implant translates speech and gestures in real time",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02895-6",
-      "date": "2026-09-14T22:52:25.480762+00:00",
+      "date": "2026-09-15T01:05:42.300424+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -563,7 +293,7 @@
       "title": "UK universities are on the brink — what is their greatest source of stress?",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02608-z",
-      "date": "2026-09-14T22:52:25.480789+00:00",
+      "date": "2026-09-15T01:05:42.300449+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -571,7 +301,7 @@
       "title": "Fraud sealed the fate of controversial zoologist Paul Kammerer — 100 years on, his ideas deserve revisiting",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02851-4",
-      "date": "2026-09-14T22:52:25.480812+00:00",
+      "date": "2026-09-15T01:05:42.300472+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -579,7 +309,7 @@
       "title": "Drug firms’ secret data supercharge AI protein models",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02882-x",
-      "date": "2026-09-14T22:52:25.480834+00:00",
+      "date": "2026-09-15T01:05:42.300496+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -587,7 +317,7 @@
       "title": "The super El Niño is already wreaking havoc: here’s what’s in store",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02826-5",
-      "date": "2026-09-14T22:52:25.480857+00:00",
+      "date": "2026-09-15T01:05:42.300519+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -595,7 +325,7 @@
       "title": "Briefing Chat: The Bunsen burner myth that turns out to be just hot air",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02893-8",
-      "date": "2026-09-14T22:52:25.480881+00:00",
+      "date": "2026-09-15T01:05:42.300545+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -603,7 +333,7 @@
       "title": "NSF moves to overhaul funding approach in line with White House priorities",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02892-9",
-      "date": "2026-09-14T22:52:25.480904+00:00",
+      "date": "2026-09-15T01:05:42.300569+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -611,7 +341,7 @@
       "title": "People trust scientists seen to be ‘on their side’, UK study finds",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02883-w",
-      "date": "2026-09-14T22:52:25.480926+00:00",
+      "date": "2026-09-15T01:05:42.300593+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -619,7 +349,7 @@
       "title": "El Niño goes viral — and scientists learn what makes people care about the climate",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02763-3",
-      "date": "2026-09-14T22:52:25.480948+00:00",
+      "date": "2026-09-15T01:05:42.300617+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -627,7 +357,7 @@
       "title": "Successful early-career scientists rely on network of mentors",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02827-4",
-      "date": "2026-09-14T22:52:25.480971+00:00",
+      "date": "2026-09-15T01:05:42.300643+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -635,7 +365,7 @@
       "title": "Osteoporosis affects millions: could modified cells rebuild their bones?",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02828-3",
-      "date": "2026-09-14T22:52:25.480993+00:00",
+      "date": "2026-09-15T01:05:42.300668+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -643,7 +373,7 @@
       "title": "Daily briefing: Skeleton teeth show evidence of the earliest known habitual drug use",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02901-x",
-      "date": "2026-09-14T22:52:25.481016+00:00",
+      "date": "2026-09-15T01:05:42.300691+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -651,7 +381,7 @@
       "title": "Author Correction: The molecular basis of force selectivity by PIEZO2",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11079-1",
-      "date": "2026-09-14T22:52:25.481042+00:00",
+      "date": "2026-09-15T01:05:42.300720+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -969,17 +699,9 @@
     },
     {
       "title": "[Upcoming AMA] Waymo AI Team AMA – Drop Your Questions Early! [D]",
-      "text": "Hi r/MachineLearning , Join our AI leads as they answer your questions on foundation models, simulation, and scaling the Waymo Driver. Our AMA thread is officially open, and you can start dropping your questions now. From multimodality and end-to-end architectures to the realities of validating models for fully autonomous vehicles, our team will be answering your questions live, tomorrow. The key details: Date: Monday, September 14 Time: 2:00 – 3:30 PM PT Location: r/MachineLearning Mark your ca",
+      "text": "EDIT: Thanks from the Waymo AI Team! A huge thank you to the r/MachineLearning community for all the thoughtful, deep-dive questions today. If you want to dive deeper into our technical research, check out our work at https://waymo.com/research/ , and stay tuned for our next AMA. Thanks again, all! ------------------------ Hi r/MachineLearning , Join our AI leads as they answer your questions on foundation models, simulation, and scaling the Waymo Driver. Our AMA thread is officially open, and y",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1wfesc0/upcoming_ama_waymo_ai_team_ama_drop_your/",
       "date": "2026-09-13T18:01:03+00:00",
-      "source": "Reddit · MachineLearning",
-      "cat": "SCIENCE"
-    },
-    {
-      "title": "ARR August Discussion [D]",
-      "text": "This round seems to be very small, but still creating this thread for discussion. &#32; submitted by &#32; /u/Striking-Warning9533 [link] &#32; [comments]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wft2qd/arr_august_discussion_d/",
-      "date": "2026-09-14T04:10:52+00:00",
       "source": "Reddit · MachineLearning",
       "cat": "SCIENCE"
     },
@@ -988,6 +710,14 @@
       "text": "Sept 9, 2026 hits an all time daily high of 447 new machine learning papers uploaded to cs.LG ( https://arxiv.org/list/cs.LG/recent?skip=0&amp;show=500 ). This is many times more papers than what a human being or even a sizeable reading group could feasibly read and digest in a year. This is preceded by around 200/day of new ML papers before and after. Are we pass the point of no return? Should the system be be, like he says, &quot;burned to the ground&quot; before good science can resume? &#32;",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1wf4b5g/zachery_lipton_cs_academia_broke_the/",
       "date": "2026-09-13T10:42:53+00:00",
+      "source": "Reddit · MachineLearning",
+      "cat": "SCIENCE"
+    },
+    {
+      "title": "ARR August Discussion [D]",
+      "text": "This round seems to be very small, but still creating this thread for discussion. &#32; submitted by &#32; /u/Striking-Warning9533 [link] &#32; [comments]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wft2qd/arr_august_discussion_d/",
+      "date": "2026-09-14T04:10:52+00:00",
       "source": "Reddit · MachineLearning",
       "cat": "SCIENCE"
     },
@@ -1232,6 +962,30 @@
       "cat": "TECH"
     },
     {
+      "title": "RFK Jr. headlines sold-out anti-vaccine conference alongside Andrew Wakefield",
+      "text": "The event is hosted by Kennedy's anti-vaccine group Children's Health Defense.",
+      "link": "https://arstechnica.com/health/2026/09/rfk-jr-headlines-sold-out-anti-vaccine-conference-alongside-andrew-wakefield/",
+      "date": "Mon, 14 Sep 2026 22:06:24 +0000",
+      "source": "Ars Technica",
+      "cat": "TECH"
+    },
+    {
+      "title": "Rocket Lab is seeing red about NASA's decision on a Mars spacecraft",
+      "text": "\"NASA’s award decision appears to be inconsistent with the eligibility criteria.\"",
+      "link": "https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/",
+      "date": "Mon, 14 Sep 2026 21:32:22 +0000",
+      "source": "Ars Technica",
+      "cat": "TECH"
+    },
+    {
+      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+      "text": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
+      "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+      "date": "Mon, 14 Sep 2026 21:04:32 +0000",
+      "source": "Ars Technica",
+      "cat": "TECH"
+    },
+    {
       "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
       "text": "Musk stops attacking Apple over ChatGPT integration but not OpenAI.",
       "link": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
@@ -1352,27 +1106,11 @@
       "cat": "TECH"
     },
     {
-      "title": "Random rewards enrich classic game-theory insights",
-      "text": "Simple games gain rich strategies in the face of noise.",
-      "link": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
-      "date": "Fri, 11 Sep 2026 21:41:16 +0000",
-      "source": "Ars Technica",
-      "cat": "TECH"
-    },
-    {
-      "title": "Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland",
-      "text": "The strain lurking in the inflatable structure was hypervirulent.",
-      "link": "https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/",
-      "date": "Fri, 11 Sep 2026 21:14:26 +0000",
-      "source": "Ars Technica",
-      "cat": "TECH"
-    },
-    {
-      "title": "Trump's forced coal plant extensions thrown out by judge",
-      "text": "The Department of Energy declared an \"emergency\" when none existed.",
-      "link": "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/",
-      "date": "Fri, 11 Sep 2026 20:32:59 +0000",
-      "source": "Ars Technica",
+      "title": "The Supreme Court Just Blocked Trump’s Efforts to Control Mail-In Voting for the Midterms",
+      "text": "The ruling bars the United States Postal Service from implementing restrictions that experts and election officials say would upend voting in November.",
+      "link": "https://www.wired.com/story/the-supreme-court-just-blocked-trumps-efforts-to-control-mail-in-voting-for-the-midterms/",
+      "date": "Tue, 15 Sep 2026 00:23:42 +0000",
+      "source": "Wired",
       "cat": "TECH"
     },
     {
@@ -1510,14 +1248,6 @@
       "date": "Sat, 12 Sep 2026 11:08:00 +0000",
       "source": "Wired",
       "cat": "TECH"
-    },
-    {
-      "title": "The Anti-Woke Right Can’t Figure Out How to Stop ‘Grand Theft Auto VI’",
-      "text": "A subset of male gamers have spent years warning that the transgressive series has been neutered by progressive developers, but the backlash isn’t taking hold.",
-      "link": "https://www.wired.com/story/the-anti-woke-right-cant-figure-out-how-to-stop-grand-theft-auto-vi/",
-      "date": "Sat, 12 Sep 2026 11:00:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
     }
   ],
   "health": [
@@ -1528,13 +1258,15 @@
     },
     {
       "name": "arXiv · AI/ML",
-      "ok": true,
-      "count": 15
+      "ok": false,
+      "count": 0,
+      "error": "The read operation timed out"
     },
     {
       "name": "arXiv · Systems",
-      "ok": true,
-      "count": 15
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 429: Unknown Error"
     },
     {
       "name": "Nature",
