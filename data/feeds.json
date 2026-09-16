@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-09-16T15:13:17.717649+00:00",
+  "generated_at": "2026-09-16T18:58:53.717459+00:00",
   "items": [
     {
-      "title": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
+      "title": "We've created the first vectorized Quicksort",
       "text": "Hacker News discussion and source.",
-      "link": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/",
-      "date": "2026-09-16T14:30:36+00:00",
+      "link": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html",
+      "date": "2026-09-16T18:31:35+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 88,
+      "points": 28,
       "kindLabel": "HN API"
     },
     {
-      "title": "A warning about 'model welfare'",
+      "title": "Small Programming Tricks",
       "text": "Hacker News discussion and source.",
-      "link": "https://mustafa-suleyman.ai/a-warning-about-model-welfare",
-      "date": "2026-09-16T14:27:47+00:00",
+      "link": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+      "date": "2026-09-16T15:56:47+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 57,
+      "points": 181,
       "kindLabel": "HN API"
     },
     {
@@ -28,17 +28,7 @@
       "date": "2026-09-16T13:44:40+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 44,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "The Google Play app review process now regularly takes longer than a week",
-      "text": "Hacker News discussion and source.",
-      "link": "https://gultsch.social/@daniel/117280438824908947",
-      "date": "2026-09-16T11:19:11+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 214,
+      "points": 129,
       "kindLabel": "HN API"
     },
     {
@@ -48,47 +38,17 @@
       "date": "2026-09-16T08:08:57+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 286,
+      "points": 431,
       "kindLabel": "HN API"
     },
     {
-      "title": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
+      "title": "Tell the speakers that you liked their talks",
       "text": "Hacker News discussion and source.",
-      "link": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
-      "date": "2026-09-16T12:19:55+00:00",
+      "link": "https://ohhelloana.blog/tell-the-speakers/",
+      "date": "2026-09-15T11:28:19+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 34,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Salesforce Global Outage",
-      "text": "Hacker News discussion and source.",
-      "link": "https://status.salesforce.com/products/all",
-      "date": "2026-09-16T10:37:08+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 176,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Introducing System One Models and Jev",
-      "text": "Hacker News discussion and source.",
-      "link": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-      "date": "2026-09-15T19:25:03+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 1625,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "ImpactGate: A merge gate that scores the structural decay AI adds",
-      "text": "Hacker News discussion and source.",
-      "link": "https://github.com/officefloor/ImpactGate",
-      "date": "2026-09-16T13:01:09+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 33,
+      "points": 173,
       "kindLabel": "HN API"
     },
     {
@@ -98,17 +58,117 @@
       "date": "2026-09-15T12:31:10+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 1815,
+      "points": 1916,
       "kindLabel": "HN API"
     },
     {
-      "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Works",
+      "title": "The DeepMind Institute",
+      "text": "Hacker News discussion and source.",
+      "link": "https://institute.deepmind.com/",
+      "date": "2026-09-16T14:32:11+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 57,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Claude Cowork and chat are now one Claude",
+      "text": "Hacker News discussion and source.",
+      "link": "https://claude.com/blog/cowork-is-now-claude",
+      "date": "2026-09-16T16:26:25+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 110,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "How big are factorials?",
+      "text": "Hacker News discussion and source.",
+      "link": "https://eli.thegreenplace.net/2026/how-big-are-factorials/",
+      "date": "2026-09-15T13:25:38+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 53,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Apple Reference Image: A New Approach for Verified Photography",
+      "text": "Hacker News discussion and source.",
+      "link": "https://security.apple.com/blog/apple-reference-image/",
+      "date": "2026-09-16T02:07:31+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 471,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "The Siberian Ice Maiden and the Scythian World",
+      "text": "Hacker News discussion and source.",
+      "link": "https://patrickwyman.substack.com/p/the-siberian-ice-maiden-and-the-scythian",
+      "date": "2026-09-15T19:09:09+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 15,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Learning Programming in an Age of LLMs",
+      "text": "Hacker News discussion and source.",
+      "link": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
+      "date": "2026-09-16T09:12:34+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 184,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Hackers Got Inside a Flock Camera",
       "text": "Hacker News discussion and source.",
       "link": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
       "date": "2026-09-16T13:18:47+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 151,
+      "points": 344,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "The Google Play app review process now regularly takes longer than a week",
+      "text": "Hacker News discussion and source.",
+      "link": "https://gultsch.social/@daniel/117280438824908947",
+      "date": "2026-09-16T11:19:11+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 296,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "ER visits for gambling disorders doubled after expanded online gambling market",
+      "text": "Hacker News discussion and source.",
+      "link": "https://temertymedicine.utoronto.ca/news/emergency-room-visits-gambling-disorders-nearly-doubled-after-expanded-online-gambling-market",
+      "date": "2026-09-16T17:27:37+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 65,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "GitHub Is Having Trouble Counting Things",
+      "text": "Hacker News discussion and source.",
+      "link": "https://chuckgreenman.com/2026/09/16/counting-at-github",
+      "date": "2026-09-16T17:31:19+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 8,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Anecdotally, Programmers Dislike \"Reduce\"",
+      "text": "Hacker News discussion and source.",
+      "link": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
+      "date": "2026-09-14T14:58:26+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 29,
       "kindLabel": "HN API"
     },
     {
@@ -122,529 +182,216 @@
       "kindLabel": "HN API"
     },
     {
+      "title": "Can we stop with the uptime percentages?",
+      "text": "Hacker News discussion and source.",
+      "link": "https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/",
+      "date": "2026-09-16T15:40:04+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 91,
+      "kindLabel": "HN API"
+    },
+    {
       "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
       "text": "Hacker News discussion and source.",
       "link": "https://stale.jock.pl/",
       "date": "2026-09-16T13:01:52+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 20,
+      "points": 50,
       "kindLabel": "HN API"
     },
     {
-      "title": "Show HN: Free WhatsApp MCP (+UI) – Give Your AI Agents Access to WhatsApp",
+      "title": "Salesforce Global Outage",
       "text": "Hacker News discussion and source.",
-      "link": "https://news.ycombinator.com/item?id=49728159",
-      "date": "2026-09-16T15:04:08+00:00",
+      "link": "https://status.salesforce.com/products/all",
+      "date": "2026-09-16T10:37:08+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 3,
+      "points": 240,
       "kindLabel": "HN API"
     },
     {
-      "title": "Apple Reference Image: A New Approach for Verified Photography",
+      "title": "A warning about 'model welfare'",
       "text": "Hacker News discussion and source.",
-      "link": "https://security.apple.com/blog/apple-reference-image/",
-      "date": "2026-09-16T02:07:31+00:00",
+      "link": "https://mustafa-suleyman.ai/a-warning-about-model-welfare",
+      "date": "2026-09-16T14:27:47+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 386,
+      "points": 102,
       "kindLabel": "HN API"
     },
     {
-      "title": "Scaling Golang CI by Replacing actions/setup-go",
+      "title": "This Code Is CRAP (2011)",
       "text": "Hacker News discussion and source.",
-      "link": "https://www.cloudx.ai/posts/setup-go",
-      "date": "2026-09-16T13:02:14+00:00",
+      "link": "https://testing.googleblog.com/2011/02/this-code-is-crap.html",
+      "date": "2026-09-16T16:13:55+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 32,
+      "points": 61,
       "kindLabel": "HN API"
     },
     {
-      "title": "How Big Are Factorials?",
+      "title": "Anatomy of a Texture",
       "text": "Hacker News discussion and source.",
-      "link": "https://eli.thegreenplace.net/2026/how-big-are-factorials/",
-      "date": "2026-09-15T13:25:38+00:00",
+      "link": "https://agentlien.github.io/texture/",
+      "date": "2026-09-16T14:28:28+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 12,
+      "points": 34,
       "kindLabel": "HN API"
     },
     {
-      "title": "Original Sony PlayStation 2 security chip 'broken wide open' after 26 years",
-      "text": "Hacker News discussion and source.",
-      "link": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
-      "date": "2026-09-16T11:49:40+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 126,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Douglas Adams and the exterminated Doctor Who adventure",
-      "text": "Hacker News discussion and source.",
-      "link": "https://www.bbc.co.uk/news/articles/c8jdp38z4jgo",
-      "date": "2026-09-13T21:49:19+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 46,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "An update on Wayback Machine access",
-      "text": "Hacker News discussion and source.",
-      "link": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
-      "date": "2026-09-15T17:52:18+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 623,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Doing Everyone Else's Job",
-      "text": "Hacker News discussion and source.",
-      "link": "https://yosefk.com/blog/doing-everyone-elses-job.html",
-      "date": "2026-09-15T00:01:31+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 155,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Show HN: I made a flight simulator, except you're just a passenger",
-      "text": "Hacker News discussion and source.",
-      "link": "https://inflightsimulator.com",
-      "date": "2026-09-14T09:08:56+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 305,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Tell the speakers that you liked their talks",
-      "text": "Hacker News discussion and source.",
-      "link": "https://ohhelloana.blog/tell-the-speakers/",
-      "date": "2026-09-15T11:28:19+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 4,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "text": "Hacker News discussion and source.",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-      "date": "2026-09-15T17:38:18+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 461,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Agentic Societies Need a Social Harness",
-      "text": "An agentic society is a collection of AI agents that coordinate autonomously across trust boundaries, on behalf of different principals whose objectives may only partially align. We show experimentally that in agentic societies even honest, competent agents often fail to reach satisfactory outcomes with existing harnesses and messaging primitives, and that faulty or malicious agents can stall collaboration, influence outcomes, and pursue other harmful goals by exploiting vulnerabilities in commu",
-      "link": "http://arxiv.org/abs/2609.17527v1",
-      "date": "2026-09-15T17:57:27Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
-      "text": "We introduce and release ScienceBuddy, an interactive scientific research workspace that brings continually improving scientific agents into researchers' everyday workflows. ScienceBuddy supports researchers in carrying out scientific tasks while transforming their requests, feedback, and execution evidence into tasks and evaluation rubrics for continual learning. At its core is recursive-in-recursive self-improvement, a paradigm that couples harness evolution with model reinforcement learning: ",
-      "link": "http://arxiv.org/abs/2609.17523v1",
-      "date": "2026-09-15T17:55:28Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control",
-      "text": "Interactive control for video generation is moving from coarse prompts toward fine-grained, physically meaningful manipulation of dynamic scenes. Yet existing controllable methods either require the full control schedule before generation starts, or use pixel-space signals that dictate object positions rather than physical dynamics. To address these limitations, we propose PhysStream, an autoregressive model for physics-grounded image-to-video synthesis that incorporates structured scene memory-",
-      "link": "http://arxiv.org/abs/2609.17521v1",
-      "date": "2026-09-15T17:55:13Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control",
-      "text": "Large language models can produce fluent answers when their factual support is weak. This paper introduces Chain-of-Self-Questioning (CoSQ), a prompt-only framework that makes answer commitment conditional on an explicit assessment of the information required to answer a question. We evaluate three CoSQ variants under seventeen conditions on the 817-item TruthfulQA multiple-choice validation set using eleven open-weight and hosted model families. In the final balanced-option protocol, Grounded-C",
-      "link": "http://arxiv.org/abs/2609.17516v1",
-      "date": "2026-09-15T17:52:24Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "LACE: Layer-Wise Compression for Dynamic Frame Rate Codecs",
-      "text": "Neural audio codecs are a key component in speech language modeling. However, their high frame rates lead to long sequence lengths, increasing computational costs. Dynamic frame rate codecs mitigate this by reducing the effective frame rate using a compression step to merge multiple frames together. However, most prior methods either operate on single-codebook codecs or apply a single compression step before multi-layer quantization. This forces all quantization layers to share the same segmenta",
-      "link": "http://arxiv.org/abs/2609.17509v1",
-      "date": "2026-09-15T17:46:51Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "ENCP: Episode-Normalized Conformal Prediction for Vision-and-Language Navigation",
-      "text": "Uncertainty estimation for Vision-Language-Navigation (VLN) models is a critical task since it can help identify ambiguous and unreliable predictions, enabling agents to make safer navigation decisions. As one of the most advanced uncertainty estimation frameworks, conformal prediction (CP) offers a promising approach for uncertainty estimation in VLN. However, given that VLN agent requires a sequence of steps, standard calibration in conformal prediction fails to provide coverage guarantee it p",
-      "link": "http://arxiv.org/abs/2609.17499v1",
-      "date": "2026-09-15T17:42:15Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Verifiable Social Reasoning for LLM Assistants",
-      "text": "LLM assistants are widely used for daily social advice, yet evaluating their social reasoning in such consultation settings remains challenging since (i) it requires setups where the assistant learns about social situations from subjective user narratives, and (ii) social properties, such as others' intentions, typically lack verifiable ground truth. To address these challenges, we introduce Fuse, a multi-agent simulation framework for studying user-mediated social reasoning. In Fuse, a target a",
-      "link": "http://arxiv.org/abs/2609.17496v1",
-      "date": "2026-09-15T17:37:29Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "FreqSpaNet: Frequency and Spatial Learning of SFPF for Physical Layer Hardware Integrity Detection",
-      "text": "Unauthorized hardware replacement can preserve a wireless device's logical identity while altering its physical implementation, posing a challenge to hardware integrity verification. Spatio-frequency polarization fingerprints (SFPFs) capture device-dependent responses across multiple frequencies and directions, but their frequency and spatial dimensions exhibit different structural dependencies. We propose FreqSpaNet, an SFPF representation learning network for open set hardware anomaly detectio",
-      "link": "http://arxiv.org/abs/2609.17491v1",
-      "date": "2026-09-15T17:32:12Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence",
-      "text": "We introduce LimiX-2, a new model in the LimiX family, developed through model and data scaling guided by our previously established scaling laws. LimiX-2 adopts the Contextual Mechanism Networks (CMNs) paradigm and is pretrained with Context-Conditional Masked Modeling (CCMM). CMNs shifts the organizing principle of in-context learning from target-centric prediction to mechanism-oriented joint modeling. Rather than centering the network on the $p(y \\mid x, D_{\\mathrm{context}})$ objective of co",
-      "link": "http://arxiv.org/abs/2609.17488v1",
-      "date": "2026-09-15T17:30:02Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Bridging the Gap Between Homogeneous and Heterogeneous Asynchronous Optimization Is Surprisingly Difficult",
-      "text": "Modern large-scale machine learning tasks often require multiple workers, devices, CPUs, or GPUs to compute stochastic gradients in parallel and asynchronously to train model weights. Theoretical results typically distinguish between two settings: (i) the homogeneous setting, where all workers have access to the same data distribution, and (ii) the heterogeneous setting, where each worker operates on different data distributions. Known optimal time complexities in these settings reveal a signifi",
-      "link": "http://arxiv.org/abs/2609.17483v1",
-      "date": "2026-09-15T17:24:09Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Det-LIME: Detector-Aware, Multi-Instance Local Interpretable Model-Agnostic Explanations for Automated Marine Mammal Detection",
-      "text": "Despite the rapid uptake of black-box object detectors in marine mammal research and monitoring, explainability techniques are rarely integrated into conservation workflows. Furthermore, most classification-oriented explainability tools are ill-suited to detection tasks involving imagery of social organisms or those with colonial life histories, as they ignore multiple detections within a scene and produce single-instance outputs that blur evidence across individuals. These methods also generate",
-      "link": "http://arxiv.org/abs/2609.17479v1",
-      "date": "2026-09-15T17:20:16Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Bias-Induced Crossover in Absolute Capacity of Dense Associative Memory",
-      "text": "The absolute capacity of dense associative memory has mainly been analyzed for unbiased patterns. Here we examine the effect of bias in centered binary patterns under the Krotov-Hopfield single-site criterion $P_{\\mathrm{error}}=1/N$, where $P_{\\mathrm{error}}$ is the probability that a single-site flip lowers the energy of a stored pattern and $N$ is the number of neurons. Each pattern component takes $1-q$ with probability $q$ and $-q$ otherwise, where $0<q\\le1/2$. For polynomial interactions ",
-      "link": "http://arxiv.org/abs/2609.17477v1",
-      "date": "2026-09-15T17:16:38Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "JustFit: 200K-Token LLM Serving on a 24 GiB Laptop with Just-in-Time State Management",
-      "text": "Capable open-weight models make local coding and reasoning attractive, but their context and execution state strain laptop memory. We present JustFit, an MLX-based inference runtime that combines KVExec for compressed KV execution, PhaseSwap for component residency, and StateTrans for state-preserving serving transitions. These mechanisms fuse reconstruction and coordinate just-in-time materialization and release, independently of model-weight quantization. In full-execution capacity tests on a ",
-      "link": "http://arxiv.org/abs/2609.17475v1",
-      "date": "2026-09-15T17:15:48Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Coupled Calibration and Learning: Mitigating Teacher Bias in LLM Distillation without Target-Domain Reward Feedback",
-      "text": "Large language model (LLM) distillation aims to transfer the capabilities of a powerful teacher to a smaller student. Direct imitation, however, can also transfer the teacher's systematic bias and errors. This challenge is particularly pronounced under covariate shift, when the teacher's reliability on target questions is uncertain and target-domain reward feedback is unavailable. We propose Coupled Calibration and Learning (CCL), an LLM distillation algorithm that couples teacher calibration wi",
-      "link": "http://arxiv.org/abs/2609.17474v1",
-      "date": "2026-09-15T17:15:40Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Decomposition Buys Integrity, Not Yield",
-      "text": "Multi-agent systems split a task across a tree of agents and justify the split with folklore: smaller contexts, cleaner separation, parallelism. We ask what the split does to how much of what the leaves discover reaches the root. Model a decomposition as a tree in which an agent handed $b$ items keeps any one with probability $r(b)$. If $r(b)=1/b$, every tree delivers exactly one finding, for every task size and every shape; we verify this to $2.4 \\times 10^{-15}$ on 20,000 random irregular tree",
-      "link": "http://arxiv.org/abs/2609.17464v1",
-      "date": "2026-09-15T17:04:09Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Hamilton-Jacobi Reachability for Hybrid Systems: Unified Goal-Driven Control with Safety Guarantees",
-      "text": "Hybrid dynamical systems provide a powerful modeling framework for robotic systems, particularly in contact-rich environments. However, ensuring safety and performance in such systems remains challenging due to the intricate coupling between continuous dynamics and discrete mode transitions. In this work, we extend classical Hamilton-Jacobi (HJ) reachability analysis, a formal verification method for continuous-time nonlinear systems, to hybrid dynamical systems. Our framework characterizes safe",
-      "link": "http://arxiv.org/abs/2609.17430v1",
-      "date": "2026-09-15T16:42:23Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "RobResilience: Implementing and Evaluating a Resilience Framework for Cyber-Physical Embodied Systems",
-      "text": "In embodied cyber-physical systems, active cyberattacks pose an immediate threat not just to data, but to physical integrity and human safety. While existing security approaches excel at detection, they lack the runtime mechanisms to determine whether a disruption is tolerable or if performance degradation remains within safe operational bounds. This gap leaves autonomous systems vulnerable to graceful failure paralysis, where they cannot distinguish between a safe, degraded state and a catastro",
-      "link": "http://arxiv.org/abs/2609.17349v1",
-      "date": "2026-09-15T15:49:04Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "A Time-to-Collision Barrier Function Approach to Collision Avoidance for Stochastic Systems",
-      "text": "Collision avoidance constraints for autonomous systems are typically formulated in position or velocity space, implicitly reacting to geometric proximity. We propose an alternative paradigm based on the adversarial time-to-collision (aTTC): the minimum time in which an adversary could achieve a collision given its dynamical constraints. By defining a control barrier function (CBF) directly in the time domain, the resulting controller is inherently anticipatory. The evading agent responds not onl",
-      "link": "http://arxiv.org/abs/2609.17347v1",
-      "date": "2026-09-15T15:47:46Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Backstepping Design of Dynamic State Feedback Controllers for Parabolic Systems",
-      "text": "Recently, dynamic state feedback controllers that are based on dynamic extensions have been presented for heterodirectional hyperbolic systems. In this paper, a similar concept for the control of coupled diffusion-reaction systems is suggested. The introduction of a specific controller dynamics leads to homogenized diffusion coefficients for the extended system. Then, a backstepping-based static state feedback for the dynamically extended system is designed, which, overall, results in a dynamic ",
-      "link": "http://arxiv.org/abs/2609.17293v1",
-      "date": "2026-09-15T15:06:43Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Port-Hamiltonian Koopman Operator Synthesis for Mechanical Systems",
-      "text": "Finite-dimensional Koopman models enable efficient linear prediction and control of nonlinear robotic systems. However, models learned purely from trajectory data may violate the energetic structure of the underlying mechanics, producing predictions that exhibit artificial energy growth and diverge under recursive propagation. This work presents a structure-preserving Koopman framework for Euler-Lagrange systems built on generalized-momentum coordinates. The momentum transformation exposes the m",
-      "link": "http://arxiv.org/abs/2609.17249v1",
-      "date": "2026-09-15T14:31:18Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Data-Driven Policy Iteration Without an Initial Stabilizing Policy: A Finite-Horizon Bootstrap Method",
-      "text": "This article investigates data-driven policy iteration (PI) for continuous-time linear systems without requiring an initially stabilizing policy. Standard infinite-horizon PI is not self-starting because its policy-evaluation step is well posed only when the feedback gain is stabilizing. However, verifying this property is difficult when the system matrices are unknown. To remove this requirement, we develop a finite-horizon bootstrap method. The key idea is to perform policy evaluation over a c",
-      "link": "http://arxiv.org/abs/2609.17191v1",
-      "date": "2026-09-15T13:47:52Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "DS2-Based Cross-Data-Space Interoperability for Precision Agriculture",
-      "text": "Despite the strategies of modern precision agriculture to leverage the integration of legacy agricultural systems, the challenges of IoT data fragmentation, farmers' sovereignty preservation, and limited interoperability still persist. This paper presents our work, conducted within the Horizon Europe DS2 project (DataSpace, DataShare 2.0), that applies an interoperability-oriented framework supporting participants of different agricultural data spaces to share data products and services under se",
-      "link": "http://arxiv.org/abs/2609.17185v1",
-      "date": "2026-09-15T13:43:58Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Fingers as Legs: Learning Self-Supported Locomotion and Manipulation with an Anthropomorphic Hand",
-      "text": "A walking robotic hand must use the same fingers to move its body, support its weight, and interact with the environment. We show how an anthropomorphic hand can learn these skills while retaining its finger design and position controller. Onboard power and computation make the platform self-contained. Our reinforcement learning approach accounts for the hand's unequal fingers, with training in a simulator calibrated from hardware measurements. In simulation, the hand moves faster with our rewar",
-      "link": "http://arxiv.org/abs/2609.17172v1",
-      "date": "2026-09-15T13:34:40Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Intervention problems in the Linear Threshold Model: A general formulation and new results",
-      "text": "We study an optimal intervention problem for linear threshold models. This is a popular class of dynamical network systems whereby a number of agents, identified with the nodes of a graph, strategically change their binary action (0 or 1) according to a threshold rule. Specifically, an agent adopts action 1 if and only if the fraction of its neighbors in the interaction graph that do so is greater than or equal to a prescribed threshold. Assuming that a planner can modify the agents' thresholds ",
-      "link": "http://arxiv.org/abs/2609.17146v1",
-      "date": "2026-09-15T13:11:12Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "The Price of Distributional Robustness in Linear Quadratic Control",
-      "text": "Distributionally robust (DR) optimization seeks decisions that perform best under the most adverse law within a given ambiguity set, enabling the design of data-driven controllers with strong out-of-sample guarantees in the face of uncertainty. In this paper, we study the conservatism introduced by safeguarding against distributional ambiguity. Specifically, we consider the data-driven Wasserstein DR linear quadratic control problem, and we analyze the suboptimality of the corresponding solution",
-      "link": "http://arxiv.org/abs/2609.17113v1",
-      "date": "2026-09-15T12:41:09Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Towards an Asset Administration Shell Maturity Model",
-      "text": "The Asset Administration Shell (AAS) is increasingly recognized as a fundamental model for the realization of and data exchange between digital twins in manufacturing. An AAS defines a hierarchical data structure to represent any type of asset throughout its entire lifecycle. In the context of AAS-based systems, comparing different AAS instances constitutes a practical challenge, as neither a widely accepted methodological framework nor a maturity model are available to systematically support su",
-      "link": "http://arxiv.org/abs/2609.17084v1",
-      "date": "2026-09-15T12:19:19Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Byzantine Reliable Broadcast with Causal Ordering",
-      "text": "Reliable and total-order broadcasts in the Byzantine-fault model are well studied, but adding causal order has received comparatively little attention, largely due to the complexity that stems from actions of Byzantine processes. Existing solutions almost exclusively build causal ordering on top of total-order broadcast. The combination of causal order with reliable broadcast remains rare, and the few solutions that exist adopt the classical definition of causality based on events occurring at i",
-      "link": "http://arxiv.org/abs/2609.17074v1",
-      "date": "2026-09-15T12:13:59Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "A Set-Theoretic Evaluation Framework for Assessing Asset Administration Shell Instances: Towards Comparability and Suitability",
-      "text": "Asset Administration Shells (AAS) provide a standardized means of representing assets and their information in manufacturing and increasingly serve as a basis for software services. However, different AAS instances vary in structure, content, and degree of completion, making it difficult to determine whether a given AAS is suitable for a specific application. This paper presents two complementary methods to support the comparison and application-oriented assessment of AAS. First, set-theoretic o",
-      "link": "http://arxiv.org/abs/2609.17062v1",
-      "date": "2026-09-15T12:07:35Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "On personal recommendations in social networks",
-      "text": "Social networks in which algorithms actively influence humans through personal recommendations are ubiquitous. While opinion dynamics is an established tool to analyze these systems, existing models typically do not capture how individual agents process personal recommendations. In this work, we introduce a model for personal recommendations that is analytically tractable and consistent with the confirmation bias phenomenon from behavioral psychology. We describe how individuals process recommen",
-      "link": "http://arxiv.org/abs/2609.17011v1",
-      "date": "2026-09-15T11:22:50Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Is it safe to use consumer wearable devices for research?",
+      "title": "Inflection points and transitions in Alzheimer’s disease",
       "text": "",
-      "link": "https://www.nature.com/articles/d41586-026-02671-6",
-      "date": "2026-09-16T15:13:15.812345+00:00",
+      "link": "https://www.nature.com/articles/s41586-026-11110-5",
+      "date": "2026-09-16T18:58:52.037626+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
     {
-      "title": "Map of brain ‘microproteins’ could offer new clues to Alzheimer’s disease",
+      "title": "Mechanisms of Transcriptional Regulation by Salicylic Acid Receptors",
       "text": "",
-      "link": "https://www.nature.com/articles/d41586-026-02914-6",
-      "date": "2026-09-16T15:13:15.812376+00:00",
+      "link": "https://www.nature.com/articles/s41586-026-11123-0",
+      "date": "2026-09-16T18:58:52.037665+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
     {
-      "title": "AI companies must work with the research community to protect attribution",
+      "title": "Transplanted human brain-tissue takes root in mice without a cortex",
       "text": "",
-      "link": "https://www.nature.com/articles/d41586-026-02886-7",
-      "date": "2026-09-16T15:13:15.812396+00:00",
+      "link": "https://www.nature.com/articles/d41586-026-02927-1",
+      "date": "2026-09-16T18:58:52.037682+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
     {
-      "title": "Will wearable technologies transform clinical trials?",
+      "title": "Development of a random background to understand ligand optimization",
       "text": "",
-      "link": "https://www.nature.com/articles/d41586-026-02844-3",
-      "date": "2026-09-16T15:13:15.812415+00:00",
+      "link": "https://www.nature.com/articles/s41586-026-11013-5",
+      "date": "2026-09-16T18:58:52.037715+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
     {
-      "title": "These bizarre, much-coveted microbes are revealing the origins of complex life",
+      "title": "Developmental xenocortication using human-derived organoids in mice",
       "text": "",
-      "link": "https://www.nature.com/articles/d41586-026-02849-y",
-      "date": "2026-09-16T15:13:15.812433+00:00",
+      "link": "https://www.nature.com/articles/s41586-026-11032-2",
+      "date": "2026-09-16T18:58:52.037745+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
     {
-      "title": "I who have never known trees",
+      "title": "Mitochondrial fission factor senses and governs ferroptosis",
       "text": "",
-      "link": "https://www.nature.com/articles/d41586-026-02859-w",
-      "date": "2026-09-16T15:13:15.812471+00:00",
+      "link": "https://www.nature.com/articles/s41586-026-11020-6",
+      "date": "2026-09-16T18:58:52.037772+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
     {
-      "title": "Quality control of glycogen through direct ubiquitylation by RNF213",
+      "title": "Reimagining research papers as interactive and reliable AI agents",
       "text": "",
-      "link": "https://www.nature.com/articles/s41586-026-11139-6",
-      "date": "2026-09-16T15:13:15.812506+00:00",
+      "link": "https://www.nature.com/articles/s41586-026-11044-y",
+      "date": "2026-09-16T18:58:52.037789+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
     {
-      "title": "Author Correction: Erythropoietin receptor on cDC1s dictates immune tolerance",
+      "title": "Electroluminescent photoresists extending lithographic scaling to OLEDs",
       "text": "",
-      "link": "https://www.nature.com/articles/s41586-026-11137-8",
-      "date": "2026-09-16T15:13:15.812552+00:00",
+      "link": "https://www.nature.com/articles/s41586-026-11042-0",
+      "date": "2026-09-16T18:58:52.037815+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
     {
-      "title": "A wake-up call: diversify global research funding",
+      "title": "Continuous-wave laser absorption spectroscopy of the thorium-229 nucleus",
       "text": "",
-      "link": "https://www.nature.com/articles/d41586-026-02904-8",
-      "date": "2026-09-16T15:13:15.812575+00:00",
+      "link": "https://www.nature.com/articles/s41586-026-11011-7",
+      "date": "2026-09-16T18:58:52.037841+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
     {
-      "title": "Why Nepal floods resulted in a disaster even after satellites spotted danger",
+      "title": "Mutational constraints on RSV F and its neutralization by antibodies",
       "text": "",
-      "link": "https://www.nature.com/articles/d41586-026-02907-5",
-      "date": "2026-09-16T15:13:15.812594+00:00",
+      "link": "https://www.nature.com/articles/s41586-026-11030-4",
+      "date": "2026-09-16T18:58:52.037859+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
     {
-      "title": "The geometric genius of René Descartes",
+      "title": "Evolution and heterogeneity of lethal metastatic bladder cancer subtypes",
       "text": "",
-      "link": "https://www.nature.com/articles/d41586-026-02723-x",
-      "date": "2026-09-16T15:13:15.812613+00:00",
+      "link": "https://www.nature.com/articles/s41586-026-11035-z",
+      "date": "2026-09-16T18:58:52.037903+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
     {
-      "title": "Make AI traceable before it shapes global climate assessments",
+      "title": "Topographic structure and function of locus coeruleus noradrenaline neurons",
       "text": "",
-      "link": "https://www.nature.com/articles/d41586-026-02905-7",
-      "date": "2026-09-16T15:13:15.812630+00:00",
+      "link": "https://www.nature.com/articles/s41586-026-11026-0",
+      "date": "2026-09-16T18:58:52.037953+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
     {
-      "title": "Why the NIH must resist the metrics trap",
+      "title": "Overmassive black holes and little red dots naturally form in simulations",
       "text": "",
-      "link": "https://www.nature.com/articles/d41586-026-02906-6",
-      "date": "2026-09-16T15:13:15.812646+00:00",
+      "link": "https://www.nature.com/articles/s41586-026-10985-8",
+      "date": "2026-09-16T18:58:52.037973+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
     {
-      "title": "Global inequality panel is a chance for research to change lives",
+      "title": "A retinoic acid autoregulatory loop governing prefrontal–motor arealization",
       "text": "",
-      "link": "https://www.nature.com/articles/d41586-026-02885-8",
-      "date": "2026-09-16T15:13:15.812662+00:00",
+      "link": "https://www.nature.com/articles/s41586-026-11014-4",
+      "date": "2026-09-16T18:58:52.037997+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
     {
-      "title": "CRISPR crops are coming to Europe — why bolder would be better",
+      "title": "Road transport of trapped antiprotons",
       "text": "",
-      "link": "https://www.nature.com/articles/d41586-026-02848-z",
-      "date": "2026-09-16T15:13:15.812679+00:00",
+      "link": "https://www.nature.com/articles/s41586-026-11019-z",
+      "date": "2026-09-16T18:58:52.038027+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
     {
-      "title": "Underground hydrogen could spur a green-energy revolution — if companies can find it",
+      "title": "Transcriptional activation of plant immunity by salicylic acid",
       "text": "",
-      "link": "https://www.nature.com/articles/d41586-026-02850-5",
-      "date": "2026-09-16T15:13:15.812695+00:00",
+      "link": "https://www.nature.com/articles/s41586-026-11021-5",
+      "date": "2026-09-16T18:58:52.038049+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
     {
-      "title": "Cities and countryside are intimately linked — green initiatives must recognize that",
+      "title": "Rapid patient-specific neural networks for X-ray to volume registration",
       "text": "",
-      "link": "https://www.nature.com/articles/d41586-026-02853-2",
-      "date": "2026-09-16T15:13:15.812712+00:00",
+      "link": "https://www.nature.com/articles/s41586-026-11045-x",
+      "date": "2026-09-16T18:58:52.038067+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
     {
-      "title": "‘Stomach bugs’ send protective immune cells rushing from gut to brain",
+      "title": "Heterogeneous photonic integration of single-crystalline nanomembranes",
       "text": "",
-      "link": "https://www.nature.com/articles/d41586-026-02891-w",
-      "date": "2026-09-16T15:13:15.812728+00:00",
+      "link": "https://www.nature.com/articles/s41586-026-11000-w",
+      "date": "2026-09-16T18:58:52.038105+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
+    },
+    {
+      "title": "Rethinking Robot Safety in the Age of AI",
+      "text": "This article is brought to you by VicOne . Robot safety has traditionally asked: Can a machine remain safe when something goes wrong? Physical AI raises a harder question: Can a machine remain safe when an attacker changes what it sees, decides, or does even when nothing appears to have failed? As AI and robotics continue to advance at an unprecedented pace, modern robots perceive through multimodal sensors, interpret context using AI models, and translate those interpretations into physical act",
+      "link": "https://spectrum.ieee.org/physical-ai-robot-cybersecurity-vicone",
+      "date": "Wed, 16 Sep 2026 16:51:02 +0000",
+      "source": "IEEE Spectrum",
+      "cat": "TECH"
     },
     {
       "title": "The AI Inference Revolution Is Here",
@@ -783,12 +530,12 @@
       "cat": "TECH"
     },
     {
-      "title": "The First Battery Was Inspired By a Dead Frog",
-      "text": "In a display case on the lower level of the Faraday Museum at the Royal Institution in London, there’s an unassuming stack of gray metal discs and blotting paper. It’s not at all obvious that this humble object is the starting point of today’s multibillion-dollar global battery industry. The object’s invention in 1799 grew out of a disagreement that Alessandro Volta —the Italian physicist for whom the unit of measurement for electrical potential is named—had with his friend Luigi Galvani over a ",
-      "link": "https://spectrum.ieee.org/voltaic-pile-first-battery",
-      "date": "Mon, 31 Aug 2026 12:00:01 +0000",
-      "source": "IEEE Spectrum",
-      "cat": "TECH"
+      "title": "WHO expresses cautious optimism about bid to control Ebola outbreak in DRC",
+      "text": "There is reason to be cautiously optimistic about the trajectory of the current Ebola outbreak in the Democratic Republic of the Congo, the WHO says.",
+      "link": "https://www.statnews.com/2026/09/16/ebola-outbreak-drc-who-cautious-optimism/?utm_campaign=rss",
+      "date": "Wed, 16 Sep 2026 16:29:10 +0000",
+      "source": "STAT",
+      "cat": "HEALTHCARE"
     },
     {
       "title": "STAT+: Scientists made mice with half a brain. Then they filled them with human organoids",
@@ -927,14 +674,6 @@
       "cat": "HEALTHCARE"
     },
     {
-      "title": "STAT+: Medicare’s AI prior authorization pilot was rushed and full of problems, new documents reveal",
-      "text": "The rushed launch of a Medicare pilot to use AI for prior authorization led to delayed care in some instances, new documents reveal.",
-      "link": "https://www.statnews.com/2026/09/15/medicare-wiser-ai-prior-authorization-pilot-rushed-launch-delayed-care/?utm_campaign=rss",
-      "date": "Tue, 15 Sep 2026 08:30:00 +0000",
-      "source": "STAT",
-      "cat": "HEALTHCARE"
-    },
-    {
       "title": "Teach ML! Community service project from Stanford [N]",
       "text": "Hi r/machinelearning . Nice to meet you! My name is Chris Piech and I&#39;m a professor at Stanford University in the AI lab. I built a class called Probability for AI: pai.stanford.edu. It starts Oct 9th and applications are due end of Sept. Its (hopefully) cool for a few reasons: The plan is to have one volunteer teacher for every 10 students! Apps have been open for a week and over 1,000+ folks have applied to teach. So we might actually be able to make this pretty big. I have built a lot of ",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1wbf3ox/teach_ml_community_service_project_from_stanford_n/",
@@ -959,18 +698,18 @@
       "cat": "SCIENCE"
     },
     {
-      "title": "I trained a 44M parameter quantized LLM from scratch on 45B tokens. It ships in 19.8 MB and runs at ~1,900 tok/s on CPU. [P]",
-      "text": "Three weeks back , i posted SHADOW-250M here. It got 360 upvotes, 293 on r/LocalLLaMA and 94 GitHub stars. Thank you. That model was 60 MB, ran around 400 tok/s on CPU and could retrieve records from an archive on disk. What it couldn’t do reliably was reason over what it retrieved or compute. So I built a smaller one to experiment with those two problems. SHADOW-50M is actually 44M parameters, trained from scratch on 45B tokens. 19.8 MB complete model, ~1,900 tok/s on laptop CPU, ~41 MB RAM, te",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wgzpli/i_trained_a_44m_parameter_quantized_llm_from/",
-      "date": "2026-09-15T12:59:37+00:00",
+      "title": "GoBench: Evaluating LLMs on the game of Go [R]",
+      "text": "GoBench evaluates LLMs on 9x9 Go games against a ladder of KataGo opponents, from random to superhuman. It measures general reasoning ability, strongly correlates with ARC-AGI 2 (r=0.83 correlation), and remains highly unsaturated. GPT-6 Astra max achieves 2500 Elo, much lower than the best KataGo, which achieves 4400 Elo. With coding tools and two hours of preparation before evaluation, Codex with Astra achieves 3560 Elo. I will keep the leaderboard updated as long as it is not saturated. leade",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wi68jg/gobench_evaluating_llms_on_the_game_of_go_r/",
+      "date": "2026-09-16T18:54:35+00:00",
       "source": "Reddit · MachineLearning",
       "cat": "SCIENCE"
     },
     {
-      "title": "NeurIPS Reference Check Response[D]",
-      "text": "I have received the email for the NeurIPS E&amp;D track reference review checker mentioning the 2 hallucinated references. Where do we respond to this email about hallucinated references? In the openreview, as a comment, or in the mail we have received, mentioning the hallucinated references? &#32; submitted by &#32; /u/suryanreddy [link] &#32; [comments]",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1whxvvf/neurips_reference_check_responsed/",
-      "date": "2026-09-16T13:53:02+00:00",
+      "title": "I trained a 44M parameter quantized LLM from scratch on 45B tokens. It ships in 19.8 MB and runs at ~1,900 tok/s on CPU. [P]",
+      "text": "Three weeks back , i posted SHADOW-250M here. It got 360 upvotes, 293 on r/LocalLLaMA and 94 GitHub stars. Thank you. That model was 60 MB, ran around 400 tok/s on CPU and could retrieve records from an archive on disk. What it couldn’t do reliably was reason over what it retrieved or compute. So I built a smaller one to experiment with those two problems. SHADOW-50M is actually 44M parameters, trained from scratch on 45B tokens. 19.8 MB complete model, ~1,900 tok/s on laptop CPU, ~41 MB RAM, te",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wgzpli/i_trained_a_44m_parameter_quantized_llm_from/",
+      "date": "2026-09-15T12:59:37+00:00",
       "source": "Reddit · MachineLearning",
       "cat": "SCIENCE"
     },
@@ -991,10 +730,10 @@
       "cat": "SCIENCE"
     },
     {
-      "title": "PhD in ML in the AI era, autoresearch [D]",
-      "text": "Hello everyone, I am currently a first year PhD student in AI/ML. I am just wondering if I am not wasting my time doing a PhD in academia vs going to a research startup/company department directly. Given the rate of AI progress, and the needs in terms of infrastructure, I feel like academia is lagging behind. Especially if you are not a big lab with a lot of funding. And I am not even speaking about the pay regarding the CV and skills... The number of papers per conference is just exploding, mak",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1whxlgq/phd_in_ml_in_the_ai_era_autoresearch_d/",
-      "date": "2026-09-16T13:41:42+00:00",
+      "title": "NeurIPS Reference Check Response[D]",
+      "text": "I have received the email for the NeurIPS E&amp;D track reference review checker mentioning the 2 hallucinated references. Where do we respond to this email about hallucinated references? In the openreview, as a comment, or in the mail we have received, mentioning the hallucinated references? &#32; submitted by &#32; /u/suryanreddy [link] &#32; [comments]",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1whxvvf/neurips_reference_check_responsed/",
+      "date": "2026-09-16T13:53:02+00:00",
       "source": "Reddit · MachineLearning",
       "cat": "SCIENCE"
     },
@@ -1077,6 +816,62 @@
       "date": "2026-09-14T13:28:01+00:00",
       "source": "Reddit · MachineLearning",
       "cat": "SCIENCE"
+    },
+    {
+      "title": "Hear why Science Corp CEO Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
+      "text": "At this year's Disrupt, Science Corp CEO Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass.",
+      "link": "https://techcrunch.com/2026/09/16/hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
+      "date": "Wed, 16 Sep 2026 18:45:35 +0000",
+      "source": "TechCrunch",
+      "cat": "TECH"
+    },
+    {
+      "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+      "text": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
+      "link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+      "date": "Wed, 16 Sep 2026 18:25:25 +0000",
+      "source": "TechCrunch",
+      "cat": "TECH"
+    },
+    {
+      "title": "Hackers publish thousands of drivers’ data after breaching Florida motor vehicle database",
+      "text": "The ShinyHunters gang leaked the files online after saying the Florida state agency did not pay their ransom demand.",
+      "link": "https://techcrunch.com/2026/09/16/hackers-publish-thousands-of-drivers-data-after-breaching-florida-motor-vehicle-database/",
+      "date": "Wed, 16 Sep 2026 18:00:54 +0000",
+      "source": "TechCrunch",
+      "cat": "TECH"
+    },
+    {
+      "title": "Your AI agents can now control your Google Home devices",
+      "text": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
+      "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+      "date": "Wed, 16 Sep 2026 17:00:00 +0000",
+      "source": "TechCrunch",
+      "cat": "TECH"
+    },
+    {
+      "title": "Anthropic merges Claude chat and Cowork in one interface",
+      "text": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
+      "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+      "date": "Wed, 16 Sep 2026 16:30:00 +0000",
+      "source": "TechCrunch",
+      "cat": "TECH"
+    },
+    {
+      "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly",
+      "text": "“Why do I have to beg my grandparents to put on their hearing aids, but no one has ever needed to ask me to put on my glasses?”&#160; That’s&#160;the question that drove&#160;Matthew de Jonge&#160;to spend six years building&#160;Fortell, an AI hearing aid startup that&#160;recently&#160;raised $163&#160;million from the likes of Founders Fund, Thrive Capital, and&#160;Valor Equity [&#8230;]",
+      "link": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/",
+      "date": "Wed, 16 Sep 2026 16:00:00 +0000",
+      "source": "TechCrunch",
+      "cat": "TECH"
+    },
+    {
+      "title": "May Mobility is going public in a $1.4B SPAC deal",
+      "text": "The deal could net the asset-light robotaxi company more than $300 million in funding.",
+      "link": "https://techcrunch.com/2026/09/16/may-mobility-is-going-public-in-a-1-4b-spac-deal/",
+      "date": "Wed, 16 Sep 2026 15:27:13 +0000",
+      "source": "TechCrunch",
+      "cat": "TECH"
     },
     {
       "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
@@ -1167,59 +962,51 @@
       "cat": "TECH"
     },
     {
-      "title": "The AI data center boom is colliding with cities scarred by big industry",
-      "text": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
-      "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-      "date": "Tue, 15 Sep 2026 21:47:38 +0000",
-      "source": "TechCrunch",
+      "title": "It’s OK to tell ICE their actions will haunt them, judge rules in speech fight",
+      "text": "Man wins fight to block ICE threat over off-the-cuff angry email.",
+      "link": "https://arstechnica.com/tech-policy/2026/09/its-ok-to-tell-ice-their-actions-will-haunt-them-judge-rules-in-speech-fight/",
+      "date": "Wed, 16 Sep 2026 17:06:06 +0000",
+      "source": "Ars Technica",
       "cat": "TECH"
     },
     {
-      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-      "text": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
-      "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-      "date": "Tue, 15 Sep 2026 20:12:53 +0000",
-      "source": "TechCrunch",
+      "title": "Iran strikes on Amazon data centers caused permanent loss of customer data",
+      "text": "War damage to data centers exceeded what AWS services are designed to withstand.",
+      "link": "https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data/",
+      "date": "Wed, 16 Sep 2026 16:40:11 +0000",
+      "source": "Ars Technica",
       "cat": "TECH"
     },
     {
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "text": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "date": "Tue, 15 Sep 2026 19:00:00 +0000",
-      "source": "TechCrunch",
+      "title": "What happens when neutrinos swap identities inside a supernova?",
+      "text": "Identity-fluid particles may carry some energy out, leading to direct collapse.",
+      "link": "https://arstechnica.com/science/2026/09/what-happens-when-neutrinos-swap-identities-inside-a-supernova/",
+      "date": "Wed, 16 Sep 2026 15:17:43 +0000",
+      "source": "Ars Technica",
       "cat": "TECH"
     },
     {
-      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-      "text": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
-      "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
-      "date": "Tue, 15 Sep 2026 18:29:20 +0000",
-      "source": "TechCrunch",
+      "title": "macOS 27 Golden Gate: The Ars Technica review",
+      "text": "It's both a \"Snow Leopard update\" and a major leap for Apple Intelligence.",
+      "link": "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/",
+      "date": "Wed, 16 Sep 2026 14:50:06 +0000",
+      "source": "Ars Technica",
       "cat": "TECH"
     },
     {
-      "title": "SpaceX will try to put Starship in orbit for the first time on September 22",
-      "text": "Elon Musk's company will also attempt to deploy the first V3 Starlink satellites into its orbital internet constellation.",
-      "link": "https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/",
-      "date": "Tue, 15 Sep 2026 18:16:07 +0000",
-      "source": "TechCrunch",
+      "title": "The world’s best racing driver is about to race 100 karts at once",
+      "text": "Red Bull, Disney+, and ESPN are streaming the race at noon Eastern today.",
+      "link": "https://arstechnica.com/cars/2026/09/the-worlds-best-racing-driver-is-about-to-race-100-karts-at-once/",
+      "date": "Wed, 16 Sep 2026 14:19:01 +0000",
+      "source": "Ars Technica",
       "cat": "TECH"
     },
     {
-      "title": "AI agents now have a place to snitch",
-      "text": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
-      "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
-      "date": "Tue, 15 Sep 2026 17:42:59 +0000",
-      "source": "TechCrunch",
-      "cat": "TECH"
-    },
-    {
-      "title": "US military says it has launched weapons into space",
-      "text": "This is the first public acknowledgment that the U.S. military put a space weapon in Earth's orbit.",
-      "link": "https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/",
-      "date": "Tue, 15 Sep 2026 17:09:06 +0000",
-      "source": "TechCrunch",
+      "title": "Lawmakers target Flock cameras with a threat to highway funding",
+      "text": "A bipartisan bill would restrict Flock cameras to a handful of public safety uses.",
+      "link": "https://arstechnica.com/tech-policy/2026/09/lawmakers-target-flock-cameras-with-a-threat-to-highway-funding/",
+      "date": "Wed, 16 Sep 2026 14:03:39 +0000",
+      "source": "Ars Technica",
       "cat": "TECH"
     },
     {
@@ -1319,51 +1106,19 @@
       "cat": "TECH"
     },
     {
-      "title": "Volvo increases the batteries for 2028 XC60 and XC90 plug-in refresh",
-      "text": "The refreshed Volvos also get new infotainment systems with Gemini onboard.",
-      "link": "https://arstechnica.com/cars/2026/09/volvo-bigs-up-the-batteries-for-2028-xc60-and-xc90-plug-in-refresh/",
-      "date": "Tue, 15 Sep 2026 07:00:30 +0000",
-      "source": "Ars Technica",
+      "title": "The Best Movies to Stream This Month (September 2026)",
+      "text": "The Mandalorian and Grogu, The Wild Robot, and Obsession are among the must-watch films arriving this month.",
+      "link": "https://www.wired.com/story/the-8-best-movies-to-stream-right-now/",
+      "date": "Wed, 16 Sep 2026 18:23:37 +0000",
+      "source": "Wired",
       "cat": "TECH"
     },
     {
-      "title": "For the first time, the US military confirms it has deployed weapons in orbit",
-      "text": "\"The United States now has on-orbit space control weapons capable of defending the joint force.\"",
-      "link": "https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit/",
-      "date": "Tue, 15 Sep 2026 03:47:36 +0000",
-      "source": "Ars Technica",
-      "cat": "TECH"
-    },
-    {
-      "title": "RFK Jr. headlines sold-out anti-vaccine conference alongside Andrew Wakefield",
-      "text": "The event is hosted by Kennedy's anti-vaccine group Children's Health Defense.",
-      "link": "https://arstechnica.com/health/2026/09/rfk-jr-headlines-sold-out-anti-vaccine-conference-alongside-andrew-wakefield/",
-      "date": "Mon, 14 Sep 2026 22:06:24 +0000",
-      "source": "Ars Technica",
-      "cat": "TECH"
-    },
-    {
-      "title": "Rocket Lab is seeing red about NASA's decision on a Mars spacecraft",
-      "text": "\"NASA’s award decision appears to be inconsistent with the eligibility criteria.\"",
-      "link": "https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/",
-      "date": "Mon, 14 Sep 2026 21:32:22 +0000",
-      "source": "Ars Technica",
-      "cat": "TECH"
-    },
-    {
-      "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
-      "text": "“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”",
-      "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
-      "date": "Mon, 14 Sep 2026 21:04:32 +0000",
-      "source": "Ars Technica",
-      "cat": "TECH"
-    },
-    {
-      "title": "OpenAI stuck fighting Musk antitrust suit after Apple finds a way out",
-      "text": "Musk stops attacking Apple over ChatGPT integration but not OpenAI.",
-      "link": "https://arstechnica.com/tech-policy/2026/09/musk-drops-apple-from-antitrust-suit-but-keeps-gunning-for-openai/",
-      "date": "Mon, 14 Sep 2026 19:45:13 +0000",
-      "source": "Ars Technica",
+      "title": "Chipotle Is Working With Palantir to Track Food Safety Risks",
+      "text": "The burrito chain has enlisted Palantir for a platform that monitors pest incidents, employee illnesses, and other factors. The partnership comes after a nightmare summer for food safety across the US.",
+      "link": "https://www.wired.com/story/chipotle-is-working-with-palantir-on-food-safety/",
+      "date": "Wed, 16 Sep 2026 16:05:14 +0000",
+      "source": "Wired",
       "cat": "TECH"
     },
     {
@@ -1479,17 +1234,9 @@
       "cat": "TECH"
     },
     {
-      "title": "Office Depot Coupons: $20 Off September 2026",
-      "text": "From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.",
-      "link": "https://www.wired.com/story/office-depot-promo-codes/",
-      "date": "Wed, 16 Sep 2026 05:00:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "Naturepedic Promo Codes: Get 20% Off Plus Free Pillows",
-      "text": "Shop the Naturepedic sale this September 2026.",
-      "link": "https://www.wired.com/story/naturepedic-promo-code/",
+      "title": "OnePlus Promo Codes: 30% Off September 2026",
+      "text": "Save 30% with a OnePlus coupon in September 2026, plus save up to 10% on earbuds, phones, and more.",
+      "link": "https://www.wired.com/story/oneplus-promo-code/",
       "date": "Wed, 16 Sep 2026 05:00:00 +0000",
       "source": "Wired",
       "cat": "TECH"
@@ -1498,14 +1245,6 @@
       "title": "Chegg Coupon Codes September 2026: Save on Study, Textbooks, & More",
       "text": "Unlock Chegg promo codes, student discounts, and free trials for Chegg Study and Chegg Writing.",
       "link": "https://www.wired.com/story/chegg-coupon-code/",
-      "date": "Wed, 16 Sep 2026 05:00:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "Walmart Promo Codes: 20% Off for September 2026",
-      "text": "Score $10 off with our Walmart promo codes and coupon, and shop flash deals up to 65% off today.",
-      "link": "https://www.wired.com/story/top-walmart-promo-codes/",
       "date": "Wed, 16 Sep 2026 05:00:00 +0000",
       "source": "Wired",
       "cat": "TECH"
@@ -1519,13 +1258,15 @@
     },
     {
       "name": "arXiv · AI/ML",
-      "ok": true,
-      "count": 15
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 406: Not Acceptable"
     },
     {
       "name": "arXiv · Systems",
-      "ok": true,
-      "count": 15
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 406: Not Acceptable"
     },
     {
       "name": "Nature",
