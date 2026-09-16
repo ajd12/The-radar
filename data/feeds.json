@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T05:31:02.449879+00:00",
+  "generated_at": "2026-09-16T10:33:07.850415+00:00",
   "items": [
     {
       "title": "Introducing System One Models and Jev",
@@ -8,17 +8,17 @@
       "date": "2026-09-15T19:25:03+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 1031,
+      "points": 1420,
       "kindLabel": "HN API"
     },
     {
-      "title": "Apple Reference Image: A New Approach for Verified Photography",
+      "title": "Learning Programming in an Age of LLMs",
       "text": "Hacker News discussion and source.",
-      "link": "https://security.apple.com/blog/apple-reference-image/",
-      "date": "2026-09-16T02:07:31+00:00",
+      "link": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
+      "date": "2026-09-16T09:12:34+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 109,
+      "points": 30,
       "kindLabel": "HN API"
     },
     {
@@ -28,17 +28,27 @@
       "date": "2026-09-15T12:31:10+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 1458,
+      "points": 1666,
       "kindLabel": "HN API"
     },
     {
-      "title": "Negativland, Culture Jamming, and the Art of Making Something New",
+      "title": "Apple Reference Image: A New Approach for Verified Photography",
       "text": "Hacker News discussion and source.",
-      "link": "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/",
-      "date": "2026-09-16T02:46:06+00:00",
+      "link": "https://security.apple.com/blog/apple-reference-image/",
+      "date": "2026-09-16T02:07:31+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 53,
+      "points": 267,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+      "text": "Hacker News discussion and source.",
+      "link": "https://mistral.ai/news/mistral-x-mozilla/",
+      "date": "2026-09-16T08:08:57+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 37,
       "kindLabel": "HN API"
     },
     {
@@ -48,7 +58,7 @@
       "date": "2026-09-14T09:08:56+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 73,
+      "points": 207,
       "kindLabel": "HN API"
     },
     {
@@ -58,127 +68,7 @@
       "date": "2026-09-15T17:52:18+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 468,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "text": "Hacker News discussion and source.",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-      "date": "2026-09-15T17:38:18+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 362,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
-      "text": "Hacker News discussion and source.",
-      "link": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
-      "date": "2026-09-15T21:07:47+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 170,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
-      "text": "Hacker News discussion and source.",
-      "link": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
-      "date": "2026-09-15T22:50:55+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 79,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
-      "text": "Hacker News discussion and source.",
-      "link": "https://codyho.dev/blog/gpu-driver/",
-      "date": "2026-09-15T19:30:03+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 226,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Datamimic – don't let your coding agent invent its own test world",
-      "text": "Hacker News discussion and source.",
-      "link": "https://github.com/rapiddweller/datamimic",
-      "date": "2026-09-16T04:58:36+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 5,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Saving Jet Fuel",
-      "text": "Hacker News discussion and source.",
-      "link": "https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html",
-      "date": "2026-09-15T23:17:20+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 67,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "We got admin access to Baseten's production GitHub",
-      "text": "Hacker News discussion and source.",
-      "link": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
-      "date": "2026-09-15T18:11:24+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 257,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "An interactive world map of the stories cultures have told",
-      "text": "Hacker News discussion and source.",
-      "link": "https://originmap.sunnyguha.com/",
-      "date": "2026-09-13T14:09:57+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 17,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Stay discoverable in search while disallowing AI training",
-      "text": "Hacker News discussion and source.",
-      "link": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
-      "date": "2026-09-16T02:25:18+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 44,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Learning to solve hard problems in RL for LLMs by never giving up",
-      "text": "Hacker News discussion and source.",
-      "link": "https://mnoukhov.github.io/posts/ngu/",
-      "date": "2026-09-15T19:07:38+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 68,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Chopping up books when they're physically too big",
-      "text": "Hacker News discussion and source.",
-      "link": "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html",
-      "date": "2026-09-15T18:45:31+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 151,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Jean-Pierre Serre turns 100",
-      "text": "Hacker News discussion and source.",
-      "link": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
-      "date": "2026-09-15T20:57:18+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 118,
+      "points": 544,
       "kindLabel": "HN API"
     },
     {
@@ -188,7 +78,127 @@
       "date": "2026-09-15T00:01:31+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 8,
+      "points": 77,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "text": "Hacker News discussion and source.",
+      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+      "date": "2026-09-15T17:38:18+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 421,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Negativland, Culture Jamming, and the Art of Making Something New",
+      "text": "Hacker News discussion and source.",
+      "link": "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/",
+      "date": "2026-09-16T02:46:06+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 84,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
+      "text": "Hacker News discussion and source.",
+      "link": "https://codyho.dev/blog/gpu-driver/",
+      "date": "2026-09-15T19:30:03+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 331,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+      "text": "Hacker News discussion and source.",
+      "link": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
+      "date": "2026-09-15T21:07:47+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 223,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
+      "text": "Hacker News discussion and source.",
+      "link": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
+      "date": "2026-09-15T22:50:55+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 129,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "A software thing I built: GPS on a 25MHz 486-SX",
+      "text": "Hacker News discussion and source.",
+      "link": "https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/",
+      "date": "2026-09-16T05:43:44+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 30,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+      "text": "Hacker News discussion and source.",
+      "link": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+      "date": "2026-09-15T17:37:12+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 235,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "MartyPC – A Cycle-Accurate IBM PC/XT Emulator",
+      "text": "Hacker News discussion and source.",
+      "link": "https://github.com/dbalsom/martypc",
+      "date": "2026-09-16T05:56:02+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 18,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Better routing, probe fixes, plugin updates in Freenet/Hyphanet 0.7.5 build 1507",
+      "text": "Hacker News discussion and source.",
+      "link": "https://www.hyphanet.org/freenet-hyphanet-075-build-1507-fix-probe-routing-plugins-and-upkeep.html",
+      "date": "2026-09-13T16:23:43+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 5,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
+      "text": "Hacker News discussion and source.",
+      "link": "https://arxiv.org/abs/2511.07885",
+      "date": "2026-09-14T09:16:39+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 42,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "We got admin access to Baseten's production GitHub",
+      "text": "Hacker News discussion and source.",
+      "link": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
+      "date": "2026-09-15T18:11:24+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 282,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Datamimic – don't let your coding agent invent its own test world",
+      "text": "Hacker News discussion and source.",
+      "link": "https://github.com/rapiddweller/datamimic",
+      "date": "2026-09-16T04:58:36+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 40,
       "kindLabel": "HN API"
     },
     {
@@ -198,17 +208,17 @@
       "date": "2026-09-15T13:31:40+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 312,
+      "points": 333,
       "kindLabel": "HN API"
     },
     {
-      "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+      "title": "Saving Jet Fuel",
       "text": "Hacker News discussion and source.",
-      "link": "https://www.effort.news/irregular",
-      "date": "2026-09-14T21:15:01+00:00",
+      "link": "https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html",
+      "date": "2026-09-15T23:17:20+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 557,
+      "points": 96,
       "kindLabel": "HN API"
     },
     {
@@ -218,295 +228,48 @@
       "date": "2026-09-15T10:00:16+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 352,
+      "points": 398,
       "kindLabel": "HN API"
     },
     {
-      "title": "WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
+      "title": "Chopping up books when they're physically too big",
       "text": "Hacker News discussion and source.",
-      "link": "https://github.com/GraafHenk/numberwang",
-      "date": "2026-09-15T19:27:35+00:00",
+      "link": "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html",
+      "date": "2026-09-15T18:45:31+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 127,
+      "points": 180,
       "kindLabel": "HN API"
     },
     {
-      "title": "Suspected sabotage causes major Netherlands rail disruption",
-      "text": "Hacker News discussion and source.",
-      "link": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
-      "date": "2026-09-15T10:22:46+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 461,
-      "kindLabel": "HN API"
+      "title": "Map of brain ‘microproteins’ could offer new clues to Alzheimer’s disease",
+      "text": "",
+      "link": "https://www.nature.com/articles/d41586-026-02914-6",
+      "date": "2026-09-16T10:33:06.531013+00:00",
+      "source": "Nature",
+      "cat": "SCIENCE"
     },
     {
-      "title": "Agentic Societies Need a Social Harness",
-      "text": "An agentic society is a collection of AI agents that coordinate autonomously across trust boundaries, on behalf of different principals whose objectives may only partially align. We show experimentally that in agentic societies even honest, competent agents often fail to reach satisfactory outcomes with existing harnesses and messaging primitives, and that faulty or malicious agents can stall collaboration, influence outcomes, and pursue other harmful goals by exploiting vulnerabilities in commu",
-      "link": "http://arxiv.org/abs/2609.17527v1",
-      "date": "2026-09-15T17:57:27Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
+      "title": "AI companies must work with the research community to protect attribution",
+      "text": "",
+      "link": "https://www.nature.com/articles/d41586-026-02886-7",
+      "date": "2026-09-16T10:33:06.531049+00:00",
+      "source": "Nature",
+      "cat": "SCIENCE"
     },
     {
-      "title": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
-      "text": "We introduce and release ScienceBuddy, an interactive scientific research workspace that brings continually improving scientific agents into researchers' everyday workflows. ScienceBuddy supports researchers in carrying out scientific tasks while transforming their requests, feedback, and execution evidence into tasks and evaluation rubrics for continual learning. At its core is recursive-in-recursive self-improvement, a paradigm that couples harness evolution with model reinforcement learning: ",
-      "link": "http://arxiv.org/abs/2609.17523v1",
-      "date": "2026-09-15T17:55:28Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control",
-      "text": "Interactive control for video generation is moving from coarse prompts toward fine-grained, physically meaningful manipulation of dynamic scenes. Yet existing controllable methods either require the full control schedule before generation starts, or use pixel-space signals that dictate object positions rather than physical dynamics. To address these limitations, we propose PhysStream, an autoregressive model for physics-grounded image-to-video synthesis that incorporates structured scene memory-",
-      "link": "http://arxiv.org/abs/2609.17521v1",
-      "date": "2026-09-15T17:55:13Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control",
-      "text": "Large language models can produce fluent answers when their factual support is weak. This paper introduces Chain-of-Self-Questioning (CoSQ), a prompt-only framework that makes answer commitment conditional on an explicit assessment of the information required to answer a question. We evaluate three CoSQ variants under seventeen conditions on the 817-item TruthfulQA multiple-choice validation set using eleven open-weight and hosted model families. In the final balanced-option protocol, Grounded-C",
-      "link": "http://arxiv.org/abs/2609.17516v1",
-      "date": "2026-09-15T17:52:24Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "LACE: Layer-Wise Compression for Dynamic Frame Rate Codecs",
-      "text": "Neural audio codecs are a key component in speech language modeling. However, their high frame rates lead to long sequence lengths, increasing computational costs. Dynamic frame rate codecs mitigate this by reducing the effective frame rate using a compression step to merge multiple frames together. However, most prior methods either operate on single-codebook codecs or apply a single compression step before multi-layer quantization. This forces all quantization layers to share the same segmenta",
-      "link": "http://arxiv.org/abs/2609.17509v1",
-      "date": "2026-09-15T17:46:51Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "ENCP: Episode-Normalized Conformal Prediction for Vision-and-Language Navigation",
-      "text": "Uncertainty estimation for Vision-Language-Navigation (VLN) models is a critical task since it can help identify ambiguous and unreliable predictions, enabling agents to make safer navigation decisions. As one of the most advanced uncertainty estimation frameworks, conformal prediction (CP) offers a promising approach for uncertainty estimation in VLN. However, given that VLN agent requires a sequence of steps, standard calibration in conformal prediction fails to provide coverage guarantee it p",
-      "link": "http://arxiv.org/abs/2609.17499v1",
-      "date": "2026-09-15T17:42:15Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Verifiable Social Reasoning for LLM Assistants",
-      "text": "LLM assistants are widely used for daily social advice, yet evaluating their social reasoning in such consultation settings remains challenging since (i) it requires setups where the assistant learns about social situations from subjective user narratives, and (ii) social properties, such as others' intentions, typically lack verifiable ground truth. To address these challenges, we introduce Fuse, a multi-agent simulation framework for studying user-mediated social reasoning. In Fuse, a target a",
-      "link": "http://arxiv.org/abs/2609.17496v1",
-      "date": "2026-09-15T17:37:29Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "FreqSpaNet: Frequency and Spatial Learning of SFPF for Physical Layer Hardware Integrity Detection",
-      "text": "Unauthorized hardware replacement can preserve a wireless device's logical identity while altering its physical implementation, posing a challenge to hardware integrity verification. Spatio-frequency polarization fingerprints (SFPFs) capture device-dependent responses across multiple frequencies and directions, but their frequency and spatial dimensions exhibit different structural dependencies. We propose FreqSpaNet, an SFPF representation learning network for open set hardware anomaly detectio",
-      "link": "http://arxiv.org/abs/2609.17491v1",
-      "date": "2026-09-15T17:32:12Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence",
-      "text": "We introduce LimiX-2, a new model in the LimiX family, developed through model and data scaling guided by our previously established scaling laws. LimiX-2 adopts the Contextual Mechanism Networks (CMNs) paradigm and is pretrained with Context-Conditional Masked Modeling (CCMM). CMNs shifts the organizing principle of in-context learning from target-centric prediction to mechanism-oriented joint modeling. Rather than centering the network on the $p(y \\mid x, D_{\\mathrm{context}})$ objective of co",
-      "link": "http://arxiv.org/abs/2609.17488v1",
-      "date": "2026-09-15T17:30:02Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Bridging the Gap Between Homogeneous and Heterogeneous Asynchronous Optimization Is Surprisingly Difficult",
-      "text": "Modern large-scale machine learning tasks often require multiple workers, devices, CPUs, or GPUs to compute stochastic gradients in parallel and asynchronously to train model weights. Theoretical results typically distinguish between two settings: (i) the homogeneous setting, where all workers have access to the same data distribution, and (ii) the heterogeneous setting, where each worker operates on different data distributions. Known optimal time complexities in these settings reveal a signifi",
-      "link": "http://arxiv.org/abs/2609.17483v1",
-      "date": "2026-09-15T17:24:09Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Det-LIME: Detector-Aware, Multi-Instance Local Interpretable Model-Agnostic Explanations for Automated Marine Mammal Detection",
-      "text": "Despite the rapid uptake of black-box object detectors in marine mammal research and monitoring, explainability techniques are rarely integrated into conservation workflows. Furthermore, most classification-oriented explainability tools are ill-suited to detection tasks involving imagery of social organisms or those with colonial life histories, as they ignore multiple detections within a scene and produce single-instance outputs that blur evidence across individuals. These methods also generate",
-      "link": "http://arxiv.org/abs/2609.17479v1",
-      "date": "2026-09-15T17:20:16Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Bias-Induced Crossover in Absolute Capacity of Dense Associative Memory",
-      "text": "The absolute capacity of dense associative memory has mainly been analyzed for unbiased patterns. Here we examine the effect of bias in centered binary patterns under the Krotov-Hopfield single-site criterion $P_{\\mathrm{error}}=1/N$, where $P_{\\mathrm{error}}$ is the probability that a single-site flip lowers the energy of a stored pattern and $N$ is the number of neurons. Each pattern component takes $1-q$ with probability $q$ and $-q$ otherwise, where $0<q\\le1/2$. For polynomial interactions ",
-      "link": "http://arxiv.org/abs/2609.17477v1",
-      "date": "2026-09-15T17:16:38Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "JustFit: 200K-Token LLM Serving on a 24 GiB Laptop with Just-in-Time State Management",
-      "text": "Capable open-weight models make local coding and reasoning attractive, but their context and execution state strain laptop memory. We present JustFit, an MLX-based inference runtime that combines KVExec for compressed KV execution, PhaseSwap for component residency, and StateTrans for state-preserving serving transitions. These mechanisms fuse reconstruction and coordinate just-in-time materialization and release, independently of model-weight quantization. In full-execution capacity tests on a ",
-      "link": "http://arxiv.org/abs/2609.17475v1",
-      "date": "2026-09-15T17:15:48Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Coupled Calibration and Learning: Mitigating Teacher Bias in LLM Distillation without Target-Domain Reward Feedback",
-      "text": "Large language model (LLM) distillation aims to transfer the capabilities of a powerful teacher to a smaller student. Direct imitation, however, can also transfer the teacher's systematic bias and errors. This challenge is particularly pronounced under covariate shift, when the teacher's reliability on target questions is uncertain and target-domain reward feedback is unavailable. We propose Coupled Calibration and Learning (CCL), an LLM distillation algorithm that couples teacher calibration wi",
-      "link": "http://arxiv.org/abs/2609.17474v1",
-      "date": "2026-09-15T17:15:40Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Decomposition Buys Integrity, Not Yield",
-      "text": "Multi-agent systems split a task across a tree of agents and justify the split with folklore: smaller contexts, cleaner separation, parallelism. We ask what the split does to how much of what the leaves discover reaches the root. Model a decomposition as a tree in which an agent handed $b$ items keeps any one with probability $r(b)$. If $r(b)=1/b$, every tree delivers exactly one finding, for every task size and every shape; we verify this to $2.4 \\times 10^{-15}$ on 20,000 random irregular tree",
-      "link": "http://arxiv.org/abs/2609.17464v1",
-      "date": "2026-09-15T17:04:09Z",
-      "source": "arXiv · AI/ML",
-      "cat": "SCIENCE",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Hamilton-Jacobi Reachability for Hybrid Systems: Unified Goal-Driven Control with Safety Guarantees",
-      "text": "Hybrid dynamical systems provide a powerful modeling framework for robotic systems, particularly in contact-rich environments. However, ensuring safety and performance in such systems remains challenging due to the intricate coupling between continuous dynamics and discrete mode transitions. In this work, we extend classical Hamilton-Jacobi (HJ) reachability analysis, a formal verification method for continuous-time nonlinear systems, to hybrid dynamical systems. Our framework characterizes safe",
-      "link": "http://arxiv.org/abs/2609.17430v1",
-      "date": "2026-09-15T16:42:23Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "RobResilience: Implementing and Evaluating a Resilience Framework for Cyber-Physical Embodied Systems",
-      "text": "In embodied cyber-physical systems, active cyberattacks pose an immediate threat not just to data, but to physical integrity and human safety. While existing security approaches excel at detection, they lack the runtime mechanisms to determine whether a disruption is tolerable or if performance degradation remains within safe operational bounds. This gap leaves autonomous systems vulnerable to graceful failure paralysis, where they cannot distinguish between a safe, degraded state and a catastro",
-      "link": "http://arxiv.org/abs/2609.17349v1",
-      "date": "2026-09-15T15:49:04Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "A Time-to-Collision Barrier Function Approach to Collision Avoidance for Stochastic Systems",
-      "text": "Collision avoidance constraints for autonomous systems are typically formulated in position or velocity space, implicitly reacting to geometric proximity. We propose an alternative paradigm based on the adversarial time-to-collision (aTTC): the minimum time in which an adversary could achieve a collision given its dynamical constraints. By defining a control barrier function (CBF) directly in the time domain, the resulting controller is inherently anticipatory. The evading agent responds not onl",
-      "link": "http://arxiv.org/abs/2609.17347v1",
-      "date": "2026-09-15T15:47:46Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Backstepping Design of Dynamic State Feedback Controllers for Parabolic Systems",
-      "text": "Recently, dynamic state feedback controllers that are based on dynamic extensions have been presented for heterodirectional hyperbolic systems. In this paper, a similar concept for the control of coupled diffusion-reaction systems is suggested. The introduction of a specific controller dynamics leads to homogenized diffusion coefficients for the extended system. Then, a backstepping-based static state feedback for the dynamically extended system is designed, which, overall, results in a dynamic ",
-      "link": "http://arxiv.org/abs/2609.17293v1",
-      "date": "2026-09-15T15:06:43Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Port-Hamiltonian Koopman Operator Synthesis for Mechanical Systems",
-      "text": "Finite-dimensional Koopman models enable efficient linear prediction and control of nonlinear robotic systems. However, models learned purely from trajectory data may violate the energetic structure of the underlying mechanics, producing predictions that exhibit artificial energy growth and diverge under recursive propagation. This work presents a structure-preserving Koopman framework for Euler-Lagrange systems built on generalized-momentum coordinates. The momentum transformation exposes the m",
-      "link": "http://arxiv.org/abs/2609.17249v1",
-      "date": "2026-09-15T14:31:18Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Data-Driven Policy Iteration Without an Initial Stabilizing Policy: A Finite-Horizon Bootstrap Method",
-      "text": "This article investigates data-driven policy iteration (PI) for continuous-time linear systems without requiring an initially stabilizing policy. Standard infinite-horizon PI is not self-starting because its policy-evaluation step is well posed only when the feedback gain is stabilizing. However, verifying this property is difficult when the system matrices are unknown. To remove this requirement, we develop a finite-horizon bootstrap method. The key idea is to perform policy evaluation over a c",
-      "link": "http://arxiv.org/abs/2609.17191v1",
-      "date": "2026-09-15T13:47:52Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "DS2-Based Cross-Data-Space Interoperability for Precision Agriculture",
-      "text": "Despite the strategies of modern precision agriculture to leverage the integration of legacy agricultural systems, the challenges of IoT data fragmentation, farmers' sovereignty preservation, and limited interoperability still persist. This paper presents our work, conducted within the Horizon Europe DS2 project (DataSpace, DataShare 2.0), that applies an interoperability-oriented framework supporting participants of different agricultural data spaces to share data products and services under se",
-      "link": "http://arxiv.org/abs/2609.17185v1",
-      "date": "2026-09-15T13:43:58Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Fingers as Legs: Learning Self-Supported Locomotion and Manipulation with an Anthropomorphic Hand",
-      "text": "A walking robotic hand must use the same fingers to move its body, support its weight, and interact with the environment. We show how an anthropomorphic hand can learn these skills while retaining its finger design and position controller. Onboard power and computation make the platform self-contained. Our reinforcement learning approach accounts for the hand's unequal fingers, with training in a simulator calibrated from hardware measurements. In simulation, the hand moves faster with our rewar",
-      "link": "http://arxiv.org/abs/2609.17172v1",
-      "date": "2026-09-15T13:34:40Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Intervention problems in the Linear Threshold Model: A general formulation and new results",
-      "text": "We study an optimal intervention problem for linear threshold models. This is a popular class of dynamical network systems whereby a number of agents, identified with the nodes of a graph, strategically change their binary action (0 or 1) according to a threshold rule. Specifically, an agent adopts action 1 if and only if the fraction of its neighbors in the interaction graph that do so is greater than or equal to a prescribed threshold. Assuming that a planner can modify the agents' thresholds ",
-      "link": "http://arxiv.org/abs/2609.17146v1",
-      "date": "2026-09-15T13:11:12Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "The Price of Distributional Robustness in Linear Quadratic Control",
-      "text": "Distributionally robust (DR) optimization seeks decisions that perform best under the most adverse law within a given ambiguity set, enabling the design of data-driven controllers with strong out-of-sample guarantees in the face of uncertainty. In this paper, we study the conservatism introduced by safeguarding against distributional ambiguity. Specifically, we consider the data-driven Wasserstein DR linear quadratic control problem, and we analyze the suboptimality of the corresponding solution",
-      "link": "http://arxiv.org/abs/2609.17113v1",
-      "date": "2026-09-15T12:41:09Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Towards an Asset Administration Shell Maturity Model",
-      "text": "The Asset Administration Shell (AAS) is increasingly recognized as a fundamental model for the realization of and data exchange between digital twins in manufacturing. An AAS defines a hierarchical data structure to represent any type of asset throughout its entire lifecycle. In the context of AAS-based systems, comparing different AAS instances constitutes a practical challenge, as neither a widely accepted methodological framework nor a maturity model are available to systematically support su",
-      "link": "http://arxiv.org/abs/2609.17084v1",
-      "date": "2026-09-15T12:19:19Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "Byzantine Reliable Broadcast with Causal Ordering",
-      "text": "Reliable and total-order broadcasts in the Byzantine-fault model are well studied, but adding causal order has received comparatively little attention, largely due to the complexity that stems from actions of Byzantine processes. Existing solutions almost exclusively build causal ordering on top of total-order broadcast. The combination of causal order with reliable broadcast remains rare, and the few solutions that exist adopt the classical definition of causality based on events occurring at i",
-      "link": "http://arxiv.org/abs/2609.17074v1",
-      "date": "2026-09-15T12:13:59Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "A Set-Theoretic Evaluation Framework for Assessing Asset Administration Shell Instances: Towards Comparability and Suitability",
-      "text": "Asset Administration Shells (AAS) provide a standardized means of representing assets and their information in manufacturing and increasingly serve as a basis for software services. However, different AAS instances vary in structure, content, and degree of completion, making it difficult to determine whether a given AAS is suitable for a specific application. This paper presents two complementary methods to support the comparison and application-oriented assessment of AAS. First, set-theoretic o",
-      "link": "http://arxiv.org/abs/2609.17062v1",
-      "date": "2026-09-15T12:07:35Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
-    },
-    {
-      "title": "On personal recommendations in social networks",
-      "text": "Social networks in which algorithms actively influence humans through personal recommendations are ubiquitous. While opinion dynamics is an established tool to analyze these systems, existing models typically do not capture how individual agents process personal recommendations. In this work, we introduce a model for personal recommendations that is analytically tractable and consistent with the confirmation bias phenomenon from behavioral psychology. We describe how individuals process recommen",
-      "link": "http://arxiv.org/abs/2609.17011v1",
-      "date": "2026-09-15T11:22:50Z",
-      "source": "arXiv · Systems",
-      "cat": "TECH",
-      "kindLabel": "ARXIV"
+      "title": "These bizarre, much-coveted microbes are revealing the origins of complex life",
+      "text": "",
+      "link": "https://www.nature.com/articles/d41586-026-02849-y",
+      "date": "2026-09-16T10:33:06.531100+00:00",
+      "source": "Nature",
+      "cat": "SCIENCE"
     },
     {
       "title": "Quality control of glycogen through direct ubiquitylation by RNF213",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11139-6",
-      "date": "2026-09-16T05:31:00.870872+00:00",
+      "date": "2026-09-16T10:33:06.531146+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -514,7 +277,7 @@
       "title": "Author Correction: Erythropoietin receptor on cDC1s dictates immune tolerance",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11137-8",
-      "date": "2026-09-16T05:31:00.870945+00:00",
+      "date": "2026-09-16T10:33:06.531204+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -522,7 +285,7 @@
       "title": "A wake-up call: diversify global research funding",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02904-8",
-      "date": "2026-09-16T05:31:00.870980+00:00",
+      "date": "2026-09-16T10:33:06.531234+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -530,7 +293,7 @@
       "title": "Why Nepal floods resulted in a disaster even after satellites spotted danger",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02907-5",
-      "date": "2026-09-16T05:31:00.871005+00:00",
+      "date": "2026-09-16T10:33:06.531258+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -538,7 +301,7 @@
       "title": "The geometric genius of René Descartes",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02723-x",
-      "date": "2026-09-16T05:31:00.871027+00:00",
+      "date": "2026-09-16T10:33:06.531279+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -546,7 +309,7 @@
       "title": "Make AI traceable before it shapes global climate assessments",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02905-7",
-      "date": "2026-09-16T05:31:00.871049+00:00",
+      "date": "2026-09-16T10:33:06.531301+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -554,7 +317,7 @@
       "title": "Why the NIH must resist the metrics trap",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02906-6",
-      "date": "2026-09-16T05:31:00.871071+00:00",
+      "date": "2026-09-16T10:33:06.531325+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -562,7 +325,7 @@
       "title": "Global inequality panel is a chance for research to change lives",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02885-8",
-      "date": "2026-09-16T05:31:00.871092+00:00",
+      "date": "2026-09-16T10:33:06.531350+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -570,7 +333,7 @@
       "title": "CRISPR crops are coming to Europe — why bolder would be better",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02848-z",
-      "date": "2026-09-16T05:31:00.871114+00:00",
+      "date": "2026-09-16T10:33:06.531373+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -578,7 +341,7 @@
       "title": "Underground hydrogen could spur a green-energy revolution — if companies can find it",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02850-5",
-      "date": "2026-09-16T05:31:00.871137+00:00",
+      "date": "2026-09-16T10:33:06.531396+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -586,7 +349,7 @@
       "title": "Cities and countryside are intimately linked — green initiatives must recognize that",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02853-2",
-      "date": "2026-09-16T05:31:00.871164+00:00",
+      "date": "2026-09-16T10:33:06.531422+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -594,7 +357,7 @@
       "title": "‘Stomach bugs’ send protective immune cells rushing from gut to brain",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02891-w",
-      "date": "2026-09-16T05:31:00.871188+00:00",
+      "date": "2026-09-16T10:33:06.531445+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -602,7 +365,7 @@
       "title": "Encoded and non-genetic protein variants expand human functional proteome",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11124-z",
-      "date": "2026-09-16T05:31:00.871218+00:00",
+      "date": "2026-09-16T10:33:06.531475+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -610,7 +373,7 @@
       "title": "The roots of astrology, the mysterious nature of time and more: Books in brief",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02908-4",
-      "date": "2026-09-16T05:31:00.871241+00:00",
+      "date": "2026-09-16T10:33:06.531498+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -618,31 +381,7 @@
       "title": "How is climate change affecting conifers and their ability to sequester carbon?",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02847-0",
-      "date": "2026-09-16T05:31:00.871263+00:00",
-      "source": "Nature",
-      "cat": "SCIENCE"
-    },
-    {
-      "title": "The pet trade puts reptiles and amphibians at risk: close legal gaps now",
-      "text": "",
-      "link": "https://www.nature.com/articles/d41586-026-02852-3",
-      "date": "2026-09-16T05:31:00.871294+00:00",
-      "source": "Nature",
-      "cat": "SCIENCE"
-    },
-    {
-      "title": "Science philanthropy is rising in Brazil ― upending a long tradition",
-      "text": "",
-      "link": "https://www.nature.com/articles/d41586-026-02829-2",
-      "date": "2026-09-16T05:31:00.871318+00:00",
-      "source": "Nature",
-      "cat": "SCIENCE"
-    },
-    {
-      "title": "‘Multifunctional’ brain implant translates speech and gestures in real time",
-      "text": "",
-      "link": "https://www.nature.com/articles/d41586-026-02895-6",
-      "date": "2026-09-16T05:31:00.871340+00:00",
+      "date": "2026-09-16T10:33:06.531520+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -791,6 +530,30 @@
       "cat": "TECH"
     },
     {
+      "title": "STAT+: House Democrats may use oversight powers to plan for health care overhaul",
+      "text": "Democrats are mapping out their post-election strategy, and see health care probes as a winning issue.",
+      "link": "https://www.statnews.com/2026/09/16/healthcare-reform-house-democrats-oversight-targets-after-midterms/?utm_campaign=rss",
+      "date": "Wed, 16 Sep 2026 08:30:00 +0000",
+      "source": "STAT",
+      "cat": "HEALTHCARE"
+    },
+    {
+      "title": "Opinion: How my cancer diagnosis changed the way I train physicians",
+      "text": "“The tumors, test results, and treatments I present to future physicians? Mine,” writes David Elkowitz, a professor of pathology and laboratory medicine and science education.",
+      "link": "https://www.statnews.com/2026/09/16/medical-school-cancer-structure-pathology-professor-personal-experience/?utm_campaign=rss",
+      "date": "Wed, 16 Sep 2026 08:30:00 +0000",
+      "source": "STAT",
+      "cat": "HEALTHCARE"
+    },
+    {
+      "title": "Opinion: STAT+: Dementia should be a campaign issue — not an insult",
+      "text": "STAT’s Neurotransmissions columnist Jason Karlawish asks: What are the harms of the way politicians talk about dementia? What should they say instead?",
+      "link": "https://www.statnews.com/2026/09/16/dementia-november-2026-midterm-elections-policy-privacy-caregivers-economy/?utm_campaign=rss",
+      "date": "Wed, 16 Sep 2026 08:30:00 +0000",
+      "source": "STAT",
+      "cat": "HEALTHCARE"
+    },
+    {
       "title": "A fourth measles death is reported in Pennsylvania",
       "text": "Pennsylvania officials have reported a fourth measles-associated death within the past month, the latest in an unvaccinated 18-year-old.",
       "link": "https://www.statnews.com/2026/09/15/fourth-measles-death-pennsylvania-acute-disseminated-encephalomyelitis/?utm_campaign=rss",
@@ -907,30 +670,6 @@
       "text": "RFK Jr. worked to distance himself from Children's Health Defense, the anti-vaccine group he once led. Now, he's delivering a keynote at CHD's conference.",
       "link": "https://www.statnews.com/2026/09/14/rfk-speech-childrens-health-defense-conference-washington/?utm_campaign=rss",
       "date": "Mon, 14 Sep 2026 17:37:34 +0000",
-      "source": "STAT",
-      "cat": "HEALTHCARE"
-    },
-    {
-      "title": "STAT+: How $500 explains Republican health policy, and the GLP-1 Rx wave",
-      "text": "The one health care policy Republicans agree on, and a look at how rural providers are approaching AI.",
-      "link": "https://www.statnews.com/2026/09/14/trump-cash-obamacare-plans-rural-hospitals-artificial-intelligence/?utm_campaign=rss",
-      "date": "Mon, 14 Sep 2026 16:02:55 +0000",
-      "source": "STAT",
-      "cat": "HEALTHCARE"
-    },
-    {
-      "title": "Pennsylvania officials report state’s third death involving measles",
-      "text": "A Pennsylvania woman has died from complications associated with measles, the third death in the state this year involving the virus.",
-      "link": "https://www.statnews.com/2026/09/14/third-measles-related-death-pennsylvania-outbreak/?utm_campaign=rss",
-      "date": "Mon, 14 Sep 2026 14:34:20 +0000",
-      "source": "STAT",
-      "cat": "HEALTHCARE"
-    },
-    {
-      "title": "STAT+: GSK touts lung cancer data from two drugs",
-      "text": "Late-stage results for Definium's LSD treatment, AstraZeneca breast cancer drug fails key trial, and more biotech news from The Readout",
-      "link": "https://www.statnews.com/2026/09/14/biotech-news-gsk-touts-lung-cancer-data-from-two-drugs/?utm_campaign=rss",
-      "date": "Mon, 14 Sep 2026 13:34:37 +0000",
       "source": "STAT",
       "cat": "HEALTHCARE"
     },
@@ -1223,6 +962,14 @@
       "cat": "TECH"
     },
     {
+      "title": "How chimps teach their kids tool tricks",
+      "text": "Adults first demonstrate tool use, then hand over the implements to their infants, who copy the behavior.",
+      "link": "https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/",
+      "date": "Wed, 16 Sep 2026 04:00:39 +0000",
+      "source": "Ars Technica",
+      "cat": "TECH"
+    },
+    {
       "title": "The Roman telescope has enough gas for 22 years, double NASA's expectations",
       "text": "The Nancy Grace Roman Space Telescope is the first NASA observatory designed for in-space refueling.",
       "link": "https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/",
@@ -1359,33 +1106,81 @@
       "cat": "TECH"
     },
     {
-      "title": "Founder’s cost-cutting obsession drove Unitree lead in cheap humanoid robots",
-      "text": "Wang Xingxing micromanaged Unitree to success—will his leadership style scale?",
-      "link": "https://arstechnica.com/ai/2026/09/founders-cost-cutting-obsession-drove-unitree-lead-in-cheap-humanoid-robots/",
-      "date": "Mon, 14 Sep 2026 19:38:46 +0000",
-      "source": "Ars Technica",
+      "title": "The EU Bans Social Media For Under-13s",
+      "text": "The bloc wants to curb Big Tech’s grip on children with its new EU KIDS ACTS, but age checks, parental oversight, and privacy concerns could make its plan difficult to implement.",
+      "link": "https://www.wired.com/story/the-eu-bans-social-media-for-under-13s/",
+      "date": "Wed, 16 Sep 2026 10:19:46 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
+      "title": "Best Robot Vacuum of 2026: Shark, Eufy, Roborock",
+      "text": "My hands-on tests reveal which models can scrub stains, reach difficult corners, and navigate a chaotic home.",
+      "link": "https://www.wired.com/story/best-robot-vacuum/",
+      "date": "Wed, 16 Sep 2026 10:06:00 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
+      "title": "How Self-Driving Cars Might Change Crash Testing Forever",
+      "text": "Lie down in a car, and you’re more likely to get seriously hurt in a crash. But a driverless future is forcing governments to revisit long-standing safety issues.",
+      "link": "https://www.wired.com/story/how-self-driving-cars-might-change-crash-testing-forever/",
+      "date": "Wed, 16 Sep 2026 10:00:00 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
+      "title": "Boox Launches the Palma 3 E-Reader",
+      "text": "The e-paper device maker also launched two new color digital notebooks last night, the Note Air6 C and Mini C.",
+      "link": "https://www.wired.com/story/boox-palma-3-announced/",
+      "date": "Wed, 16 Sep 2026 09:36:00 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
+      "title": "China Isn’t Buying Silicon Valley’s Call for an AI Slowdown",
+      "text": "The US and China agree that advanced AI poses serious risks. But Beijing is deeply skeptical of a deal that prioritizes keeping US companies ahead.",
+      "link": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/",
+      "date": "Wed, 16 Sep 2026 09:30:00 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
+      "title": "Why It Seems Like Great White Sharks Are Overrunning Maine",
+      "text": "While a bunch of sharks cruising the Maine coast may seem ominous, it’s actually a sign of a conservation success story.",
+      "link": "https://www.wired.com/story/why-great-white-sharks-are-overrunning-maine/",
+      "date": "Wed, 16 Sep 2026 09:15:00 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
+      "title": "Best 2-in-1 Laptops (2026): Microsoft, Lenovo, and the iPad",
+      "text": "These portable computers balance tablet and laptop functionality, whether you want a screen that detaches or spins.",
+      "link": "https://www.wired.com/story/best-2-in-1-laptops/",
+      "date": "Wed, 16 Sep 2026 09:00:00 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
+      "title": "Polymarket’s Next Bet? It Can Also Be a Media Company",
+      "text": "The legal battle over whether prediction markets are a form of gambling has overshadowed something else entirely: They’re already a new form of media.",
+      "link": "https://www.wired.com/story/prediction-markets-polymarket-media-company-kalshi/",
+      "date": "Wed, 16 Sep 2026 09:00:00 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
+      "title": "‘Smart’ Nanoparticles Deliver mRNA Directly to Tumors in New Cancer Therapy",
+      "text": "The treatment can reprogram immune cells that have been corrupted by the cancer, strengthening the body’s ability to attack.",
+      "link": "https://www.wired.com/story/smart-nanoparticles-deliver-mrna-directly-to-tumors-in-new-cancer-therapy/",
+      "date": "Wed, 16 Sep 2026 08:30:00 +0000",
+      "source": "Wired",
       "cat": "TECH"
     },
     {
       "title": "Bose Promo Code: 40% Off for September 2026",
       "text": "Get at least 40% off headphones, speakers, soundbars, and other audio products from Bose.",
       "link": "https://www.wired.com/story/bose-coupon-code/",
-      "date": "Wed, 16 Sep 2026 05:00:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "Office Depot Coupons: $20 Off September 2026",
-      "text": "From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.",
-      "link": "https://www.wired.com/story/office-depot-promo-codes/",
-      "date": "Wed, 16 Sep 2026 05:00:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "Naturepedic Promo Codes: Get 20% Off Plus Free Pillows",
-      "text": "Shop the Naturepedic sale this September 2026.",
-      "link": "https://www.wired.com/story/naturepedic-promo-code/",
       "date": "Wed, 16 Sep 2026 05:00:00 +0000",
       "source": "Wired",
       "cat": "TECH"
@@ -1431,81 +1226,25 @@
       "cat": "TECH"
     },
     {
-      "title": "HostGator Coupon Codes: 76% Off Hosting in September 2026",
-      "text": "Unlock massive savings on HostGator web hosting, WordPress, VPS, and business email plans with our exclusive HostGator promo codes and deals.",
-      "link": "https://www.wired.com/story/hostgator-coupon/",
+      "title": "Office Depot Coupons: $20 Off September 2026",
+      "text": "From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.",
+      "link": "https://www.wired.com/story/office-depot-promo-codes/",
       "date": "Wed, 16 Sep 2026 05:00:00 +0000",
       "source": "Wired",
       "cat": "TECH"
     },
     {
-      "title": "Braun Promo Codes: 15% Off September 2026",
-      "text": "Unlock exclusive savings on Braun IPL, shavers, and grooming products. Find verified Braun promo codes and expert tips to maximize your discounts.",
-      "link": "https://www.wired.com/story/braun-promo-code/",
+      "title": "Naturepedic Promo Codes: Get 20% Off Plus Free Pillows",
+      "text": "Shop the Naturepedic sale this September 2026.",
+      "link": "https://www.wired.com/story/naturepedic-promo-code/",
       "date": "Wed, 16 Sep 2026 05:00:00 +0000",
       "source": "Wired",
       "cat": "TECH"
     },
     {
-      "title": "Visible Promo Codes and Coupons for September 2026",
-      "text": "Find great deals and promo codes for Visible at WIRED and save big, whether you're a long-time customer or a newbie.",
-      "link": "https://www.wired.com/story/visible-promo-code/",
-      "date": "Wed, 16 Sep 2026 05:00:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "Factor Promo Code: 50% Off Off Meal Prep",
-      "text": "Make meal prep easier for any dietary need while enjoying great savings with our hand-picked Factor discount codes this September.",
-      "link": "https://www.wired.com/story/factor-promo-code/",
-      "date": "Wed, 16 Sep 2026 05:00:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "Barkbox Promo Codes and Discounts: Up to 50% Off",
-      "text": "Save on Barkbox subscriptions, including monthly themed collections of plush toys, tough chews, and healthy snacks designed to keep your pup’s tail wagging.",
-      "link": "https://www.wired.com/story/barkbox-promo-code/",
-      "date": "Wed, 16 Sep 2026 05:00:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "Pura Promo Codes: $20 Off September 2026",
-      "text": "Enhance your home's ambiance for less with active Pura promo codes. Find savings on smart diffusers, exclusive scents, and subscribe & save offers.",
-      "link": "https://www.wired.com/story/pura-promo-code/",
-      "date": "Wed, 16 Sep 2026 05:00:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "Babbel Promo Code: Up to 65% Off in September 2026",
-      "text": "Master a new language with expert-led courses. Use our verified Babbel coupon codes to save up to 65% on student plans and 60% on 6-month subscriptions.",
-      "link": "https://www.wired.com/story/babbel-promo-code/",
-      "date": "Wed, 16 Sep 2026 05:00:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "Casetify Promo Codes | 15% Off September 2026",
-      "text": "Keep your phone protected and your wallet happy with these proven strategies to secure a Casetify promo code, student discount, and sitewide deals.",
-      "link": "https://www.wired.com/story/casetify-promo-code/",
-      "date": "Wed, 16 Sep 2026 05:00:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "Hulu Promo Codes & Discounts: 20% Off in September 2026",
-      "text": "Students can get a Hulu plan for $1.99 per month. Get more details on this and other great deals below.",
-      "link": "https://www.wired.com/story/hulu-promo-code/",
-      "date": "Wed, 16 Sep 2026 05:00:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "Chirp Discount Codes: 67% Off",
-      "text": "Use these verified Chirp coupon codes and shopping tips to score up to 67% off wheels, up to 50% off refurbished products, and more.",
-      "link": "https://www.wired.com/story/chirp-discount-code/",
+      "title": "Shark Promo Codes for September 2026",
+      "text": "Shark makes some seriously powerful vacuums, from handheld vacs to steam mops. Don’t miss $100 off, 10% off, and more limited-time coupons from WIRED.",
+      "link": "https://www.wired.com/story/shark-promo-code/",
       "date": "Wed, 16 Sep 2026 05:00:00 +0000",
       "source": "Wired",
       "cat": "TECH"
@@ -1519,13 +1258,15 @@
     },
     {
       "name": "arXiv · AI/ML",
-      "ok": true,
-      "count": 15
+      "ok": false,
+      "count": 0,
+      "error": "The read operation timed out"
     },
     {
       "name": "arXiv · Systems",
-      "ok": true,
-      "count": 15
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 429: Unknown Error"
     },
     {
       "name": "Nature",
