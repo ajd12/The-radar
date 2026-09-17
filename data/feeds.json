@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-17T00:02:34.470889+00:00",
+  "generated_at": "2026-09-17T05:03:38.424169+00:00",
   "items": [
     {
-      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
       "text": "Hacker News discussion and source.",
-      "link": "https://rohanbansal.com/qorl",
-      "date": "2026-09-16T18:50:00+00:00",
+      "link": "https://ryan.science/blog/keys-not-included",
+      "date": "2026-09-17T03:03:23+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 355,
+      "points": 70,
       "kindLabel": "HN API"
     },
     {
@@ -18,17 +18,17 @@
       "date": "2026-09-16T11:15:53+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 127,
+      "points": 464,
       "kindLabel": "HN API"
     },
     {
-      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
       "text": "Hacker News discussion and source.",
-      "link": "https://arxiv.org/abs/2609.16338",
-      "date": "2026-09-16T20:59:24+00:00",
+      "link": "https://rohanbansal.com/qorl",
+      "date": "2026-09-16T18:50:00+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 116,
+      "points": 458,
       "kindLabel": "HN API"
     },
     {
@@ -38,27 +38,7 @@
       "date": "2026-09-16T20:09:18+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 203,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "The engineering behind the US Strategic Petroleum Reserve",
-      "text": "Hacker News discussion and source.",
-      "link": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
-      "date": "2026-09-15T22:15:25+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 57,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Small programming tricks",
-      "text": "Hacker News discussion and source.",
-      "link": "https://will-keleher.com/posts/small-programming-tricks-matter/",
-      "date": "2026-09-16T15:56:47+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 364,
+      "points": 336,
       "kindLabel": "HN API"
     },
     {
@@ -68,7 +48,67 @@
       "date": "2026-09-16T20:27:16+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 40,
+      "points": 147,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+      "text": "Hacker News discussion and source.",
+      "link": "https://arxiv.org/abs/2609.16338",
+      "date": "2026-09-16T20:59:24+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 168,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Developing provably correct Rust code with Verus",
+      "text": "Hacker News discussion and source.",
+      "link": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus",
+      "date": "2026-09-14T16:57:50+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 60,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Small programming tricks",
+      "text": "Hacker News discussion and source.",
+      "link": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+      "date": "2026-09-16T15:56:47+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 447,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "The engineering behind the US Strategic Petroleum Reserve",
+      "text": "Hacker News discussion and source.",
+      "link": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
+      "date": "2026-09-15T22:15:25+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 155,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "A 32-year-old bug walks into a Telnet server",
+      "text": "Hacker News discussion and source.",
+      "link": "https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/",
+      "date": "2026-09-16T02:01:27+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 15,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
+      "text": "Hacker News discussion and source.",
+      "link": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
+      "date": "2026-09-17T00:28:33+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 46,
       "kindLabel": "HN API"
     },
     {
@@ -78,37 +118,7 @@
       "date": "2026-09-16T23:06:39+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 25,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Reversing Factorio's RNG",
-      "text": "Hacker News discussion and source.",
-      "link": "https://gegell.github.io/posts/factorio-rng/",
-      "date": "2026-09-12T17:02:19+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 125,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Performance Improvements in .NET 11",
-      "text": "Hacker News discussion and source.",
-      "link": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/",
-      "date": "2026-09-15T12:18:16+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 131,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Australia says it could follow Canada in forging deeper ties with EU",
-      "text": "Hacker News discussion and source.",
-      "link": "https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html",
-      "date": "2026-09-16T22:56:48+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 56,
+      "points": 102,
       "kindLabel": "HN API"
     },
     {
@@ -118,47 +128,57 @@
       "date": "2026-09-15T21:41:42+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 182,
+      "points": 300,
       "kindLabel": "HN API"
     },
     {
-      "title": "Japan's book scene is moving from bookstores to libraries",
+      "title": "The Painful Truth: The RAM Crisis Is Only Just the Beginning",
       "text": "Hacker News discussion and source.",
-      "link": "https://untranslatedjp.substack.com/p/japans-book-scene-is-quietly-moving",
-      "date": "2026-09-12T22:35:25+00:00",
+      "link": "https://www.madshrimps.be/news/the-painful-truth-the-ram-crisis-is-only-just-the-beginning/",
+      "date": "2026-09-17T03:57:59+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 80,
+      "points": 47,
       "kindLabel": "HN API"
     },
     {
-      "title": "How good are frontier models at physics?",
+      "title": "Performance Improvements in .NET 11",
       "text": "Hacker News discussion and source.",
-      "link": "https://arxiv.org/abs/2609.13009",
-      "date": "2026-09-16T19:19:08+00:00",
+      "link": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/",
+      "date": "2026-09-15T12:18:16+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 62,
+      "points": 229,
       "kindLabel": "HN API"
     },
     {
-      "title": "Reverse-engineered Jev-like model",
+      "title": "PCB is brought to you by Fable 5",
       "text": "Hacker News discussion and source.",
-      "link": "https://github.com/vinnylarouge/jevlike",
-      "date": "2026-09-16T18:49:57+00:00",
+      "link": "https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/",
+      "date": "2026-09-14T12:25:24+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 51,
+      "points": 50,
       "kindLabel": "HN API"
     },
     {
-      "title": "Accurate Models of AMD Matrix Cores",
+      "title": "Reversing Factorio's RNG",
       "text": "Hacker News discussion and source.",
-      "link": "https://arxiv.org/abs/2609.14845",
-      "date": "2026-09-16T18:56:05+00:00",
+      "link": "https://gegell.github.io/posts/factorio-rng/",
+      "date": "2026-09-12T17:02:19+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 54,
+      "points": 170,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+      "text": "Hacker News discussion and source.",
+      "link": "https://harnesstax.github.io/",
+      "date": "2026-09-16T22:10:13+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 77,
       "kindLabel": "HN API"
     },
     {
@@ -168,27 +188,27 @@
       "date": "2026-09-15T12:31:10+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 2050,
+      "points": 2121,
       "kindLabel": "HN API"
     },
     {
-      "title": "Destroy After Reading: photocopiers,cheap paper and DIY gave metal it's look",
+      "title": "Part-human part-mouse brain developed in science breakthrough",
       "text": "Hacker News discussion and source.",
-      "link": "https://www.truegrittexturesupply.com/blogs/news/destroy-after-reading",
-      "date": "2026-09-14T17:24:19+00:00",
+      "link": "https://www.bbc.com/news/articles/c60m3k28j81mo",
+      "date": "2026-09-17T01:33:10+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 11,
+      "points": 14,
       "kindLabel": "HN API"
     },
     {
-      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+      "title": "Japan's book scene is moving from bookstores to libraries",
       "text": "Hacker News discussion and source.",
-      "link": "https://mistral.ai/news/mistral-x-mozilla/",
-      "date": "2026-09-16T08:08:57+00:00",
+      "link": "https://untranslatedjp.substack.com/p/japans-book-scene-is-quietly-moving",
+      "date": "2026-09-12T22:35:25+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 520,
+      "points": 144,
       "kindLabel": "HN API"
     },
     {
@@ -198,54 +218,34 @@
       "date": "2026-09-14T06:46:26+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 77,
+      "points": 118,
       "kindLabel": "HN API"
     },
     {
-      "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+      "title": "Reverse-engineered Jev-like model",
       "text": "Hacker News discussion and source.",
-      "link": "https://arxiv.org/abs/2609.14858",
-      "date": "2026-09-16T13:44:40+00:00",
+      "link": "https://github.com/vinnylarouge/jevlike",
+      "date": "2026-09-16T18:49:57+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 178,
+      "points": 99,
       "kindLabel": "HN API"
     },
     {
-      "title": "Why Does the Universe Expand?",
+      "title": "Mapsnap: Automated Georeferencing for Historic Sanborn Insurance Maps",
       "text": "Hacker News discussion and source.",
-      "link": "https://cosmicave.org/2026/09/15/why-does-the-universe-expand/",
-      "date": "2026-09-16T19:56:38+00:00",
+      "link": "https://www.danvk.org/2026/09/10/mapsnap.html",
+      "date": "2026-09-15T19:22:48+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 14,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Anatomy of a Texture",
-      "text": "Hacker News discussion and source.",
-      "link": "https://agentlien.github.io/texture/",
-      "date": "2026-09-16T14:28:28+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 71,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Hackers Got Inside a Flock Camera",
-      "text": "Hacker News discussion and source.",
-      "link": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
-      "date": "2026-09-16T13:18:47+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 450,
+      "points": 12,
       "kindLabel": "HN API"
     },
     {
       "title": "Inflection points and transitions in Alzheimer’s disease",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11110-5",
-      "date": "2026-09-17T00:02:32.717714+00:00",
+      "date": "2026-09-17T05:03:37.328965+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -253,7 +253,7 @@
       "title": "Mechanisms of Transcriptional Regulation by Salicylic Acid Receptors",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11123-0",
-      "date": "2026-09-17T00:02:32.717766+00:00",
+      "date": "2026-09-17T05:03:37.329024+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -261,7 +261,7 @@
       "title": "Why most  stars don’t have outbursts like our Sun’s",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02833-6",
-      "date": "2026-09-17T00:02:32.717795+00:00",
+      "date": "2026-09-17T05:03:37.329051+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -269,7 +269,7 @@
       "title": "Transplanted human brain-tissue takes root in mice without a cortex",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02927-1",
-      "date": "2026-09-17T00:02:32.717821+00:00",
+      "date": "2026-09-17T05:03:37.329076+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -277,7 +277,7 @@
       "title": "Development of a random background to understand ligand optimization",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11013-5",
-      "date": "2026-09-17T00:02:32.717881+00:00",
+      "date": "2026-09-17T05:03:37.329134+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -285,7 +285,7 @@
       "title": "Developmental xenocortication using human-derived organoids in mice",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11032-2",
-      "date": "2026-09-17T00:02:32.717939+00:00",
+      "date": "2026-09-17T05:03:37.329190+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -293,7 +293,7 @@
       "title": "Mitochondrial fission factor senses and governs ferroptosis",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11020-6",
-      "date": "2026-09-17T00:02:32.717991+00:00",
+      "date": "2026-09-17T05:03:37.329238+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -301,7 +301,7 @@
       "title": "Reimagining research papers as interactive and reliable AI agents",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11044-y",
-      "date": "2026-09-17T00:02:32.718026+00:00",
+      "date": "2026-09-17T05:03:37.329269+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -309,7 +309,7 @@
       "title": "Electroluminescent photoresists extending lithographic scaling to OLEDs",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11042-0",
-      "date": "2026-09-17T00:02:32.718070+00:00",
+      "date": "2026-09-17T05:03:37.329312+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -317,7 +317,7 @@
       "title": "Continuous-wave laser absorption spectroscopy of the thorium-229 nucleus",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11011-7",
-      "date": "2026-09-17T00:02:32.718120+00:00",
+      "date": "2026-09-17T05:03:37.329360+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -325,7 +325,7 @@
       "title": "Mutational constraints on RSV F and its neutralization by antibodies",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11030-4",
-      "date": "2026-09-17T00:02:32.718161+00:00",
+      "date": "2026-09-17T05:03:37.329395+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -333,7 +333,7 @@
       "title": "Evolution and heterogeneity of lethal metastatic bladder cancer subtypes",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11035-z",
-      "date": "2026-09-17T00:02:32.718262+00:00",
+      "date": "2026-09-17T05:03:37.329475+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -341,7 +341,7 @@
       "title": "Topographic structure and function of locus coeruleus noradrenaline neurons",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11026-0",
-      "date": "2026-09-17T00:02:32.718360+00:00",
+      "date": "2026-09-17T05:03:37.329566+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -349,7 +349,7 @@
       "title": "Overmassive black holes and little red dots naturally form in simulations",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-10985-8",
-      "date": "2026-09-17T00:02:32.718400+00:00",
+      "date": "2026-09-17T05:03:37.329621+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -357,7 +357,7 @@
       "title": "A retinoic acid autoregulatory loop governing prefrontal–motor arealization",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11014-4",
-      "date": "2026-09-17T00:02:32.718445+00:00",
+      "date": "2026-09-17T05:03:37.329665+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -365,7 +365,7 @@
       "title": "Road transport of trapped antiprotons",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11019-z",
-      "date": "2026-09-17T00:02:32.718505+00:00",
+      "date": "2026-09-17T05:03:37.329721+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -373,7 +373,7 @@
       "title": "Transcriptional activation of plant immunity by salicylic acid",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11021-5",
-      "date": "2026-09-17T00:02:32.718549+00:00",
+      "date": "2026-09-17T05:03:37.329762+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -381,7 +381,7 @@
       "title": "Rapid patient-specific neural networks for X-ray to volume registration",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11045-x",
-      "date": "2026-09-17T00:02:32.718585+00:00",
+      "date": "2026-09-17T05:03:37.329796+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -530,6 +530,14 @@
       "cat": "TECH"
     },
     {
+      "title": "New lawsuit argues NIH violated First Amendment rights of grant applicants",
+      "text": "The lawsuit seeks to halt the process of searching grant applications for specific terms to determine if they should be rejected.",
+      "link": "https://www.statnews.com/2026/09/16/lawsuit-argues-nih-violated-researcher-first-amendment-rights-aclu/?utm_campaign=rss",
+      "date": "Thu, 17 Sep 2026 00:39:34 +0000",
+      "source": "STAT",
+      "cat": "HEALTHCARE"
+    },
+    {
       "title": "STAT+: GOP aims to change Medicare adviser’s math so it’s more favorable to health insurers",
       "text": "The GOP bill directs MedPAC to study the topic of overpayments to Medicare Advantage plans in a manner that’s more favorable to insurers.",
       "link": "https://www.statnews.com/2026/09/16/medicare-advantage-overpayments-analysis-medpac-change-apples-to-apples-act/?utm_campaign=rss",
@@ -666,14 +674,6 @@
       "cat": "HEALTHCARE"
     },
     {
-      "title": "Businesses can now apply for NIH funding",
-      "text": "RFK Jr. to speak at Children's Health Defense conference, how to protect your heart in outer space, and more health news",
-      "link": "https://www.statnews.com/2026/09/15/health-news-businesses-can-now-apply-for-nih-funding/?utm_campaign=rss",
-      "date": "Tue, 15 Sep 2026 12:03:33 +0000",
-      "source": "STAT",
-      "cat": "HEALTHCARE"
-    },
-    {
       "title": "Teach ML! Community service project from Stanford [N]",
       "text": "Hi r/machinelearning . Nice to meet you! My name is Chris Piech and I&#39;m a professor at Stanford University in the AI lab. I built a class called Probability for AI: pai.stanford.edu. It starts Oct 9th and applications are due end of Sept. Its (hopefully) cool for a few reasons: The plan is to have one volunteer teacher for every 10 students! Apps have been open for a week and over 1,000+ folks have applied to teach. So we might actually be able to make this pretty big. I have built a lot of ",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1wbf3ox/teach_ml_community_service_project_from_stanford_n/",
@@ -706,18 +706,18 @@
       "cat": "SCIENCE"
     },
     {
-      "title": "Has anyone measured specification ambiguity as a predictor of correlated failure across model families? [D]",
-      "text": "When models from different families are given the same underspecified task, they often fail in the same way rather than in independent ways. My question is about measurement, not explanation. Has anyone put a number on the ambiguity of a task specification and then tested it as a predictor of how often independent solvers fail identically? Specifically: does the relationship look like a smooth monotone increase, or is there a threshold — some level of ambiguity past which coincidence rate jumps ",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wi8lla/has_anyone_measured_specification_ambiguity_as_a/",
-      "date": "2026-09-16T20:19:45+00:00",
-      "source": "Reddit · MachineLearning",
-      "cat": "SCIENCE"
-    },
-    {
       "title": "GoBench: Evaluating LLMs on the game of Go [R]",
       "text": "GoBench evaluates LLMs on 9x9 Go games against a ladder of KataGo opponents, from random to superhuman. It measures general reasoning ability, strongly correlates with ARC-AGI 2 (r=0.83 correlation), and remains highly unsaturated. GPT-6 Astra max achieves 2500 Elo, much lower than the best KataGo, which achieves 4400 Elo. With coding tools and two hours of preparation before evaluation, Codex with Astra achieves 3560 Elo. I will keep the leaderboard updated as long as it is not saturated. leade",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1wi68jg/gobench_evaluating_llms_on_the_game_of_go_r/",
       "date": "2026-09-16T18:54:35+00:00",
+      "source": "Reddit · MachineLearning",
+      "cat": "SCIENCE"
+    },
+    {
+      "title": "Has anyone measured specification ambiguity as a predictor of correlated failure across model families? [D]",
+      "text": "When models from different families are given the same underspecified task, they often fail in the same way rather than in independent ways. My question is about measurement, not explanation. Has anyone put a number on the ambiguity of a task specification and then tested it as a predictor of how often independent solvers fail identically? Specifically: does the relationship look like a smooth monotone increase, or is there a threshold — some level of ambiguity past which coincidence rate jumps ",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wi8lla/has_anyone_measured_specification_ambiguity_as_a/",
+      "date": "2026-09-16T20:19:45+00:00",
       "source": "Reddit · MachineLearning",
       "cat": "SCIENCE"
     },
@@ -810,12 +810,36 @@
       "cat": "SCIENCE"
     },
     {
-      "title": "How to automatically find the batch size when using Accelerate with FSDP2? [D]",
-      "text": "Hi, For single-GPU training, I’m using Hugging Face SFTTrainer with auto_find_batch_size=True, which automatically reduces the batch size after a CUDA OOM until it finds a batch size that works. I would like to have similar behavior when training on multiple GPUs on a single node using accelerate launch with FSDP2. Is there a supported way to automatically determine or reduce the batch size when using Accelerate + FSDP2? In particular, I’m wondering how this should be handled when one of the dis",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wg9u62/how_to_automatically_find_the_batch_size_when/",
-      "date": "2026-09-14T17:24:08+00:00",
+      "title": "PhD branding question [R]",
+      "text": "I&#39;m starting a PhD where I will be doing Graph ML (somewhere along the lines of graph signal processing/ graph deep learning.) My eventual goal is research scientist at big tech, or whichever company has a strong research division, where I can continue similar AI/ML work. I have concerns about the job market (both now and in 5 years), and I&#39;m wondering whether I should do my degree under the CS or EE department. For context, my research is within the eecs overlap and this degree would no",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wfte3b/phd_branding_question_r/",
+      "date": "2026-09-14T04:26:46+00:00",
       "source": "Reddit · MachineLearning",
       "cat": "SCIENCE"
+    },
+    {
+      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+      "text": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
+      "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+      "date": "Thu, 17 Sep 2026 05:00:00 +0000",
+      "source": "TechCrunch",
+      "cat": "TECH"
+    },
+    {
+      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+      "text": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. Register before September 25 to save up to $200.",
+      "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+      "date": "Thu, 17 Sep 2026 03:30:00 +0000",
+      "source": "TechCrunch",
+      "cat": "TECH"
+    },
+    {
+      "title": "Snap tries to make the case again for its $2,200 smart glasses",
+      "text": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
+      "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+      "date": "Thu, 17 Sep 2026 00:58:49 +0000",
+      "source": "TechCrunch",
+      "cat": "TECH"
     },
     {
       "title": "Musk’s long-time backer is giving SpaceX stock to its investors",
@@ -826,7 +850,7 @@
       "cat": "TECH"
     },
     {
-      "title": "Al Gore has a surprisingly calm take on the AI data center backlash",
+      "title": "Al Gore says the real AI risk isn’t data centers",
       "text": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
       "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
       "date": "Wed, 16 Sep 2026 23:43:09 +0000",
@@ -934,30 +958,6 @@
       "text": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
       "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
       "date": "Wed, 16 Sep 2026 16:30:00 +0000",
-      "source": "TechCrunch",
-      "cat": "TECH"
-    },
-    {
-      "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly",
-      "text": "“Why do I have to beg my grandparents to put on their hearing aids, but no one has ever needed to ask me to put on my glasses?”&#160; That’s&#160;the question that drove&#160;Matthew de Jonge&#160;to spend six years building&#160;Fortell, an AI hearing aid startup that&#160;recently&#160;raised $163&#160;million from the likes of Founders Fund, Thrive Capital, and&#160;Valor Equity [&#8230;]",
-      "link": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/",
-      "date": "Wed, 16 Sep 2026 16:00:00 +0000",
-      "source": "TechCrunch",
-      "cat": "TECH"
-    },
-    {
-      "title": "May Mobility is going public in a $1.4B SPAC deal",
-      "text": "The deal could net the asset-light robotaxi company more than $300 million in funding.",
-      "link": "https://techcrunch.com/2026/09/16/may-mobility-is-going-public-in-a-1-4b-spac-deal/",
-      "date": "Wed, 16 Sep 2026 15:27:13 +0000",
-      "source": "TechCrunch",
-      "cat": "TECH"
-    },
-    {
-      "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-      "text": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
-      "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
-      "date": "Wed, 16 Sep 2026 15:00:00 +0000",
       "source": "TechCrunch",
       "cat": "TECH"
     },
