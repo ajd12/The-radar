@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T21:56:52.433611+00:00",
+  "generated_at": "2026-09-17T00:02:34.470889+00:00",
   "items": [
     {
       "title": "Training a 4B model to produce 81% faster query plans than Postgres",
@@ -8,7 +8,17 @@
       "date": "2026-09-16T18:50:00+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 247,
+      "points": 355,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Nvidia announces native GPU programming in Rust",
+      "text": "Hacker News discussion and source.",
+      "link": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+      "date": "2026-09-16T11:15:53+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 127,
       "kindLabel": "HN API"
     },
     {
@@ -18,7 +28,7 @@
       "date": "2026-09-16T20:59:24+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 44,
+      "points": 116,
       "kindLabel": "HN API"
     },
     {
@@ -28,7 +38,17 @@
       "date": "2026-09-16T20:09:18+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 124,
+      "points": 203,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "The engineering behind the US Strategic Petroleum Reserve",
+      "text": "Hacker News discussion and source.",
+      "link": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
+      "date": "2026-09-15T22:15:25+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 57,
       "kindLabel": "HN API"
     },
     {
@@ -38,27 +58,27 @@
       "date": "2026-09-16T15:56:47+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 310,
+      "points": 364,
       "kindLabel": "HN API"
     },
     {
-      "title": "macOS 27 Golden Gate – Review",
+      "title": "Backups Aren't Simple",
       "text": "Hacker News discussion and source.",
-      "link": "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/",
-      "date": "2026-09-16T19:53:36+00:00",
+      "link": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
+      "date": "2026-09-16T20:27:16+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 69,
+      "points": 40,
       "kindLabel": "HN API"
     },
     {
-      "title": "AWS says it can't restore some data from mideast facilities struck by Iran",
+      "title": "OpenSpec – A lightweight and configurable AI spec framework",
       "text": "Hacker News discussion and source.",
-      "link": "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d",
-      "date": "2026-09-15T21:41:42+00:00",
+      "link": "https://openspec.dev/",
+      "date": "2026-09-16T23:06:39+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 88,
+      "points": 25,
       "kindLabel": "HN API"
     },
     {
@@ -68,17 +88,7 @@
       "date": "2026-09-12T17:02:19+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 67,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Accurate Models of AMD Matrix Cores",
-      "text": "Hacker News discussion and source.",
-      "link": "https://arxiv.org/abs/2609.14845",
-      "date": "2026-09-16T18:56:05+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 45,
+      "points": 125,
       "kindLabel": "HN API"
     },
     {
@@ -88,57 +98,27 @@
       "date": "2026-09-15T12:18:16+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 74,
+      "points": 131,
       "kindLabel": "HN API"
     },
     {
-      "title": "Vectorized and performance-portable Quicksort (2022)",
+      "title": "Australia says it could follow Canada in forging deeper ties with EU",
       "text": "Hacker News discussion and source.",
-      "link": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html",
-      "date": "2026-09-16T18:31:35+00:00",
+      "link": "https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html",
+      "date": "2026-09-16T22:56:48+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 156,
+      "points": 56,
       "kindLabel": "HN API"
     },
     {
-      "title": "How good are frontier models at physics?",
+      "title": "AWS says it can't restore some data from mideast facilities struck by Iran",
       "text": "Hacker News discussion and source.",
-      "link": "https://arxiv.org/abs/2609.13009",
-      "date": "2026-09-16T19:19:08+00:00",
+      "link": "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d",
+      "date": "2026-09-15T21:41:42+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 40,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Anatomy of a Texture",
-      "text": "Hacker News discussion and source.",
-      "link": "https://agentlien.github.io/texture/",
-      "date": "2026-09-16T14:28:28+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 55,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
-      "text": "Hacker News discussion and source.",
-      "link": "https://arxiv.org/abs/2609.14858",
-      "date": "2026-09-16T13:44:40+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 168,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-      "text": "Hacker News discussion and source.",
-      "link": "https://mistral.ai/news/mistral-x-mozilla/",
-      "date": "2026-09-16T08:08:57+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 498,
+      "points": 182,
       "kindLabel": "HN API"
     },
     {
@@ -148,7 +128,37 @@
       "date": "2026-09-12T22:35:25+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 44,
+      "points": 80,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "How good are frontier models at physics?",
+      "text": "Hacker News discussion and source.",
+      "link": "https://arxiv.org/abs/2609.13009",
+      "date": "2026-09-16T19:19:08+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 62,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Reverse-engineered Jev-like model",
+      "text": "Hacker News discussion and source.",
+      "link": "https://github.com/vinnylarouge/jevlike",
+      "date": "2026-09-16T18:49:57+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 51,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Accurate Models of AMD Matrix Cores",
+      "text": "Hacker News discussion and source.",
+      "link": "https://arxiv.org/abs/2609.14845",
+      "date": "2026-09-16T18:56:05+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 54,
       "kindLabel": "HN API"
     },
     {
@@ -158,7 +168,27 @@
       "date": "2026-09-15T12:31:10+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 2014,
+      "points": 2050,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Destroy After Reading: photocopiers,cheap paper and DIY gave metal it's look",
+      "text": "Hacker News discussion and source.",
+      "link": "https://www.truegrittexturesupply.com/blogs/news/destroy-after-reading",
+      "date": "2026-09-14T17:24:19+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 11,
+      "kindLabel": "HN API"
+    },
+    {
+      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+      "text": "Hacker News discussion and source.",
+      "link": "https://mistral.ai/news/mistral-x-mozilla/",
+      "date": "2026-09-16T08:08:57+00:00",
+      "source": "Hacker News",
+      "cat": "TECH",
+      "points": 520,
       "kindLabel": "HN API"
     },
     {
@@ -168,84 +198,54 @@
       "date": "2026-09-14T06:46:26+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 44,
+      "points": 77,
       "kindLabel": "HN API"
     },
     {
-      "title": "The Siberian Ice Maiden and the Scythian World",
+      "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
       "text": "Hacker News discussion and source.",
-      "link": "https://patrickwyman.substack.com/p/the-siberian-ice-maiden-and-the-scythian",
-      "date": "2026-09-15T19:09:09+00:00",
+      "link": "https://arxiv.org/abs/2609.14858",
+      "date": "2026-09-16T13:44:40+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 41,
+      "points": 178,
       "kindLabel": "HN API"
     },
     {
-      "title": "WalShadow: Sub-second Postgres replication to ClickHouse from physical WAL",
+      "title": "Why Does the Universe Expand?",
       "text": "Hacker News discussion and source.",
-      "link": "https://clickhouse.com/blog/introducing-walshadow",
-      "date": "2026-09-11T16:09:09+00:00",
+      "link": "https://cosmicave.org/2026/09/15/why-does-the-universe-expand/",
+      "date": "2026-09-16T19:56:38+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 23,
+      "points": 14,
       "kindLabel": "HN API"
     },
     {
-      "title": "Tell the speakers that you liked their talks",
+      "title": "Anatomy of a Texture",
       "text": "Hacker News discussion and source.",
-      "link": "https://ohhelloana.blog/tell-the-speakers/",
-      "date": "2026-09-15T11:28:19+00:00",
+      "link": "https://agentlien.github.io/texture/",
+      "date": "2026-09-16T14:28:28+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 256,
+      "points": 71,
       "kindLabel": "HN API"
     },
     {
-      "title": "Training Text-to-Image Models 3.6× Faster",
+      "title": "Hackers Got Inside a Flock Camera",
       "text": "Hacker News discussion and source.",
-      "link": "https://www.linum.ai/field-notes/jit-ddt",
-      "date": "2026-09-16T16:58:13+00:00",
+      "link": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
+      "date": "2026-09-16T13:18:47+00:00",
       "source": "Hacker News",
       "cat": "TECH",
-      "points": 13,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Show HN: Restarted – a 2026 remake of the classic 2015 startup generator",
-      "text": "Hacker News discussion and source.",
-      "link": "https://restarted.io/",
-      "date": "2026-09-15T11:34:45+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 12,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "Show HN: AttaLambda: a language where types and data are made of untyped lambdas",
-      "text": "Hacker News discussion and source.",
-      "link": "https://attalambda.com",
-      "date": "2026-09-14T16:21:10+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 27,
-      "kindLabel": "HN API"
-    },
-    {
-      "title": "The DeepMind Institute",
-      "text": "Hacker News discussion and source.",
-      "link": "https://institute.deepmind.com/",
-      "date": "2026-09-16T14:32:11+00:00",
-      "source": "Hacker News",
-      "cat": "TECH",
-      "points": 106,
+      "points": 450,
       "kindLabel": "HN API"
     },
     {
       "title": "Inflection points and transitions in Alzheimer’s disease",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11110-5",
-      "date": "2026-09-16T21:56:50.874362+00:00",
+      "date": "2026-09-17T00:02:32.717714+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -253,7 +253,7 @@
       "title": "Mechanisms of Transcriptional Regulation by Salicylic Acid Receptors",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11123-0",
-      "date": "2026-09-16T21:56:50.874421+00:00",
+      "date": "2026-09-17T00:02:32.717766+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -261,7 +261,7 @@
       "title": "Why most  stars don’t have outbursts like our Sun’s",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02833-6",
-      "date": "2026-09-16T21:56:50.874449+00:00",
+      "date": "2026-09-17T00:02:32.717795+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -269,7 +269,7 @@
       "title": "Transplanted human brain-tissue takes root in mice without a cortex",
       "text": "",
       "link": "https://www.nature.com/articles/d41586-026-02927-1",
-      "date": "2026-09-16T21:56:50.874473+00:00",
+      "date": "2026-09-17T00:02:32.717821+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -277,7 +277,7 @@
       "title": "Development of a random background to understand ligand optimization",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11013-5",
-      "date": "2026-09-16T21:56:50.874531+00:00",
+      "date": "2026-09-17T00:02:32.717881+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -285,7 +285,7 @@
       "title": "Developmental xenocortication using human-derived organoids in mice",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11032-2",
-      "date": "2026-09-16T21:56:50.874587+00:00",
+      "date": "2026-09-17T00:02:32.717939+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -293,7 +293,7 @@
       "title": "Mitochondrial fission factor senses and governs ferroptosis",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11020-6",
-      "date": "2026-09-16T21:56:50.874637+00:00",
+      "date": "2026-09-17T00:02:32.717991+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -301,7 +301,7 @@
       "title": "Reimagining research papers as interactive and reliable AI agents",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11044-y",
-      "date": "2026-09-16T21:56:50.874667+00:00",
+      "date": "2026-09-17T00:02:32.718026+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -309,7 +309,7 @@
       "title": "Electroluminescent photoresists extending lithographic scaling to OLEDs",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11042-0",
-      "date": "2026-09-16T21:56:50.874710+00:00",
+      "date": "2026-09-17T00:02:32.718070+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -317,7 +317,7 @@
       "title": "Continuous-wave laser absorption spectroscopy of the thorium-229 nucleus",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11011-7",
-      "date": "2026-09-16T21:56:50.874759+00:00",
+      "date": "2026-09-17T00:02:32.718120+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -325,7 +325,7 @@
       "title": "Mutational constraints on RSV F and its neutralization by antibodies",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11030-4",
-      "date": "2026-09-16T21:56:50.874792+00:00",
+      "date": "2026-09-17T00:02:32.718161+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -333,7 +333,7 @@
       "title": "Evolution and heterogeneity of lethal metastatic bladder cancer subtypes",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11035-z",
-      "date": "2026-09-16T21:56:50.874872+00:00",
+      "date": "2026-09-17T00:02:32.718262+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -341,7 +341,7 @@
       "title": "Topographic structure and function of locus coeruleus noradrenaline neurons",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11026-0",
-      "date": "2026-09-16T21:56:50.874963+00:00",
+      "date": "2026-09-17T00:02:32.718360+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -349,7 +349,7 @@
       "title": "Overmassive black holes and little red dots naturally form in simulations",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-10985-8",
-      "date": "2026-09-16T21:56:50.874999+00:00",
+      "date": "2026-09-17T00:02:32.718400+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -357,7 +357,7 @@
       "title": "A retinoic acid autoregulatory loop governing prefrontal–motor arealization",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11014-4",
-      "date": "2026-09-16T21:56:50.875042+00:00",
+      "date": "2026-09-17T00:02:32.718445+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -365,7 +365,7 @@
       "title": "Road transport of trapped antiprotons",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11019-z",
-      "date": "2026-09-16T21:56:50.875098+00:00",
+      "date": "2026-09-17T00:02:32.718505+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -373,7 +373,7 @@
       "title": "Transcriptional activation of plant immunity by salicylic acid",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11021-5",
-      "date": "2026-09-16T21:56:50.875137+00:00",
+      "date": "2026-09-17T00:02:32.718549+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -381,7 +381,7 @@
       "title": "Rapid patient-specific neural networks for X-ray to volume registration",
       "text": "",
       "link": "https://www.nature.com/articles/s41586-026-11045-x",
-      "date": "2026-09-16T21:56:50.875170+00:00",
+      "date": "2026-09-17T00:02:32.718585+00:00",
       "source": "Nature",
       "cat": "SCIENCE"
     },
@@ -690,6 +690,14 @@
       "cat": "SCIENCE"
     },
     {
+      "title": "TMLR reached out to the authors of 10 papers slated for desk rejection, in an attempt to understand if the authors could explain the paper they submitted [D]",
+      "text": "You can read more here: https://medium.com/@TmlrOrg/asking-authors-about-their-own-papers-3d2e04e5dee0 The results are (imho) concerning. Taken from the article: Of the ten submissions: Authors of one paper withdrew their submission. Authors of one paper said they were unavailable due to other commitments. Authors of one paper scheduled a meeting but did not show up. Authors of three papers were unable to answer basic questions about the paper. Authors of three papers answered questions about hi",
+      "link": "https://www.reddit.com/r/MachineLearning/comments/1wid67h/tmlr_reached_out_to_the_authors_of_10_papers/",
+      "date": "2026-09-16T23:20:58+00:00",
+      "source": "Reddit · MachineLearning",
+      "cat": "SCIENCE"
+    },
+    {
       "title": "LARA: small, composable behaviours for frozen LLMs [P]",
       "text": "GitHub: https://github.com/pfekin/LARA I&#39;ve been working on LARA (Lightweight Additive Residual Adaptation), a research project on making post-training modular for frozen language models. I&#39;ve also developed a small PyTorch library that implements it. The main idea is to train a low-rank residual adapter at selected layers rather than modifying the model&#39;s weights. The resulting behaviors are small enough to keep separately and can be loaded, removed, blended or routed at inference t",
       "link": "https://www.reddit.com/r/MachineLearning/comments/1whx9tr/lara_small_composable_behaviours_for_frozen_llms_p/",
@@ -810,12 +818,28 @@
       "cat": "SCIENCE"
     },
     {
-      "title": "PhD branding question [R]",
-      "text": "I&#39;m starting a PhD where I will be doing Graph ML (somewhere along the lines of graph signal processing/ graph deep learning.) My eventual goal is research scientist at big tech, or whichever company has a strong research division, where I can continue similar AI/ML work. I have concerns about the job market (both now and in 5 years), and I&#39;m wondering whether I should do my degree under the CS or EE department. For context, my research is within the eecs overlap and this degree would no",
-      "link": "https://www.reddit.com/r/MachineLearning/comments/1wfte3b/phd_branding_question_r/",
-      "date": "2026-09-14T04:26:46+00:00",
-      "source": "Reddit · MachineLearning",
-      "cat": "SCIENCE"
+      "title": "Musk’s long-time backer is giving SpaceX stock to its investors",
+      "text": "Valor Equity Partners is handing out stock to its LPs instead of cash returns.",
+      "link": "https://techcrunch.com/2026/09/16/musks-long-time-backer-is-giving-spacex-stock-to-its-investors/",
+      "date": "Wed, 16 Sep 2026 23:50:07 +0000",
+      "source": "TechCrunch",
+      "cat": "TECH"
+    },
+    {
+      "title": "Al Gore has a surprisingly calm take on the AI data center backlash",
+      "text": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
+      "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+      "date": "Wed, 16 Sep 2026 23:43:09 +0000",
+      "source": "TechCrunch",
+      "cat": "TECH"
+    },
+    {
+      "title": "US automakers could soon be forced to include AM radio for free",
+      "text": "The House of Representatives, in rare bipartisan support, overwhelmingly approved legislation that would require new vehicles to include AM radio.",
+      "link": "https://techcrunch.com/2026/09/16/us-automakers-could-soon-be-forced-to-include-am-radio-for-free/",
+      "date": "Wed, 16 Sep 2026 22:37:08 +0000",
+      "source": "TechCrunch",
+      "cat": "TECH"
     },
     {
       "title": "Noise wants to help everyday people  become paid content creators",
@@ -938,27 +962,19 @@
       "cat": "TECH"
     },
     {
-      "title": "Google says some Pixel phone owners were hacked in zero-day attacks",
-      "text": "The Pixel phone maker said there are indications that a bug in the phone's modem \"may be under limited, targeted exploitation.\"",
-      "link": "https://techcrunch.com/2026/09/16/google-says-some-pixel-phone-owners-were-hacked-in-zero-day-attacks/",
-      "date": "Wed, 16 Sep 2026 14:47:07 +0000",
-      "source": "TechCrunch",
+      "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
+      "text": "Planned 2029 debut could make this Apple’s first enterprise server in decades.",
+      "link": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
+      "date": "Wed, 16 Sep 2026 22:02:46 +0000",
+      "source": "Ars Technica",
       "cat": "TECH"
     },
     {
-      "title": "Amazon gives its workers a raise of $1 per hour",
-      "text": "Amazon's investment in these raises comes out to over $1.5 billion, or about 0.06% of its $2.68 trillion market cap.",
-      "link": "https://techcrunch.com/2026/09/16/amazon-gives-its-workers-a-raise-of-1-per-hour/",
-      "date": "Wed, 16 Sep 2026 14:32:08 +0000",
-      "source": "TechCrunch",
-      "cat": "TECH"
-    },
-    {
-      "title": "Threads’ new features let podcasters promote shows and reach listeners",
-      "text": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger hub for podcast promotion and discussion.",
-      "link": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
-      "date": "Wed, 16 Sep 2026 14:24:58 +0000",
-      "source": "TechCrunch",
+      "title": "Epstein had huge cache of child sex pics; victims sue to find out who's in them",
+      "text": "Survivors appalled nobody will tell them if they’re in Epstein’s CSAM collection.",
+      "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-trump-doj-notified-very-few-victims-in-epsteins-stash-of-child-sex-images/",
+      "date": "Wed, 16 Sep 2026 21:42:09 +0000",
+      "source": "Ars Technica",
       "cat": "TECH"
     },
     {
@@ -1090,19 +1106,27 @@
       "cat": "TECH"
     },
     {
-      "title": "18-year-old dies of measles in PA from severe neurological complication",
-      "text": "Teen developed acute disseminated encephalomyelitis, a known measles complication.",
-      "link": "https://arstechnica.com/health/2026/09/measles-kills-18-year-old-in-pa-fourth-death-as-state-outbreak-nears-700-cases/",
-      "date": "Tue, 15 Sep 2026 18:58:09 +0000",
-      "source": "Ars Technica",
+      "title": "Meet Dyson's New Robot Vacuum Line: The Dyson Nurovi Line (2026)",
+      "text": "The Nurovi line includes three lidar-powered robovacs. But to get the model I’m most intrigued by, you’ll need a Costco membership.",
+      "link": "https://www.wired.com/story/dyson-robot-vacuum-nurovi-line/",
+      "date": "Wed, 16 Sep 2026 23:42:55 +0000",
+      "source": "Wired",
       "cat": "TECH"
     },
     {
-      "title": "SpaceX declares Starship ready for orbit, sets launch date next week",
-      "text": "Reaching orbit would mark a significant milestone.",
-      "link": "https://arstechnica.com/space/2026/09/spacex-sets-launch-date-for-first-starship-orbital-flight/",
-      "date": "Tue, 15 Sep 2026 18:48:08 +0000",
-      "source": "Ars Technica",
+      "title": "Here’s What Snap’s Expensive Specs Can Actually Do",
+      "text": "Snap thinks its chunky, pricey smart glasses are the future of human computing, powered by a new AI app and features that do everything from translating languages to improving your golf swing.",
+      "link": "https://www.wired.com/story/what-snap-expensive-specs-can-actually-do/",
+      "date": "Wed, 16 Sep 2026 23:40:00 +0000",
+      "source": "Wired",
+      "cat": "TECH"
+    },
+    {
+      "title": "OpenAI Creates a New Framework to Disclose Bad AI Behavior",
+      "text": "The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked.",
+      "link": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
+      "date": "Wed, 16 Sep 2026 22:07:24 +0000",
+      "source": "Wired",
       "cat": "TECH"
     },
     {
@@ -1222,30 +1246,6 @@
       "text": "The US and China agree that advanced AI poses serious risks. But Beijing is deeply skeptical of a deal that prioritizes keeping US companies ahead.",
       "link": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/",
       "date": "Wed, 16 Sep 2026 09:30:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "Why It Seems Like Great White Sharks Are Overrunning Maine",
-      "text": "While a bunch of sharks cruising the Maine coast may seem ominous, it’s actually a sign of a conservation success story.",
-      "link": "https://www.wired.com/story/why-great-white-sharks-are-overrunning-maine/",
-      "date": "Wed, 16 Sep 2026 09:15:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "Best 2-in-1 Laptops (2026): Microsoft, Lenovo, and the iPad",
-      "text": "These portable computers balance tablet and laptop functionality, whether you want a screen that detaches or spins.",
-      "link": "https://www.wired.com/story/best-2-in-1-laptops/",
-      "date": "Wed, 16 Sep 2026 09:00:00 +0000",
-      "source": "Wired",
-      "cat": "TECH"
-    },
-    {
-      "title": "Polymarket’s Next Bet? It Can Also Be a Media Company",
-      "text": "The legal battle over whether prediction markets are a form of gambling has overshadowed something else entirely: They’re already a new form of media.",
-      "link": "https://www.wired.com/story/prediction-markets-polymarket-media-company-kalshi/",
-      "date": "Wed, 16 Sep 2026 09:00:00 +0000",
       "source": "Wired",
       "cat": "TECH"
     }
