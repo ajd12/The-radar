@@ -1,0 +1,48 @@
+name: Update Radar Feeds
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */2 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: radar-feed-update
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Fetch and normalize sources
+        run: python scripts/update_feeds.py
+
+      - name: Validate snapshot
+        run: |
+          python - <<'PY'
+          import json
+          with open("data/feeds.json", encoding="utf-8") as f:
+              payload = json.load(f)
+          assert isinstance(payload.get("items"), list)
+          assert isinstance(payload.get("health"), list)
+          print("Validated", len(payload["items"]), "items")
+          PY
+
+      - name: Commit updated snapshot
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+          git add data/feeds.json
+          git diff --cached --quiet || git commit -m "Update Radar feed snapshot"
+          git push
