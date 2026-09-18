@@ -58,3 +58,17 @@ python -m http.server 8000
 Then open `http://localhost:8000/`.
 
 Do not open `index.html` directly with `file://`; browser fetch restrictions will prevent the feed snapshot from loading.
+
+
+## Expanded automotive sources
+
+The feed registry includes Reddit engineering/automotive discussions, selected Substack newsletters, DieselNet, Google News RSS queries for Automotive News and SAE-related technical papers, plus vehicle-connectivity, automotive-cybersecurity, and software-defined-vehicle searches. Reddit is fetched server-side through its public JSON listing endpoint; the browser still consumes only the committed `data/feeds.json` snapshot.
+
+Some publishers do not expose a stable public RSS feed or place content behind a subscription. For those, the registry uses a clearly labelled Google News RSS query rather than pretending it is a direct publisher feed.
+
+
+## Source strategy
+This build includes university/research sources (MIT News, Stanford Engineering, Berkeley transportation research), specialist automotive sources, and consulting/industry-monitoring queries for McKinsey, BCG, Bain, Deloitte, and PwC. Consulting feeds use Google News RSS site queries because many consulting sites do not expose stable public RSS feeds.
+
+## If the website shows no signals
+The browser reads `data/feeds.json`; it does not fetch sources directly. In GitHub, run **Actions → Update Radar Feeds → Run workflow** and confirm that the action commits a changed `data/feeds.json`. If the action fails, open the failed **Fetch and normalize sources** step. The updater records individual source failures in `health` while still writing the snapshot.
