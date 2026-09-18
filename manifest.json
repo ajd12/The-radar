@@ -1,7 +1,8 @@
 {
-  "name": "THE RADAR \u2014 Technology Intelligence",
+  "name": "THE RADAR — Technology Intelligence",
   "short_name": "THE RADAR",
-  "start_url": "./index.html",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#070a11",
   "theme_color": "#080b12",
