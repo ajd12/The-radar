@@ -59,7 +59,9 @@ def normalize(title, summary, link, date, source, category, kind_label):
     text = clean(summary)
     tags = infer_tags(title + " " + text, category)
     novelty = min(98, 35 + len(tags)*7 + (10 if kind_label in ("ARXIV", "PATENT") else 0))
-    momentum = min(98, 40 + (hash(title) % 45))
+    # Avoid Python's process-randomized hash so scores remain stable across runs.
+    stable_hash = sum((i + 1) * ord(ch) for i, ch in enumerate(title))
+    momentum = min(98, 40 + (stable_hash % 45))
     confidence = 78 if kind_label in ("ARXIV", "RSS", "HN API") else 62
     signal = round(0.4*novelty + 0.35*momentum + 0.25*confidence)
     ident = re.sub(r"[^a-z0-9]+", "-", (source + "-" + title).lower()).strip("-")[:150]
@@ -131,6 +133,24 @@ def hacker_news():
             continue
     return output
 
+def reddit_json(url, source, category):
+    data = json.loads(get(url))
+    output = []
+    for child in data.get("data", {}).get("children", []):
+        item = child.get("data", {})
+        title = item.get("title")
+        if not title:
+            continue
+        permalink = item.get("permalink", "")
+        link = ("https://www.reddit.com" + permalink) if permalink else (item.get("url") or url)
+        summary = item.get("selftext") or item.get("url") or "Reddit discussion thread."
+        created = item.get("created_utc")
+        date = datetime.fromtimestamp(created, timezone.utc).isoformat() if created else datetime.now(timezone.utc).isoformat()
+        output.append(normalize(title, summary, link, date, source, category, "Reddit"))
+        if len(output) >= 24:
+            break
+    return output
+
 def arxiv(query, source, category):
     url = "https://export.arxiv.org/api/query?" + urlencode({
         "search_query": query, "start": 0, "max_results": 18,
@@ -149,6 +169,8 @@ def main():
         try:
             if kind == "api" and name == "Hacker News":
                 batch = hacker_news()
+            elif kind == "reddit_json":
+                batch = reddit_json(source["url"], name, category)
             elif kind == "rss":
                 batch = parse_xml(get(source["url"]), name, category, source["url"], "RSS")
             elif kind == "arxiv":
