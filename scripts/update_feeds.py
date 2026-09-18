@@ -1,88 +1,182 @@
-import json, re, time, os
+import json, os, re, time
 from datetime import datetime, timezone
 from urllib.parse import urlencode
 from urllib.request import Request, urlopen
 import xml.etree.ElementTree as ET
 
-UA='The-Radar-Feed-Updater/1.0 (+GitHub Actions)'
-RSS=[
- ('Nature','SCIENCE','https://www.nature.com/nature.rss'),
- ('IEEE Spectrum','TECH','https://spectrum.ieee.org/feeds/feed.rss'),
- ('STAT','HEALTHCARE','https://www.statnews.com/feed/'),
- ('Reddit · MachineLearning','SCIENCE','https://www.reddit.com/r/MachineLearning/.rss'),
- ('Reddit · Robotics','ROBOTICS','https://www.reddit.com/r/robotics/.rss'),
- ('Reddit · Hardware','CHIPS','https://www.reddit.com/r/hardware/.rss'),
- ('TechCrunch','TECH','https://techcrunch.com/feed/'),
- ('Ars Technica','TECH','https://feeds.arstechnica.com/arstechnica/index'),
- ('Wired','TECH','https://www.wired.com/feed/rss'),
-]
+UA = "The-Radar-Feed-Updater/4.0 (+GitHub Actions)"
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DATA_DIR = os.path.join(ROOT, "data")
+REGISTRY_PATH = os.path.join(DATA_DIR, "source-registry.json")
+OUTPUT_PATH = os.path.join(DATA_DIR, "feeds.json")
 
 def get(url):
-    req=Request(url,headers={'User-Agent':UA,'Accept':'application/rss+xml, application/atom+xml, application/xml, text/xml, */*'})
-    with urlopen(req,timeout=25) as r: return r.read()
+    req = Request(url, headers={
+        "User-Agent": UA,
+        "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, application/json, */*"
+    })
+    with urlopen(req, timeout=25) as response:
+        return response.read()
 
-def clean(s):
-    s=re.sub(r'<[^>]+>',' ',s or '')
-    return re.sub(r'\s+',' ',s).strip()[:500]
+def clean(value, limit=650):
+    value = value or ""
+    value = re.sub(r"<script.*?</script>|<style.*?</style>", " ", value, flags=re.I|re.S)
+    value = re.sub(r"<[^>]+>", " ", value)
+    value = re.sub(r"\s+", " ", value).strip()
+    return value[:limit]
 
-def tag(el,n):
-    for c in list(el):
-        if c.tag.split('}')[-1].lower()==n.lower(): return (c.text or '').strip()
-    return ''
+def local_name(tag):
+    return tag.split("}")[-1].lower()
 
-def parse_xml(data,source,base):
-    root=ET.fromstring(data); out=[]
-    for n in root.iter():
-        if n.tag.split('}')[-1].lower() not in ('item','entry'): continue
-        title=tag(n,'title') or 'Untitled'; text=clean(tag(n,'description') or tag(n,'summary') or tag(n,'content'))
-        link=tag(n,'link')
+def child_text(node, names):
+    names = {n.lower() for n in names}
+    for child in list(node):
+        if local_name(child.tag) in names:
+            return "".join(child.itertext()).strip()
+    return ""
+
+def parse_xml(data, source, category, base_url, kind_label="RSS"):
+    root = ET.fromstring(data)
+    output = []
+    for node in root.iter():
+        if local_name(node.tag) not in ("item", "entry"):
+            continue
+        title = child_text(node, ["title"]) or "Untitled signal"
+        summary = child_text(node, ["description", "summary", "content", "encoded"])
+        link = child_text(node, ["link"])
         if not link:
-            for c in list(n):
-                if c.tag.split('}')[-1].lower()=='link' and c.attrib.get('href'): link=c.attrib['href']; break
-        date=tag(n,'pubDate') or tag(n,'published') or tag(n,'updated') or datetime.now(timezone.utc).isoformat()
-        out.append({'title':title,'text':text,'link':link or base,'date':date,'source':source,'cat':base})
-        if len(out)>=18: break
-    return out
+            for child in list(node):
+                if local_name(child.tag) == "link" and child.attrib.get("href"):
+                    link = child.attrib["href"]
+                    break
+        date = child_text(node, ["pubDate", "published", "updated", "date"]) or datetime.now(timezone.utc).isoformat()
+        output.append(normalize(title, summary, link or base_url, date, source, category, kind_label))
+        if len(output) >= 24:
+            break
+    return output
 
-def hn():
-    ids=json.loads(get('https://hacker-news.firebaseio.com/v0/topstories.json'))[:24]
-    out=[]
-    for i in ids:
+def normalize(title, summary, link, date, source, category, kind_label):
+    text = clean(summary)
+    tags = infer_tags(title + " " + text, category)
+    novelty = min(98, 35 + len(tags)*7 + (10 if kind_label in ("ARXIV", "PATENT") else 0))
+    momentum = min(98, 40 + (hash(title) % 45))
+    confidence = 78 if kind_label in ("ARXIV", "RSS", "HN API") else 62
+    signal = round(0.4*novelty + 0.35*momentum + 0.25*confidence)
+    ident = re.sub(r"[^a-z0-9]+", "-", (source + "-" + title).lower()).strip("-")[:150]
+    return {
+        "id": ident,
+        "title": clean(title, 300),
+        "summary": text or "Source item available; open the source for details.",
+        "text": text,
+        "link": link,
+        "date": date,
+        "source": source,
+        "category": category,
+        "topic": topic_for(category, tags),
+        "kind_label": kind_label,
+        "tags": tags,
+        "novelty_score": novelty,
+        "momentum_score": momentum,
+        "confidence_score": confidence,
+        "signal_score": signal
+    }
+
+def infer_tags(text, category):
+    t = text.lower()
+    candidates = [
+        ("SDV", ["software-defined vehicle", "sdv", "vehicle compute", "zonal"]),
+        ("HPC", ["high-performance compute", "hpc", "central compute", "accelerator"]),
+        ("AUTOSAR", ["autosar"]),
+        ("FOTA", ["fota", "over-the-air", "ota update"]),
+        ("Chiplets", ["chiplet", "chiplet"]),
+        ("Packaging", ["advanced packaging", "2.5d", "3d integration"]),
+        ("Robotics", ["robot", "robotics", "manipulation"]),
+        ("AI", ["artificial intelligence", "machine learning", "foundation model", "neural"]),
+        ("Semiconductors", ["semiconductor", "chip", "transistor", "gpu", "npu"]),
+        ("Energy", ["battery", "solar", "nuclear", "hydrogen", "energy"]),
+        ("Digital Twins", ["digital twin"]),
+        ("Cybersecurity", ["cybersecurity", "security", "vulnerability"]),
+        ("Biotech", ["biotech", "gene", "crispr", "clinical"]),
+        ("Control", ["control system", "lqr", "pid", "autonomous"]),
+        ("Materials", ["material", "graphene", "catalyst", "alloy"])
+    ]
+    tags = [label for label, words in candidates if any(w in t for w in words)]
+    if category not in ("TECH", "SCIENCE") and category.title() not in tags:
+        tags.insert(0, category.title())
+    return tags[:7] or [category.title()]
+
+def topic_for(category, tags):
+    if "SDV" in tags or "AUTOSAR" in tags or "FOTA" in tags or "HPC" in tags: return "Automotive"
+    if "Chiplets" in tags or "Packaging" in tags or "Semiconductors" in tags: return "Semiconductors"
+    if "Robotics" in tags: return "Robotics"
+    if "Energy" in tags: return "Energy"
+    if "Biotech" in tags: return "Healthcare"
+    if "Materials" in tags: return "Materials"
+    return category.title()
+
+def hacker_news():
+    ids = json.loads(get("https://hacker-news.firebaseio.com/v0/topstories.json"))[:30]
+    output = []
+    for story_id in ids:
         try:
-            x=json.loads(get(f'https://hacker-news.firebaseio.com/v0/item/{i}.json'))
-            if x.get('title'): out.append({'title':x['title'],'text':'Hacker News discussion and source.','link':x.get('url') or f'https://news.ycombinator.com/item?id={i}','date':datetime.fromtimestamp(x.get('time',time.time()),timezone.utc).isoformat(),'source':'Hacker News','cat':'TECH','points':x.get('score',0),'kindLabel':'HN API'})
-        except Exception: pass
-    return out
+            item = json.loads(get(f"https://hacker-news.firebaseio.com/v0/item/{story_id}.json"))
+            if item.get("title"):
+                output.append(normalize(
+                    item["title"], "Hacker News discussion and linked source.",
+                    item.get("url") or f"https://news.ycombinator.com/item?id={story_id}",
+                    datetime.fromtimestamp(item.get("time", time.time()), timezone.utc).isoformat(),
+                    "Hacker News", "TECH", "HN API"
+                ))
+        except Exception:
+            continue
+    return output
 
-def arxiv(query,name,cat):
-    url='https://export.arxiv.org/api/query?'+urlencode({'search_query':query,'start':0,'max_results':15,'sortBy':'submittedDate','sortOrder':'descending'})
-    root=ET.fromstring(get(url)); out=[]
-    for n in root.iter():
-        if n.tag.split('}')[-1]!='entry': continue
-        title=tag(n,'title'); summary=clean(tag(n,'summary')); ident=tag(n,'id'); pub=tag(n,'published')
-        if title: out.append({'title':title,'text':summary,'link':ident,'date':pub,'source':name,'cat':cat,'kindLabel':'ARXIV'})
-    return out
+def arxiv(query, source, category):
+    url = "https://export.arxiv.org/api/query?" + urlencode({
+        "search_query": query, "start": 0, "max_results": 18,
+        "sortBy": "submittedDate", "sortOrder": "descending"
+    })
+    return parse_xml(get(url), source, category, "https://arxiv.org", "ARXIV")
 
 def main():
-    items=[]; health=[]
-    try:
-        x=hn(); items+=x; health.append({'name':'Hacker News','ok':True,'count':len(x)})
-    except Exception as e: health.append({'name':'Hacker News','ok':False,'count':0,'error':str(e)})
-    for query,name,cat in [('cat:cs.LG OR cat:cs.AI','arXiv · AI/ML','SCIENCE'),('cat:cs.DC OR cat:eess.SY','arXiv · Systems','TECH')]:
+    with open(REGISTRY_PATH, encoding="utf-8") as f:
+        registry = json.load(f)
+    items, health = [], []
+    for source in registry["sources"]:
+        if not source.get("enabled", True):
+            continue
+        name, category, kind = source["name"], source["category"], source["kind"]
         try:
-            x=arxiv(query,name,cat); items+=x; health.append({'name':name,'ok':True,'count':len(x)})
-        except Exception as e: health.append({'name':name,'ok':False,'count':0,'error':str(e)})
-    for name,cat,url in RSS:
-        try:
-            x=parse_xml(get(url),name,cat); items+=x; health.append({'name':name,'ok':True,'count':len(x)})
-        except Exception as e: health.append({'name':name,'ok':False,'count':0,'error':str(e)})
-    # De-duplicate exact titles, keep first source.
-    seen=set(); ded=[]
-    for x in items:
-        k=re.sub(r'\W+',' ',x['title'].lower()).strip()
-        if k and k not in seen: seen.add(k); ded.append(x)
-    payload={'generated_at':datetime.now(timezone.utc).isoformat(),'items':ded[:220],'health':health}
-    p='data/feeds.json'; os.makedirs(os.path.dirname(p), exist_ok=True); open(p,'w',encoding='utf-8').write(json.dumps(payload,ensure_ascii=False,indent=2))
-    print('Wrote',p,'with',len(ded),'items')
+            if kind == "api" and name == "Hacker News":
+                batch = hacker_news()
+            elif kind == "rss":
+                batch = parse_xml(get(source["url"]), name, category, source["url"], "RSS")
+            elif kind == "arxiv":
+                batch = arxiv(source["query"], name, category)
+            else:
+                batch = []
+            items.extend(batch)
+            health.append({"name": name, "ok": True, "count": len(batch)})
+        except Exception as exc:
+            health.append({"name": name, "ok": False, "count": 0, "error": str(exc)[:220]})
+    dedup, seen = [], set()
+    for item in items:
+        key = item["link"] or item["title"].lower()
+        if key in seen:
+            continue
+        seen.add(key)
+        dedup.append(item)
+    dedup.sort(key=lambda x: x.get("date", ""), reverse=True)
+    payload = {
+        "schema_version": "1.0.0",
+        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "items": dedup[:300],
+        "health": health
+    }
+    os.makedirs(DATA_DIR, exist_ok=True)
+    with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
+        json.dump(payload, f, ensure_ascii=False, indent=2)
+    print(f"Wrote {OUTPUT_PATH} with {len(dedup[:300])} items")
 
-if __name__=='__main__': main()
+if __name__ == "__main__":
+    main()
