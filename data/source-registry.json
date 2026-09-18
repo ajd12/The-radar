@@ -1,0 +1,97 @@
+{
+  "version": "1.0.0",
+  "policy": "Sources are fetched server-side by GitHub Actions. The browser consumes only the committed snapshot.",
+  "sources": [
+    {
+      "name": "Hacker News",
+      "kind": "api",
+      "category": "TECH",
+      "url": "https://hacker-news.firebaseio.com/v0/topstories.json",
+      "enabled": true
+    },
+    {
+      "name": "Nature",
+      "kind": "rss",
+      "category": "SCIENCE",
+      "url": "https://www.nature.com/nature.rss",
+      "enabled": true
+    },
+    {
+      "name": "IEEE Spectrum",
+      "kind": "rss",
+      "category": "TECH",
+      "url": "https://spectrum.ieee.org/feeds/feed.rss",
+      "enabled": true
+    },
+    {
+      "name": "TechCrunch",
+      "kind": "rss",
+      "category": "TECH",
+      "url": "https://techcrunch.com/feed/",
+      "enabled": true
+    },
+    {
+      "name": "Ars Technica",
+      "kind": "rss",
+      "category": "TECH",
+      "url": "https://feeds.arstechnica.com/arstechnica/index",
+      "enabled": true
+    },
+    {
+      "name": "Wired",
+      "kind": "rss",
+      "category": "TECH",
+      "url": "https://www.wired.com/feed/rss",
+      "enabled": true
+    },
+    {
+      "name": "Reddit · MachineLearning",
+      "kind": "rss",
+      "category": "SCIENCE",
+      "url": "https://www.reddit.com/r/MachineLearning/.rss",
+      "enabled": true
+    },
+    {
+      "name": "Reddit · Robotics",
+      "kind": "rss",
+      "category": "ROBOTICS",
+      "url": "https://www.reddit.com/r/robotics/.rss",
+      "enabled": true
+    },
+    {
+      "name": "Reddit · Hardware",
+      "kind": "rss",
+      "category": "CHIPS",
+      "url": "https://www.reddit.com/r/hardware/.rss",
+      "enabled": true
+    },
+    {
+      "name": "arXiv · AI/ML",
+      "kind": "arxiv",
+      "category": "SCIENCE",
+      "query": "cat:cs.AI OR cat:cs.LG",
+      "enabled": true
+    },
+    {
+      "name": "arXiv · Systems",
+      "kind": "arxiv",
+      "category": "TECH",
+      "query": "cat:cs.DC OR cat:eess.SY",
+      "enabled": true
+    },
+    {
+      "name": "arXiv · Robotics",
+      "kind": "arxiv",
+      "category": "ROBOTICS",
+      "query": "cat:cs.RO",
+      "enabled": true
+    },
+    {
+      "name": "arXiv · Automotive/Control",
+      "kind": "arxiv",
+      "category": "AUTOMOTIVE",
+      "query": "all:\"vehicle\" AND (cat:eess.SY OR cat:cs.RO)",
+      "enabled": true
+    }
+  ]
+}

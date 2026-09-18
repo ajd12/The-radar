@@ -1,0 +1,167 @@
+{
+  "version": "1.0.0",
+  "purpose": "A practical ontology for cross-industry technology signals, with explicit automotive software design, development, testing and release concepts.",
+  "entities": {
+    "Signal": {
+      "fields": [
+        "id",
+        "title",
+        "summary",
+        "date",
+        "source",
+        "link",
+        "category",
+        "topic",
+        "kind_label",
+        "tags",
+        "signal_score",
+        "novelty_score",
+        "momentum_score",
+        "confidence_score"
+      ]
+    },
+    "Technology": {
+      "examples": [
+        "SDV",
+        "HPC",
+        "chiplet",
+        "advanced packaging",
+        "robotics",
+        "digital twin",
+        "foundation model"
+      ]
+    },
+    "Organization": {
+      "examples": [
+        "OEM",
+        "Tier-1",
+        "semiconductor vendor",
+        "research institute",
+        "startup",
+        "regulator"
+      ]
+    },
+    "Artifact": {
+      "examples": [
+        "paper",
+        "patent",
+        "standard",
+        "software release",
+        "benchmark",
+        "dataset",
+        "press release"
+      ]
+    },
+    "AutomotiveSystem": {
+      "examples": [
+        "vehicle compute platform",
+        "zonal architecture",
+        "powertrain ECU",
+        "ADAS stack",
+        "vehicle network",
+        "cloud backend"
+      ]
+    },
+    "SoftwareLifecycle": {
+      "examples": [
+        "requirements",
+        "architecture",
+        "design",
+        "implementation",
+        "integration",
+        "verification",
+        "validation",
+        "release",
+        "FOTA",
+        "field monitoring"
+      ]
+    },
+    "QualityConcept": {
+      "examples": [
+        "functional safety",
+        "SOTIF",
+        "cybersecurity",
+        "reliability",
+        "maintainability",
+        "test coverage",
+        "defect leakage",
+        "release confidence"
+      ]
+    },
+    "Evidence": {
+      "examples": [
+        "peer-reviewed paper",
+        "preprint",
+        "patent publication",
+        "official release note",
+        "regulatory document",
+        "company announcement",
+        "community discussion"
+      ]
+    }
+  },
+  "relations": [
+    "Signal mentions Technology",
+    "Signal produced_by Organization",
+    "Signal evidenced_by Artifact",
+    "Artifact supports Evidence",
+    "AutomotiveSystem implements Technology",
+    "SoftwareLifecycle validates AutomotiveSystem",
+    "QualityConcept constrains SoftwareLifecycle",
+    "Signal affects SoftwareLifecycle",
+    "Signal affects QualityConcept",
+    "Signal belongs_to Topic"
+  ],
+  "automotive_subgraph": {
+    "design": [
+      "vehicle feature",
+      "system requirement",
+      "software requirement",
+      "logical architecture",
+      "deployment architecture",
+      "timing budget",
+      "resource budget",
+      "safety concept",
+      "cybersecurity concept",
+      "interface contract"
+    ],
+    "development": [
+      "branch",
+      "commit",
+      "build",
+      "static analysis",
+      "unit test",
+      "component test",
+      "integration test",
+      "simulation",
+      "HIL",
+      "vehicle test",
+      "calibration",
+      "artifact version",
+      "release candidate"
+    ],
+    "testing": [
+      "test case",
+      "test result",
+      "coverage",
+      "traceability",
+      "fault injection",
+      "regression",
+      "performance benchmark",
+      "robustness test",
+      "safety validation",
+      "field validation"
+    ],
+    "release_intelligence": [
+      "change impact",
+      "defect trend",
+      "test confidence",
+      "release risk",
+      "rollback readiness",
+      "FOTA cohort",
+      "field telemetry",
+      "software bill of materials",
+      "approval gate"
+    ]
+  }
+}
