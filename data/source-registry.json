@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "policy": "Sources are fetched server-side by GitHub Actions. The browser consumes only the committed snapshot.",
   "sources": [
     {
@@ -91,6 +91,195 @@
       "kind": "arxiv",
       "category": "AUTOMOTIVE",
       "query": "all:\"vehicle\" AND (cat:eess.SY OR cat:cs.RO)",
+      "enabled": true
+    },
+    {
+      "name": "Reddit · AutomotiveEngineering",
+      "kind": "reddit_json",
+      "category": "AUTOMOTIVE",
+      "url": "https://www.reddit.com/r/AutomotiveEngineering/new.json?limit=25",
+      "enabled": true
+    },
+    {
+      "name": "Reddit · Cars",
+      "kind": "reddit_json",
+      "category": "AUTOMOTIVE",
+      "url": "https://www.reddit.com/r/cars/new.json?limit=25",
+      "enabled": true
+    },
+    {
+      "name": "Reddit · Diesel",
+      "kind": "reddit_json",
+      "category": "AUTOMOTIVE",
+      "url": "https://www.reddit.com/r/Diesel/new.json?limit=25",
+      "enabled": true
+    },
+    {
+      "name": "Reddit · AskEngineers",
+      "kind": "reddit_json",
+      "category": "SCIENCE",
+      "url": "https://www.reddit.com/r/AskEngineers/new.json?limit=25",
+      "enabled": true
+    },
+    {
+      "name": "Substack · AutomotiveCloudWatch",
+      "kind": "rss",
+      "category": "AUTOMOTIVE",
+      "url": "https://automotivecloudwatch.substack.com/feed",
+      "enabled": true
+    },
+    {
+      "name": "Substack · Autowist",
+      "kind": "rss",
+      "category": "AUTOMOTIVE",
+      "url": "https://autowist.substack.com/feed",
+      "enabled": true
+    },
+    {
+      "name": "Substack · Aaron on Autos",
+      "kind": "rss",
+      "category": "AUTOMOTIVE",
+      "url": "https://aarononautos.substack.com/feed",
+      "enabled": true
+    },
+    {
+      "name": "DieselNet",
+      "kind": "rss",
+      "category": "AUTOMOTIVE",
+      "url": "https://dieselnet.com/rss.xml",
+      "enabled": true
+    },
+    {
+      "name": "Google News · Automotive News",
+      "kind": "rss",
+      "category": "AUTOMOTIVE",
+      "url": "https://news.google.com/rss/search?q=site%3Aautonews.com+automotive&hl=en-US&gl=US&ceid=US:en",
+      "enabled": true
+    },
+    {
+      "name": "Google News · SAE Technical Papers",
+      "kind": "rss",
+      "category": "AUTOMOTIVE",
+      "url": "https://news.google.com/rss/search?q=site%3Asaemobilus.sae.org+automotive+engineering&hl=en-US&gl=US&ceid=US:en",
+      "enabled": true
+    },
+    {
+      "name": "Google News · SAE International",
+      "kind": "rss",
+      "category": "AUTOMOTIVE",
+      "url": "https://news.google.com/rss/search?q=site%3Asae.org+automotive+engineering&hl=en-US&gl=US&ceid=US:en",
+      "enabled": true
+    },
+    {
+      "name": "Google News · Vehicle Connectivity",
+      "kind": "rss",
+      "category": "AUTOMOTIVE",
+      "url": "https://news.google.com/rss/search?q=automotive+connectivity+V2X+5G+connected+vehicle&hl=en-US&gl=US&ceid=US:en",
+      "enabled": true
+    },
+    {
+      "name": "Google News · Automotive Cybersecurity",
+      "kind": "rss",
+      "category": "AUTOMOTIVE",
+      "url": "https://news.google.com/rss/search?q=automotive+vehicle+cybersecurity+UNECE+R155+R156&hl=en-US&gl=US&ceid=US:en",
+      "enabled": true
+    },
+    {
+      "name": "Google News · Software-Defined Vehicles",
+      "kind": "rss",
+      "category": "AUTOMOTIVE",
+      "url": "https://news.google.com/rss/search?q=%22software-defined+vehicle%22+OR+SDV+automotive&hl=en-US&gl=US&ceid=US:en",
+      "enabled": true
+    },
+    {
+      "name": "MIT News · Research",
+      "kind": "rss",
+      "category": "SCIENCE",
+      "url": "https://news.mit.edu/rss/research",
+      "enabled": true
+    },
+    {
+      "name": "MIT News · Engineering",
+      "kind": "rss",
+      "category": "TECH",
+      "url": "https://news.mit.edu/rss/school/engineering",
+      "enabled": true
+    },
+    {
+      "name": "MIT News · Autonomous Vehicles",
+      "kind": "rss",
+      "category": "AUTOMOTIVE",
+      "url": "https://news.mit.edu/rss/topic/autonomous-vehicles",
+      "enabled": true
+    },
+    {
+      "name": "MIT News · Electric Vehicles",
+      "kind": "rss",
+      "category": "AUTOMOTIVE",
+      "url": "https://news.mit.edu/rss/topic/electric-vehicles",
+      "enabled": true
+    },
+    {
+      "name": "MIT Technology Review · AI",
+      "kind": "rss",
+      "category": "TECH",
+      "url": "https://www.technologyreview.com/feed/",
+      "enabled": true
+    },
+    {
+      "name": "Stanford Engineering",
+      "kind": "rss",
+      "category": "SCIENCE",
+      "url": "https://engineering.stanford.edu/magazine/rss.xml",
+      "enabled": true
+    },
+    {
+      "name": "Berkeley Transportation Sustainability Research Center",
+      "kind": "rss",
+      "category": "AUTOMOTIVE",
+      "url": "https://tsrc.berkeley.edu/rss.xml",
+      "enabled": true
+    },
+    {
+      "name": "Google News · University Automotive Research",
+      "kind": "rss",
+      "category": "AUTOMOTIVE",
+      "url": "https://news.google.com/rss/search?q=(automotive+OR+vehicle+OR+mobility)+(university+OR+research+OR+laboratory)+engineering&hl=en-US&gl=US&ceid=US:en",
+      "enabled": true
+    },
+    {
+      "name": "Google News · McKinsey Automotive",
+      "kind": "rss",
+      "category": "AUTOMOTIVE",
+      "url": "https://news.google.com/rss/search?q=site%3Amckinsey.com+automotive+OR+mobility+OR+electric+vehicle+OR+software-defined+vehicle&hl=en-US&gl=US&ceid=US:en",
+      "enabled": true
+    },
+    {
+      "name": "Google News · BCG Automotive",
+      "kind": "rss",
+      "category": "AUTOMOTIVE",
+      "url": "https://news.google.com/rss/search?q=site%3Abcg.com+automotive+OR+mobility+OR+electric+vehicle+OR+software-defined+vehicle&hl=en-US&gl=US&ceid=US:en",
+      "enabled": true
+    },
+    {
+      "name": "Google News · Bain Mobility",
+      "kind": "rss",
+      "category": "AUTOMOTIVE",
+      "url": "https://news.google.com/rss/search?q=site%3Abain.com+automotive+OR+mobility+OR+electric+vehicle&hl=en-US&gl=US&ceid=US:en",
+      "enabled": true
+    },
+    {
+      "name": "Google News · Deloitte Automotive",
+      "kind": "rss",
+      "category": "AUTOMOTIVE",
+      "url": "https://news.google.com/rss/search?q=site%3Adeloitte.com+automotive+OR+mobility+OR+electric+vehicle+OR+SDV&hl=en-US&gl=US&ceid=US:en",
+      "enabled": true
+    },
+    {
+      "name": "Google News · PwC Automotive",
+      "kind": "rss",
+      "category": "AUTOMOTIVE",
+      "url": "https://news.google.com/rss/search?q=site%3Apwc.com+automotive+OR+mobility+OR+electric+vehicle&hl=en-US&gl=US&ceid=US:en",
       "enabled": true
     }
   ]
