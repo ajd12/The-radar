@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-09-20T16:10:15.282160+00:00",
+  "generated_at": "2026-09-20T18:50:25.281468+00:00",
   "items": [
     {
       "id": "google-news-vehicle-connectivity-sensors-and-connectivity-make-autonomous-driving-smarter-embedded-com",
@@ -42,10 +42,10 @@
       "signal_score": 64
     },
     {
-      "id": "google-news-pwc-automotive-electric-vehicle-sales-review-q3-2025-pwc",
-      "title": "Electric Vehicle Sales Review Q3-2025 - PwC",
-      "summary": "Electric Vehicle Sales Review Q3-2025 &nbsp;&nbsp; PwC",
-      "text": "Electric Vehicle Sales Review Q3-2025 &nbsp;&nbsp; PwC",
+      "id": "google-news-pwc-automotive-electric-vehicle-sales-review-q3-2025-strategyand-pwc-com",
+      "title": "Electric Vehicle Sales Review Q3-2025 - strategyand.pwc.com",
+      "summary": "Electric Vehicle Sales Review Q3-2025 &nbsp;&nbsp; strategyand.pwc.com",
+      "text": "Electric Vehicle Sales Review Q3-2025 &nbsp;&nbsp; strategyand.pwc.com",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWkw0Y0JpaGtOU0IwQUladXZCUjJrNjlvM2VmMmczdFM5RUdNRUZLbEtHT2J6VVRvYW0tbUlTQ0I0VHdzUWtFNjA1a0p1RjhSSUJzampocGN0WTBmanJJazJxT25jSDNnVS1CV1NZaHpSNEdKbEhLanREMndHTUJCSGJCa1RRMF9pUDEzN1N1bUw4Yld5dXM4bjk1UENQV09TdnN3Yw?oc=5",
       "date": "Wed, 29 Oct 2025 07:00:00 GMT",
       "source": "Google News · PwC Automotive",
@@ -56,9 +56,9 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 81,
+      "momentum_score": 54,
       "confidence_score": 78,
-      "signal_score": 65
+      "signal_score": 55
     },
     {
       "id": "mit-news-electric-vehicles-getting-to-systemic-sustainability",
@@ -80,10 +80,10 @@
       "signal_score": 53
     },
     {
-      "id": "google-news-software-defined-vehicles-manufacturing-is-following-automotive-s-software-defined-vehicle-blueprint-here-s-why-omdia",
-      "title": "Manufacturing is following automotive's software-defined vehicle blueprint—here's why - Omdia",
-      "summary": "Manufacturing is following automotive's software-defined vehicle blueprint—here's why &nbsp;&nbsp; Omdia",
-      "text": "Manufacturing is following automotive's software-defined vehicle blueprint—here's why &nbsp;&nbsp; Omdia",
+      "id": "google-news-software-defined-vehicles-manufacturing-is-following-automotive-s-software-defined-vehicle-blueprint-here-s-why-omdia-tech-informa-com",
+      "title": "Manufacturing is following automotive's software-defined vehicle blueprint—here's why - omdia.tech.informa.com",
+      "summary": "Manufacturing is following automotive's software-defined vehicle blueprint—here's why &nbsp;&nbsp; omdia.tech.informa.com",
+      "text": "Manufacturing is following automotive's software-defined vehicle blueprint—here's why &nbsp;&nbsp; omdia.tech.informa.com",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcEZOaGJaeTNKdzhUdDBRMngwbWJUWkVzX3RkejlIN09Rb0lCcl9Ocl8wQU1raUR4bFM4dWFxblc3RmlzTlNtYTUtWnJRSncxQ3ZWS0xLb3U1RWdzTkFzSUxyYWhXa2JfcVZ5bGthcUhJV1JzcXVJTlU2b0p5V1BPeVJKejZ5X3E0Z2F6TjB6TU9qR3QteFF6cGhqU3c0Ti01RzVRR2FiajJsRGFveDl0UWtsZGc2YWFlbXJHVHZyZTY5VnFtQzR0b0tR?oc=5",
       "date": "Wed, 29 Jul 2026 07:00:00 GMT",
       "source": "Google News · Software-Defined Vehicles",
@@ -95,9 +95,29 @@
         "SDV"
       ],
       "novelty_score": 49,
-      "momentum_score": 46,
+      "momentum_score": 41,
       "confidence_score": 78,
-      "signal_score": 55
+      "signal_score": 53
+    },
+    {
+      "id": "google-news-software-defined-vehicles-infineon-launches-an-automotive-efuse-for-sdv-designs-automotive-world",
+      "title": "Infineon launches an automotive eFuse for SDV designs - Automotive World",
+      "summary": "Infineon launches an automotive eFuse for SDV designs &nbsp;&nbsp; Automotive World",
+      "text": "Infineon launches an automotive eFuse for SDV designs &nbsp;&nbsp; Automotive World",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQd0V1aHdyZXByQkpWT3k2eGZWd1piakNkc1Q4Z2RXLUZyVFIxeS1DMERhWE1NTWhpOVdyVkZOQmdzdF95amwyMk42ZVozNERrd3h4bzQtRm14aGkxVlhrYVo0WVBXQng4clk4RnIwaWpJZW1wWXlqMDhaZ1V5XzBFSEFfSnZpTnlEMENVSnRDVjR5aHJ6?oc=5",
+      "date": "Wed, 29 Jul 2026 07:00:00 GMT",
+      "source": "Google News · Software-Defined Vehicles",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive",
+        "SDV"
+      ],
+      "novelty_score": 49,
+      "momentum_score": 40,
+      "confidence_score": 78,
+      "signal_score": 53
     },
     {
       "id": "google-news-bcg-automotive-almost-40-of-european-high-end-buyers-are-looking-to-purchase-their-first-electric-vehicle-in-the-next-12-months-if-the-pro",
@@ -115,25 +135,6 @@
       ],
       "novelty_score": 42,
       "momentum_score": 67,
-      "confidence_score": 78,
-      "signal_score": 60
-    },
-    {
-      "id": "google-news-vehicle-connectivity-6g-adas-more-a-look-at-present-future-connected-vehicles-repairerdrivennews-com",
-      "title": "6G, ADAS & more: A look at present & future connected vehicles - repairerdrivennews.com",
-      "summary": "6G, ADAS & more: A look at present & future connected vehicles &nbsp;&nbsp; repairerdrivennews.com",
-      "text": "6G, ADAS & more: A look at present & future connected vehicles &nbsp;&nbsp; repairerdrivennews.com",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRnlOQzRVRWp6Z2NPSEV1OTF0Mm9XajFrSjRSek5GcHZ1YnhwbEhRZ2tIejhudHpLemdTTllIRTlpV2dmN1JYSnpCNS1QT0dDeXVvR2o0Mmpqem40eVBLSU1xbl96M1I4R0tVVUdJODFVTlkyYWxrRmhNUDkxVkRSNWJveUZ0OFk4UDZkRFcwTWplTmV5dzZWM01VZUZhNXZyenR6UEpn?oc=5",
-      "date": "Wed, 26 Oct 2022 07:00:00 GMT",
-      "source": "Google News · Vehicle Connectivity",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 69,
       "confidence_score": 78,
       "signal_score": 60
     },
@@ -216,10 +217,10 @@
       "signal_score": 51
     },
     {
-      "id": "google-news-software-defined-vehicles-open-source-automotive-ecosystem-targets-sdvs-electronicdesign-com",
-      "title": "Open-Source Automotive Ecosystem Targets SDVs - electronicdesign.com",
-      "summary": "Open-Source Automotive Ecosystem Targets SDVs &nbsp;&nbsp; electronicdesign.com",
-      "text": "Open-Source Automotive Ecosystem Targets SDVs &nbsp;&nbsp; electronicdesign.com",
+      "id": "google-news-software-defined-vehicles-open-source-automotive-ecosystem-targets-sdvs-electronic-design",
+      "title": "Open-Source Automotive Ecosystem Targets SDVs - Electronic Design",
+      "summary": "Open-Source Automotive Ecosystem Targets SDVs &nbsp;&nbsp; Electronic Design",
+      "text": "Open-Source Automotive Ecosystem Targets SDVs &nbsp;&nbsp; Electronic Design",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMEZwSHZJUEJqOGt0Y1ZvUWx5Mkdod0R6NGVNeDVKQVEyZXhmYV8wMlpXOE5rV3VJa0doYUJiSnotQTZmYmdSYzV3aTY4TnE3UjJxZ2JaOVMyY0NVWjVqZHYxWVNuUTFCcXZkWktTTjJsMUI2NXVmYm50elV1Q0lMWUdyQjZ4QTFFQU13ZFlURkN4cFVsZDUxZjJqcXgwMVhEWmxXcmExMDl3Vlo0OXBtZElJOEtWNFpTUC02WnU0ZG5pUWo2bGEyMU8tY3VuTlRmU3NlUDVkZ2EwYXVTa0U2VGRPanN6VXlSMHkxREhRQVJzZw?oc=5",
       "date": "Wed, 24 Jun 2026 07:00:00 GMT",
       "source": "Google News · Software-Defined Vehicles",
@@ -231,28 +232,30 @@
         "SDV"
       ],
       "novelty_score": 49,
-      "momentum_score": 56,
+      "momentum_score": 52,
       "confidence_score": 78,
-      "signal_score": 59
+      "signal_score": 57
     },
     {
-      "id": "google-news-automotive-cybersecurity-blue-cloud-softech-partners-connectm-for-edgeai-soc-passionate-in-marketing",
-      "title": "Blue Cloud Softech Partners ConnectM For EdgeAI SoC - Passionate In Marketing",
-      "summary": "Blue Cloud Softech Partners ConnectM For EdgeAI SoC &nbsp;&nbsp; Passionate In Marketing",
-      "text": "Blue Cloud Softech Partners ConnectM For EdgeAI SoC &nbsp;&nbsp; Passionate In Marketing",
-      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOM0Z1SDRnQXdhNlBablJiWENtemZCRVdtRTRtYUNaa2l1b3lfUDYtclNacmJZRTYyN0o1aDBJcF9uTjBBcHlFWmE3b0VGdldUOF9Xc0dheE1UN3JfOW5NUVFrVTlhWEZkU3pjcnB1NGM1MWV4cDVCblc2Wi1LWEtBajV1Z2FReXY5LUZVYU9rNGt3RnUwREw3Qkp5VzNCM3VsZUhsTTl1YzViZkJqOHE0WDktRHdkODd4T3REQWowQnR0WEFCekpyN0phX1J1X2ltWk1oLTNIa1o0bERoRDZNcmczaGpwbEUxMUxneVItcDZNb1BKRXd2dC0zakpuYzdzak1lWUxjMnpLT3c5eVVpc1hnd1AtOUgwRGI3WTVzTGtkSEN3ajVVald3M19WQkllbS1maTVNb2QxMXhD?oc=5",
+      "id": "google-news-automotive-cybersecurity-bcssl-signs-mou-with-connectm-technology-solutions-for-edgeai-soc-for-next-generation-automotive-cybersecurity-bi",
+      "title": "BCSSL Signs MoU with ConnectM Technology Solutions for EdgeAI SoC for Next-Generation Automotive Cybersecurity - Bisinfotech",
+      "summary": "BCSSL Signs MoU with ConnectM Technology Solutions for EdgeAI SoC for Next-Generation Automotive Cybersecurity &nbsp;&nbsp; Bisinfotech",
+      "text": "BCSSL Signs MoU with ConnectM Technology Solutions for EdgeAI SoC for Next-Generation Automotive Cybersecurity &nbsp;&nbsp; Bisinfotech",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMjVhOHRXSjZEem5pZEY2NnBqWUc1c2NfMmQ3NVZtSzExd3BBY29hZkhEUVNibnpPX0RWdk5lRXVKNVhpZW94QUZ3cXFOMXZwX3Y2NHJxNVhISWR2aDh5X2wycTVKWVVyTVZjYXNRSGZNVTRrcmd3bFE1WnNySTZ6eDh4elduZlR0MEVPUVpDSmdWSXdWSkZZR0NkVHN6QXBvXzI3WjVnVkkxZFhqQ0NyRmF0b1NVSkdGLUJ0aUJvMVZCRmJRQXNSbGVZTEpIMGp4b3lfdkl3?oc=5",
       "date": "Wed, 24 Dec 2025 08:00:00 GMT",
       "source": "Google News · Automotive Cybersecurity",
       "category": "AUTOMOTIVE",
-      "topic": "Automotive",
+      "topic": "Healthcare",
       "kind_label": "RSS",
       "tags": [
-        "Automotive"
+        "Automotive",
+        "Cybersecurity",
+        "Biotech"
       ],
-      "novelty_score": 42,
-      "momentum_score": 55,
+      "novelty_score": 56,
+      "momentum_score": 76,
       "confidence_score": 78,
-      "signal_score": 56
+      "signal_score": 68
     },
     {
       "id": "google-news-university-automotive-research-spartan-science-is-making-transportation-safer-msutoday",
@@ -542,25 +545,6 @@
       "signal_score": 68
     },
     {
-      "id": "google-news-pwc-automotive-consumer-perspectives-on-the-future-of-mobility-pwc",
-      "title": "Consumer perspectives on the future of mobility - PwC",
-      "summary": "Consumer perspectives on the future of mobility &nbsp;&nbsp; PwC",
-      "text": "Consumer perspectives on the future of mobility &nbsp;&nbsp; PwC",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVlJJRzU0SGRmcjdvZ3ZEWWdBQS1tNE1nTy14ZWVaRUNaU3R5TGZxOUxRTDZpcmU5ekluWHgyQjdNeUJVamg2Z1FtU1N4LV83M3lYWjR1aVNNUElBczhKLVFYN1gyb3NhVldISmVIbkk2M0hMcldhQzEzUC1mQnU2NTkzdTY2YzdSSXo4eVRKSy1GdmVvUEFsLUtXZ2J3Q3hiOHBYano5YjNRTmtxVWdoalB2STU?oc=5",
-      "date": "Wed, 17 Jul 2024 07:00:00 GMT",
-      "source": "Google News · PwC Automotive",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 48,
-      "confidence_score": 78,
-      "signal_score": 53
-    },
-    {
       "id": "google-news-university-automotive-research-ferris-state-s-automotive-engineering-technology-program-helps-bulldogs-earn-more-while-ranked-best-in-the-",
       "title": "Ferris State’s Automotive Engineering Technology program helps Bulldogs earn more while ranked best in the nation - Ferris State University",
       "summary": "Ferris State’s Automotive Engineering Technology program helps Bulldogs earn more while ranked best in the nation &nbsp;&nbsp; Ferris State University",
@@ -580,29 +564,10 @@
       "signal_score": 56
     },
     {
-      "id": "google-news-automotive-cybersecurity-a-comprehensive-guide-to-unece-r155-r156-compliance-automotive-iq",
-      "title": "A Comprehensive Guide to UNECE R155/R156 Compliance - Automotive IQ",
-      "summary": "A Comprehensive Guide to UNECE R155/R156 Compliance &nbsp;&nbsp; Automotive IQ",
-      "text": "A Comprehensive Guide to UNECE R155/R156 Compliance &nbsp;&nbsp; Automotive IQ",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRi1vaDFQb1hUTWtIMnRjMV9EMTkyWXg4LUVaWm1uWDR3c3JmZlBHWFE1NFlzMldHQnlSSFJJRGFBOERzZ3Z1c2VYMC1JNUZKSHM4UkhRbE8yNThsa0ZSakRURUlqNWp2YjJZa2tSR1VTSXd5R01waUtfc0trTXZEdUNaMFdvZXhCa25VVmducG40X2lpMTRXV1R2WHdJaHhNT0lkVlBNNFM?oc=5",
-      "date": "Wed, 17 Apr 2024 07:00:00 GMT",
-      "source": "Google News · Automotive Cybersecurity",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 52,
-      "confidence_score": 78,
-      "signal_score": 54
-    },
-    {
-      "id": "google-news-automotive-news-toyota-seeks-dealers-help-with-tariffs-shows-new-products-in-las-vegas-automotive-news",
-      "title": "Toyota seeks dealers’ help with tariffs, shows new products in Las Vegas - Automotive News",
-      "summary": "Toyota seeks dealers’ help with tariffs, shows new products in Las Vegas &nbsp;&nbsp; Automotive News",
-      "text": "Toyota seeks dealers’ help with tariffs, shows new products in Las Vegas &nbsp;&nbsp; Automotive News",
+      "id": "google-news-automotive-news-toyota-seeks-dealers-help-with-tariffs-shows-new-products-in-las-vegas-autonews-com",
+      "title": "Toyota seeks dealers’ help with tariffs, shows new products in Las Vegas - autonews.com",
+      "summary": "Toyota seeks dealers’ help with tariffs, shows new products in Las Vegas &nbsp;&nbsp; autonews.com",
+      "text": "Toyota seeks dealers’ help with tariffs, shows new products in Las Vegas &nbsp;&nbsp; autonews.com",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HSUl2NHRYem41RTBNcEFsXzBXU1IxcC1wVHc4RllZMF8xZEp1eGIzZHpRZkxLc0Fhb2xDLTRtb3NrdjNxWHdKUFdNTVQ4SGg1U2lqLVlMdHJjNzNJeFBaQU51TVpqdTkxV29QMml6OA?oc=5",
       "date": "Wed, 16 Sep 2026 20:00:00 GMT",
       "source": "Google News · Automotive News",
@@ -613,36 +578,17 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 40,
-      "confidence_score": 78,
-      "signal_score": 50
-    },
-    {
-      "id": "google-news-automotive-news-usmca-uncertainty-complicates-where-automakers-build-in-north-america-automotive-news",
-      "title": "USMCA uncertainty complicates where automakers build in North America - Automotive News",
-      "summary": "USMCA uncertainty complicates where automakers build in North America &nbsp;&nbsp; Automotive News",
-      "text": "USMCA uncertainty complicates where automakers build in North America &nbsp;&nbsp; Automotive News",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQm9GX2ZuRUpROThxTmpOd0lHWjJRb1d2dTJlZXdIREQ5RE1KX0U4UXpabUxkUmlTN3FqTFR4X19qcUdLSW9tbnNENy1ZRW9BOWEwSUZBeEt3bVJWcjlZUmJCRFVrNTRrdkxVemtpbkIyeWZ4UzRld0dYNVZic05kZDlWNA?oc=5",
-      "date": "Wed, 16 Sep 2026 18:13:00 GMT",
-      "source": "Google News · Automotive News",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 68,
+      "momentum_score": 67,
       "confidence_score": 78,
       "signal_score": 60
     },
     {
-      "id": "google-news-automotive-news-ottawa-to-stellantis-build-in-brampton-or-pay-us-back-automotive-news",
-      "title": "Ottawa to Stellantis: Build in Brampton or pay us back - Automotive News",
-      "summary": "Ottawa to Stellantis: Build in Brampton or pay us back &nbsp;&nbsp; Automotive News",
-      "text": "Ottawa to Stellantis: Build in Brampton or pay us back &nbsp;&nbsp; Automotive News",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVl95SkpVMWRTR2ZaRFdiS1luWXYtZV9QM3EzN2JZNTdXLXNPZ3BOZ21ldmVuZ1MzbWJ3Q1VKUWZuNGMwc19ZNmhfQ0JaT3p1bjNZVmRoMHdTNGdYWkZfNGdCcjJfWUxrWXIyMWJCb3M5RTRzZUV0SjFNTzlBaFZWV2plRXp2Zw?oc=5",
-      "date": "Wed, 16 Sep 2026 17:43:00 GMT",
+      "id": "google-news-automotive-news-usmca-uncertainty-complicates-where-automakers-build-in-north-america-autonews-com",
+      "title": "USMCA uncertainty complicates where automakers build in North America - autonews.com",
+      "summary": "USMCA uncertainty complicates where automakers build in North America &nbsp;&nbsp; autonews.com",
+      "text": "USMCA uncertainty complicates where automakers build in North America &nbsp;&nbsp; autonews.com",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQm9GX2ZuRUpROThxTmpOd0lHWjJRb1d2dTJlZXdIREQ5RE1KX0U4UXpabUxkUmlTN3FqTFR4X19qcUdLSW9tbnNENy1ZRW9BOWEwSUZBeEt3bVJWcjlZUmJCRFVrNTRrdkxVemtpbkIyeWZ4UzRld0dYNVZic05kZDlWNA?oc=5",
+      "date": "Wed, 16 Sep 2026 18:13:00 GMT",
       "source": "Google News · Automotive News",
       "category": "AUTOMOTIVE",
       "topic": "Automotive",
@@ -654,6 +600,25 @@
       "momentum_score": 74,
       "confidence_score": 78,
       "signal_score": 62
+    },
+    {
+      "id": "google-news-automotive-news-ottawa-to-stellantis-build-in-brampton-or-pay-us-back-autonews-com",
+      "title": "Ottawa to Stellantis: Build in Brampton or pay us back - autonews.com",
+      "summary": "Ottawa to Stellantis: Build in Brampton or pay us back &nbsp;&nbsp; autonews.com",
+      "text": "Ottawa to Stellantis: Build in Brampton or pay us back &nbsp;&nbsp; autonews.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVl95SkpVMWRTR2ZaRFdiS1luWXYtZV9QM3EzN2JZNTdXLXNPZ3BOZ21ldmVuZ1MzbWJ3Q1VKUWZuNGMwc19ZNmhfQ0JaT3p1bjNZVmRoMHdTNGdYWkZfNGdCcjJfWUxrWXIyMWJCb3M5RTRzZUV0SjFNTzlBaFZWV2plRXp2Zw?oc=5",
+      "date": "Wed, 16 Sep 2026 17:43:00 GMT",
+      "source": "Google News · Automotive News",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 65,
+      "confidence_score": 78,
+      "signal_score": 59
     },
     {
       "id": "ieee-spectrum-rethinking-robot-safety-in-the-age-of-ai",
@@ -791,10 +756,10 @@
       "signal_score": 62
     },
     {
-      "id": "google-news-automotive-news-porsche-product-lineup-begins-to-take-shape-under-ceo-michael-leiters-automotive-news",
-      "title": "Porsche product lineup begins to take shape under CEO Michael Leiters - Automotive News",
-      "summary": "Porsche product lineup begins to take shape under CEO Michael Leiters &nbsp;&nbsp; Automotive News",
-      "text": "Porsche product lineup begins to take shape under CEO Michael Leiters &nbsp;&nbsp; Automotive News",
+      "id": "google-news-automotive-news-porsche-product-lineup-begins-to-take-shape-under-ceo-michael-leiters-autonews-com",
+      "title": "Porsche product lineup begins to take shape under CEO Michael Leiters - autonews.com",
+      "summary": "Porsche product lineup begins to take shape under CEO Michael Leiters &nbsp;&nbsp; autonews.com",
+      "text": "Porsche product lineup begins to take shape under CEO Michael Leiters &nbsp;&nbsp; autonews.com",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRkhtdWlJWDVJMjYtR0RmZGdoYndpa1NZUzlQUjZqT3BKUTc5eU5tbURJRFMxM29HMFoyQUJFS2gwMXRKa0diVFZQb3VnZFhsekU1VFpBVUd0ZmtaMEpTSGlzOWQ5cHR3THgtN25xS0x6YTNfZWlmSTVibWU0ZmFWN08xTjllYm1lR0RIYw?oc=5",
       "date": "Wed, 16 Sep 2026 11:02:21 GMT",
       "source": "Google News · Automotive News",
@@ -805,9 +770,9 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 73,
+      "momentum_score": 79,
       "confidence_score": 78,
-      "signal_score": 62
+      "signal_score": 64
     },
     {
       "id": "mit-news-research-new-ai-technique-could-make-minimally-invasive-surgeries-safer-and-more-precise",
@@ -1059,26 +1024,6 @@
       "signal_score": 63
     },
     {
-      "id": "google-news-sae-technical-papers-impact-of-high-compression-ratios-on-ethanol-homogeneous-charge-compression-ignition-sae-mobilus",
-      "title": "Impact of High Compression Ratios on Ethanol Homogeneous Charge Compression Ignition - SAE Mobilus",
-      "summary": "Impact of High Compression Ratios on Ethanol Homogeneous Charge Compression Ignition &nbsp;&nbsp; SAE Mobilus",
-      "text": "Impact of High Compression Ratios on Ethanol Homogeneous Charge Compression Ignition &nbsp;&nbsp; SAE Mobilus",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZWZuMFBzYjBDXzl2VWtfY3BqSGpUanJNREpBb0RhdnpvcDNIYXJGcUhaWXdqbVBpQXZqYjNoZzVBbEY0OEoyc09yM21JZDZUVWRVSUVjWDdYOGU1NmZkRE9ZSDc5MDFFQktKVksyZ3JvV3VLZHpfNUY2TUZQdlljT0NFNUFwS09QVTdSeU92Wi1hVmczcWFQYTlTMURPeTU2SlFNT1g4WV9FZk82RnBibHlWQmVVekFpV3lGSlNzekUzcFE?oc=5",
-      "date": "Wed, 10 Jun 2026 07:00:00 GMT",
-      "source": "Google News · SAE Technical Papers",
-      "category": "AUTOMOTIVE",
-      "topic": "Healthcare",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive",
-        "Biotech"
-      ],
-      "novelty_score": 49,
-      "momentum_score": 80,
-      "confidence_score": 78,
-      "signal_score": 67
-    },
-    {
       "id": "mit-news-engineering-mit-schwarzman-college-of-computing-launches-pilot-to-help-educators-teach-ai-across-disciplines",
       "title": "MIT Schwarzman College of Computing launches pilot to help educators teach AI across disciplines",
       "summary": "A weeklong summer workshop brought higher education faculty to campus to explore how AI and machine learning materials can be adapted for their classrooms.",
@@ -1195,10 +1140,10 @@
       "signal_score": 58
     },
     {
-      "id": "google-news-vehicle-connectivity-mini-gets-into-gear-with-transatel-to-drive-connected-car-services-computer-weekly",
-      "title": "Mini gets into gear with Transatel to drive connected car services - Computer Weekly",
-      "summary": "Mini gets into gear with Transatel to drive connected car services &nbsp;&nbsp; Computer Weekly",
-      "text": "Mini gets into gear with Transatel to drive connected car services &nbsp;&nbsp; Computer Weekly",
+      "id": "google-news-vehicle-connectivity-mini-gets-into-gear-with-transatel-to-drive-connected-car-services-computerweekly-com",
+      "title": "Mini gets into gear with Transatel to drive connected car services - computerweekly.com",
+      "summary": "Mini gets into gear with Transatel to drive connected car services &nbsp;&nbsp; computerweekly.com",
+      "text": "Mini gets into gear with Transatel to drive connected car services &nbsp;&nbsp; computerweekly.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSko2TGZzaFIyb0ZyTXRta0VIWTNsU3NmODZ4OElIQlpQWVRzWGpIeF81SjhZbENGYjRKbFhQakJmOXZPbzV6dk1XNjFjMUhzbUdwbXpsWVVIR3hsSWFfYnVBQU5weFVuS3dJb2puYlg4TEEzWGRXbTJqSUNZMDNlY1N1UjhKaXRFZndqbGRkbTc5eFlJdkJaZldUWFVUd0Z1ZmtGUkZueVViZVpqWGN1d21R?oc=5",
       "date": "Wed, 09 Jul 2025 07:00:00 GMT",
       "source": "Google News · Vehicle Connectivity",
@@ -1209,9 +1154,9 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 69,
+      "momentum_score": 52,
       "confidence_score": 78,
-      "signal_score": 60
+      "signal_score": 54
     },
     {
       "id": "google-news-pwc-automotive-electric-vehicle-sales-review-q4-2024-pwc-and-strategy-pwc",
@@ -1231,6 +1176,25 @@
       "momentum_score": 70,
       "confidence_score": 78,
       "signal_score": 61
+    },
+    {
+      "id": "google-news-mckinsey-automotive-charging-ahead-electric-vehicle-infrastructure-demand-mckinsey-company",
+      "title": "Charging ahead: Electric-vehicle infrastructure demand - McKinsey & Company",
+      "summary": "Charging ahead: Electric-vehicle infrastructure demand &nbsp;&nbsp; McKinsey & Company",
+      "text": "Charging ahead: Electric-vehicle infrastructure demand &nbsp;&nbsp; McKinsey & Company",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQazJqeDJVZ0prOVpBZWc4MmRuN3FEeE85YU8zeUY5bkFwa2laZGJDSFZOQmtEdUdRYlFEeE9EQW9rN3poRDhtNC1GZUZUTkhpWW5yNVlaZ2p2MnRiTlRTSjVMV05ieVA3bi01YWg3MEctUVdTYlpGMFRXM001elNySXpCVmhpV3FScDBCeHhjY29GeVN5V3hEWWdGMnhnTF91QWJCRUUyS21fYVlHTW5WYnR3djh6ck1oZGdnYjRyaGtieFBk?oc=5",
+      "date": "Wed, 08 Aug 2018 07:00:00 GMT",
+      "source": "Google News · McKinsey Automotive",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 68,
+      "confidence_score": 78,
+      "signal_score": 60
     },
     {
       "id": "google-news-sae-international-24autp02-automotive-engineering-february-2024-sae-international",
@@ -1274,25 +1238,6 @@
       "signal_score": 63
     },
     {
-      "id": "google-news-sae-international-26autp08-automotive-engineering-august-2026-sae-international",
-      "title": "26AUTP08 : Automotive Engineering: August 2026 - SAE International",
-      "summary": "26AUTP08 : Automotive Engineering: August 2026 &nbsp;&nbsp; SAE International",
-      "text": "26AUTP08 : Automotive Engineering: August 2026 &nbsp;&nbsp; SAE International",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdVcwMkYtbVhHcDRNT1dpQXk2WWJRc0JqNGhmSkVTUG5xQUNPZXJhSjBVTlZUS1laUy1SUXVseWN5djR3cWJBVVVnYzJOUE1ldzFIeFFwczE5dmJmSkRLb29Kc0dtS3ZmdGFkSGhZcTB4bUQ4Mlc1bHg5dFVTOVU1Vw?oc=5",
-      "date": "Wed, 05 Aug 2026 07:00:00 GMT",
-      "source": "Google News · SAE International",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 53,
-      "confidence_score": 78,
-      "signal_score": 55
-    },
-    {
       "id": "google-news-university-automotive-research-5-researchers-using-data-gen-ai-policy-analysis-to-shape-mobility-advancement-msutoday",
       "title": "5 researchers using data, gen AI, policy analysis to shape mobility advancement - MSUToday",
       "summary": "5 researchers using data, gen AI, policy analysis to shape mobility advancement &nbsp;&nbsp; MSUToday",
@@ -1310,6 +1255,25 @@
       "momentum_score": 81,
       "confidence_score": 78,
       "signal_score": 65
+    },
+    {
+      "id": "google-news-sae-international-23autp04-automotive-engineering-april-2023-sae-international",
+      "title": "23AUTP04 : Automotive Engineering: April 2023 - SAE International",
+      "summary": "23AUTP04 : Automotive Engineering: April 2023 &nbsp;&nbsp; SAE International",
+      "text": "23AUTP04 : Automotive Engineering: April 2023 &nbsp;&nbsp; SAE International",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4S1FYZlJsa1F1dE9BQ1JFUUQwc3cyWnJacWtUSWpXSVAybGlKM1k0Y1dPdXZZU1psMTh4Qmh6SlBabEZKVWFheE1HRjFsenE0dlNJdjcyZ3dUUnYwUDQyRnNuUVo4TFN5TFQ4TjRoSTYzSVB0M3QtNUhlQjM3Mlk?oc=5",
+      "date": "Wed, 05 Apr 2023 07:00:00 GMT",
+      "source": "Google News · SAE International",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 74,
+      "confidence_score": 78,
+      "signal_score": 62
     },
     {
       "id": "google-news-sae-international-24autp09-automotive-engineering-september-2024-sae-international",
@@ -1368,6 +1332,25 @@
       "momentum_score": 49,
       "confidence_score": 78,
       "signal_score": 56
+    },
+    {
+      "id": "google-news-sae-international-25autp06-automotive-engineering-june-2025-sae-international",
+      "title": "25AUTP06 : Automotive Engineering: June 2025 - SAE International",
+      "summary": "25AUTP06 : Automotive Engineering: June 2025 &nbsp;&nbsp; SAE International",
+      "text": "25AUTP06 : Automotive Engineering: June 2025 &nbsp;&nbsp; SAE International",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hYmRvdzNEMENDYUFZQXhwcU13RnRpVXprRUVZVG9Kd05DUG9jcldNMWw2TmlSVnhxRkFQaFJnNTE1dThsVlNTdkJad2oyVEZhNUtkSHk0QmlIRTNsSjNVYnBxNjZZbGhRRVRlUVo5aWtDcFRGdEhfMUtxM2hKdw?oc=5",
+      "date": "Wed, 04 Jun 2025 07:00:00 GMT",
+      "source": "Google News · SAE International",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 46,
+      "confidence_score": 78,
+      "signal_score": 52
     },
     {
       "id": "google-news-vehicle-connectivity-verizon-business-launches-connected-driving-platform-about-verizon-verizon",
@@ -1581,10 +1564,10 @@
       "signal_score": 62
     },
     {
-      "id": "google-news-deloitte-automotive-2026-global-automotive-consumer-study-deloitte",
-      "title": "2026 Global Automotive Consumer Study - Deloitte",
-      "summary": "2026 Global Automotive Consumer Study &nbsp;&nbsp; Deloitte",
-      "text": "2026 Global Automotive Consumer Study &nbsp;&nbsp; Deloitte",
+      "id": "google-news-deloitte-automotive-2026-global-automotive-consumer-study-deloitte-com",
+      "title": "2026 Global Automotive Consumer Study - deloitte.com",
+      "summary": "2026 Global Automotive Consumer Study &nbsp;&nbsp; deloitte.com",
+      "text": "2026 Global Automotive Consumer Study &nbsp;&nbsp; deloitte.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRXBUZHQ5Sk1TdXp1bjhFZlJud3lmcm5LUHItT083Y0U1Ukpkb0tqRFJYZE1DdHA5VjJ0RHZ0WDdEZmxRVVNlWkd4ZDdpV1dNWnZ4SU45ckxlNE5pckluaDZkOUhJQ050Znp5bl94T05CZVBjblF4OHlvZkVrT3hLOVpqc2NYWm9McDl5MTJEekR4UHNzZVBfT0tGY19Za0JLVWw3SVB1eFc1cXc?oc=5",
       "date": "Wed, 01 Apr 2026 04:14:12 GMT",
       "source": "Google News · Deloitte Automotive",
@@ -1657,10 +1640,10 @@
       "signal_score": 63
     },
     {
-      "id": "google-news-deloitte-automotive-electric-vehicles-deloitte",
-      "title": "Electric vehicles - Deloitte",
-      "summary": "Electric vehicles &nbsp;&nbsp; Deloitte",
-      "text": "Electric vehicles &nbsp;&nbsp; Deloitte",
+      "id": "google-news-deloitte-automotive-electric-vehicles-deloitte-com",
+      "title": "Electric vehicles - deloitte.com",
+      "summary": "Electric vehicles &nbsp;&nbsp; deloitte.com",
+      "text": "Electric vehicles &nbsp;&nbsp; deloitte.com",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUlB3YWlqRmNKTGMtNkphdXY3aWFlT0NyeHMzZU12X0NuckJkVGRHTm41Z0xSd0VDVDFGWkg5VlVleGRTQ2tDQm5IenVzUTY0ZVRlS1k0RE1XS2NMajVYNl9ucElNLTRZUGpZa0tHN0R0VlRBVEVzem1WTTRDLXI0cVVQRW1FMmJKa1RzMU91dzM1eF9ORUdGdWdXdnoxUFhSSEpjZ0ZB?oc=5",
       "date": "Tue, 28 Jul 2020 07:00:00 GMT",
       "source": "Google News · Deloitte Automotive",
@@ -1671,9 +1654,9 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 74,
+      "momentum_score": 54,
       "confidence_score": 78,
-      "signal_score": 62
+      "signal_score": 55
     },
     {
       "id": "mit-news-autonomous-vehicles-expanding-robot-perception",
@@ -1696,29 +1679,10 @@
       "signal_score": 64
     },
     {
-      "id": "google-news-bain-mobility-m-a-in-automotive-and-mobility-new-strategic-moves-and-bold-bets-bain",
-      "title": "M&A in Automotive and Mobility: New Strategic Moves and Bold Bets - Bain",
-      "summary": "M&A in Automotive and Mobility: New Strategic Moves and Bold Bets &nbsp;&nbsp; Bain",
-      "text": "M&A in Automotive and Mobility: New Strategic Moves and Bold Bets &nbsp;&nbsp; Bain",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qMDYyVF9wSHQ2WlJwXzhVaHhJRW05RktDYTZGamhDSU5CSC1VM21KVnVCTGEyeWF6TGtUVG1pbjZMVG0yZlpQLXpXU1lUWDBKVGN1a0NiYm53WjN0aFlvRjVYTlBnU2IxVmdZV0NZTXhKSUl2TUZTcDZSM0dtM0U?oc=5",
-      "date": "Tue, 27 Jan 2026 08:00:00 GMT",
-      "source": "Google News · Bain Mobility",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 49,
-      "confidence_score": 78,
-      "signal_score": 53
-    },
-    {
-      "id": "google-news-deloitte-automotive-2023-global-automotive-consumer-study-deloitte",
-      "title": "2023 Global Automotive Consumer Study - Deloitte",
-      "summary": "2023 Global Automotive Consumer Study &nbsp;&nbsp; Deloitte",
-      "text": "2023 Global Automotive Consumer Study &nbsp;&nbsp; Deloitte",
+      "id": "google-news-deloitte-automotive-2023-global-automotive-consumer-study-deloitte-com",
+      "title": "2023 Global Automotive Consumer Study - deloitte.com",
+      "summary": "2023 Global Automotive Consumer Study &nbsp;&nbsp; deloitte.com",
+      "text": "2023 Global Automotive Consumer Study &nbsp;&nbsp; deloitte.com",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNakhfczYxM1plTnRNbnlVemZ4aDFvejV3WlkzU0tOQ3hncGxXWnJSTWNNQk84Wk9taFVCYk4yblFSeXk1c2c0NVJRWURRMmQzd2l1QXdWTDI5OHlJNl8tUU1QVXdVRHI0VklpNmozTENnZHJqUC10cGlTZnNoQlRkRU4wZHI0ZzJ6VUU2SUI4MlQxRldrRVpYM3dIVXRmMDVQYWRfcnBR?oc=5",
       "date": "Tue, 27 Feb 2024 16:20:52 GMT",
       "source": "Google News · Deloitte Automotive",
@@ -1772,30 +1736,10 @@
       "signal_score": 53
     },
     {
-      "id": "google-news-mckinsey-automotive-agents-robots-and-us-skill-partnerships-in-the-age-of-ai-mckinsey-company",
-      "title": "Agents, robots, and us: Skill partnerships in the age of AI - McKinsey & Company",
-      "summary": "Agents, robots, and us: Skill partnerships in the age of AI &nbsp;&nbsp; McKinsey & Company",
-      "text": "Agents, robots, and us: Skill partnerships in the age of AI &nbsp;&nbsp; McKinsey & Company",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMGR5TllRdWM0VUFxX0o1TDk1bmp2eklMTDBkTjJlbUM5eXhkSGZBSEtfNzlUSy1FdnRiVno4Mkd5LWNITV9OODZKRVhiXzRGVjdSTmJYOXJmRWdHd1hqNDZzSmY0MzhGT25Ha291azBYNDFfNjROcjdRdDdHcW1jdHhFaGNVSkJlZTFVWDV1TjEtekhKRDktX2psMk4ycjA?oc=5",
-      "date": "Tue, 25 Nov 2025 08:00:00 GMT",
-      "source": "Google News · McKinsey Automotive",
-      "category": "AUTOMOTIVE",
-      "topic": "Robotics",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive",
-        "Robotics"
-      ],
-      "novelty_score": 49,
-      "momentum_score": 43,
-      "confidence_score": 78,
-      "signal_score": 54
-    },
-    {
-      "id": "google-news-deloitte-automotive-2025-global-automotive-consumer-study-deloitte",
-      "title": "2025 Global Automotive Consumer Study - Deloitte",
-      "summary": "2025 Global Automotive Consumer Study &nbsp;&nbsp; Deloitte",
-      "text": "2025 Global Automotive Consumer Study &nbsp;&nbsp; Deloitte",
+      "id": "google-news-deloitte-automotive-2025-global-automotive-consumer-study-deloitte-com",
+      "title": "2025 Global Automotive Consumer Study - deloitte.com",
+      "summary": "2025 Global Automotive Consumer Study &nbsp;&nbsp; deloitte.com",
+      "text": "2025 Global Automotive Consumer Study &nbsp;&nbsp; deloitte.com",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa0l2TzRSNzNybS1ZUS1BSlNXTThYS3hfczVUQU1qQ2VkbW42LThPSzlmdEJGaUJNZ3BaTXZtMWZNRU01b1JFclB2UTZrMVBRR0pNYlc0TTc0bjJ1MDBrYXZoaUl3dmtobG1ETkVENzNQMFZRZW91Tkp0dEw2X2prLTlTVnBiREpPMEdOQmV3UnJVOFI4Z1gySkxpX0Z2VGJxX1lDU2VXT3pmaU5z?oc=5",
       "date": "Tue, 25 Feb 2025 08:00:00 GMT",
       "source": "Google News · Deloitte Automotive",
@@ -1908,6 +1852,25 @@
       "momentum_score": 84,
       "confidence_score": 78,
       "signal_score": 77
+    },
+    {
+      "id": "google-news-bain-mobility-china-is-now-driving-the-global-electric-vehicle-transition-bain",
+      "title": "China Is Now Driving the Global Electric Vehicle Transition - Bain",
+      "summary": "China Is Now Driving the Global Electric Vehicle Transition &nbsp;&nbsp; Bain",
+      "text": "China Is Now Driving the Global Electric Vehicle Transition &nbsp;&nbsp; Bain",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNTFHdjB0eTczbTJEX2xweElILTFva0xlLTR1ZEhreFdoOHd4enFERHU4ZU53YVFDWUotMjczS2k1bmE0YTZxYlltUVJNclJmeER0bnowelR0a0lKQnRoMU8tcWhCaEwzcUU3dlJtVWJ1Zk1UMUZwcW5ZVkV3czZIaV8xVkNxMzl5RTUzcmZVMUlHYm9HZ05jTEhCdFVVdw?oc=5",
+      "date": "Tue, 21 May 2024 07:00:00 GMT",
+      "source": "Google News · Bain Mobility",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 51,
+      "confidence_score": 78,
+      "signal_score": 54
     },
     {
       "id": "mit-news-autonomous-vehicles-imaging-technique-removes-the-effect-of-water-in-underwater-scenes",
@@ -2066,29 +2029,10 @@
       "signal_score": 57
     },
     {
-      "id": "google-news-automotive-news-ftc-offers-guidance-to-help-dealers-comply-with-price-advertising-rules-automotive-news",
-      "title": "FTC offers guidance to help dealers comply with price advertising rules - Automotive News",
-      "summary": "FTC offers guidance to help dealers comply with price advertising rules &nbsp;&nbsp; Automotive News",
-      "text": "FTC offers guidance to help dealers comply with price advertising rules &nbsp;&nbsp; Automotive News",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN2NvcTZ2bHhIMEpsNWNTSWxmMkZFMjlxNzhrYWhBNWJReVlKZnJxX001Rmt6eXVaUTlPYmozQ1BzYjNhMmNGMEk0UTdmNmlQVFRkWWFYay04UkVGcDNzbTlNenRvUkZ6ci1LX0htY1R4T2FBTDVjZVd1LU9fbnRPYjdyWWY3bHRfNFVHRVB2dEgzQzVObGkw?oc=5",
-      "date": "Tue, 15 Sep 2026 22:19:00 GMT",
-      "source": "Google News · Automotive News",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 81,
-      "confidence_score": 78,
-      "signal_score": 65
-    },
-    {
-      "id": "google-news-automotive-news-gm-using-split-screen-approach-to-integrate-apple-carplay-after-infotainment-backlash-automotive-news",
-      "title": "GM using split-screen approach to integrate Apple CarPlay after infotainment backlash - Automotive News",
-      "summary": "GM using split-screen approach to integrate Apple CarPlay after infotainment backlash &nbsp;&nbsp; Automotive News",
-      "text": "GM using split-screen approach to integrate Apple CarPlay after infotainment backlash &nbsp;&nbsp; Automotive News",
+      "id": "google-news-automotive-news-gm-using-split-screen-approach-to-integrate-apple-carplay-after-infotainment-backlash-autonews-com",
+      "title": "GM using split-screen approach to integrate Apple CarPlay after infotainment backlash - autonews.com",
+      "summary": "GM using split-screen approach to integrate Apple CarPlay after infotainment backlash &nbsp;&nbsp; autonews.com",
+      "text": "GM using split-screen approach to integrate Apple CarPlay after infotainment backlash &nbsp;&nbsp; autonews.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWW85WUpzZWZ1QW1VTkR5bVQ5dUtpMFlmQXJGaXU0Zkl3NzRUUXhVNmhraGtJa3BwTkg1VlFna2JfazZ2cXRZZ3VGN2hNNDdqaF9sdk0ycGdlWU5YdDVRTkM4b3J4SFBVNnRsTHhlclFHanJSbDk1UWxreko4UTlaVUs1ZkgyQWQ1?oc=5",
       "date": "Tue, 15 Sep 2026 22:10:00 GMT",
       "source": "Google News · Automotive News",
@@ -2100,15 +2044,15 @@
         "FOTA"
       ],
       "novelty_score": 49,
-      "momentum_score": 44,
+      "momentum_score": 72,
       "confidence_score": 78,
-      "signal_score": 54
+      "signal_score": 64
     },
     {
-      "id": "google-news-automotive-news-mclaren-to-drop-artura-hybrid-that-had-troubled-launch-automotive-news",
-      "title": "McLaren to drop Artura hybrid that had troubled launch - Automotive News",
-      "summary": "McLaren to drop Artura hybrid that had troubled launch &nbsp;&nbsp; Automotive News",
-      "text": "McLaren to drop Artura hybrid that had troubled launch &nbsp;&nbsp; Automotive News",
+      "id": "google-news-automotive-news-mclaren-to-drop-artura-hybrid-that-had-troubled-launch-autonews-com",
+      "title": "McLaren to drop Artura hybrid that had troubled launch - autonews.com",
+      "summary": "McLaren to drop Artura hybrid that had troubled launch &nbsp;&nbsp; autonews.com",
+      "text": "McLaren to drop Artura hybrid that had troubled launch &nbsp;&nbsp; autonews.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMWpkZkZqY0RRU3ZTcFJRUWJybW13NDhNWEtqZXNEOVgxMXJzcUU2am5jREs4QmhFLWxWakhncGYySUlPVEJRUGNnUzYzV0s1bmcwSl9jc2NLVDlUYkpzRkxSYVRVZXJld1NHRzIyR0poaWZjM3phejZKVjdtZWk0RC13R0E?oc=5",
       "date": "Tue, 15 Sep 2026 19:42:00 GMT",
       "source": "Google News · Automotive News",
@@ -2119,9 +2063,9 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 77,
+      "momentum_score": 68,
       "confidence_score": 78,
-      "signal_score": 63
+      "signal_score": 60
     },
     {
       "id": "google-news-pwc-automotive-ai-in-automotive-software-defined-vehicle-investment-outlook-pwc",
@@ -2163,10 +2107,10 @@
       "signal_score": 64
     },
     {
-      "id": "google-news-automotive-news-dealership-sues-gm-for-20-million-over-alleged-failed-relocation-automotive-news",
-      "title": "Dealership sues GM for $20 million over alleged failed relocation - Automotive News",
-      "summary": "Dealership sues GM for $20 million over alleged failed relocation &nbsp;&nbsp; Automotive News",
-      "text": "Dealership sues GM for $20 million over alleged failed relocation &nbsp;&nbsp; Automotive News",
+      "id": "google-news-automotive-news-dealership-sues-gm-for-20-million-over-alleged-failed-relocation-autonews-com",
+      "title": "Dealership sues GM for $20 million over alleged failed relocation - autonews.com",
+      "summary": "Dealership sues GM for $20 million over alleged failed relocation &nbsp;&nbsp; autonews.com",
+      "text": "Dealership sues GM for $20 million over alleged failed relocation &nbsp;&nbsp; autonews.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcTVZaGlLM1dMVG1jSlU4WGxkbFZ2eFExT3J2emVwYTBVeEN3dE5ZdlhsTnVMMTk3eTBjQ2hTYldFOU1ucUdDYjBuZ1dNeUtqdHQ1NUJLZUJ1NVlTU0x2aEhxTGtkTThrT2RBSU9Pd0Qwc1YzQXpZUjBxbmNxRTlnVTZObGw1NXlibDN2eHlJRHctOXgwM2FYakdYeEtQU09Yb3lF?oc=5",
       "date": "Tue, 15 Sep 2026 15:47:00 GMT",
       "source": "Google News · Automotive News",
@@ -2177,9 +2121,9 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 49,
+      "momentum_score": 72,
       "confidence_score": 78,
-      "signal_score": 53
+      "signal_score": 62
     },
     {
       "id": "mit-news-engineering-3-questions-putting-nuclear-waste-into-perspective",
@@ -2201,10 +2145,10 @@
       "signal_score": 65
     },
     {
-      "id": "google-news-automotive-news-stellantis-studies-cost-of-moving-some-pickup-production-to-u-s-from-mexico-automotive-news",
-      "title": "Stellantis studies cost of moving some pickup production to U.S. from Mexico - Automotive News",
-      "summary": "Stellantis studies cost of moving some pickup production to U.S. from Mexico &nbsp;&nbsp; Automotive News",
-      "text": "Stellantis studies cost of moving some pickup production to U.S. from Mexico &nbsp;&nbsp; Automotive News",
+      "id": "google-news-automotive-news-stellantis-studies-cost-of-moving-some-pickup-production-to-u-s-from-mexico-autonews-com",
+      "title": "Stellantis studies cost of moving some pickup production to U.S. from Mexico - autonews.com",
+      "summary": "Stellantis studies cost of moving some pickup production to U.S. from Mexico &nbsp;&nbsp; autonews.com",
+      "text": "Stellantis studies cost of moving some pickup production to U.S. from Mexico &nbsp;&nbsp; autonews.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQUFCU1Q4WWVyb3dKQVdHdW9JRjUxSWpyZmNJT0xKbEJyTGlDV0ExakpmMlJ0eGg5c3AzTTdNSlB0U3FWRW00Rk1EZm15SGxZYjh3ZzN0NEgtWnRydW94b1dhdUxSdEdXc3dWY2lObFpKRHNmZmxzZFBNZ1A4S09xSjdmb2k3d2lMMGRIQUdyMURzQ2ptc29RTUNtQXFrRFlOY2NN?oc=5",
       "date": "Tue, 15 Sep 2026 15:15:00 GMT",
       "source": "Google News · Automotive News",
@@ -2215,48 +2159,9 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 77,
+      "momentum_score": 42,
       "confidence_score": 78,
-      "signal_score": 63
-    },
-    {
-      "id": "google-news-software-defined-vehicles-harman-joins-sdverse-marketplace-expanding-access-to-automotive-software-and-engineering-solutions-harman-newsro",
-      "title": "HARMAN Joins SDVerse Marketplace, Expanding Access to Automotive Software and Engineering Solutions - HARMAN Newsroom",
-      "summary": "HARMAN Joins SDVerse Marketplace, Expanding Access to Automotive Software and Engineering Solutions &nbsp;&nbsp; HARMAN Newsroom",
-      "text": "HARMAN Joins SDVerse Marketplace, Expanding Access to Automotive Software and Engineering Solutions &nbsp;&nbsp; HARMAN Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTHc0ZDlkaGV5RkZQSUFNbTFYaVB5OWFoektkX1Y5SFhWeTNHZEp5UWdseUwybmxyS0ZYM2tEVzVLaGswak5vejJwTWl6aWlsNHE1LWxQcjg4RUVZWnhodW42N0luc2w5RlNwMUNsaHUxUV8zNG1zaDdHS3QzY3pINng5dmFOM3gybS1qOGhTR2tkeFMyYmtPRE5zS3VXTzVzNFg1QjRacDVJUzJYUGFOVGx1LTdlbndPcHJaMC0wRFFPMGtwYUJIc3F2TQ?oc=5",
-      "date": "Tue, 15 Sep 2026 14:33:46 GMT",
-      "source": "Google News · Software-Defined Vehicles",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive",
-        "SDV"
-      ],
-      "novelty_score": 49,
-      "momentum_score": 59,
-      "confidence_score": 78,
-      "signal_score": 60
-    },
-    {
-      "id": "google-news-automotive-news-stellantis-brampton-sale-could-cut-excess-capacity-and-thousands-of-jobs-automotive-news",
-      "title": "Stellantis’ Brampton sale could cut excess capacity — and thousands of jobs - Automotive News",
-      "summary": "Stellantis’ Brampton sale could cut excess capacity — and thousands of jobs &nbsp;&nbsp; Automotive News",
-      "text": "Stellantis’ Brampton sale could cut excess capacity — and thousands of jobs &nbsp;&nbsp; Automotive News",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYUQ4cG1aRjZNbF9MX0wzdlJXcEo0Ti1uODJRSmZubllidDlCNEFkMjkxblVFeGJWY01tUmVKRkdJUE51YmxCLUhXQ2tlMWFmbHdEZDRSS3pWT0NiVFJFY0wwS25GZW1fNl9oMDAwTlBNdWx5VmVzMnFJX3BPbWNPMFE1R2VMQTJhSHVabk5rV3Q1eUlFNlFB?oc=5",
-      "date": "Tue, 15 Sep 2026 13:15:00 GMT",
-      "source": "Google News · Automotive News",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 44,
-      "confidence_score": 78,
-      "signal_score": 52
+      "signal_score": 51
     },
     {
       "id": "ieee-spectrum-the-ai-inference-revolution-is-here",
@@ -2276,6 +2181,26 @@
       "momentum_score": 57,
       "confidence_score": 78,
       "signal_score": 56
+    },
+    {
+      "id": "google-news-software-defined-vehicles-harman-joins-sdverse-marketplace-expanding-access-to-automotive-software-and-engineering-solutions-business-wire",
+      "title": "HARMAN Joins SDVerse Marketplace, Expanding Access to Automotive Software and Engineering Solutions - Business Wire",
+      "summary": "HARMAN Joins SDVerse Marketplace, Expanding Access to Automotive Software and Engineering Solutions &nbsp;&nbsp; Business Wire",
+      "text": "HARMAN Joins SDVerse Marketplace, Expanding Access to Automotive Software and Engineering Solutions &nbsp;&nbsp; Business Wire",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTzR3MWVJbFZnRml6aEd5R00xZ1k3cVh2aE5ULTRkbGc5YUUzVGEyUVNtenZPR3JOZklpY0E1cGJVd3BEN3E3T25EZGtFQ01DVVhhcTQxYS11QkpHTUEwbXRGTkJ4WnAzaTJyWUJqTkR0V29QQ3Q4c3lXQW13VlBNWVJkY1h1NHY3ckpGQzNCSnh3dUN4ZDI0NXc2RzY4bDJ6RC02T3hWSVR5N1hySDkwSmMzRTNweTZIVjV1YWhJaEpwcUdaMUF3NFN3VzcyVTRfa09vZlBPZTJrV3RabG0xUUw1SDVsMVhXbnZZ?oc=5",
+      "date": "Tue, 15 Sep 2026 13:00:00 GMT",
+      "source": "Google News · Software-Defined Vehicles",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive",
+        "SDV"
+      ],
+      "novelty_score": 49,
+      "momentum_score": 61,
+      "confidence_score": 78,
+      "signal_score": 60
     },
     {
       "id": "google-news-software-defined-vehicles-coforge-expands-automotive-engineering-footprint-to-accelerate-connected-ev-and-software-defined-vehicle-innovat",
@@ -2334,26 +2259,6 @@
       "momentum_score": 47,
       "confidence_score": 78,
       "signal_score": 53
-    },
-    {
-      "id": "google-news-software-defined-vehicles-software-defined-vehicle-newsletter-september-14-2026-automotive-world",
-      "title": "Software-Defined Vehicle Newsletter – September 14 2026 - Automotive World",
-      "summary": "Software-Defined Vehicle Newsletter – September 14 2026 &nbsp;&nbsp; Automotive World",
-      "text": "Software-Defined Vehicle Newsletter – September 14 2026 &nbsp;&nbsp; Automotive World",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWlJtWUVrWkQ0MW81OHFpczJNN0NiUGRXM3NQaG9CTDhqUkNKeXQ0S20zOWdsTDZjeHNSNW5xNzRzSXMtSEYzXy1WXzI3WjIzYjVmZTdmMWhvcDFxMkpHaHJjbmN0TW9NRURJZzh0SGdIc0dPeTdZTlMtZTFlekpCOG42bkNULS1oNWREUHRjcHpTUEpXci1uSURzVHVvcTA?oc=5",
-      "date": "Tue, 15 Sep 2026 09:09:26 GMT",
-      "source": "Google News · Software-Defined Vehicles",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive",
-        "SDV"
-      ],
-      "novelty_score": 49,
-      "momentum_score": 66,
-      "confidence_score": 78,
-      "signal_score": 62
     },
     {
       "id": "google-news-software-defined-vehicles-coforge-expands-300-member-auto-engineering-team-targets-ev-and-software-defined-vehicle-technology-fortune-indi",
@@ -2490,10 +2395,10 @@
       "signal_score": 60
     },
     {
-      "id": "google-news-deloitte-automotive-accelerating-the-drive-toward-a-more-sustainable-automotive-industry-deloitte",
-      "title": "Accelerating the Drive Toward a More-Sustainable Automotive Industry - Deloitte",
-      "summary": "Accelerating the Drive Toward a More-Sustainable Automotive Industry &nbsp;&nbsp; Deloitte",
-      "text": "Accelerating the Drive Toward a More-Sustainable Automotive Industry &nbsp;&nbsp; Deloitte",
+      "id": "google-news-deloitte-automotive-accelerating-the-drive-toward-a-more-sustainable-automotive-industry-deloitte-com",
+      "title": "Accelerating the Drive Toward a More-Sustainable Automotive Industry - deloitte.com",
+      "summary": "Accelerating the Drive Toward a More-Sustainable Automotive Industry &nbsp;&nbsp; deloitte.com",
+      "text": "Accelerating the Drive Toward a More-Sustainable Automotive Industry &nbsp;&nbsp; deloitte.com",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZjF6M3JpMjRPSVktMFNVdmVVYWxpdG00eDVfNTZBUllnaWJxSFVxYUVVblpoZkRWZ3AzRmRoS2tJZVhwUGI2ekg1ZHgtY0VXNXlDOWM2ZXdIOUJlQVZzc1RtMEwwd256UlFjSFBXRHVDZkpMcmlSU2JWbXNXdVZSaUhIOFFuY2I0LVk5TlFBQUFScnhVekNZdUFLN0d1dmhyVHN6UmFNRU1oTXgxbEhPdHA4TG0wNktuLUpXSXBWNVBKWnFaMDNZ?oc=5",
       "date": "Tue, 11 Nov 2025 20:56:01 GMT",
       "source": "Google News · Deloitte Automotive",
@@ -2504,15 +2409,15 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 75,
+      "momentum_score": 52,
       "confidence_score": 78,
-      "signal_score": 63
+      "signal_score": 54
     },
     {
-      "id": "google-news-deloitte-automotive-2024-global-automotive-consumer-study-deloitte",
-      "title": "2024 Global Automotive Consumer Study - Deloitte",
-      "summary": "2024 Global Automotive Consumer Study &nbsp;&nbsp; Deloitte",
-      "text": "2024 Global Automotive Consumer Study &nbsp;&nbsp; Deloitte",
+      "id": "google-news-deloitte-automotive-2024-global-automotive-consumer-study-deloitte-com",
+      "title": "2024 Global Automotive Consumer Study - deloitte.com",
+      "summary": "2024 Global Automotive Consumer Study &nbsp;&nbsp; deloitte.com",
+      "text": "2024 Global Automotive Consumer Study &nbsp;&nbsp; deloitte.com",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWXZ4SW9nSFdhUThYN29oLUdEQmtUVkhXNFZIQk9qTE1raXZWeU5tNGZkbEZxUGIwS050azFxYlYzU2Z4THc1R1d0dlk4S2ZnYW5hb0cxaVZPdTdpdnBsVzJQcUJvdFRWZ3NIUUY5SEt0Y2F5ZVZpR0JFTjlpUm90ZUh4MHh1TlpzQXVDbXNPYXN0akxFX050aTBBb0xtczk3ODkxeTR3?oc=5",
       "date": "Tue, 11 Mar 2025 14:49:45 GMT",
       "source": "Google News · Deloitte Automotive",
@@ -2778,10 +2683,10 @@
       "signal_score": 56
     },
     {
-      "id": "google-news-university-automotive-research-automotive-engineering-and-r-d-pulse-2026-capgemini-com",
-      "title": "Automotive Engineering and R&D Pulse 2026 - capgemini.com",
-      "summary": "Automotive Engineering and R&D Pulse 2026 &nbsp;&nbsp; capgemini.com",
-      "text": "Automotive Engineering and R&D Pulse 2026 &nbsp;&nbsp; capgemini.com",
+      "id": "google-news-university-automotive-research-automotive-engineering-and-r-d-pulse-2026-capgemini",
+      "title": "Automotive Engineering and R&D Pulse 2026 - Capgemini",
+      "summary": "Automotive Engineering and R&D Pulse 2026 &nbsp;&nbsp; Capgemini",
+      "text": "Automotive Engineering and R&D Pulse 2026 &nbsp;&nbsp; Capgemini",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUktBeS1EQzZSb2Z5MlEyaGd1UGdHcld4d2d2RDh6eEM5OFZqd281OU9FOUl3X1FfalBWZzFocTE4QUhYazRaTVJ4OEtTNDhWYWFvQWRVZ2tuT2V6bEVGZTdJOVM0NWJHT3lYN09aVDlaLUFjOTZCOGNnUmhuSWJjV19LRF8xdHcwajgwNWpTNzZTalZuYldnNw?oc=5",
       "date": "Tue, 07 Jul 2026 06:23:39 GMT",
       "source": "Google News · University Automotive Research",
@@ -2792,9 +2697,9 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 81,
+      "momentum_score": 63,
       "confidence_score": 78,
-      "signal_score": 65
+      "signal_score": 58
     },
     {
       "id": "google-news-bcg-automotive-electric-vehicles-future-of-last-mile-deliveries-in-india-web-assets-bcg-com",
@@ -3262,10 +3167,10 @@
       "signal_score": 57
     },
     {
-      "id": "google-news-deloitte-automotive-electric-vehicle-lease-returns-market-analysis-deloitte",
-      "title": "Electric Vehicle Lease Returns: Market Analysis - Deloitte",
-      "summary": "Electric Vehicle Lease Returns: Market Analysis &nbsp;&nbsp; Deloitte",
-      "text": "Electric Vehicle Lease Returns: Market Analysis &nbsp;&nbsp; Deloitte",
+      "id": "google-news-deloitte-automotive-electric-vehicle-lease-returns-market-analysis-deloitte-com",
+      "title": "Electric Vehicle Lease Returns: Market Analysis - deloitte.com",
+      "summary": "Electric Vehicle Lease Returns: Market Analysis &nbsp;&nbsp; deloitte.com",
+      "text": "Electric Vehicle Lease Returns: Market Analysis &nbsp;&nbsp; deloitte.com",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcm51MFZhZWtyX0lSQkpWdncyLUhPT1lYNzZYV1U0dGt4d1NsOHdIcF8wbk1DZDhFRDdFT2JBb0xrdTRWQUkyYnNXbUx0NjhqR2xxd3hVV0NTU2dscllWQV95RjVHZDdBa2h0bzAwd0FvT3VTeUUtcjBEM283WVZ2OHozRW1uY1JwZG9KNHZTeEFPbG40bXdOaExTQVhGTmZERzBTbWN6em5rOVhkR1JkeA?oc=5",
       "date": "Thu, 26 Mar 2026 07:00:00 GMT",
       "source": "Google News · Deloitte Automotive",
@@ -3276,15 +3181,15 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 71,
+      "momentum_score": 81,
       "confidence_score": 78,
-      "signal_score": 61
+      "signal_score": 65
     },
     {
-      "id": "google-news-deloitte-automotive-global-automotive-consumer-study-2026-deloitte",
-      "title": "Global Automotive Consumer Study 2026 - Deloitte",
-      "summary": "Global Automotive Consumer Study 2026 &nbsp;&nbsp; Deloitte",
-      "text": "Global Automotive Consumer Study 2026 &nbsp;&nbsp; Deloitte",
+      "id": "google-news-deloitte-automotive-global-automotive-consumer-study-2026-deloitte-com",
+      "title": "Global Automotive Consumer Study 2026 - deloitte.com",
+      "summary": "Global Automotive Consumer Study 2026 &nbsp;&nbsp; deloitte.com",
+      "text": "Global Automotive Consumer Study 2026 &nbsp;&nbsp; deloitte.com",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQTFJLVcxZXo2QlMxTWV6cGh2UXlmN0pCMHBoa3RXQ1dMenhVZ3lySHNZQzZDbms0NW5ZNUJ0Y0ZEMG1IaHhycUYteG5YRHcwRGhsNFNJRUM5YlE1aThoT0RqcnlCd2NFbFU5U2ZZZ1FVVGZaX05IN0JlVnFHTHM3WmZmZ2d2U3BwY2dXUVJBZFFKenF1?oc=5",
       "date": "Thu, 26 Feb 2026 08:00:00 GMT",
       "source": "Google News · Deloitte Automotive",
@@ -3358,10 +3263,10 @@
       "signal_score": 62
     },
     {
-      "id": "google-news-deloitte-automotive-software-defined-vehicles-global-manufacturer-readiness-study-deloitte",
-      "title": "Software defined vehicles: Global manufacturer readiness study - Deloitte",
-      "summary": "Software defined vehicles: Global manufacturer readiness study &nbsp;&nbsp; Deloitte",
-      "text": "Software defined vehicles: Global manufacturer readiness study &nbsp;&nbsp; Deloitte",
+      "id": "google-news-deloitte-automotive-software-defined-vehicles-global-manufacturer-readiness-study-deloitte-com",
+      "title": "Software defined vehicles: Global manufacturer readiness study - deloitte.com",
+      "summary": "Software defined vehicles: Global manufacturer readiness study &nbsp;&nbsp; deloitte.com",
+      "text": "Software defined vehicles: Global manufacturer readiness study &nbsp;&nbsp; deloitte.com",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdUt0bHREOW1TeUhhdUtDSThOS0lRaS1uSVZqRk1tVGc4SlVnUG1vREtMQzZzbG1mZG9HdnBwTkVzUXlqcS1TSzdabWZIQVVBZnlhYWhVVnp6X2tDbG9tU3BxSk9KRGNUMkJ0U0poRVhIQVJHQkVkWmlyT0czQkpacnFoWmlaNC1mTjRfM3lNdWdpRjI1a01vaWZzY08?oc=5",
       "date": "Thu, 24 Oct 2024 07:00:00 GMT",
       "source": "Google News · Deloitte Automotive",
@@ -3372,9 +3277,9 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 72,
+      "momentum_score": 52,
       "confidence_score": 78,
-      "signal_score": 62
+      "signal_score": 54
     },
     {
       "id": "google-news-mckinsey-automotive-a-turning-point-for-us-auto-dealers-the-unstoppable-electric-car-mckinsey-company",
@@ -3396,10 +3301,30 @@
       "signal_score": 52
     },
     {
-      "id": "google-news-software-defined-vehicles-what-exactly-is-a-software-defined-vehicle-autoweek",
-      "title": "What, Exactly, Is a Software-Defined Vehicle? - Autoweek",
-      "summary": "What, Exactly, Is a Software-Defined Vehicle? &nbsp;&nbsp; Autoweek",
-      "text": "What, Exactly, Is a Software-Defined Vehicle? &nbsp;&nbsp; Autoweek",
+      "id": "google-news-automotive-cybersecurity-iso-sae-21434-shaping-automotive-cybersecurity-to-secure-the-road-ahead-applied-intuition",
+      "title": "ISO/SAE 21434: Shaping Automotive Cybersecurity to Secure the Road Ahead - Applied Intuition",
+      "summary": "ISO/SAE 21434: Shaping Automotive Cybersecurity to Secure the Road Ahead &nbsp;&nbsp; Applied Intuition",
+      "text": "ISO/SAE 21434: Shaping Automotive Cybersecurity to Secure the Road Ahead &nbsp;&nbsp; Applied Intuition",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb3J0elhqeU05cnlJaW83SnR1UVkxeEhyT2NOamFsNTJQdnc3MGhIWEl2Zm0yR3FCamEyZVYtTjR0RDQxRmEtSEVYR1JUSVI0a2lLa0ZBQ2hHNDhnVG9CYVBzdU10OVlUMU9Pd0Q3UTZxbW9sczNlSTYtQ3hGcmlqTDVESWhKcWVZbUlhcg?oc=5",
+      "date": "Thu, 23 Oct 2025 07:00:00 GMT",
+      "source": "Google News · Automotive Cybersecurity",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive",
+        "Cybersecurity"
+      ],
+      "novelty_score": 49,
+      "momentum_score": 45,
+      "confidence_score": 78,
+      "signal_score": 55
+    },
+    {
+      "id": "google-news-software-defined-vehicles-what-exactly-is-a-software-defined-vehicle-autoweek-com",
+      "title": "What, Exactly, Is a Software-Defined Vehicle? - autoweek.com",
+      "summary": "What, Exactly, Is a Software-Defined Vehicle? &nbsp;&nbsp; autoweek.com",
+      "text": "What, Exactly, Is a Software-Defined Vehicle? &nbsp;&nbsp; autoweek.com",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbXJXUWgxNERpMXV0bExSTlpzUGtVZ2ctOF9sMUVHbHgwVVV1Q2ljV0ZrODdLWGtpbXFVSHlQcnlSeTc2Yml3RUlpMVhwZjFUQjN3WXJ6UUdlNVUtU1NmaWp1VHVGUnhlQ0c4S3U3ODVGdkhJSG52bU1NYnFORW5YQQ?oc=5",
       "date": "Thu, 23 Apr 2026 07:00:00 GMT",
       "source": "Google News · Software-Defined Vehicles",
@@ -3411,9 +3336,9 @@
         "SDV"
       ],
       "novelty_score": 49,
-      "momentum_score": 65,
+      "momentum_score": 46,
       "confidence_score": 78,
-      "signal_score": 62
+      "signal_score": 55
     },
     {
       "id": "google-news-bain-mobility-automotive-profitability-how-oem-and-supplier-margins-are-faring-bain",
@@ -3474,10 +3399,10 @@
       "signal_score": 60
     },
     {
-      "id": "google-news-deloitte-automotive-2026-global-automotive-consumer-study-deloitte",
-      "title": "2026 Global Automotive Consumer Study - Deloitte",
-      "summary": "2026 Global Automotive Consumer Study &nbsp;&nbsp; Deloitte",
-      "text": "2026 Global Automotive Consumer Study &nbsp;&nbsp; Deloitte",
+      "id": "google-news-deloitte-automotive-2026-global-automotive-consumer-study-deloitte-com",
+      "title": "2026 Global Automotive Consumer Study - deloitte.com",
+      "summary": "2026 Global Automotive Consumer Study &nbsp;&nbsp; deloitte.com",
+      "text": "2026 Global Automotive Consumer Study &nbsp;&nbsp; deloitte.com",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQnFGUVBRbUhjcEdwUS1sd0FwSTkyUmx3Qi1wSGpsVEVCSFltY25fSEIwcGFQdzI1QVRORUptUmlGSGlJU0VxdUlnN3ByUnprZ2h0czRuWmxtUWJNSy1DcVZ0cUJIU1ZDbVRXbktOcHRhVGQ0aWhtVnhxLWFqV2NrSkNqTXI4WHBFdEVrZFFScGpGcEdwUkIyNkYzLU1qYnhId3AwRm8zOHJBaUdfMXJleU81WXZ6QktFRnhEdw?oc=5",
       "date": "Thu, 19 Mar 2026 12:56:52 GMT",
       "source": "Google News · Deloitte Automotive",
@@ -3493,10 +3418,10 @@
       "signal_score": 64
     },
     {
-      "id": "google-news-deloitte-automotive-2026-global-automotive-consumer-study-deloitte",
-      "title": "2026 Global Automotive Consumer Study - Deloitte",
-      "summary": "2026 Global Automotive Consumer Study &nbsp;&nbsp; Deloitte",
-      "text": "2026 Global Automotive Consumer Study &nbsp;&nbsp; Deloitte",
+      "id": "google-news-deloitte-automotive-2026-global-automotive-consumer-study-deloitte-com",
+      "title": "2026 Global Automotive Consumer Study - deloitte.com",
+      "summary": "2026 Global Automotive Consumer Study &nbsp;&nbsp; deloitte.com",
+      "text": "2026 Global Automotive Consumer Study &nbsp;&nbsp; deloitte.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRndnRFZlWEl4bHpYVWh5X2stdXRuVXVDcXFUXy1DT1FVUEI1RVBQZmlIeTk4LXRrZDhSWUVncDY1cUQzNmVWWTdhdVc4eHhMdzV6Wml5b3ZHTVZRTXJBdFpjMmhVMDBKOWNrYlF0OTRQSzVHQ1paY09ibkdUNlYyYlJjcF9nazFuaVZFRnp4RkVqZTJ3RmE5LWNEbWRPZTU3dFVrSVlsb1pqdw?oc=5",
       "date": "Thu, 19 Jun 2025 21:37:55 GMT",
       "source": "Google News · Deloitte Automotive",
@@ -3529,6 +3454,25 @@
       "momentum_score": 61,
       "confidence_score": 78,
       "signal_score": 58
+    },
+    {
+      "id": "google-news-university-automotive-research-rivian-and-university-of-georgia-announce-competition-and-scholarship-newsroom-rivian",
+      "title": "Rivian and University of Georgia Announce Competition and Scholarship - Newsroom - Rivian",
+      "summary": "Rivian and University of Georgia Announce Competition and Scholarship - Newsroom &nbsp;&nbsp; Rivian",
+      "text": "Rivian and University of Georgia Announce Competition and Scholarship - Newsroom &nbsp;&nbsp; Rivian",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNTBJU19tZ0Y0S2VoSTJ6NXlfcEYyMDVBOVpiZXplQkNzdXNDT25KWllsRDhDdDZfRGxRZ3ZIUC1CME5WUkZlX1BkUkVQSkNfWE5Ra0Z3OTc4QUFlbHdEenBxS3NETUF5Y0Q4NC1yeEdta0Z0bHBSUldIZjROQTgtV0RFQlYwdzlsQ1E?oc=5",
+      "date": "Thu, 18 Dec 2025 08:00:00 GMT",
+      "source": "Google News · University Automotive Research",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 79,
+      "confidence_score": 78,
+      "signal_score": 64
     },
     {
       "id": "google-news-software-defined-vehicles-sdv-av-silicon-valley-technology-summit-2026-automotive-iq",
@@ -3589,10 +3533,10 @@
       "signal_score": 63
     },
     {
-      "id": "google-news-automotive-news-fed-s-rate-raise-increases-affordability-strain-for-consumers-and-dealers-automotive-news",
-      "title": "Fed’s rate raise increases affordability strain for consumers and dealers - Automotive News",
-      "summary": "Fed’s rate raise increases affordability strain for consumers and dealers &nbsp;&nbsp; Automotive News",
-      "text": "Fed’s rate raise increases affordability strain for consumers and dealers &nbsp;&nbsp; Automotive News",
+      "id": "google-news-automotive-news-fed-s-rate-raise-increases-affordability-strain-for-consumers-and-dealers-autonews-com",
+      "title": "Fed’s rate raise increases affordability strain for consumers and dealers - autonews.com",
+      "summary": "Fed’s rate raise increases affordability strain for consumers and dealers &nbsp;&nbsp; autonews.com",
+      "text": "Fed’s rate raise increases affordability strain for consumers and dealers &nbsp;&nbsp; autonews.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQlRva1ZtN1Z3YkdxSnFraUcxbmQtY0RiVFk2bGJ0OXFuUjBpbzdfRWNscEhVbldwQ0MwdnJJVWdGcXJoaHlsY0JDVVpsVDF4XzQxYmtDaVBSRnlhSFRpMEoxMTlxdVY1dm5TdHRyOGpfd0FSS2RFd09JOWpzZjRoRlpucGJJUTlrRFBUdTNzTjhDWVVlSGFkYW0yaGpIUQ?oc=5",
       "date": "Thu, 17 Sep 2026 20:48:00 GMT",
       "source": "Google News · Automotive News",
@@ -3603,9 +3547,9 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 76,
+      "momentum_score": 65,
       "confidence_score": 78,
-      "signal_score": 63
+      "signal_score": 59
     },
     {
       "id": "ars-technica-google-announces-new-experimental-cc-ai-agent-for-families",
@@ -3665,10 +3609,10 @@
       "signal_score": 65
     },
     {
-      "id": "google-news-automotive-news-stellantis-says-no-business-case-for-brampton-plant-as-unifor-warns-of-1st-major-casualty-of-auto-tariffs-automotive-news",
-      "title": "Stellantis says no business case for Brampton plant, as Unifor warns of 1st major casualty of auto tariffs - Automotive News",
-      "summary": "Stellantis says no business case for Brampton plant, as Unifor warns of 1st major casualty of auto tariffs &nbsp;&nbsp; Automotive News",
-      "text": "Stellantis says no business case for Brampton plant, as Unifor warns of 1st major casualty of auto tariffs &nbsp;&nbsp; Automotive News",
+      "id": "google-news-automotive-news-stellantis-says-no-business-case-for-brampton-plant-as-unifor-warns-of-1st-major-casualty-of-auto-tariffs-autonews-com",
+      "title": "Stellantis says no business case for Brampton plant, as Unifor warns of 1st major casualty of auto tariffs - autonews.com",
+      "summary": "Stellantis says no business case for Brampton plant, as Unifor warns of 1st major casualty of auto tariffs &nbsp;&nbsp; autonews.com",
+      "text": "Stellantis says no business case for Brampton plant, as Unifor warns of 1st major casualty of auto tariffs &nbsp;&nbsp; autonews.com",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSGRUUGhtbm5ha1ZDXzdsUXJ0SFBxX0hobFY0V0Fnb2VrbkdrWG5sZnpyQlF3WEhZR2E2dTktUDRpazVhZE9rajhjeGtiSHpyRi1ocTlGLW9UYTcwMFFicVZqNWxRdTNQeG1iY0k2ZWI3aFFtbjRaaTFSSUljMDluN293aE45WExISVhYcjE4QzU?oc=5",
       "date": "Thu, 17 Sep 2026 18:54:00 GMT",
       "source": "Google News · Automotive News",
@@ -3679,9 +3623,9 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 70,
+      "momentum_score": 65,
       "confidence_score": 78,
-      "signal_score": 61
+      "signal_score": 59
     },
     {
       "id": "ars-technica-llms-respond-differently-to-harmful-prompts-when-ai-watermarking-is-used",
@@ -3720,6 +3664,25 @@
       "momentum_score": 57,
       "confidence_score": 78,
       "signal_score": 56
+    },
+    {
+      "id": "google-news-automotive-news-lucid-ceo-work-with-restructuring-adviser-to-target-cost-cuts-cash-flow-has-wrapped-up-autonews-com",
+      "title": "Lucid CEO: Work with restructuring adviser to target cost cuts, cash flow has wrapped up - autonews.com",
+      "summary": "Lucid CEO: Work with restructuring adviser to target cost cuts, cash flow has wrapped up &nbsp;&nbsp; autonews.com",
+      "text": "Lucid CEO: Work with restructuring adviser to target cost cuts, cash flow has wrapped up &nbsp;&nbsp; autonews.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORF9TX3JvLVlIVm5nWWFEVDdKQ1d3VkE3bDJHcHpCRVN6aWlYa1FsVU1WNkFSNFRoQUYyUi1WNnV2LWVBOVBKMnNKUllKeXhpdnVLT3J4QTBJUEYtSXdTMVZ1SFFONDVmS2pBalp5a0w5eW1DSVBsanlTU2ZGc1hnVG15NEtWVWxvVkxV?oc=5",
+      "date": "Thu, 17 Sep 2026 17:06:00 GMT",
+      "source": "Google News · Automotive News",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 79,
+      "confidence_score": 78,
+      "signal_score": 64
     },
     {
       "id": "mit-news-engineering-mit-school-of-engineering-faculty-and-staff-receive-awards-in-spring-2026",
@@ -3761,10 +3724,10 @@
       "signal_score": 54
     },
     {
-      "id": "google-news-automotive-news-why-gm-is-betting-on-diesel-and-new-v-8-engines-as-rivals-embrace-hybrids-automotive-news",
-      "title": "Why GM is betting on diesel and new V-8 engines as rivals embrace hybrids - Automotive News",
-      "summary": "Why GM is betting on diesel and new V-8 engines as rivals embrace hybrids &nbsp;&nbsp; Automotive News",
-      "text": "Why GM is betting on diesel and new V-8 engines as rivals embrace hybrids &nbsp;&nbsp; Automotive News",
+      "id": "google-news-automotive-news-why-gm-is-betting-on-diesel-and-new-v-8-engines-as-rivals-embrace-hybrids-autonews-com",
+      "title": "Why GM is betting on diesel and new V-8 engines as rivals embrace hybrids - autonews.com",
+      "summary": "Why GM is betting on diesel and new V-8 engines as rivals embrace hybrids &nbsp;&nbsp; autonews.com",
+      "text": "Why GM is betting on diesel and new V-8 engines as rivals embrace hybrids &nbsp;&nbsp; autonews.com",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdHZ5WlRULWhVdjNTWFJZb0RORXk0Vndfd3VhRGF5YmJyNzF4M1hEak1sUTNrcUhBSk1lNDZUUHF6OV9mWmxzTVZNamNVTU1NdzhvUEFCelFDWnlBRVVBbUlEM1BaWXRQUjIyNGNjMjFUYWRRbU5wT2FyejYzd1ZlMldOZHlvaVE?oc=5",
       "date": "Thu, 17 Sep 2026 14:00:00 GMT",
       "source": "Google News · Automotive News",
@@ -3775,15 +3738,15 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 48,
+      "momentum_score": 82,
       "confidence_score": 78,
-      "signal_score": 53
+      "signal_score": 65
     },
     {
-      "id": "google-news-automotive-news-byd-executive-says-chinese-rivals-are-racing-to-buy-european-factories-ahead-of-local-content-rules-automotive-news",
-      "title": "BYD executive says Chinese rivals are racing to buy European factories ahead of local content rules - Automotive News",
-      "summary": "BYD executive says Chinese rivals are racing to buy European factories ahead of local content rules &nbsp;&nbsp; Automotive News",
-      "text": "BYD executive says Chinese rivals are racing to buy European factories ahead of local content rules &nbsp;&nbsp; Automotive News",
+      "id": "google-news-automotive-news-byd-executive-says-chinese-rivals-are-racing-to-buy-european-factories-ahead-of-local-content-rules-autonews-com",
+      "title": "BYD executive says Chinese rivals are racing to buy European factories ahead of local content rules - autonews.com",
+      "summary": "BYD executive says Chinese rivals are racing to buy European factories ahead of local content rules &nbsp;&nbsp; autonews.com",
+      "text": "BYD executive says Chinese rivals are racing to buy European factories ahead of local content rules &nbsp;&nbsp; autonews.com",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVUVadWhxZ1pfUzk3cFBTNEQ3Rm5lX0Frc29SdzFYME9oRTZib2lWOGRIRHNnekFtb3RuQkxqTTB6Q2VRT09QMUlCUzUyYnhjTTJHdHpqMjExOVlaZEFUSkNZR29uWXZWVVlEamVxOE1iLUhhNzBlNkNCX3UxaW9KX21hZExWbjE4YlIzQU8tQzY?oc=5",
       "date": "Thu, 17 Sep 2026 13:35:00 GMT",
       "source": "Google News · Automotive News",
@@ -3794,15 +3757,15 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 63,
+      "momentum_score": 54,
       "confidence_score": 78,
-      "signal_score": 58
+      "signal_score": 55
     },
     {
-      "id": "google-news-automotive-news-acura-pauses-mdx-type-s-production-over-emissions-uncertainty-automotive-news",
-      "title": "Acura pauses MDX Type S production over emissions uncertainty - Automotive News",
-      "summary": "Acura pauses MDX Type S production over emissions uncertainty &nbsp;&nbsp; Automotive News",
-      "text": "Acura pauses MDX Type S production over emissions uncertainty &nbsp;&nbsp; Automotive News",
+      "id": "google-news-automotive-news-acura-pauses-mdx-type-s-production-over-emissions-uncertainty-autonews-com",
+      "title": "Acura pauses MDX Type S production over emissions uncertainty - autonews.com",
+      "summary": "Acura pauses MDX Type S production over emissions uncertainty &nbsp;&nbsp; autonews.com",
+      "text": "Acura pauses MDX Type S production over emissions uncertainty &nbsp;&nbsp; autonews.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa241MGY1V2dSQ2ZuTFVYeU9KOWRDR2JHSEJnVG1CYndKTzRYdERrbDdINHB1d1FJMTNpbnhHMXB3Q3p2V3FXYlNMYk84UVZhWUFBZHg4Rl9sSlpzTDNQbmU1Y0lHQXA0ZU9EYUIxS2tIYjVRVy1RWTdyU1BLdUdvTVR4cDRfd3d4?oc=5",
       "date": "Thu, 17 Sep 2026 12:15:00 GMT",
       "source": "Google News · Automotive News",
@@ -3813,15 +3776,15 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 65,
+      "momentum_score": 60,
       "confidence_score": 78,
-      "signal_score": 59
+      "signal_score": 57
     },
     {
-      "id": "google-news-automotive-news-volvo-plans-13-all-new-models-by-2030-split-between-western-markets-and-china-automotive-news",
-      "title": "Volvo plans 13 all-new models by 2030, split between Western markets and China - Automotive News",
-      "summary": "Volvo plans 13 all-new models by 2030, split between Western markets and China &nbsp;&nbsp; Automotive News",
-      "text": "Volvo plans 13 all-new models by 2030, split between Western markets and China &nbsp;&nbsp; Automotive News",
+      "id": "google-news-automotive-news-volvo-plans-13-all-new-models-by-2030-split-between-western-markets-and-china-autonews-com",
+      "title": "Volvo plans 13 all-new models by 2030, split between Western markets and China - autonews.com",
+      "summary": "Volvo plans 13 all-new models by 2030, split between Western markets and China &nbsp;&nbsp; autonews.com",
+      "text": "Volvo plans 13 all-new models by 2030, split between Western markets and China &nbsp;&nbsp; autonews.com",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1jd0RRNE9ZamVMUDdEWE1TSllpbVROMWJTNFJfYTczMmw3RG5WdGpGTFFvbWF5MG40V3ZqcnMwMXdDR0pKVzhBVFJibkZlUkJlUDRseVdjODRPVGY0NldTZGpEWWlMRXA5cjRvazBJbWYwdXc?oc=5",
       "date": "Thu, 17 Sep 2026 12:12:14 GMT",
       "source": "Google News · Automotive News",
@@ -3832,9 +3795,9 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 81,
+      "momentum_score": 60,
       "confidence_score": 78,
-      "signal_score": 65
+      "signal_score": 57
     },
     {
       "id": "mit-technology-review-ai-the-download-mice-with-part-human-brains-and-climate-tech-innovators",
@@ -3856,10 +3819,10 @@
       "signal_score": 62
     },
     {
-      "id": "google-news-automotive-news-guest-commentary-trump-s-tariffs-could-sink-detroit-automotive-news",
-      "title": "Guest commentary: Trump’s tariffs could sink Detroit - Automotive News",
-      "summary": "Guest commentary: Trump’s tariffs could sink Detroit &nbsp;&nbsp; Automotive News",
-      "text": "Guest commentary: Trump’s tariffs could sink Detroit &nbsp;&nbsp; Automotive News",
+      "id": "google-news-automotive-news-guest-commentary-trump-s-tariffs-could-sink-detroit-autonews-com",
+      "title": "Guest commentary: Trump’s tariffs could sink Detroit - autonews.com",
+      "summary": "Guest commentary: Trump’s tariffs could sink Detroit &nbsp;&nbsp; autonews.com",
+      "text": "Guest commentary: Trump’s tariffs could sink Detroit &nbsp;&nbsp; autonews.com",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPekdna3pEREYxaDBmdVNONHFsZmJ1eF9mZlZINEhVXzV5a0dVVFJqNVBxZW1HS2wxS0MtMkljTm96b2FFUnpteE9xV0Z5cTlVSDY0dUNZOUx4Z25nY1dLc0pKNm53U3hIVUVDd1h1bWEyc3pla2kzdWk1eHZFZjNfNDBqal9XdWdXanBodFBBSGhoQTdUNjJ3MVY3U3Y?oc=5",
       "date": "Thu, 17 Sep 2026 12:05:00 GMT",
       "source": "Google News · Automotive News",
@@ -3870,9 +3833,28 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 69,
+      "momentum_score": 46,
       "confidence_score": 78,
-      "signal_score": 60
+      "signal_score": 52
+    },
+    {
+      "id": "google-news-automotive-news-europe-s-truck-show-signals-new-threat-chinese-manufacturers-arrive-with-competitive-electric-vehicles-autonews-com",
+      "title": "Europe’s truck show signals new threat — Chinese manufacturers arrive with competitive electric vehicles - autonews.com",
+      "summary": "Europe’s truck show signals new threat — Chinese manufacturers arrive with competitive electric vehicles &nbsp;&nbsp; autonews.com",
+      "text": "Europe’s truck show signals new threat — Chinese manufacturers arrive with competitive electric vehicles &nbsp;&nbsp; autonews.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaEg4Sm1CN19EbEJWUnUzck1zZ28yWUNXbFpmZlYtVF9MLXZ3SXhhNi1JMVBVY0UySUxmWDRBalQtY2pkUUpyeEpPMlJMM005VmsxbDR1ckdQRnR4N2owdTRHSkg1bFVmRkl5NDlZT1BIeDFqbU9ZcmxXTjhGNzB5cmNnZ1J5SnMtdXFGWkhsTGtNWS1H?oc=5",
+      "date": "Thu, 17 Sep 2026 10:21:00 GMT",
+      "source": "Google News · Automotive News",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 64,
+      "confidence_score": 78,
+      "signal_score": 59
     },
     {
       "id": "mit-technology-review-ai-meet-the-innovators-under-35-shaping-climate-tech",
@@ -3894,10 +3876,10 @@
       "signal_score": 55
     },
     {
-      "id": "google-news-automotive-news-vw-s-seat-may-be-first-major-auto-brand-casualty-of-chinese-automakers-rise-automotive-news",
-      "title": "VW’s Seat may be first major auto-brand casualty of Chinese automakers’ rise - Automotive News",
-      "summary": "VW’s Seat may be first major auto-brand casualty of Chinese automakers’ rise &nbsp;&nbsp; Automotive News",
-      "text": "VW’s Seat may be first major auto-brand casualty of Chinese automakers’ rise &nbsp;&nbsp; Automotive News",
+      "id": "google-news-automotive-news-vw-s-seat-may-be-first-major-auto-brand-casualty-of-chinese-automakers-rise-autonews-com",
+      "title": "VW’s Seat may be first major auto-brand casualty of Chinese automakers’ rise - autonews.com",
+      "summary": "VW’s Seat may be first major auto-brand casualty of Chinese automakers’ rise &nbsp;&nbsp; autonews.com",
+      "text": "VW’s Seat may be first major auto-brand casualty of Chinese automakers’ rise &nbsp;&nbsp; autonews.com",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVEpSLV9iUVZYTXl2V0FReHc0QWRWV1plYkpmaUNnMF9OUW42bU1YaUY1b1dyRTRfbDVpRDZULXprVHRHTzBOaHZYaWZTTUl5SEFGd0pLcTV4R2pSLXA5NFlZeHBuWXRXQi16ZEdZRVpFZUhyMDV1RmNGUmROQ21WS2ExaUs5eGc?oc=5",
       "date": "Thu, 17 Sep 2026 09:17:00 GMT",
       "source": "Google News · Automotive News",
@@ -3908,15 +3890,15 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 62,
+      "momentum_score": 72,
       "confidence_score": 78,
-      "signal_score": 58
+      "signal_score": 62
     },
     {
-      "id": "google-news-automotive-news-eu-said-to-seek-curbs-on-china-s-hybrid-car-exports-to-avert-trade-dispute-automotive-news",
-      "title": "EU said to seek curbs on China’s hybrid car exports to avert trade dispute - Automotive News",
-      "summary": "EU said to seek curbs on China’s hybrid car exports to avert trade dispute &nbsp;&nbsp; Automotive News",
-      "text": "EU said to seek curbs on China’s hybrid car exports to avert trade dispute &nbsp;&nbsp; Automotive News",
+      "id": "google-news-automotive-news-eu-said-to-seek-curbs-on-china-s-hybrid-car-exports-to-avert-trade-dispute-autonews-com",
+      "title": "EU said to seek curbs on China’s hybrid car exports to avert trade dispute - autonews.com",
+      "summary": "EU said to seek curbs on China’s hybrid car exports to avert trade dispute &nbsp;&nbsp; autonews.com",
+      "text": "EU said to seek curbs on China’s hybrid car exports to avert trade dispute &nbsp;&nbsp; autonews.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORGdOTFlmRWV3V0R6ejhBMWxzWnZ0aXREOEVWTmFYZXItYWRWUW9OY2Q1T2tlTlc2b1U4Z0JiUFR2OGp1bjhtRTh4Q3ZORkU3cGlNWjYzRWNGckp1dlJzQW9XanlGSmF1ZjRlVXkzUzJJNHIxbWxvbWdZdmVZTGxaWUY5c3NXb2Ro?oc=5",
       "date": "Thu, 17 Sep 2026 06:30:00 GMT",
       "source": "Google News · Automotive News",
@@ -3927,9 +3909,9 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 49,
+      "momentum_score": 45,
       "confidence_score": 78,
-      "signal_score": 53
+      "signal_score": 52
     },
     {
       "id": "google-news-software-defined-vehicles-tcs-offers-silicon-design-services-for-sdv-automakers-automotive-world",
@@ -3974,10 +3956,29 @@
       "signal_score": 71
     },
     {
-      "id": "google-news-deloitte-automotive-2025-global-automotive-consumer-study-deloitte",
-      "title": "2025 Global Automotive Consumer Study - Deloitte",
-      "summary": "2025 Global Automotive Consumer Study &nbsp;&nbsp; Deloitte",
-      "text": "2025 Global Automotive Consumer Study &nbsp;&nbsp; Deloitte",
+      "id": "google-news-bain-mobility-bain-company-s-new-report-examines-the-future-of-electric-vehicles-in-the-middle-east-a-54-billion-opportunity-by-2035-bain",
+      "title": "Bain & Company’s New Report Examines the Future of Electric Vehicles in the Middle East: A $54 Billion Opportunity by 2035 - Bain",
+      "summary": "Bain & Company’s New Report Examines the Future of Electric Vehicles in the Middle East: A $54 Billion Opportunity by 2035 &nbsp;&nbsp; Bain",
+      "text": "Bain & Company’s New Report Examines the Future of Electric Vehicles in the Middle East: A $54 Billion Opportunity by 2035 &nbsp;&nbsp; Bain",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOX2dkM3Y3R0w3dGdQWHhyalJsUS1aWk5vUV9saWZjSjFMS0N1OEhUOV9qby1lQ01DOUNUYlVUVUZoSGZtQ2VFdkdfaC1LdmdjTWVXSm12Q1pjZkRVRGZRUjdPUnFncFdpUTR6ZzZHbGhyVE9lU0VqUG1xVklYLWszOWd2YVo2bTVUZHdYemZUQnZvSHFmWURDYUMtVXNCYWRSWVplSG0wNFExR1dkbVJJR1FmRk1QX2NNTjRkS3RtSW9DeDNwRWdtbTVEdHZfTGxJU0hPckhuSzZ1MW1YLXR5WWhoOW0ybHJEMncyOXB6cnRGWGI0ZUtETkMtY0gwckhkRVNFZXNzcFhiQ0dMdHc0c0lXRDJya0JUVU1SUw?oc=5",
+      "date": "Thu, 17 Oct 2024 07:00:00 GMT",
+      "source": "Google News · Bain Mobility",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 78,
+      "confidence_score": 78,
+      "signal_score": 64
+    },
+    {
+      "id": "google-news-deloitte-automotive-2025-global-automotive-consumer-study-deloitte-com",
+      "title": "2025 Global Automotive Consumer Study - deloitte.com",
+      "summary": "2025 Global Automotive Consumer Study &nbsp;&nbsp; deloitte.com",
+      "text": "2025 Global Automotive Consumer Study &nbsp;&nbsp; deloitte.com",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY096WnNpOFpaZHgwUDdpU241Qmo5NTNRZkJNemZ0TnprTVU0RVVVUGdTNDBkUU1aeWJfYTdqZzhTZEF0SnRyRGRxRWRDaDFyVTI3ZnFOZVlyR3lpdEh1TVp2WFJ1NnRfN2Q1MXpYemcwd0N3X24xaUFLNUd0THFKMmZiZk5mNHVMYnU1cW1RUDItUEtnQThlcXBNTDZCMURIUmx3T0N2OGl0RmU4YlVTcndpT1htdE5vc1Z1WQ?oc=5",
       "date": "Thu, 17 Apr 2025 07:00:00 GMT",
       "source": "Google News · Deloitte Automotive",
@@ -4031,6 +4032,25 @@
       "signal_score": 60
     },
     {
+      "id": "google-news-vehicle-connectivity-5gaa-brings-first-satellite-and-5g-v2x-direct-vehicle-connectivity-to-life-iot-insider",
+      "title": "5GAA brings first satellite and 5G-V2X direct vehicle connectivity to life - IOT Insider",
+      "summary": "5GAA brings first satellite and 5G-V2X direct vehicle connectivity to life &nbsp;&nbsp; IOT Insider",
+      "text": "5GAA brings first satellite and 5G-V2X direct vehicle connectivity to life &nbsp;&nbsp; IOT Insider",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMHFzUWdjVXd6aTlxcU5NZXE1S1NIbURvVm9iQzgtaXFNdFN0cG1pNDNfdlA3Vk1aVkVaeUdMTm55SnhXaUREbGRPa1Z4b2JRcHpTT2doclo3VVVHS24wVUFQTnNOal8xcTdwMGxBZmRMZS1sTXBmQ1VyYWdpU1N1ejFaNmk0N2ZEMWM4QjA4RG1qM2RjNmQwdm1xSTRIenFaYWlHQzZrbHhMc1dBZjZlMU80MHl0ZTNCaXE2WXZNck8?oc=5",
+      "date": "Thu, 15 May 2025 07:00:00 GMT",
+      "source": "Google News · Vehicle Connectivity",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 46,
+      "confidence_score": 78,
+      "signal_score": 52
+    },
+    {
       "id": "google-news-bcg-automotive-as-auto-software-revs-up-suppliers-need-to-switch-gears-boston-consulting-group",
       "title": "As Auto Software Revs Up, Suppliers Need to Switch Gears - Boston Consulting Group",
       "summary": "As Auto Software Revs Up, Suppliers Need to Switch Gears &nbsp;&nbsp; Boston Consulting Group",
@@ -4048,6 +4068,25 @@
       "momentum_score": 77,
       "confidence_score": 78,
       "signal_score": 63
+    },
+    {
+      "id": "google-news-pwc-automotive-the-road-ahead-indonesia-s-electric-vehicle-readiness-and-consumer-insights-2024-pwc",
+      "title": "The road ahead: Indonesia's Electric Vehicle Readiness and Consumer Insights 2024 - PwC",
+      "summary": "The road ahead: Indonesia's Electric Vehicle Readiness and Consumer Insights 2024 &nbsp;&nbsp; PwC",
+      "text": "The road ahead: Indonesia's Electric Vehicle Readiness and Consumer Insights 2024 &nbsp;&nbsp; PwC",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMUt6TGdMMTBCOTNMaUpfc0l0dXdtb1NkUjA0Nk0tMW1KTHNwcDl6OHlGYWJOR2JTWXhYM1JhUEZoZHFJdkRDT0p0eF83bDVMTEJTck44YXh5RHRWbHF2ZDVMRm01ZFNENnYzMm1aLXFhWjVyeE9QbFpOSmZPM0NkOVpEeXlJRVlEVUo0TVZQZWlIc2lwcTQwSG41akNUeW4xWlQwSEFiaDBVdDdHeE9nSGpXQzJXelMxa1F0WlF2bGQ0TU96VlVtdDdHNFd3MlU4?oc=5",
+      "date": "Thu, 14 Nov 2024 08:00:00 GMT",
+      "source": "Google News · PwC Automotive",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 84,
+      "confidence_score": 78,
+      "signal_score": 66
     },
     {
       "id": "google-news-vehicle-connectivity-5g-in-the-automotive-industry-real-world-uses-and-benefits-techtarget",
@@ -4204,10 +4243,10 @@
       "signal_score": 57
     },
     {
-      "id": "google-news-deloitte-automotive-electric-vehicle-market-entry-deloitte",
-      "title": "Electric vehicle market entry - Deloitte",
-      "summary": "Electric vehicle market entry &nbsp;&nbsp; Deloitte",
-      "text": "Electric vehicle market entry &nbsp;&nbsp; Deloitte",
+      "id": "google-news-deloitte-automotive-electric-vehicle-market-entry-deloitte-com",
+      "title": "Electric vehicle market entry - deloitte.com",
+      "summary": "Electric vehicle market entry &nbsp;&nbsp; deloitte.com",
+      "text": "Electric vehicle market entry &nbsp;&nbsp; deloitte.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOUFDcHFsY0w0ckVSU1M3VU5lR3NNYXp0bHJEV3cxanE3QlMzRmdpQTgzdU1wR1dYWUtsNWlyVW9ja1lPOVRkRzZQNk9zMFdSajZhdE1jMFZrTURDN1o5YmZIT1hIWDF4QThGd0tRb3pENTE0dDBhRjdpdHdrZ1plcU1xTXQtWHNOWFJiWW53SHRzTlhrOFUxam1fMFdYUzRWU0E?oc=5",
       "date": "Thu, 11 Apr 2024 07:00:00 GMT",
       "source": "Google News · Deloitte Automotive",
@@ -4218,9 +4257,9 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 76,
+      "momentum_score": 50,
       "confidence_score": 78,
-      "signal_score": 63
+      "signal_score": 54
     },
     {
       "id": "ieee-spectrum-codeveloper-of-ethernet-predecessor-dies-at-91",
@@ -4281,10 +4320,10 @@
       "signal_score": 51
     },
     {
-      "id": "google-news-deloitte-automotive-2023-global-automotive-consumer-study-deloitte",
-      "title": "2023 Global Automotive Consumer Study - Deloitte",
-      "summary": "2023 Global Automotive Consumer Study &nbsp;&nbsp; Deloitte",
-      "text": "2023 Global Automotive Consumer Study &nbsp;&nbsp; Deloitte",
+      "id": "google-news-deloitte-automotive-2023-global-automotive-consumer-study-deloitte-com",
+      "title": "2023 Global Automotive Consumer Study - deloitte.com",
+      "summary": "2023 Global Automotive Consumer Study &nbsp;&nbsp; deloitte.com",
+      "text": "2023 Global Automotive Consumer Study &nbsp;&nbsp; deloitte.com",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOenhVUXlLcEFUcXJOU1BKVVpkdGdDb0dKbzlhSDd1cHh0V09qbEVqbGJaYWg1MlVhWElmMlozNkJqQU5aVDE0Ykl1RlUyY1MyOTB1Ymc2NkFoZmZNcUtGbHJ0OG5jWDI4OHoycVozUkw3SURySkpmYklqQk5weWhRX2hzTTdNemFvaUdiZkVLdTVaUVpnS2dXRVBINURPSm42NjRLQm1CWkVjdExhbk9IdjExWnZQSS1QWG1WUg?oc=5",
       "date": "Thu, 10 Apr 2025 14:05:59 GMT",
       "source": "Google News · Deloitte Automotive",
@@ -4358,10 +4397,10 @@
       "signal_score": 65
     },
     {
-      "id": "google-news-automotive-cybersecurity-stronger-cybersecurity-secures-overseas-market-access-deloitte",
-      "title": "Stronger cybersecurity secures overseas market access - Deloitte",
-      "summary": "Stronger cybersecurity secures overseas market access &nbsp;&nbsp; Deloitte",
-      "text": "Stronger cybersecurity secures overseas market access &nbsp;&nbsp; Deloitte",
+      "id": "google-news-automotive-cybersecurity-stronger-cybersecurity-secures-overseas-market-access-deloitte-com",
+      "title": "Stronger cybersecurity secures overseas market access - deloitte.com",
+      "summary": "Stronger cybersecurity secures overseas market access &nbsp;&nbsp; deloitte.com",
+      "text": "Stronger cybersecurity secures overseas market access &nbsp;&nbsp; deloitte.com",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcXFrbWVCdHNMaGplbE1uWEVLV3hhenpFZkRXdmw5SDNzMnluSzMzNXRBWlBSZlhCYWNId2hqMXhOMGx0YWI4X1A1REp3aXhiY3BMakUxQWktLVdpX1JmUGZVa0dJQkxYTW50SDd4R1N3SkVtUDZzUjRQQnlsQWRyQ3RSM3JBYlU?oc=5",
       "date": "Thu, 08 May 2025 08:05:13 GMT",
       "source": "Google News · Automotive Cybersecurity",
@@ -4373,9 +4412,9 @@
         "Cybersecurity"
       ],
       "novelty_score": 49,
-      "momentum_score": 82,
+      "momentum_score": 44,
       "confidence_score": 78,
-      "signal_score": 68
+      "signal_score": 54
     },
     {
       "id": "google-news-vehicle-connectivity-through-mcity-consortium-honda-and-verizon-test-how-5g-enhances-safety-for-connected-and-autonomous-vehicles-honda-ne",
@@ -4418,10 +4457,10 @@
       "signal_score": 65
     },
     {
-      "id": "google-news-deloitte-automotive-climbing-the-electric-vehicle-transformation-mountain-deloitte",
-      "title": "Climbing the electric vehicle transformation mountain - Deloitte",
-      "summary": "Climbing the electric vehicle transformation mountain &nbsp;&nbsp; Deloitte",
-      "text": "Climbing the electric vehicle transformation mountain &nbsp;&nbsp; Deloitte",
+      "id": "google-news-deloitte-automotive-climbing-the-electric-vehicle-transformation-mountain-deloitte-com",
+      "title": "Climbing the electric vehicle transformation mountain - deloitte.com",
+      "summary": "Climbing the electric vehicle transformation mountain &nbsp;&nbsp; deloitte.com",
+      "text": "Climbing the electric vehicle transformation mountain &nbsp;&nbsp; deloitte.com",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOY2FUX1NLRmVsT04yeFZQcGFKZTdFbmtGVUJMaXdya0FOVVVDSkl4Zlo2bG1fLVZHWHlGM2dOc3pubWNBODFBcGZNSnVkWlJlTEpyQjNiSVlVeG1BakxIMzE0c2EtUzUxcnUwbjJMNlU4X1JYUF9xVzdMTnltSjV0U1hxU2FPbldxTUtYZTRmSWZRelR2V2d0emxVSlljU2M1Z3FIdjlnR095R3RZNzBaMjJyM1NQSUpTd0tNNmM4VWZhelhyR0NqcC1iSkZ2d2xkNWFuZ1kxNU45RHpRMzNXa3VNSHVxM01EX2c5RFJBSVBTaHAxWkE?oc=5",
       "date": "Thu, 07 Sep 2023 07:00:00 GMT",
       "source": "Google News · Deloitte Automotive",
@@ -4432,9 +4471,9 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 52,
+      "momentum_score": 59,
       "confidence_score": 78,
-      "signal_score": 54
+      "signal_score": 57
     },
     {
       "id": "google-news-university-automotive-research-byu-s-latest-supermileage-vehicle-winner-squeezing-2-145-miles-out-of-a-single-gallon-of-fuel-byu-news",
@@ -4533,10 +4572,10 @@
       "signal_score": 64
     },
     {
-      "id": "google-news-deloitte-automotive-the-value-seeking-consumer-is-reshaping-auto-demand-deloitte",
-      "title": "The value‑seeking consumer is reshaping auto demand - Deloitte",
-      "summary": "The value‑seeking consumer is reshaping auto demand &nbsp;&nbsp; Deloitte",
-      "text": "The value‑seeking consumer is reshaping auto demand &nbsp;&nbsp; Deloitte",
+      "id": "google-news-deloitte-automotive-the-value-seeking-consumer-is-reshaping-auto-demand-deloitte-com",
+      "title": "The value‑seeking consumer is reshaping auto demand - deloitte.com",
+      "summary": "The value‑seeking consumer is reshaping auto demand &nbsp;&nbsp; deloitte.com",
+      "text": "The value‑seeking consumer is reshaping auto demand &nbsp;&nbsp; deloitte.com",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNNmhLU3hZb0h3bWlYNFFfeGlhMVoyRlJJSzBTVXhKTzRLbnlaLTloYjYzbk9fUXp0Qi12V0o3aEtXZ1dfeFNwd0VyX1FoUG81Ny1vSzd6M252RHBqN0xCVWtfZUZNYXNvVnJpblhmTmUzVV8tdVdPMTFPdFpQUk5uTG1ZSmE1SHF1NWdWWWdxWTdOdEstUDNBLXVpZjRWZWdUWm9ZaWdYX1l0Vk9mZFU1RU1QMXFyQWYxTHBaVU9LMlpQOFVpZzRKS2dIRHhJVlNHMTRGNFdrYXNzV29KcVRxWE92cjRpbkNja01naUZ5cldLOGFGUHRYeDNsWU5teW1JMm44cA?oc=5",
       "date": "Thu, 06 Nov 2025 08:00:00 GMT",
       "source": "Google News · Deloitte Automotive",
@@ -4547,36 +4586,35 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 48,
+      "momentum_score": 71,
       "confidence_score": 78,
-      "signal_score": 53
+      "signal_score": 61
     },
     {
-      "id": "google-news-automotive-cybersecurity-curbing-automotive-cybersecurity-attacks-semiconductor-engineering",
-      "title": "Curbing Automotive Cybersecurity Attacks - Semiconductor Engineering",
-      "summary": "Curbing Automotive Cybersecurity Attacks &nbsp;&nbsp; Semiconductor Engineering",
-      "text": "Curbing Automotive Cybersecurity Attacks &nbsp;&nbsp; Semiconductor Engineering",
+      "id": "google-news-automotive-cybersecurity-curbing-automotive-cybersecurity-attacks-semiengineering-com",
+      "title": "Curbing Automotive Cybersecurity Attacks - semiengineering.com",
+      "summary": "Curbing Automotive Cybersecurity Attacks &nbsp;&nbsp; semiengineering.com",
+      "text": "Curbing Automotive Cybersecurity Attacks &nbsp;&nbsp; semiengineering.com",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBwYkQ5SUJaa2ZQZ0FqYjJ0VXRmYlBuOWhqaEFrb2xudUx0R3F1Zm9vMlAydDlmcUhaaWJTMWIxOUJtZmxnaWZnclRybDJIVXVMUVFHOWI3V2FhS2pXS2x3dk41RVFDNUFpM0NjSkhoY3FWVTNjMUY5UQ?oc=5",
       "date": "Thu, 06 Jul 2023 07:00:00 GMT",
       "source": "Google News · Automotive Cybersecurity",
       "category": "AUTOMOTIVE",
-      "topic": "Semiconductors",
+      "topic": "Automotive",
       "kind_label": "RSS",
       "tags": [
         "Automotive",
-        "Semiconductors",
         "Cybersecurity"
       ],
-      "novelty_score": 56,
-      "momentum_score": 60,
+      "novelty_score": 49,
+      "momentum_score": 58,
       "confidence_score": 78,
-      "signal_score": 63
+      "signal_score": 59
     },
     {
-      "id": "google-news-pwc-automotive-powertrain-study-2025-pwc",
-      "title": "Powertrain study 2025 - PwC",
-      "summary": "Powertrain study 2025 &nbsp;&nbsp; PwC",
-      "text": "Powertrain study 2025 &nbsp;&nbsp; PwC",
+      "id": "google-news-pwc-automotive-powertrain-study-2025-strategyand-pwc-com",
+      "title": "Powertrain study 2025 - strategyand.pwc.com",
+      "summary": "Powertrain study 2025 &nbsp;&nbsp; strategyand.pwc.com",
+      "text": "Powertrain study 2025 &nbsp;&nbsp; strategyand.pwc.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdTZkWDdJQnRSQXFrU0kyRzAtSmtDZ0c0WW1aSzcxY0lYRXF4YUl3RGVDN1BfNS1PREllZDNQdTl4cUNoSFlkNUpqNXNzQkNfU09scXlRVE9INWk2ci1PMXhfc2U2dUItdzk2TEtPYWVGVllsZE9zblJYWGNaTGlMX2J6UGtMZE5m?oc=5",
       "date": "Thu, 06 Jan 2022 23:13:59 GMT",
       "source": "Google News · PwC Automotive",
@@ -4587,9 +4625,9 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 56,
+      "momentum_score": 74,
       "confidence_score": 78,
-      "signal_score": 56
+      "signal_score": 62
     },
     {
       "id": "google-news-bain-mobility-when-less-is-more-shifting-gears-in-automotive-r-d-bain",
@@ -4669,10 +4707,10 @@
       "signal_score": 58
     },
     {
-      "id": "google-news-deloitte-automotive-2023-global-automotive-consumer-study-deloitte",
-      "title": "2023 Global Automotive Consumer Study - Deloitte",
-      "summary": "2023 Global Automotive Consumer Study &nbsp;&nbsp; Deloitte",
-      "text": "2023 Global Automotive Consumer Study &nbsp;&nbsp; Deloitte",
+      "id": "google-news-deloitte-automotive-2023-global-automotive-consumer-study-deloitte-com",
+      "title": "2023 Global Automotive Consumer Study - deloitte.com",
+      "summary": "2023 Global Automotive Consumer Study &nbsp;&nbsp; deloitte.com",
+      "text": "2023 Global Automotive Consumer Study &nbsp;&nbsp; deloitte.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNDhSVkdsS0cxajlvcGE2TmhIR2cwTUZFRElFbHM1NW5xOENOQm1lZHc5WkdhNURRZzZOS21qRFhGNklUTERraksyMXNob3FLZHB0Q2stWXROcG5TSG5ZZnJuZFRKYW9PRXRyNVdEbDBkc0V6NXR6eVhpQXk1dTltdGRLS1FNUDRlN0NzT1ZObnQ5emlITDRjTUVsdU1nenE1XzEwVHBmZnYwZw?oc=5",
       "date": "Thu, 05 Jan 2023 08:00:00 GMT",
       "source": "Google News · Deloitte Automotive",
@@ -4900,10 +4938,10 @@
       "signal_score": 55
     },
     {
-      "id": "google-news-sae-international-sae-international-mobility-advanced-sae-international",
-      "title": "SAE International | Mobility, Advanced - SAE International",
-      "summary": "SAE International | Mobility, Advanced &nbsp;&nbsp; SAE International",
-      "text": "SAE International | Mobility, Advanced &nbsp;&nbsp; SAE International",
+      "id": "google-news-sae-international-sae-international-advancing-mobility-knowledge-and-solutions-sae-international",
+      "title": "SAE International | Advancing mobility knowledge and solutions - SAE International",
+      "summary": "SAE International | Advancing mobility knowledge and solutions &nbsp;&nbsp; SAE International",
+      "text": "SAE International | Advancing mobility knowledge and solutions &nbsp;&nbsp; SAE International",
       "link": "https://news.google.com/rss/articles/CBMiN0FVX3lxTE1FZ1czMVMwZVhiUmJiNWVZN3JibmY0ZUd1dW5oUDV0dERxVFNYNEpCUldRTHdXUHM?oc=5",
       "date": "Thu, 03 Dec 2009 17:56:27 GMT",
       "source": "Google News · SAE International",
@@ -4914,9 +4952,9 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 56,
+      "momentum_score": 83,
       "confidence_score": 78,
-      "signal_score": 56
+      "signal_score": 65
     },
     {
       "id": "google-news-automotive-cybersecurity-vehicle-cybersecurity-protecting-connected-cars-from-cyber-threats-cubic3",
@@ -5016,6 +5054,63 @@
       "signal_score": 58
     },
     {
+      "id": "techcrunch-vocci-s-ring-adds-a-new-form-factor-to-meeting-note-taking",
+      "title": "Vocci’s ring adds a new form factor to meeting note-taking",
+      "summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions",
+      "text": "Vocci's lightweight ring costs $249, and might pose some privacy questions",
+      "link": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+      "date": "Sun, 20 Sep 2026 18:32:52 +0000",
+      "source": "TechCrunch",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 55,
+      "confidence_score": 78,
+      "signal_score": 56
+    },
+    {
+      "id": "techcrunch-scrolled-wants-to-turn-textbooks-into-tiktok",
+      "title": "ScrollEd wants to turn textbooks into TikTok",
+      "summary": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt.",
+      "text": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt.",
+      "link": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+      "date": "Sun, 20 Sep 2026 18:00:00 +0000",
+      "source": "TechCrunch",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 77,
+      "confidence_score": 78,
+      "signal_score": 63
+    },
+    {
+      "id": "techcrunch-new-california-law-will-penalize-influencers-who-don-t-disclose-political-ads",
+      "title": "New California law will penalize influencers who don’t disclose political ads",
+      "summary": "The new legislation adds teeth to disclosure requirements for online influencers who are paid to post about politics.",
+      "text": "The new legislation adds teeth to disclosure requirements for online influencers who are paid to post about politics.",
+      "link": "https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/",
+      "date": "Sun, 20 Sep 2026 16:30:00 +0000",
+      "source": "TechCrunch",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 51,
+      "confidence_score": 78,
+      "signal_score": 54
+    },
+    {
       "id": "techcrunch-techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough",
       "title": "TechCrunch Mobility: How do we know when an AV is safe enough?",
       "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it. To get this in your inbox, sign up here for free — just click TechCrunch Mobility!",
@@ -5092,63 +5187,6 @@
       "signal_score": 56
     },
     {
-      "id": "wired-thermacell-liv-2-0-review-taking-my-yard-back",
-      "title": "Thermacell LIV 2.0 Review: Taking My Yard Back",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/review/thermacell-liv-smart-mosquito-repellent-system-2/",
-      "date": "Sun, 20 Sep 2026 11:07:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 69,
-      "confidence_score": 78,
-      "signal_score": 60
-    },
-    {
-      "id": "wired-welcome-to-dogs-anonymous-the-online-support-group-for-people-with-difficult-dogs",
-      "title": "Welcome to Dogs Anonymous, the Online Support Group for People With Difficult Dogs",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/inside-dogs-anonymous-the-online-support-group-for-people-with-difficult-dogs/",
-      "date": "Sun, 20 Sep 2026 11:00:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 82,
-      "confidence_score": 78,
-      "signal_score": 65
-    },
-    {
-      "id": "wired-meta-s-muse-is-better-at-surveilling-than-helping-me",
-      "title": "Meta's Muse Is Better at Surveilling Than Helping Me",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/metas-muse-is-better-at-surveilling-than-helping-me/",
-      "date": "Sun, 20 Sep 2026 10:30:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 43,
-      "confidence_score": 78,
-      "signal_score": 51
-    },
-    {
       "id": "wired-it-s-donald-trump-versus-maga-on-data-centers",
       "title": "It’s Donald Trump Versus MAGA on Data Centers",
       "summary": "Source item available; open the source for details.",
@@ -5185,25 +5223,6 @@
       "momentum_score": 52,
       "confidence_score": 78,
       "signal_score": 54
-    },
-    {
-      "id": "wired-meet-the-academics-trying-to-stop-you-from-having-sex-in-robotaxis",
-      "title": "Meet the Academics Trying to Stop You From Having Sex in Robotaxis",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/meet-the-academics-trying-to-stop-you-from-having-sex-in-robotaxis/",
-      "date": "Sun, 20 Sep 2026 10:00:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Robotics",
-      "kind_label": "RSS",
-      "tags": [
-        "Robotics"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 57,
-      "confidence_score": 78,
-      "signal_score": 56
     },
     {
       "id": "wired-what-you-need-to-know-about-the-foreign-made-router-ban-in-the-us",
@@ -5244,25 +5263,6 @@
       "signal_score": 53
     },
     {
-      "id": "wired-what-chatgpt-thinks-it-knows-about-you-is-affecting-its-answers-here-s-how-to-change-that",
-      "title": "What ChatGPT Thinks It Knows About You Is Affecting Its Answers. Here’s How to Change That",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/how-to-use-memory-in-chatgpt/",
-      "date": "Sun, 20 Sep 2026 09:30:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 77,
-      "confidence_score": 78,
-      "signal_score": 63
-    },
-    {
       "id": "ars-technica-t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant",
       "title": "T. rex teeth indicate it ran as warm as an elephant",
       "summary": "Isotope ratios provide a hint that the giants were actively managing temperatures.",
@@ -5280,25 +5280,6 @@
       "momentum_score": 45,
       "confidence_score": 78,
       "signal_score": 52
-    },
-    {
-      "id": "wired-tiny-hairs-that-help-corals-breathe-may-malfunction-in-warming-oceans",
-      "title": "Tiny Hairs That Help Corals Breathe May Malfunction in Warming Oceans",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/tiny-hairs-that-help-corals-breathe-may-malfunction-in-warming-oceans/",
-      "date": "Sun, 20 Sep 2026 09:00:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 74,
-      "confidence_score": 78,
-      "signal_score": 62
     },
     {
       "id": "mit-news-autonomous-vehicles-managing-traffic-in-space",
@@ -5472,6 +5453,25 @@
       "signal_score": 64
     },
     {
+      "id": "google-news-sae-technical-papers-business-reliability-growth-for-automotive-engineering-volume-iv-sae-mobilus",
+      "title": "Business Reliability Growth for Automotive Engineering, Volume IV - SAE Mobilus",
+      "summary": "Business Reliability Growth for Automotive Engineering, Volume IV &nbsp;&nbsp; SAE Mobilus",
+      "text": "Business Reliability Growth for Automotive Engineering, Volume IV &nbsp;&nbsp; SAE Mobilus",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAySnJxUHBRZXMwb3A0TlJmSDEwVUw5NkljdFVOUWV5ZUlGUUY5Wk1LR2ZlUjNkQ1drbndLYndqb2RUdWhRZ2hqSGF2QnNHMmF4Z01idTAxUGNrY2xzdEpkSXB6LXVqa21WcUd1MjZVbDM5X3F1?oc=5",
+      "date": "Sat, 21 Feb 2026 20:41:45 GMT",
+      "source": "Google News · SAE Technical Papers",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 42,
+      "confidence_score": 78,
+      "signal_score": 51
+    },
+    {
       "id": "techcrunch-flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts",
       "title": "Flock reportedly tries to shrink workforce with employee buyouts",
       "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
@@ -5548,10 +5548,10 @@
       "signal_score": 60
     },
     {
-      "id": "google-news-automotive-news-vw-group-proposes-4-100-more-porsche-layoffs-after-profit-warning-automotive-news",
-      "title": "VW Group proposes 4,100 more Porsche layoffs after profit warning - Automotive News",
-      "summary": "VW Group proposes 4,100 more Porsche layoffs after profit warning &nbsp;&nbsp; Automotive News",
-      "text": "VW Group proposes 4,100 more Porsche layoffs after profit warning &nbsp;&nbsp; Automotive News",
+      "id": "google-news-automotive-news-vw-group-proposes-4-100-more-porsche-layoffs-after-profit-warning-autonews-com",
+      "title": "VW Group proposes 4,100 more Porsche layoffs after profit warning - autonews.com",
+      "summary": "VW Group proposes 4,100 more Porsche layoffs after profit warning &nbsp;&nbsp; autonews.com",
+      "text": "VW Group proposes 4,100 more Porsche layoffs after profit warning &nbsp;&nbsp; autonews.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWTNPZjIzVGJmWGd5M2RtVmpDREJrM0poOXFWZlB4d3ZCcWU5WFQyS3RPTXFVeU1rbU5RN3RHVzl4U2FLQ2pXR2xqd0dGMVdfVFZ6TjZvREUwTXBtTXp6dnc2OGVhc0JCWVNIanZrWGhLZm9vTEgxQ3V5T0ZPWG9pUVZDRmVrRVFQ?oc=5",
       "date": "Sat, 19 Sep 2026 15:51:00 GMT",
       "source": "Google News · Automotive News",
@@ -5562,9 +5562,9 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 66,
+      "momentum_score": 44,
       "confidence_score": 78,
-      "signal_score": 59
+      "signal_score": 52
     },
     {
       "id": "techcrunch-petlibro-s-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes",
@@ -5738,25 +5738,6 @@
       "signal_score": 59
     },
     {
-      "id": "wired-an-editor-s-picks-the-best-gifts-for-bird-lovers",
-      "title": "An Editor’s Picks: The Best Gifts for Bird Lovers",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/best-gifts-for-bird-lovers-2026/",
-      "date": "Sat, 19 Sep 2026 10:00:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 51,
-      "confidence_score": 78,
-      "signal_score": 54
-    },
-    {
       "id": "wired-mathematicians-hate-ai-they-can-t-quit-it",
       "title": "Mathematicians Hate AI. They Can’t Quit It",
       "summary": "Source item available; open the source for details.",
@@ -5774,6 +5755,25 @@
       "momentum_score": 43,
       "confidence_score": 78,
       "signal_score": 51
+    },
+    {
+      "id": "wired-the-best-early-prime-day-deals-ahead-of-amazon-s-second-sale-2026",
+      "title": "The Best Early Prime Day Deals Ahead of Amazon’s Second Sale (2026)",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/amazon-prime-day-early-deals-09-29-2026/",
+      "date": "Sat, 19 Sep 2026 09:39:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 63,
+      "confidence_score": 78,
+      "signal_score": 58
     }
   ],
   "health": [
