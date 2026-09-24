@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-09-23T22:58:11.750042+00:00",
+  "generated_at": "2026-09-24T04:55:33.386644+00:00",
   "items": [
     {
       "id": "google-news-sae-technical-papers-2025-01-7321-effective-aperture-determination-for-efficient-vehicle-mounted-antennas-measurement-via-spherical-wave-e",
@@ -20,26 +20,6 @@
       "momentum_score": 59,
       "confidence_score": 78,
       "signal_score": 57
-    },
-    {
-      "id": "google-news-vehicle-connectivity-sensors-and-connectivity-make-autonomous-driving-smarter-embedded-com",
-      "title": "Sensors and Connectivity Make Autonomous Driving Smarter - embedded.com",
-      "summary": "Sensors and Connectivity Make Autonomous Driving Smarter &nbsp;&nbsp; embedded.com",
-      "text": "Sensors and Connectivity Make Autonomous Driving Smarter &nbsp;&nbsp; embedded.com",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQazVSZmJDeGFmc0V1clgzUUNLY3lGdWFhQ0hSVkpTN1oxdTUzTHdMc0VXbzk4S2k2UHJ1d09ZejE5TTJCaExsYkdXZGl2OUFzaU45aC1KOUxXaVJ1N0FIODRJby1HSS0wNlRPT0hLTHBQaHRwV2picHVsQlRPM1lfWEVXWmhjZWZNZkE?oc=5",
-      "date": "Wed, 31 Dec 2025 08:00:00 GMT",
-      "source": "Google News · Vehicle Connectivity",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive",
-        "Control"
-      ],
-      "novelty_score": 49,
-      "momentum_score": 66,
-      "confidence_score": 78,
-      "signal_score": 62
     },
     {
       "id": "mit-news-electric-vehicles-burning-things-to-make-things",
@@ -137,6 +117,26 @@
       "momentum_score": 40,
       "confidence_score": 78,
       "signal_score": 53
+    },
+    {
+      "id": "google-news-university-automotive-research-embry-riddle-engineering-students-take-ai-driven-autonomous-vehicle-research-global-in-turkey-embry-riddle-",
+      "title": "Embry-Riddle Engineering Students Take AI-Driven Autonomous Vehicle Research Global in Turkey - Embry-Riddle Aeronautical University",
+      "summary": "Embry-Riddle Engineering Students Take AI-Driven Autonomous Vehicle Research Global in Turkey &nbsp;&nbsp; Embry-Riddle Aeronautical University",
+      "text": "Embry-Riddle Engineering Students Take AI-Driven Autonomous Vehicle Research Global in Turkey &nbsp;&nbsp; Embry-Riddle Aeronautical University",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPM1p6RHRwbmkxS09HY0pvWVgzdzZOZk16RXhYZlJKTUZUa1BPNUQ3N2p6R0staEFDUG42RHZNZ1Q1elJIYTVpZTNKY0pJLVV2YnpHM1Ntb3pxSExocDAwTlVhdnl1SFdMTlU3QkRfU3JvS1llTHVRQTlHSk1KeHNHS2k1cm0zRmV6MTYtVFlaekltSW5SRzUxanBqSGVLNW1oZUNpTHBWM0EyZWU1b2ZKZXdpbWl4RFo1cFZ0WGY1WGx5bmNlWjhfbVE5R0YtOXRXSGItYw?oc=5",
+      "date": "Wed, 26 Nov 2025 08:00:00 GMT",
+      "source": "Google News · University Automotive Research",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive",
+        "Control"
+      ],
+      "novelty_score": 49,
+      "momentum_score": 45,
+      "confidence_score": 78,
+      "signal_score": 55
     },
     {
       "id": "google-news-bain-mobility-finding-a-new-route-to-southeast-asia-s-electric-vehicle-future-bain",
@@ -256,6 +256,82 @@
       "signal_score": 56
     },
     {
+      "id": "techcrunch-meta-is-trying-vr-glasses-again-this-time-with-more-imax",
+      "title": "Meta is trying VR glasses (again), this time with more IMAX",
+      "summary": "Meta's return to the VR glasses realm comes with a promising combination of light weight form factor and enhanced entertainment options.",
+      "text": "Meta's return to the VR glasses realm comes with a promising combination of light weight form factor and enhanced entertainment options.",
+      "link": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
+      "date": "Wed, 23 Sep 2026 23:47:35 +0000",
+      "source": "TechCrunch",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 51,
+      "confidence_score": 78,
+      "signal_score": 54
+    },
+    {
+      "id": "wired-meta-vr-glasses-ray-ban-meta-audio-ray-ban-meta-gen-3-specs-features-prices",
+      "title": "Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/",
+      "date": "Wed, 23 Sep 2026 23:42:44 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 81,
+      "confidence_score": 78,
+      "signal_score": 65
+    },
+    {
+      "id": "techcrunch-meta-introduces-camera-free-ai-glasses",
+      "title": "Meta introduces camera-free AI glasses",
+      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+      "text": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+      "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+      "date": "Wed, 23 Sep 2026 23:39:44 +0000",
+      "source": "TechCrunch",
+      "category": "TECH",
+      "topic": "Energy",
+      "kind_label": "RSS",
+      "tags": [
+        "Energy"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 83,
+      "confidence_score": 78,
+      "signal_score": 65
+    },
+    {
+      "id": "techcrunch-vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed",
+      "title": "Vogue sent robots down the runway at Vogue World, and people were not impressed",
+      "summary": "Nothing says Italian craftsmanship like a Chinese robot doing a lasso to \"L'Amour Toujours.\"",
+      "text": "Nothing says Italian craftsmanship like a Chinese robot doing a lasso to \"L'Amour Toujours.\"",
+      "link": "https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed/",
+      "date": "Wed, 23 Sep 2026 23:33:22 +0000",
+      "source": "TechCrunch",
+      "category": "TECH",
+      "topic": "Robotics",
+      "kind_label": "RSS",
+      "tags": [
+        "Robotics"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 58,
+      "confidence_score": 78,
+      "signal_score": 57
+    },
+    {
       "id": "techcrunch-anthropic-says-its-biology-lab-has-already-found-something-big",
       "title": "Anthropic says its biology lab has already found something big",
       "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
@@ -273,6 +349,44 @@
       "momentum_score": 64,
       "confidence_score": 78,
       "signal_score": 59
+    },
+    {
+      "id": "ars-technica-rfk-jr-s-cdc-isn-t-letting-states-order-covid-19-shots-for-kids-blocking-access",
+      "title": "RFK Jr.'s CDC isn’t letting states order COVID-19 shots for kids, blocking access",
+      "summary": "US health deptartment said it wants to ensure the vaccine orders are \"appropriate.\"",
+      "text": "US health deptartment said it wants to ensure the vaccine orders are \"appropriate.\"",
+      "link": "https://arstechnica.com/health/2026/09/rfk-jr-s-cdc-isnt-letting-states-order-covid-19-shots-for-kids-blocking-access/",
+      "date": "Wed, 23 Sep 2026 22:17:25 +0000",
+      "source": "Ars Technica",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 47,
+      "confidence_score": 78,
+      "signal_score": 53
+    },
+    {
+      "id": "ars-technica-fbi-rushes-to-investigate-if-shinyhunters-hack-of-thousands-of-employees-is-real",
+      "title": "FBI rushes to investigate if ShinyHunters hack of thousands of employees is real",
+      "summary": "It's unclear what will happen if FBI misses ShinyHunters' deadline.",
+      "text": "It's unclear what will happen if FBI misses ShinyHunters' deadline.",
+      "link": "https://arstechnica.com/tech-policy/2026/09/fbi-rushes-to-investigate-if-shinyhunters-hack-of-thousands-of-employees-is-real/",
+      "date": "Wed, 23 Sep 2026 21:46:36 +0000",
+      "source": "Ars Technica",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 61,
+      "confidence_score": 78,
+      "signal_score": 58
     },
     {
       "id": "techcrunch-if-amazon-doesn-t-know-how-to-eliminate-carbon-emissions-then-who-does",
@@ -294,6 +408,44 @@
       "signal_score": 52
     },
     {
+      "id": "ars-technica-disney-and-hulu-raise-prices-by-up-to-13-percent-after-doubling-profits",
+      "title": "Disney+ and Hulu raise prices by up to 13 percent after doubling profits",
+      "summary": "The Disney+ ad-free plan is now more expensive than Netflix's.",
+      "text": "The Disney+ ad-free plan is now more expensive than Netflix's.",
+      "link": "https://arstechnica.com/gadgets/2026/09/disney-and-hulu-raise-prices-by-up-to-13-percent-after-doubling-profits/",
+      "date": "Wed, 23 Sep 2026 21:18:53 +0000",
+      "source": "Ars Technica",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 62,
+      "confidence_score": 78,
+      "signal_score": 58
+    },
+    {
+      "id": "ars-technica-here-s-the-torcal-the-first-fully-electric-bentley",
+      "title": "Here's the Torcal, the first fully electric Bentley",
+      "summary": "It sounds like a V8, rides like a Flying Spur, but handles like a Continental GT.",
+      "text": "It sounds like a V8, rides like a Flying Spur, but handles like a Continental GT.",
+      "link": "https://arstechnica.com/cars/2026/09/heres-the-torcal-the-first-fully-electric-bentley/",
+      "date": "Wed, 23 Sep 2026 21:06:07 +0000",
+      "source": "Ars Technica",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 78,
+      "confidence_score": 78,
+      "signal_score": 64
+    },
+    {
       "id": "wired-a-us-china-ai-hotline-won-t-be-ready-for-a-while",
       "title": "A US-China AI Hotline Won't Be Ready For a While",
       "summary": "Source item available; open the source for details.",
@@ -311,6 +463,25 @@
       "momentum_score": 43,
       "confidence_score": 78,
       "signal_score": 51
+    },
+    {
+      "id": "ars-technica-trump-s-china-rivalry-and-ai-race-delusion-may-endanger-us-experts-say",
+      "title": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
+      "summary": "Trump focus on winning “AI race” may deter China from sharing safety intel.",
+      "text": "Trump focus on winning “AI race” may deter China from sharing safety intel.",
+      "link": "https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/",
+      "date": "Wed, 23 Sep 2026 20:52:28 +0000",
+      "source": "Ars Technica",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 77,
+      "confidence_score": 78,
+      "signal_score": 63
     },
     {
       "id": "techcrunch-vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai",
@@ -809,101 +980,6 @@
       "signal_score": 60
     },
     {
-      "id": "techcrunch-youtube-s-new-shorts-series-feature-brings-episodic-viewing-to-shorts",
-      "title": "YouTube’s new ‘Shorts series’ feature brings episodic viewing to Shorts",
-      "summary": "Other Made On YouTube announcements are also designed to help creators grow and engage audiences.",
-      "text": "Other Made On YouTube announcements are also designed to help creators grow and engage audiences.",
-      "link": "https://techcrunch.com/2026/09/23/youtubes-new-short-series-feature-brings-episodic-viewing-to-shorts/",
-      "date": "Wed, 23 Sep 2026 14:30:00 +0000",
-      "source": "TechCrunch",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 49,
-      "confidence_score": 78,
-      "signal_score": 53
-    },
-    {
-      "id": "techcrunch-youtube-adds-new-creator-tools-like-video-a-b-testing-dynamic-thumbnails-and-live-dubbing",
-      "title": "YouTube adds new creator tools like video A/B testing, dynamic thumbnails, and live dubbing",
-      "summary": "Many of these tools hinge on using generative AI to try out a variety of different tactics on a video to find what works best.",
-      "text": "Many of these tools hinge on using generative AI to try out a variety of different tactics on a video to find what works best.",
-      "link": "https://techcrunch.com/2026/09/23/youtube-adds-new-creator-tools-like-video-a-b-testing-dynamic-thumbnails-and-live-dubbing/",
-      "date": "Wed, 23 Sep 2026 14:30:00 +0000",
-      "source": "TechCrunch",
-      "category": "TECH",
-      "topic": "Healthcare",
-      "kind_label": "RSS",
-      "tags": [
-        "Biotech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 40,
-      "confidence_score": 78,
-      "signal_score": 50
-    },
-    {
-      "id": "techcrunch-strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital",
-      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
-      "summary": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT.",
-      "text": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT.",
-      "link": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
-      "date": "Wed, 23 Sep 2026 14:30:00 +0000",
-      "source": "TechCrunch",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 77,
-      "confidence_score": 78,
-      "signal_score": 63
-    },
-    {
-      "id": "techcrunch-youtube-will-let-you-build-your-own-algorithm-with-ai",
-      "title": "YouTube will let you build your own algorithm with AI",
-      "summary": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
-      "text": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
-      "link": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
-      "date": "Wed, 23 Sep 2026 14:30:00 +0000",
-      "source": "TechCrunch",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 76,
-      "confidence_score": 78,
-      "signal_score": 63
-    },
-    {
-      "id": "techcrunch-youtube-doubles-down-on-video-shopping-with-ai-powered-ask-youtube-feature",
-      "title": "YouTube doubles down on video shopping with AI-powered ‘Ask YouTube’ feature",
-      "summary": "YouTube's AI feature can now help you compare products as you shop.",
-      "text": "YouTube's AI feature can now help you compare products as you shop.",
-      "link": "https://techcrunch.com/2026/09/23/youtube-doubles-down-on-video-shopping-with-ai-powered-ask-youtube-feature/",
-      "date": "Wed, 23 Sep 2026 14:30:00 +0000",
-      "source": "TechCrunch",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 61,
-      "confidence_score": 78,
-      "signal_score": 58
-    },
-    {
       "id": "wired-youtube-s-custom-feeds-give-you-more-control-over-the-algorithm",
       "title": "YouTube’s Custom Feeds Give You More Control Over the Algorithm",
       "summary": "Source item available; open the source for details.",
@@ -940,25 +1016,6 @@
       "momentum_score": 44,
       "confidence_score": 78,
       "signal_score": 52
-    },
-    {
-      "id": "google-news-university-automotive-research-keysight-university-of-york-to-develop-automotive-ai-safety-validation-technology-thelec-net",
-      "title": "Keysight, University of York to Develop Automotive AI Safety Validation Technology - thelec.net",
-      "summary": "Keysight, University of York to Develop Automotive AI Safety Validation Technology &nbsp;&nbsp; thelec.net",
-      "text": "Keysight, University of York to Develop Automotive AI Safety Validation Technology &nbsp;&nbsp; thelec.net",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB3M245ekFsS0xaa1R6alhQc2JGSkliaGplRmJDX1VzU0oteWhmTHpXYUJNUDdMNmpaaDRYRVZ2TWt1aGtrV0ZSU3RmZDJkVFZEWFJhSUUxMEJydVNONDdFWkZlWjQ5LWM?oc=5",
-      "date": "Wed, 23 Sep 2026 13:46:35 GMT",
-      "source": "Google News · University Automotive Research",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 78,
-      "confidence_score": 78,
-      "signal_score": 64
     },
     {
       "id": "ars-technica-america-gave-up-its-rare-earth-edge-china-took-full-advantage",
@@ -1209,26 +1266,6 @@
       "signal_score": 63
     },
     {
-      "id": "google-news-pwc-automotive-ai-in-automotive-software-defined-vehicle-investment-outlook-pwc",
-      "title": "AI in automotive: Software-defined vehicle investment outlook - PwC",
-      "summary": "AI in automotive: Software-defined vehicle investment outlook &nbsp;&nbsp; PwC",
-      "text": "AI in automotive: Software-defined vehicle investment outlook &nbsp;&nbsp; PwC",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ21JUXFmdXNRdVAydUltVXNiVzNHZjVrQ1ZVZ0gyZDBPalFLNk5iYlMxVnhDNkZtdkJHaVRZTHVadE1JLTJxd2k4bXNOa013cWt4cHl2amVqY0lPZmwtRVo4NExSMWxDY2xwWGE0eTBYb041Z0lYWmhrZVBoMFlSMVl5WlhwR21TcmZFcUp3VXZWTWxUd2c?oc=5",
-      "date": "Wed, 23 Sep 2026 10:28:50 GMT",
-      "source": "Google News · PwC Automotive",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive",
-        "SDV"
-      ],
-      "novelty_score": 49,
-      "momentum_score": 62,
-      "confidence_score": 78,
-      "signal_score": 61
-    },
-    {
       "id": "wired-at-t-is-automating-away-jobs-and-its-old-telecom-empire",
       "title": "AT&T Is Automating Away Jobs—and Its Old Telecom Empire",
       "summary": "Source item available; open the source for details.",
@@ -1362,6 +1399,25 @@
       "signal_score": 51
     },
     {
+      "id": "wired-30-off-canon-promo-codes-september-2026",
+      "title": "30% Off Canon Promo Codes | September 2026",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/canon-promo-code/",
+      "date": "Wed, 23 Sep 2026 05:00:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 55,
+      "confidence_score": 78,
+      "signal_score": 56
+    },
+    {
       "id": "wired-nike-promo-codes-and-discounts-30-for-september-2026",
       "title": "Nike Promo Codes and Discounts: 30% for September 2026",
       "summary": "Source item available; open the source for details.",
@@ -1398,63 +1454,6 @@
       "momentum_score": 84,
       "confidence_score": 78,
       "signal_score": 66
-    },
-    {
-      "id": "wired-valvoline-coupons-and-promo-codes-for-september-2026",
-      "title": "Valvoline Coupons and Promo Codes for September 2026",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/valvoline-coupons/",
-      "date": "Wed, 23 Sep 2026 05:00:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 63,
-      "confidence_score": 78,
-      "signal_score": 58
-    },
-    {
-      "id": "wired-30-off-canon-promo-codes-september-2026",
-      "title": "30% Off Canon Promo Codes | September 2026",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/canon-promo-code/",
-      "date": "Wed, 23 Sep 2026 05:00:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 55,
-      "confidence_score": 78,
-      "signal_score": 56
-    },
-    {
-      "id": "wired-ray-ban-promo-codes-save-50-in-september-2026",
-      "title": "Ray-Ban Promo Codes: Save 50% in September 2026",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/ray-ban-promo-code/",
-      "date": "Wed, 23 Sep 2026 05:00:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 46,
-      "confidence_score": 78,
-      "signal_score": 52
     },
     {
       "id": "wired-google-workspace-promo-codes-14-off-for-september-2026",
@@ -1840,6 +1839,25 @@
       "signal_score": 53
     },
     {
+      "id": "google-news-university-automotive-research-ferris-state-s-automotive-engineering-technology-program-helps-bulldogs-earn-more-while-ranked-best-in-the-",
+      "title": "Ferris State’s Automotive Engineering Technology program helps Bulldogs earn more while ranked best in the nation - Ferris State University",
+      "summary": "Ferris State’s Automotive Engineering Technology program helps Bulldogs earn more while ranked best in the nation &nbsp;&nbsp; Ferris State University",
+      "text": "Ferris State’s Automotive Engineering Technology program helps Bulldogs earn more while ranked best in the nation &nbsp;&nbsp; Ferris State University",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSXpKcGVnWWZId3p1c0RPQUxMdkhmSWVYbEgzaFJaRkdOOVNSVHBjbXVhSVdETGQ4UU9xVWhGS01ZanNpd2ZLRV8tcFRhYjhyWTM5aUlSb0o1QndGV3FLNFBfZDNRUV9BUzFyZElPcVNWLTIzMS1HWFYwd2E1RkNrMlpfTEN2WmR5MnJPTEtCaktnQWpHbHVjenF4ZmM?oc=5",
+      "date": "Wed, 17 Dec 2025 08:00:00 GMT",
+      "source": "Google News · University Automotive Research",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 55,
+      "confidence_score": 78,
+      "signal_score": 56
+    },
+    {
       "id": "google-news-automotive-news-ottawa-to-stellantis-build-in-brampton-or-pay-us-back-automotive-news",
       "title": "Ottawa to Stellantis: Build in Brampton or pay us back - Automotive News",
       "summary": "Ottawa to Stellantis: Build in Brampton or pay us back &nbsp;&nbsp; Automotive News",
@@ -2070,10 +2088,10 @@
       "signal_score": 51
     },
     {
-      "id": "google-news-sae-international-sae-standards-engineering-mobility-industry-standards-sae-org",
-      "title": "SAE Standards | Engineering & Mobility Industry Standards - sae.org",
-      "summary": "SAE Standards | Engineering & Mobility Industry Standards &nbsp;&nbsp; sae.org",
-      "text": "SAE Standards | Engineering & Mobility Industry Standards &nbsp;&nbsp; sae.org",
+      "id": "google-news-sae-international-sae-standards-engineering-mobility-industry-standards-sae-international",
+      "title": "SAE Standards | Engineering & Mobility Industry Standards - SAE International",
+      "summary": "SAE Standards | Engineering & Mobility Industry Standards &nbsp;&nbsp; SAE International",
+      "text": "SAE Standards | Engineering & Mobility Industry Standards &nbsp;&nbsp; SAE International",
       "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1WeDB2YUx1QmJaMGRrdFlHZjJuN1lHdzVMU0I3eWlwSDVUWXJZOWpNeGpXXzJaLUZnQkItbW1aR1ZiVVU?oc=5",
       "date": "Wed, 15 Jun 2016 23:23:37 GMT",
       "source": "Google News · SAE International",
@@ -2084,9 +2102,9 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 65,
+      "momentum_score": 84,
       "confidence_score": 78,
-      "signal_score": 59
+      "signal_score": 66
     },
     {
       "id": "google-news-pwc-automotive-electric-heavy-goods-vehicles-and-buses-pwc",
@@ -2125,25 +2143,6 @@
       "momentum_score": 66,
       "confidence_score": 78,
       "signal_score": 59
-    },
-    {
-      "id": "google-news-university-automotive-research-this-vehicle-could-go-from-utah-to-new-york-on-a-gallon-of-fuel-deseret-news",
-      "title": "This vehicle could go from Utah to New York on a gallon of fuel - Deseret News",
-      "summary": "This vehicle could go from Utah to New York on a gallon of fuel &nbsp;&nbsp; Deseret News",
-      "text": "This vehicle could go from Utah to New York on a gallon of fuel &nbsp;&nbsp; Deseret News",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMlFIc0I3N1lZWE9pYVJ5Q2dUbnhhdjNIaVUtU29RWDdBUVRDclhBMGtVM05tdWhScEVXZ3lNMmlEZmxmWHFhS1VvZzJ4QzZLRWdjUXRYcXk0MkRaLVVCZV9yYXdTdk8tRWJ3QUs2R2JhM1B3QmR5b2c2ZEJBelAxN3huOG55ZzcwZzlvazhVQTl0WUh4ei00TFlmOGtLZGwzdW8tdDJTczBDMDR0Y2FJczlHa2thY2JOeUxLbA?oc=5",
-      "date": "Wed, 13 May 2026 07:00:00 GMT",
-      "source": "Google News · University Automotive Research",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 59,
-      "confidence_score": 78,
-      "signal_score": 57
     },
     {
       "id": "google-news-bcg-automotive-changing-lanes-ev-strategies-in-the-us-europe-and-china-boston-consulting-group",
@@ -2380,10 +2379,10 @@
       "signal_score": 63
     },
     {
-      "id": "google-news-sae-international-26autp08-automotive-engineering-august-2026-sae-org",
-      "title": "26AUTP08 : Automotive Engineering: August 2026 - sae.org",
-      "summary": "26AUTP08 : Automotive Engineering: August 2026 &nbsp;&nbsp; sae.org",
-      "text": "26AUTP08 : Automotive Engineering: August 2026 &nbsp;&nbsp; sae.org",
+      "id": "google-news-sae-international-26autp08-automotive-engineering-august-2026-sae-international",
+      "title": "26AUTP08 : Automotive Engineering: August 2026 - SAE International",
+      "summary": "26AUTP08 : Automotive Engineering: August 2026 &nbsp;&nbsp; SAE International",
+      "text": "26AUTP08 : Automotive Engineering: August 2026 &nbsp;&nbsp; SAE International",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdVcwMkYtbVhHcDRNT1dpQXk2WWJRc0JqNGhmSkVTUG5xQUNPZXJhSjBVTlZUS1laUy1SUXVseWN5djR3cWJBVVVnYzJOUE1ldzFIeFFwczE5dmJmSkRLb29Kc0dtS3ZmdGFkSGhZcTB4bUQ4Mlc1bHg5dFVTOVU1Vw?oc=5",
       "date": "Wed, 05 Aug 2026 07:00:00 GMT",
       "source": "Google News · SAE International",
@@ -2394,9 +2393,9 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 49,
+      "momentum_score": 53,
       "confidence_score": 78,
-      "signal_score": 53
+      "signal_score": 55
     },
     {
       "id": "google-news-university-automotive-research-5-researchers-using-data-gen-ai-policy-analysis-to-shape-mobility-advancement-msutoday",
@@ -2418,10 +2417,10 @@
       "signal_score": 65
     },
     {
-      "id": "google-news-sae-international-23autp04-automotive-engineering-april-2023-sae-org",
-      "title": "23AUTP04 : Automotive Engineering: April 2023 - sae.org",
-      "summary": "23AUTP04 : Automotive Engineering: April 2023 &nbsp;&nbsp; sae.org",
-      "text": "23AUTP04 : Automotive Engineering: April 2023 &nbsp;&nbsp; sae.org",
+      "id": "google-news-sae-international-23autp04-automotive-engineering-april-2023-sae-international",
+      "title": "23AUTP04 : Automotive Engineering: April 2023 - SAE International",
+      "summary": "23AUTP04 : Automotive Engineering: April 2023 &nbsp;&nbsp; SAE International",
+      "text": "23AUTP04 : Automotive Engineering: April 2023 &nbsp;&nbsp; SAE International",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4S1FYZlJsa1F1dE9BQ1JFUUQwc3cyWnJacWtUSWpXSVAybGlKM1k0Y1dPdXZZU1psMTh4Qmh6SlBabEZKVWFheE1HRjFsenE0dlNJdjcyZ3dUUnYwUDQyRnNuUVo4TFN5TFQ4TjRoSTYzSVB0M3QtNUhlQjM3Mlk?oc=5",
       "date": "Wed, 05 Apr 2023 07:00:00 GMT",
       "source": "Google News · SAE International",
@@ -2432,15 +2431,15 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 55,
+      "momentum_score": 74,
       "confidence_score": 78,
-      "signal_score": 56
+      "signal_score": 62
     },
     {
-      "id": "google-news-sae-international-24autp09-automotive-engineering-september-2024-sae-org",
-      "title": "24AUTP09 : Automotive Engineering: September 2024 - sae.org",
-      "summary": "24AUTP09 : Automotive Engineering: September 2024 &nbsp;&nbsp; sae.org",
-      "text": "24AUTP09 : Automotive Engineering: September 2024 &nbsp;&nbsp; sae.org",
+      "id": "google-news-sae-international-24autp09-automotive-engineering-september-2024-sae-international",
+      "title": "24AUTP09 : Automotive Engineering: September 2024 - SAE International",
+      "summary": "24AUTP09 : Automotive Engineering: September 2024 &nbsp;&nbsp; SAE International",
+      "text": "24AUTP09 : Automotive Engineering: September 2024 &nbsp;&nbsp; SAE International",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWVBoME9DaVIzbkExbUpOeTRFdzZ6Z0JyUlZGWlNLcnB0Mi1XV0xMMzIzM3JzSW1DSURaLXNnQVU3dHdtMnRrTERiZlFINDc1V3kxTmpDTXd6bDlQQzROdDk0Tk9lUmlUdTJVSFBBZC1YTHRVa21zMTRtTmpFMU1wSjFPOU0?oc=5",
       "date": "Wed, 04 Sep 2024 07:00:00 GMT",
       "source": "Google News · SAE International",
@@ -2451,9 +2450,9 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 57,
+      "momentum_score": 61,
       "confidence_score": 78,
-      "signal_score": 56
+      "signal_score": 58
     },
     {
       "id": "mit-news-electric-vehicles-study-ev-charging-stations-boost-spending-at-nearby-businesses",
@@ -2475,10 +2474,10 @@
       "signal_score": 62
     },
     {
-      "id": "google-news-sae-international-25autp06-automotive-engineering-june-2025-sae-org",
-      "title": "25AUTP06 : Automotive Engineering: June 2025 - sae.org",
-      "summary": "25AUTP06 : Automotive Engineering: June 2025 &nbsp;&nbsp; sae.org",
-      "text": "25AUTP06 : Automotive Engineering: June 2025 &nbsp;&nbsp; sae.org",
+      "id": "google-news-sae-international-25autp06-automotive-engineering-june-2025-sae-international",
+      "title": "25AUTP06 : Automotive Engineering: June 2025 - SAE International",
+      "summary": "25AUTP06 : Automotive Engineering: June 2025 &nbsp;&nbsp; SAE International",
+      "text": "25AUTP06 : Automotive Engineering: June 2025 &nbsp;&nbsp; SAE International",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hYmRvdzNEMENDYUFZQXhwcU13RnRpVXprRUVZVG9Kd05DUG9jcldNMWw2TmlSVnhxRkFQaFJnNTE1dThsVlNTdkJad2oyVEZhNUtkSHk0QmlIRTNsSjNVYnBxNjZZbGhRRVRlUVo5aWtDcFRGdEhfMUtxM2hKdw?oc=5",
       "date": "Wed, 04 Jun 2025 07:00:00 GMT",
       "source": "Google News · SAE International",
@@ -2489,9 +2488,9 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 57,
+      "momentum_score": 46,
       "confidence_score": 78,
-      "signal_score": 56
+      "signal_score": 52
     },
     {
       "id": "google-news-vehicle-connectivity-verizon-business-launches-connected-driving-platform-about-verizon-verizon",
@@ -2532,10 +2531,10 @@
       "signal_score": 62
     },
     {
-      "id": "google-news-sae-international-26autp06-automotive-engineering-june-2026-sae-org",
-      "title": "26AUTP06 : Automotive Engineering: June 2026 - sae.org",
-      "summary": "26AUTP06 : Automotive Engineering: June 2026 &nbsp;&nbsp; sae.org",
-      "text": "26AUTP06 : Automotive Engineering: June 2026 &nbsp;&nbsp; sae.org",
+      "id": "google-news-sae-international-26autp06-automotive-engineering-june-2026-sae-international",
+      "title": "26AUTP06 : Automotive Engineering: June 2026 - SAE International",
+      "summary": "26AUTP06 : Automotive Engineering: June 2026 &nbsp;&nbsp; SAE International",
+      "text": "26AUTP06 : Automotive Engineering: June 2026 &nbsp;&nbsp; SAE International",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1IWkdIUGRhZ2hSU2E3dkYySVV5RE5TZ0RacC1YSzJzeWlzOVlSdTFNZmZuaC00VXV1WGx5S0tqcFMwUGI3Ti14YnZDRTYzSTJ3UHJZbUxfNGRlYXNBMFhnWENJQ1F4ZmV5NXRNQmJrN21EUzdDSDhiTzdHdk1BZw?oc=5",
       "date": "Wed, 03 Jun 2026 07:00:00 GMT",
       "source": "Google News · SAE International",
@@ -2546,9 +2545,9 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 58,
+      "momentum_score": 47,
       "confidence_score": 78,
-      "signal_score": 57
+      "signal_score": 53
     },
     {
       "id": "ieee-spectrum-applying-different-forms-of-mentorship",
@@ -2648,10 +2647,10 @@
       "signal_score": 62
     },
     {
-      "id": "google-news-sae-international-26autp09-automotive-engineering-september-2026-sae-org",
-      "title": "26AUTP09 : Automotive Engineering: September 2026 - sae.org",
-      "summary": "26AUTP09 : Automotive Engineering: September 2026 &nbsp;&nbsp; sae.org",
-      "text": "26AUTP09 : Automotive Engineering: September 2026 &nbsp;&nbsp; sae.org",
+      "id": "google-news-sae-international-26autp09-automotive-engineering-september-2026-sae-international",
+      "title": "26AUTP09 : Automotive Engineering: September 2026 - SAE International",
+      "summary": "26AUTP09 : Automotive Engineering: September 2026 &nbsp;&nbsp; SAE International",
+      "text": "26AUTP09 : Automotive Engineering: September 2026 &nbsp;&nbsp; SAE International",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNLWlISHUwTC1oOWF5VEJyT254WXBTN0dLZ0ZkbUdOMWNXUXFjdDdSb2UxOERqOGVxdVprRFRIUmZFdHFhazFkQnhqNHNfVWpRY2VzMDFCZzBCNGNpeWFJY1pqbGw5VTZMWmswYXctUDg5Vkxpa2ZkMWtHMFdkWUNQV1ZEZFg?oc=5",
       "date": "Wed, 02 Sep 2026 07:00:00 GMT",
       "source": "Google News · SAE International",
@@ -2662,9 +2661,9 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 69,
+      "momentum_score": 73,
       "confidence_score": 78,
-      "signal_score": 60
+      "signal_score": 62
     },
     {
       "id": "google-news-deloitte-automotive-2026-global-automotive-consumer-study-deloitte",
@@ -2705,10 +2704,10 @@
       "signal_score": 64
     },
     {
-      "id": "google-news-sae-international-saej1075-automotive-engineering-1975-10-01-sae-org",
-      "title": "SAEJ1075 : Automotive Engineering 1975-10-01 - sae.org",
-      "summary": "SAEJ1075 : Automotive Engineering 1975-10-01 &nbsp;&nbsp; sae.org",
-      "text": "SAEJ1075 : Automotive Engineering 1975-10-01 &nbsp;&nbsp; sae.org",
+      "id": "google-news-sae-international-saej1075-automotive-engineering-1975-10-01-sae-international",
+      "title": "SAEJ1075 : Automotive Engineering 1975-10-01 - SAE International",
+      "summary": "SAEJ1075 : Automotive Engineering 1975-10-01 &nbsp;&nbsp; SAE International",
+      "text": "SAEJ1075 : Automotive Engineering 1975-10-01 &nbsp;&nbsp; SAE International",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xTXZyRWgyUlRCNU13ZmJMNzRNemtTRFl5YkFQOWNZYkREYk1YNm44TXBLVzF2TjZuRkk1MGNhRlFuSUpsZzRnYnZfdHljcC1ZNzB2Sm1PbTdiRGxkVzBjTDJjR21XckwwT1dPc1lPakt2UzZWcnF6eUNoOTltQXM?oc=5",
       "date": "Tue, 30 Sep 1975 07:00:00 GMT",
       "source": "Google News · SAE International",
@@ -2719,9 +2718,9 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 71,
+      "momentum_score": 60,
       "confidence_score": 78,
-      "signal_score": 61
+      "signal_score": 57
     },
     {
       "id": "google-news-software-defined-vehicles-software-defined-vehicle-architecture-a-guide-for-automotive-oems-the-auto-channel",
@@ -2760,6 +2759,25 @@
       "momentum_score": 44,
       "confidence_score": 78,
       "signal_score": 52
+    },
+    {
+      "id": "google-news-university-automotive-research-mixed-reality-revs-up-clemson-university-automotive-engineering-class-clemson-news",
+      "title": "Mixed reality revs up Clemson University automotive engineering class - Clemson News",
+      "summary": "Mixed reality revs up Clemson University automotive engineering class &nbsp;&nbsp; Clemson News",
+      "text": "Mixed reality revs up Clemson University automotive engineering class &nbsp;&nbsp; Clemson News",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPclBNWTVCM21BQU5hclJKQzZQYk55RU5CajR0c2Qwc3VaWkpLck5vc25YV3prX01fTmk5MjdHWU9zRjdYdlV2X1NIcGVLZnkwNlQ3QmxISUkwdVd5d2JoYldYTXdMWFEwYllYYTJqRkRwcldfQUpMVGlCaHI2cEZzTUltTkxQVXdqLVhfT19vRzcyLTRwUDhOdndoVQ?oc=5",
+      "date": "Tue, 28 Oct 2025 07:00:00 GMT",
+      "source": "Google News · University Automotive Research",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 76,
+      "confidence_score": 78,
+      "signal_score": 63
     },
     {
       "id": "google-news-deloitte-automotive-electric-vehicles-deloitte",
@@ -2896,10 +2914,10 @@
       "signal_score": 50
     },
     {
-      "id": "google-news-vehicle-connectivity-us-connected-car-market-size-share-trends-growth-analysis-report-2029-marketsandmarkets",
-      "title": "US Connected Car Market Size, Share,Trends, Growth Analysis Report, 2029 - MarketsandMarkets",
-      "summary": "US Connected Car Market Size, Share,Trends, Growth Analysis Report, 2029 &nbsp;&nbsp; MarketsandMarkets",
-      "text": "US Connected Car Market Size, Share,Trends, Growth Analysis Report, 2029 &nbsp;&nbsp; MarketsandMarkets",
+      "id": "google-news-vehicle-connectivity-us-connected-car-market-size-share-trends-growth-analysis-report-2029-marketsandmarkets-com",
+      "title": "US Connected Car Market Size, Share,Trends, Growth Analysis Report, 2029 - marketsandmarkets.com",
+      "summary": "US Connected Car Market Size, Share,Trends, Growth Analysis Report, 2029 &nbsp;&nbsp; marketsandmarkets.com",
+      "text": "US Connected Car Market Size, Share,Trends, Growth Analysis Report, 2029 &nbsp;&nbsp; marketsandmarkets.com",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObWtJV09KWk1LZnRSVjFiZkJNOGFTd0NyRUFfUWZ0cjA5WXBfVEJ4T2hvTUR0Nndpd0pEbV9DRlZRMC0wc0pGeTBTRVV2ZFc2N3NOQlNSX05MTkhqdGFGZnFWazFsaEs0Szcxa1NTMzBBNjRmTUJuSzRCNUpZSERHbTh5T0Z6ZjZLY1E?oc=5",
       "date": "Tue, 25 Aug 2026 06:00:40 GMT",
       "source": "Google News · Vehicle Connectivity",
@@ -2910,9 +2928,9 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 52,
+      "momentum_score": 49,
       "confidence_score": 78,
-      "signal_score": 54
+      "signal_score": 53
     },
     {
       "id": "google-news-software-defined-vehicles-connecting-your-car-beyond-the-dashboard-blog-google",
@@ -2934,10 +2952,10 @@
       "signal_score": 59
     },
     {
-      "id": "google-news-sae-international-about-sae-formula-events-sae-org",
-      "title": "About SAE Formula Events - sae.org",
-      "summary": "About SAE Formula Events &nbsp;&nbsp; sae.org",
-      "text": "About SAE Formula Events &nbsp;&nbsp; sae.org",
+      "id": "google-news-sae-international-advancing-mobility-knowledge-and-solutions-sae-international",
+      "title": "Advancing mobility knowledge and solutions - SAE International",
+      "summary": "Advancing mobility knowledge and solutions &nbsp;&nbsp; SAE International",
+      "text": "Advancing mobility knowledge and solutions &nbsp;&nbsp; SAE International",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvb3cxTXFBWXlBWmZOQ3JnNl9rMmZ3UmhNWU1TNTVsLU42eVp0UTlHUWpzUXR3eDljRk5CZkVCZE5yYS1xR1c2b3hob1IyYlhvdTFmT2FiS1YwTGdU?oc=5",
       "date": "Tue, 23 Sep 2025 22:44:26 GMT",
       "source": "Google News · SAE International",
@@ -2948,9 +2966,9 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 43,
+      "momentum_score": 71,
       "confidence_score": 78,
-      "signal_score": 51
+      "signal_score": 61
     },
     {
       "id": "mit-news-autonomous-vehicles-new-chip-could-help-tiny-robots-traverse-complex-environments",
@@ -3052,44 +3070,6 @@
       "signal_score": 59
     },
     {
-      "id": "ars-technica-lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting",
-      "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
-      "summary": "British Columbia sues OpenAI, demands Tumbler Ridge shooter’s ChatGPT logs.",
-      "text": "British Columbia sues OpenAI, demands Tumbler Ridge shooter’s ChatGPT logs.",
-      "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
-      "date": "Tue, 22 Sep 2026 19:28:23 +0000",
-      "source": "Ars Technica",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 68,
-      "confidence_score": 78,
-      "signal_score": 60
-    },
-    {
-      "id": "ars-technica-adobe-premiere-finally-brings-powerful-video-editing-to-android-and-it-s-free",
-      "title": "Adobe Premiere finally brings powerful video editing to Android, and it's free",
-      "summary": "You don't even need a Creative Cloud login to edit clips, but AI features cost extra.",
-      "text": "You don't even need a Creative Cloud login to edit clips, but AI features cost extra.",
-      "link": "https://arstechnica.com/gadgets/2026/09/adobe-premiere-finally-brings-powerful-video-editing-to-android-and-its-free/",
-      "date": "Tue, 22 Sep 2026 19:08:58 +0000",
-      "source": "Ars Technica",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 54,
-      "confidence_score": 78,
-      "signal_score": 55
-    },
-    {
       "id": "ieee-spectrum-spain-s-first-astronaut-pedro-duque-named-ieee-honorary-member",
       "title": "Spain’s First Astronaut, Pedro Duque, Named IEEE Honorary Member",
       "summary": "Many youngsters fascinated by exploring outer space dream of becoming an astronaut, but few do. One who had the right stuff is Pedro Duque , who was Spain’s first astronaut. The aeronautics engineer flew aboard the space shuttle Discovery and the International Space Station . After retiring as an astronaut, he headed Spain’s Ministry of Science, Innovation, and Universities . Today he is the chairman of HispaSat , a Spanish satellite company. Pedro Duque Employer HispaSat in Madrid Title President and chairman of the board Member grade Honorary member Alma mater The Polytechnic University of Madrid Nearly 30 years after his first mission, Duq",
@@ -3127,63 +3107,6 @@
       "momentum_score": 71,
       "confidence_score": 78,
       "signal_score": 64
-    },
-    {
-      "id": "ars-technica-review-resident-evil-might-just-be-the-best-gaming-adaptation-yet",
-      "title": "Review: Resident Evil might just be the best gaming adaptation yet",
-      "summary": "Director Zach Cregger's clever reboot strikes perfect balance between horror, humor, and over-the-top gore.",
-      "text": "Director Zach Cregger's clever reboot strikes perfect balance between horror, humor, and over-the-top gore.",
-      "link": "https://arstechnica.com/culture/2026/09/review-resident-evil-is-the-fresh-take-this-flagging-franchise-really-needed/",
-      "date": "Tue, 22 Sep 2026 17:30:07 +0000",
-      "source": "Ars Technica",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 52,
-      "confidence_score": 78,
-      "signal_score": 54
-    },
-    {
-      "id": "ars-technica-toyota-orders-workers-to-train-humanoid-robots-but-says-humans-won-t-be-replaced",
-      "title": "Toyota orders workers to train humanoid robots but says humans won't be replaced",
-      "summary": "Toyota's push comes as automakers race to develop and deploy humanoid robots.",
-      "text": "Toyota's push comes as automakers race to develop and deploy humanoid robots.",
-      "link": "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/",
-      "date": "Tue, 22 Sep 2026 17:06:16 +0000",
-      "source": "Ars Technica",
-      "category": "TECH",
-      "topic": "Robotics",
-      "kind_label": "RSS",
-      "tags": [
-        "Robotics"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 63,
-      "confidence_score": 78,
-      "signal_score": 58
-    },
-    {
-      "id": "ars-technica-it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records",
-      "title": "IT mistake erases 11 years of viewing history for hospitals’ maternity records",
-      "summary": "The English hospitals recovered patient care data only.",
-      "text": "The English hospitals recovered patient care data only.",
-      "link": "https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/",
-      "date": "Tue, 22 Sep 2026 16:55:40 +0000",
-      "source": "Ars Technica",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 56,
-      "confidence_score": 78,
-      "signal_score": 56
     },
     {
       "id": "google-news-software-defined-vehicles-insight-segger-s-automotive-software-roadmap-targets-the-sdv-edge-techinsights",
@@ -3668,10 +3591,10 @@
       "signal_score": 60
     },
     {
-      "id": "google-news-sae-international-sae-ma-07663-welcome-to-the-automotive-engineering-podcast-sae-org",
-      "title": "SAE-MA-07663 : Welcome to the Automotive Engineering podcast - sae.org",
-      "summary": "SAE-MA-07663 : Welcome to the Automotive Engineering podcast &nbsp;&nbsp; sae.org",
-      "text": "SAE-MA-07663 : Welcome to the Automotive Engineering podcast &nbsp;&nbsp; sae.org",
+      "id": "google-news-sae-international-sae-ma-07663-welcome-to-the-automotive-engineering-podcast-sae-international",
+      "title": "SAE-MA-07663 : Welcome to the Automotive Engineering podcast - SAE International",
+      "summary": "SAE-MA-07663 : Welcome to the Automotive Engineering podcast &nbsp;&nbsp; SAE International",
+      "text": "SAE-MA-07663 : Welcome to the Automotive Engineering podcast &nbsp;&nbsp; SAE International",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaS1oeFE5MUdUSGo5ZVBzT1ZTUF9pdXUzcDQxVmNhTW8zenlodGJxbXdTM1dPcmM2bnhfajZRNUk4SGtSN2xybGNJSUtvVUlEMjVQUVpLUFo2TjdxaTl4bzlteXlRa0NKV2JPVV9GTHE3RWRhT2ZXckN5TUJwRl9VaHoyZlhaQzdlQUc4?oc=5",
       "date": "Tue, 16 Sep 2025 07:00:00 GMT",
       "source": "Google News · SAE International",
@@ -3682,9 +3605,9 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 41,
+      "momentum_score": 60,
       "confidence_score": 78,
-      "signal_score": 51
+      "signal_score": 57
     },
     {
       "id": "mit-news-engineering-3-questions-putting-nuclear-waste-into-perspective",
@@ -3726,9 +3649,9 @@
     },
     {
       "id": "google-news-software-defined-vehicles-coforge-expands-automotive-engineering-footprint-to-accelerate-connected-ev-and-software-defined-vehicle-innovat",
-      "title": "Coforge Expands Automotive Engineering Footprint to Accelerate Connected, EV and Software-Defined Vehicle Innovation - finance.yahoo.com",
-      "summary": "Coforge Expands Automotive Engineering Footprint to Accelerate Connected, EV and Software-Defined Vehicle Innovation &nbsp;&nbsp; finance.yahoo.com",
-      "text": "Coforge Expands Automotive Engineering Footprint to Accelerate Connected, EV and Software-Defined Vehicle Innovation &nbsp;&nbsp; finance.yahoo.com",
+      "title": "Coforge Expands Automotive Engineering Footprint to Accelerate Connected, EV and Software-Defined Vehicle Innovation - Yahoo Finance",
+      "summary": "Coforge Expands Automotive Engineering Footprint to Accelerate Connected, EV and Software-Defined Vehicle Innovation &nbsp;&nbsp; Yahoo Finance",
+      "text": "Coforge Expands Automotive Engineering Footprint to Accelerate Connected, EV and Software-Defined Vehicle Innovation &nbsp;&nbsp; Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUkpnX2tXTFloS0o1LU9xUEFpZm9HS09lZndmUkVBbmFEVTdaTUhLOXJUbEVldENtcDJabmZWc2p6NVJyN2txOERjTURvaktXZnZIbHc5OUZhalFWdTFUY09LTWF2VmV4aVhWZHNYSUg5ZjRIS2QzUHN3cklmSEczdVhBZXNTdVM5NmpfSGhYNG5xbkNMdFEzTWpQWkhOMmJKZHY4QjdwWXBtcFEzV1lveGN3?oc=5",
       "date": "Tue, 15 Sep 2026 12:33:00 GMT",
       "source": "Google News · Software-Defined Vehicles",
@@ -3740,9 +3663,9 @@
         "SDV"
       ],
       "novelty_score": 49,
-      "momentum_score": 73,
+      "momentum_score": 63,
       "confidence_score": 78,
-      "signal_score": 65
+      "signal_score": 61
     },
     {
       "id": "ieee-spectrum-the-mind-bending-joyrides-that-gave-rise-to-tesla",
@@ -3764,10 +3687,10 @@
       "signal_score": 63
     },
     {
-      "id": "google-news-software-defined-vehicles-harman-joins-sdverse-marketplace-expanding-access-to-automotive-software-and-engineering-solutions-business-wire",
-      "title": "HARMAN Joins SDVerse Marketplace, Expanding Access to Automotive Software and Engineering Solutions - Business Wire",
-      "summary": "HARMAN Joins SDVerse Marketplace, Expanding Access to Automotive Software and Engineering Solutions &nbsp;&nbsp; Business Wire",
-      "text": "HARMAN Joins SDVerse Marketplace, Expanding Access to Automotive Software and Engineering Solutions &nbsp;&nbsp; Business Wire",
+      "id": "google-news-software-defined-vehicles-harman-joins-sdverse-marketplace-expanding-access-to-automotive-software-and-engineering-solutions-businesswire-",
+      "title": "HARMAN Joins SDVerse Marketplace, Expanding Access to Automotive Software and Engineering Solutions - businesswire.com",
+      "summary": "HARMAN Joins SDVerse Marketplace, Expanding Access to Automotive Software and Engineering Solutions &nbsp;&nbsp; businesswire.com",
+      "text": "HARMAN Joins SDVerse Marketplace, Expanding Access to Automotive Software and Engineering Solutions &nbsp;&nbsp; businesswire.com",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTzR3MWVJbFZnRml6aEd5R00xZ1k3cVh2aE5ULTRkbGc5YUUzVGEyUVNtenZPR3JOZklpY0E1cGJVd3BEN3E3T25EZGtFQ01DVVhhcTQxYS11QkpHTUEwbXRGTkJ4WnAzaTJyWUJqTkR0V29QQ3Q4c3lXQW13VlBNWVJkY1h1NHY3ckpGQzNCSnh3dUN4ZDI0NXc2RzY4bDJ6RC02T3hWSVR5N1hySDkwSmMzRTNweTZIVjV1YWhJaEpwcUdaMUF3NFN3VzcyVTRfa09vZlBPZTJrV3RabG0xUUw1SDVsMVhXbnZZ?oc=5",
       "date": "Tue, 15 Sep 2026 07:00:00 GMT",
       "source": "Google News · Software-Defined Vehicles",
@@ -3779,9 +3702,9 @@
         "SDV"
       ],
       "novelty_score": 49,
-      "momentum_score": 61,
+      "momentum_score": 78,
       "confidence_score": 78,
-      "signal_score": 60
+      "signal_score": 66
     },
     {
       "id": "google-news-pwc-automotive-automotive-industry-publications-pwc",
@@ -3917,10 +3840,10 @@
       "signal_score": 61
     },
     {
-      "id": "google-news-vehicle-connectivity-75-of-cars-sold-in-2024-had-embedded-cellular-connectivity-byd-top-performer-counterpoint-research",
-      "title": "75% of Cars Sold in 2024 Had Embedded Cellular Connectivity, BYD Top Performer - Counterpoint Research",
-      "summary": "75% of Cars Sold in 2024 Had Embedded Cellular Connectivity, BYD Top Performer &nbsp;&nbsp; Counterpoint Research",
-      "text": "75% of Cars Sold in 2024 Had Embedded Cellular Connectivity, BYD Top Performer &nbsp;&nbsp; Counterpoint Research",
+      "id": "google-news-vehicle-connectivity-75-of-cars-sold-in-2024-had-embedded-cellular-connectivity-byd-top-performer-counterpointresearch-com",
+      "title": "75% of Cars Sold in 2024 Had Embedded Cellular Connectivity, BYD Top Performer - counterpointresearch.com",
+      "summary": "75% of Cars Sold in 2024 Had Embedded Cellular Connectivity, BYD Top Performer &nbsp;&nbsp; counterpointresearch.com",
+      "text": "75% of Cars Sold in 2024 Had Embedded Cellular Connectivity, BYD Top Performer &nbsp;&nbsp; counterpointresearch.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYTRSZk9Hby12YVRYWTFjREYtVWRxRWtDbXUtTTIzMEtQWWV6VUVlNkZza0d0VkpOb3ZMWXV5TmZrVVRQQV9DckpxdDZxaEltbFlYZ3ZzT2xKcWZ6S0JLZ1dDb01kcDAxLWZjcUxETmxCM0lFeXYzZFhuN1pKbmctZkNnWVQ?oc=5",
       "date": "Tue, 11 Mar 2025 07:00:00 GMT",
       "source": "Google News · Vehicle Connectivity",
@@ -3931,28 +3854,9 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 48,
+      "momentum_score": 47,
       "confidence_score": 78,
       "signal_score": 53
-    },
-    {
-      "id": "google-news-university-automotive-research-china-s-maglev-model-sets-new-record-with-497-miles-per-hour-run-interestingengineering-com",
-      "title": "China's maglev model sets new record with 497 miles per hour run - interestingengineering.com",
-      "summary": "China's maglev model sets new record with 497 miles per hour run &nbsp;&nbsp; interestingengineering.com",
-      "text": "China's maglev model sets new record with 497 miles per hour run &nbsp;&nbsp; interestingengineering.com",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWFBOckw4T2FGRm5yXzNPRF9IZkpOdUhtTFhKZHB3TExPX1dnQnlyTjZlTUdIZ3MxaTNZRzhxTXNyUjc2cjRKMVRWZUdReF8zRFBtZVFMQkl2T2hoYno5bmRLTVJwV3NIN01BRUtweWc1NFRhZ1cwMVByZWE3REdOTw?oc=5",
-      "date": "Tue, 11 Aug 2026 07:00:00 GMT",
-      "source": "Google News · University Automotive Research",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 63,
-      "confidence_score": 78,
-      "signal_score": 58
     },
     {
       "id": "google-news-automotive-cybersecurity-quantitative-analysis-of-vulnerabilities-in-cloud-native-ota-pipelines-for-software-defined-vehicles-automotive-i",
@@ -4052,10 +3956,10 @@
       "signal_score": 53
     },
     {
-      "id": "google-news-university-automotive-research-ucr-professor-and-industry-collaborator-honored-for-cleaner-vehicle-catalyst-research-insideucr-ucr-edu",
-      "title": "UCR professor and industry collaborator honored for cleaner-vehicle catalyst research - insideucr.ucr.edu",
-      "summary": "UCR professor and industry collaborator honored for cleaner-vehicle catalyst research &nbsp;&nbsp; insideucr.ucr.edu",
-      "text": "UCR professor and industry collaborator honored for cleaner-vehicle catalyst research &nbsp;&nbsp; insideucr.ucr.edu",
+      "id": "google-news-university-automotive-research-ucr-professor-and-industry-collaborator-honored-for-cleaner-vehicle-catalyst-research-inside-ucr",
+      "title": "UCR professor and industry collaborator honored for cleaner-vehicle catalyst research - Inside UCR",
+      "summary": "UCR professor and industry collaborator honored for cleaner-vehicle catalyst research &nbsp;&nbsp; Inside UCR",
+      "text": "UCR professor and industry collaborator honored for cleaner-vehicle catalyst research &nbsp;&nbsp; Inside UCR",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVG1KNDBYMk9ZNlhWTkJMWjdfR2xWR1NSaWFjQ2xCUHFyUnRaZjVnRzJuYUV3bFI2c1oxUDBZNzRwV3ppNkpPbm5udy1yT3JaVElpQ2tmUlVyZFB0R3IxaUJqZ2pwdlJPMzdkdzNSemY1cnFmd084ZVVuLVJaWFhyWmxDYXBPUHlJbjBYcjZ2NTFOZE9yR24wMldoZndwTGdkOEdBSXdWcVhVS0xkNUVlc3VfczV4a2s0TmJtWmduOEF4aVE?oc=5",
       "date": "Tue, 08 Sep 2026 07:00:00 GMT",
       "source": "Google News · University Automotive Research",
@@ -4067,9 +3971,9 @@
         "Materials"
       ],
       "novelty_score": 49,
-      "momentum_score": 67,
+      "momentum_score": 52,
       "confidence_score": 78,
-      "signal_score": 63
+      "signal_score": 57
     },
     {
       "id": "mit-news-research-study-predicts-large-disparities-in-access-to-food-water-and-energy-in-2050",
@@ -4224,10 +4128,10 @@
       "signal_score": 56
     },
     {
-      "id": "google-news-vehicle-connectivity-5gaa-pushes-ahead-with-first-ntn-and-5g-v2x-direct-demos-the-mobile-network",
-      "title": "5GAA pushes ahead with first NTN and 5G-V2X Direct demos - The Mobile Network",
-      "summary": "5GAA pushes ahead with first NTN and 5G-V2X Direct demos &nbsp;&nbsp; The Mobile Network",
-      "text": "5GAA pushes ahead with first NTN and 5G-V2X Direct demos &nbsp;&nbsp; The Mobile Network",
+      "id": "google-news-vehicle-connectivity-5gaa-pushes-ahead-with-first-ntn-and-5g-v2x-direct-demos-the-mobile-network-com",
+      "title": "5GAA pushes ahead with first NTN and 5G-V2X Direct demos - the-mobile-network.com",
+      "summary": "5GAA pushes ahead with first NTN and 5G-V2X Direct demos &nbsp;&nbsp; the-mobile-network.com",
+      "text": "5GAA pushes ahead with first NTN and 5G-V2X Direct demos &nbsp;&nbsp; the-mobile-network.com",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORXo4eWR3SHItR2hUUldUNEFvVjc5ZDNwa1hPdVFNekt4RUZGbzhmTGlFX2RoU2JxUXhSb2w4bHRYd2FDQWdVTURrRFRLOU92dEtBV1pHZFJxRnp0UVNobFJWUU1JVFBMTzhDNUVPcWFJZ09wallBSDhLTmJSaDR0X1ZJZnNDenY0dHJDNW9qSVF5aDlaVmVuQ2NGcU4?oc=5",
       "date": "Tue, 06 May 2025 07:00:00 GMT",
       "source": "Google News · Vehicle Connectivity",
@@ -4238,15 +4142,15 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 57,
+      "momentum_score": 64,
       "confidence_score": 78,
-      "signal_score": 56
+      "signal_score": 59
     },
     {
       "id": "google-news-vehicle-connectivity-qualcomm-s-snapdragon-auto-connectivity-platform-to-bring-5g-capabilities-to-jlr-s-next-generation-modern-luxury-qual",
-      "title": "Qualcomm’s Snapdragon Auto Connectivity Platform to Bring 5G Capabilities to JLR’s Next Generation Modern Luxury - qualcomm.com",
-      "summary": "Qualcomm’s Snapdragon Auto Connectivity Platform to Bring 5G Capabilities to JLR’s Next Generation Modern Luxury &nbsp;&nbsp; qualcomm.com",
-      "text": "Qualcomm’s Snapdragon Auto Connectivity Platform to Bring 5G Capabilities to JLR’s Next Generation Modern Luxury &nbsp;&nbsp; qualcomm.com",
+      "title": "Qualcomm’s Snapdragon Auto Connectivity Platform to Bring 5G Capabilities to JLR’s Next Generation Modern Luxury - Qualcomm",
+      "summary": "Qualcomm’s Snapdragon Auto Connectivity Platform to Bring 5G Capabilities to JLR’s Next Generation Modern Luxury &nbsp;&nbsp; Qualcomm",
+      "text": "Qualcomm’s Snapdragon Auto Connectivity Platform to Bring 5G Capabilities to JLR’s Next Generation Modern Luxury &nbsp;&nbsp; Qualcomm",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY1VlTDdfanEyY3NjUTRHdl9nRG1Xbmg5NXB3aGVZRDJSa2liOW41MnVoOWlPTllLUWEycXVSSlc5X2NQN3NhSHhyN29nVXJlcGc1MlFMZDh6MWswU05oQnhaT3R1bG1PT3JLck1PT05IcU5Kbmc3dW1uS0pqY3RCd3RaSHZhYmRNUVJ6VGZTaEdyR2xOaExfaXNjR1NhdWVGQnpaaFFQcS1ycF9RbElHSQ?oc=5",
       "date": "Tue, 05 Sep 2023 07:00:00 GMT",
       "source": "Google News · Vehicle Connectivity",
@@ -4258,9 +4162,28 @@
         "Biotech"
       ],
       "novelty_score": 49,
-      "momentum_score": 45,
+      "momentum_score": 60,
       "confidence_score": 78,
-      "signal_score": 55
+      "signal_score": 60
+    },
+    {
+      "id": "google-news-pwc-automotive-decision-of-the-european-court-of-justice-on-the-vat-treatment-of-electric-vehicle-charging-service-pwc",
+      "title": "Decision of the European Court of Justice on the VAT treatment of Electric Vehicle Charging Service - PwC",
+      "summary": "Decision of the European Court of Justice on the VAT treatment of Electric Vehicle Charging Service &nbsp;&nbsp; PwC",
+      "text": "Decision of the European Court of Justice on the VAT treatment of Electric Vehicle Charging Service &nbsp;&nbsp; PwC",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQ05LUER2Z0hLWUthSExORG1nTkdxdG5HbE85ZnFOdUZCbVFpcVFFOEw3cGZoZ3pRdFQ4dXhYYkZtQWtRMk5GcGQxLUVRUlZDTkFCM2FnTEF3MjRaaFhpWU5KQ2FSUzRUSHZXUDlHamN2QUtteS1HWk5tMU5paHo2em5sM3pLaXhUVklWS3lvZExER250TkJXNmdKRV9vTDBKNWN6ejA4YndMLWt1eHYtQ0ZFY1JDNmRtZnpKYlVFY1dWckdFdjhWYk5vTWFNNExScmx5T2dmQ0Y4S2NB?oc=5",
+      "date": "Tue, 05 Nov 2024 20:04:18 GMT",
+      "source": "Google News · PwC Automotive",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 80,
+      "confidence_score": 78,
+      "signal_score": 64
     },
     {
       "id": "google-news-mckinsey-automotive-how-charging-in-buildings-can-power-up-the-electric-vehicle-industry-mckinsey-company",
@@ -4456,25 +4379,6 @@
       "signal_score": 59
     },
     {
-      "id": "mit-news-research-atlas-of-the-brain-s-striatum-could-guide-researchers-to-new-drug-treatments",
-      "title": "Atlas of the brain’s striatum could guide researchers to new drug treatments",
-      "summary": "A new study reveals insights into populations of neurons affected by Huntington’s disease, schizophrenia, addiction, and other disorders.",
-      "text": "A new study reveals insights into populations of neurons affected by Huntington’s disease, schizophrenia, addiction, and other disorders.",
-      "link": "https://news.mit.edu/2026/brains-striatum-atlas-could-guide-researchers-new-drug-treatments-0901",
-      "date": "Tue, 01 Sep 2026 11:00:00 -0400",
-      "source": "MIT News · Research",
-      "category": "SCIENCE",
-      "topic": "Science",
-      "kind_label": "RSS",
-      "tags": [
-        "Science"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 60,
-      "confidence_score": 78,
-      "signal_score": 57
-    },
-    {
       "id": "google-news-sae-technical-papers-the-new-china-automotive-engineering-research-institute-co-ltd-full-scale-aero-acoustic-wind-tunnel-sae-mobilus",
       "title": "The New China Automotive Engineering Research Institute co., Ltd Full-Scale Aero-Acoustic Wind Tunnel - SAE Mobilus",
       "summary": "The New China Automotive Engineering Research Institute co., Ltd Full-Scale Aero-Acoustic Wind Tunnel &nbsp;&nbsp; SAE Mobilus",
@@ -4552,6 +4456,25 @@
       "momentum_score": 77,
       "confidence_score": 78,
       "signal_score": 72
+    },
+    {
+      "id": "google-news-university-automotive-research-ul-lafayette-team-named-grand-champions-in-national-fluid-power-vehicle-challenge-university-of-louisiana-a",
+      "title": "UL Lafayette team named grand champions in National Fluid Power Vehicle Challenge - University of Louisiana at Lafayette",
+      "summary": "UL Lafayette team named grand champions in National Fluid Power Vehicle Challenge &nbsp;&nbsp; University of Louisiana at Lafayette",
+      "text": "UL Lafayette team named grand champions in National Fluid Power Vehicle Challenge &nbsp;&nbsp; University of Louisiana at Lafayette",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVFVZZnJ5MTc2MXJTanJ2TXRZT2lhd0J0alRkbUNVZG4wNGFsa1VtZ0lSNjZPRDJWaE5GaWM1OC1EU0NnUlY3MVhna2dPSUtSTXFJdFVUVXl1YTZTMkFJbkR1Nk43RGZYU3QzQXBFcjJCSHBsVnlVOTFMQ29menhqSmJpMm92NkhYaGRwQ1dCRjIydnNtUWVqNnIzcWJiSXJ4dGlLbW5uTFY?oc=5",
+      "date": "Thu, 30 Apr 2026 07:00:00 GMT",
+      "source": "Google News · University Automotive Research",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 65,
+      "confidence_score": 78,
+      "signal_score": 59
     },
     {
       "id": "google-news-bain-mobility-electric-and-autonomous-vehicles-the-future-is-now-bain",
@@ -4706,6 +4629,82 @@
       "momentum_score": 64,
       "confidence_score": 78,
       "signal_score": 62
+    },
+    {
+      "id": "techcrunch-everything-new-coming-to-meta-s-ai-agent-muse",
+      "title": "Everything new coming to Meta’s AI agent Muse",
+      "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
+      "text": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
+      "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "date": "Thu, 24 Sep 2026 01:13:32 +0000",
+      "source": "TechCrunch",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 40,
+      "confidence_score": 78,
+      "signal_score": 50
+    },
+    {
+      "id": "techcrunch-meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent",
+      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+      "summary": "The tiny hardware device creates another mobile home for its AI agent Muse.",
+      "text": "The tiny hardware device creates another mobile home for its AI agent Muse.",
+      "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+      "date": "Thu, 24 Sep 2026 00:46:17 +0000",
+      "source": "TechCrunch",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 72,
+      "confidence_score": 78,
+      "signal_score": 62
+    },
+    {
+      "id": "mit-news-research-the-promise-and-peril-of-using-visual-ai-to-study-cities",
+      "title": "The promise and peril of using visual AI to study cities",
+      "summary": "In their new book, “How AI Sees the City,” the leaders of MIT’s Senseable City Lab examine the technology’s implications for researching urban life.",
+      "text": "In their new book, “How AI Sees the City,” the leaders of MIT’s Senseable City Lab examine the technology’s implications for researching urban life.",
+      "link": "https://news.mit.edu/2026/studying-cities-using-visual-ai-fabio-duarte-martina-mazzarello-carlo-ratti-fan-zhang-book-0924",
+      "date": "Thu, 24 Sep 2026 00:00:00 -0400",
+      "source": "MIT News · Research",
+      "category": "SCIENCE",
+      "topic": "Science",
+      "kind_label": "RSS",
+      "tags": [
+        "Science"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 75,
+      "confidence_score": 78,
+      "signal_score": 63
+    },
+    {
+      "id": "wired-meta-pinky-promises-its-smart-glasses-will-be-private-soon",
+      "title": "Meta Pinky Promises Its Smart Glasses Will Be Private Soon",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/meta-pinky-promises-its-smart-glasses-are-going-to-be-private-soon/",
+      "date": "Thu, 24 Sep 2026 00:00:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 40,
+      "confidence_score": 78,
+      "signal_score": 50
     },
     {
       "id": "google-news-deloitte-automotive-software-defined-vehicles-global-manufacturer-readiness-study-deloitte",
@@ -5213,10 +5212,10 @@
       "signal_score": 63
     },
     {
-      "id": "google-news-sae-international-browse-magazine-issues-sae-org",
-      "title": "Browse Magazine Issues - sae.org",
-      "summary": "Browse Magazine Issues &nbsp;&nbsp; sae.org",
-      "text": "Browse Magazine Issues &nbsp;&nbsp; sae.org",
+      "id": "google-news-sae-international-browse-magazine-issues-sae-international",
+      "title": "Browse Magazine Issues - SAE International",
+      "summary": "Browse Magazine Issues &nbsp;&nbsp; SAE International",
+      "text": "Browse Magazine Issues &nbsp;&nbsp; SAE International",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXcnRxUEp4TTdxT3JodDMxamRGdUVhSnc4eEJQTTV5d0NPbkFSTks3NXN2MWhEbmpjS0F6TkxLY1hNeEpRMWJ4djhvbUxZUkl4aVBQMQ?oc=5",
       "date": "Thu, 12 Jul 2018 15:43:03 GMT",
       "source": "Google News · SAE International",
@@ -5227,9 +5226,9 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 44,
+      "momentum_score": 48,
       "confidence_score": 78,
-      "signal_score": 52
+      "signal_score": 53
     },
     {
       "id": "mit-news-autonomous-vehicles-jinhua-zhao-named-head-of-the-department-of-urban-studies-and-planning",
@@ -5424,25 +5423,6 @@
       "signal_score": 65
     },
     {
-      "id": "google-news-university-automotive-research-a-hardware-software-co-design-to-efficiently-run-ai-on-edge-devices-michigan-engineering-news",
-      "title": "A hardware-software co-design to efficiently run AI on edge devices - Michigan Engineering News",
-      "summary": "A hardware-software co-design to efficiently run AI on edge devices &nbsp;&nbsp; Michigan Engineering News",
-      "text": "A hardware-software co-design to efficiently run AI on edge devices &nbsp;&nbsp; Michigan Engineering News",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS2dLT2UtdE9wdWVsNUlrVk1OS1dSa0NWWGROcENzVmo1VUZuUVEteURGUkZKRDhvZW9fVU1oVTEzcVJFUmhBSW90S2s1SlRDSS0zNGhYWXFKOTlMN19lNFlqeGVMMnJueDlhRi1PSGh2U0FxMW9wR2QwZV9walN4amhDR0laOEFYMmtUUGlYT0JRNzFOV0xIQm02ZXhfX0J0dVdKU211c1c?oc=5",
-      "date": "Thu, 09 Apr 2026 07:00:00 GMT",
-      "source": "Google News · University Automotive Research",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 46,
-      "confidence_score": 78,
-      "signal_score": 52
-    },
-    {
       "id": "google-news-vehicle-connectivity-through-mcity-consortium-honda-and-verizon-test-how-5g-enhances-safety-for-connected-and-autonomous-vehicles-honda-ne",
       "title": "Through Mcity Consortium, Honda and Verizon Test How 5G Enhances Safety for Connected and Autonomous Vehicles - Honda Newsroom",
       "summary": "Through Mcity Consortium, Honda and Verizon Test How 5G Enhances Safety for Connected and Autonomous Vehicles &nbsp;&nbsp; Honda Newsroom",
@@ -5500,44 +5480,6 @@
       "momentum_score": 52,
       "confidence_score": 78,
       "signal_score": 54
-    },
-    {
-      "id": "google-news-university-automotive-research-ucf-engineering-students-pedal-to-victory-with-award-winning-human-powered-vehicle-design-ucf-edu",
-      "title": "UCF Engineering Students Pedal to Victory with Award-Winning Human-Powered Vehicle Design - ucf.edu",
-      "summary": "UCF Engineering Students Pedal to Victory with Award-Winning Human-Powered Vehicle Design &nbsp;&nbsp; ucf.edu",
-      "text": "UCF Engineering Students Pedal to Victory with Award-Winning Human-Powered Vehicle Design &nbsp;&nbsp; ucf.edu",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb0wtWHdYS25TM3J5bGdTaHFramh4SjdCaXk4c0FJQTlhMGxWNEhnTkdRS2EzNGV5MURDanNkTXlzQ0NfNjFXbWk3M0oxTlFheFhmNHhHem5LR2tWVVE4enV0WnQyVkJFN08ydUI5aEVxWHoxb2NxblJSbU9fcGkzdG9MSGhUQi1QSEg2VG10bW9NTzF6ekxDYk1DV2xma1FPSEhhX3NpS1hhSHRmdnJOTlp6d0lfQQ?oc=5",
-      "date": "Thu, 07 May 2026 07:00:00 GMT",
-      "source": "Google News · University Automotive Research",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 61,
-      "confidence_score": 78,
-      "signal_score": 58
-    },
-    {
-      "id": "google-news-university-automotive-research-university-of-south-florida-researchers-lay-the-groundwork-for-air-taxis-baynews9-com",
-      "title": "University of South Florida researchers lay the groundwork for air taxis - baynews9.com",
-      "summary": "University of South Florida researchers lay the groundwork for air taxis &nbsp;&nbsp; baynews9.com",
-      "text": "University of South Florida researchers lay the groundwork for air taxis &nbsp;&nbsp; baynews9.com",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMlJ1UlpKeFY2QXVVYkR2QVJ0V0N4UVg2aGV1Yk83TWVGamRBaUlKUnNUNFZlR05DaXl4eFB6WHNibUhEWFJHcmIxbWJoa200WTdiYWxMRFluQ2ZRX3JZR19JWjlBMW03OU5CTDVyLUIwYWhzcWNLU0g5M1RoYzNWYUk1V1ZwZw?oc=5",
-      "date": "Thu, 07 May 2026 07:00:00 GMT",
-      "source": "Google News · University Automotive Research",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 81,
-      "confidence_score": 78,
-      "signal_score": 65
     },
     {
       "id": "mit-news-autonomous-vehicles-photonics-advance-could-enable-compact-high-performance-lidar-sensors",
@@ -5715,6 +5657,25 @@
       "signal_score": 51
     },
     {
+      "id": "google-news-university-automotive-research-successful-ua-exchange-program-gets-a-reboot-ua-news-center",
+      "title": "Successful UA Exchange Program Gets a Reboot - UA News Center",
+      "summary": "Successful UA Exchange Program Gets a Reboot &nbsp;&nbsp; UA News Center",
+      "text": "Successful UA Exchange Program Gets a Reboot &nbsp;&nbsp; UA News Center",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTXhmdGVDNjVxOFNfT0o0RmZ3ZDAtUVAyUEJHcFVwMkhVY0xfOHlJSzZNS2t4M0hKREtqSElQS0F2Sk1aVXc4VUdISDBQaTRZUzV1ZERlSjRFRzBOQVdsaFVzNXo4eWluem5OemlUSjhhcFhvNU1YSC1QM0VSWHlhOFBGQi1Yek0?oc=5",
+      "date": "Thu, 05 Mar 2026 08:00:00 GMT",
+      "source": "Google News · University Automotive Research",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 61,
+      "confidence_score": 78,
+      "signal_score": 58
+    },
+    {
       "id": "google-news-deloitte-automotive-2023-global-automotive-consumer-study-deloitte",
       "title": "2023 Global Automotive Consumer Study - Deloitte",
       "summary": "2023 Global Automotive Consumer Study &nbsp;&nbsp; Deloitte",
@@ -5770,6 +5731,45 @@
       "momentum_score": 61,
       "confidence_score": 78,
       "signal_score": 58
+    },
+    {
+      "id": "google-news-software-defined-vehicles-why-western-oems-are-falling-behind-china-in-sdv-development-wardsauto",
+      "title": "Why Western OEMs are falling behind China in SDV development - WardsAuto",
+      "summary": "Why Western OEMs are falling behind China in SDV development &nbsp;&nbsp; WardsAuto",
+      "text": "Why Western OEMs are falling behind China in SDV development &nbsp;&nbsp; WardsAuto",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZjJuRnFtUjZVMFVuSGp1OTh4SjZSeVVTT05SOU5MNkVkSDRiaTFJRGszT2xvbGpRckRyQWUzd0JkNFhqOHZPdFRuRkY0cXExWGxZNHJvdFo5Rl9Hb043OEp3RTFxbGVHMnNVZmJXZl9lWFFDZ2QwUll2ZWxDLVlnLXlKalk0YmJnRW9janY2cXY5cUw5U1Z3Z1ZkVno4OUNq?oc=5",
+      "date": "Thu, 04 Jun 2026 07:00:00 GMT",
+      "source": "Google News · Software-Defined Vehicles",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive",
+        "SDV"
+      ],
+      "novelty_score": 49,
+      "momentum_score": 69,
+      "confidence_score": 78,
+      "signal_score": 63
+    },
+    {
+      "id": "mit-news-engineering-faculty-receive-promotions-in-the-school-of-architecture-and-planning-for-2026",
+      "title": "Faculty receive promotions in the School of Architecture and Planning for 2026",
+      "summary": "The range of faculty disciplines showcases the breadth of research and scholarship across the school.",
+      "text": "The range of faculty disciplines showcases the breadth of research and scholarship across the school.",
+      "link": "https://news.mit.edu/2026/faculty-receive-promotions-school-architecture-and-planning-0903",
+      "date": "Thu, 03 Sep 2026 16:50:00 -0400",
+      "source": "MIT News · Engineering",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 42,
+      "confidence_score": 78,
+      "signal_score": 51
     }
   ],
   "health": [
@@ -5810,8 +5810,9 @@
     },
     {
       "name": "Reddit · Robotics",
-      "ok": true,
-      "count": 24
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "name": "Reddit · Hardware",
@@ -5833,9 +5834,8 @@
     },
     {
       "name": "arXiv · Robotics",
-      "ok": false,
-      "count": 0,
-      "error": "HTTP Error 406: Not Acceptable"
+      "ok": true,
+      "count": 18
     },
     {
       "name": "arXiv · Automotive/Control",
