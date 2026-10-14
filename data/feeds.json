@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-10-14T18:39:13.824504+00:00",
+  "generated_at": "2026-10-14T23:16:08.432615+00:00",
   "items": [
     {
       "id": "google-news-sae-technical-papers-gp-lgfusion-deep-fusion-of-infrared-visible-driving-images-based-on-gradient-preservation-and-local-guidance-sae-mobi",
@@ -272,6 +272,25 @@
       "momentum_score": 45,
       "confidence_score": 78,
       "signal_score": 55
+    },
+    {
+      "id": "google-news-mckinsey-automotive-trends-in-electric-vehicle-design-mckinsey-company",
+      "title": "Trends in electric-vehicle design - McKinsey & Company",
+      "summary": "Trends in electric-vehicle design &nbsp;&nbsp; McKinsey & Company",
+      "text": "Trends in electric-vehicle design &nbsp;&nbsp; McKinsey & Company",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeU5WbVFKQ3d0ek5GZC1XZTEzLTl2UlpqTDEtcG5Dai1nV2V1a3owcEFZUWpWVUducGdfZlZhcGI4cnl3Sy1TbkU2UFNQTDZvaXc0RUFlNGh3ZGI3VmNERzNEbXU4ZktWa3JGVE1FNHZ6MjVldDdza2xOZDdacE9tcklvZmJkQWZ4N2R4U3libHJSOHl0WTFtNDQ1Zy1kUkpHOG05WjVhU2p2dw?oc=5",
+      "date": "Wed, 25 Oct 2017 07:00:00 GMT",
+      "source": "Google News · McKinsey Automotive",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 46,
+      "confidence_score": 78,
+      "signal_score": 52
     },
     {
       "id": "google-news-software-defined-vehicles-sdv-av-technology-summit-europe-2026-automotive-iq",
@@ -620,25 +639,6 @@
       "signal_score": 65
     },
     {
-      "id": "google-news-mckinsey-automotive-the-future-of-mobility-in-india-s-passenger-vehicle-market-mckinsey-company",
-      "title": "The future of mobility in India’s passenger-vehicle market - McKinsey & Company",
-      "summary": "The future of mobility in India’s passenger-vehicle market &nbsp;&nbsp; McKinsey & Company",
-      "text": "The future of mobility in India’s passenger-vehicle market &nbsp;&nbsp; McKinsey & Company",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQmJnSlh2b1lBVUN1NmRFZmdqWnFkYy1MM19xS2Y4UlF3Uk40SUMxek9YY2ZyeUhIeE5lXzVyUWVpSEZvdTkwMEtFa01rSklkamdLREJJN2tSSXc5R1FRcUZLcXdDdXRsTE9tSTVCakZhR2h3OC1MdTBWTFpVSS13NjVYSmFYbHB0aU50aTNTV3I0SlB4bnB3SmJSQy1EeFlyQlVUcU1fVUNaanl1SGs1WjVKS0dJYjhtTXJxWmt1em9ZQ09LVkJwUEx3?oc=5",
-      "date": "Wed, 18 Jul 2018 07:00:00 GMT",
-      "source": "Google News · McKinsey Automotive",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 47,
-      "confidence_score": 78,
-      "signal_score": 53
-    },
-    {
       "id": "mit-news-autonomous-vehicles-could-ai-tell-you-where-you-left-your-keys",
       "title": "Could AI tell you where you left your keys?",
       "summary": "A new spatial memory system for robots efficiently captures details about the objects they see while exploring their environment.",
@@ -775,10 +775,391 @@
       "signal_score": 66
     },
     {
+      "id": "techcrunch-intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals",
+      "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
+      "summary": "Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technology.",
+      "text": "Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technology.",
+      "link": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
+      "date": "Wed, 14 Oct 2026 23:00:00 +0000",
+      "source": "TechCrunch",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 63,
+      "confidence_score": 78,
+      "signal_score": 58
+    },
+    {
+      "id": "techcrunch-cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes",
+      "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
+      "summary": "Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its approach has gained relevance with the rise of agentic AI.",
+      "text": "Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its approach has gained relevance with the rise of agentic AI.",
+      "link": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
+      "date": "Wed, 14 Oct 2026 22:00:00 +0000",
+      "source": "TechCrunch",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 46,
+      "confidence_score": 78,
+      "signal_score": 52
+    },
+    {
+      "id": "techcrunch-ambani-s-jio-seeks-to-raise-3-2b-in-what-could-be-india-s-biggest-ipo",
+      "title": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO",
+      "summary": "Jio plans to use most of its IPO proceeds to repay debt as it expands beyond telecom.",
+      "text": "Jio plans to use most of its IPO proceeds to repay debt as it expands beyond telecom.",
+      "link": "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/",
+      "date": "Wed, 14 Oct 2026 21:48:20 +0000",
+      "source": "TechCrunch",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 76,
+      "confidence_score": 78,
+      "signal_score": 63
+    },
+    {
+      "id": "ars-technica-fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security",
+      "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
+      "summary": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.",
+      "text": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.",
+      "link": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
+      "date": "Wed, 14 Oct 2026 21:35:09 +0000",
+      "source": "Ars Technica",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Cybersecurity"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 81,
+      "confidence_score": 78,
+      "signal_score": 65
+    },
+    {
+      "id": "techcrunch-flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different",
+      "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+      "summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
+      "text": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
+      "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+      "date": "Wed, 14 Oct 2026 21:30:33 +0000",
+      "source": "TechCrunch",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 74,
+      "confidence_score": 78,
+      "signal_score": 62
+    },
+    {
+      "id": "google-news-university-automotive-research-oklahoma-state-university-awarded-4m-for-autonomous-vehicle-research-news-okstate-edu",
+      "title": "Oklahoma State University awarded $4M for autonomous vehicle research - news.okstate.edu",
+      "summary": "Oklahoma State University awarded $4M for autonomous vehicle research &nbsp;&nbsp; news.okstate.edu",
+      "text": "Oklahoma State University awarded $4M for autonomous vehicle research &nbsp;&nbsp; news.okstate.edu",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSjA3OG45ZjdGVFUwOVpCQWR1ZjJfR0tGZkloeG9oaldONE5xZ3FlZkZpT2lRcWRVd3JDeFRyaGZELUQwY015M25RbmUxT3NmMENmWmUwZEtGOWFBbE9QNHdkUjNKajlpcjl0azMxcHo5blY0QWt3N0hQem5QcHNPQVdfRzY1OGdXN0lXVXNXeWxJSDlNcUd0UzhWU3pSWFNRR1RzWnZmUXBUVV96MnpHSmRFUFhhUzAxM3ZfdlNTdw?oc=5",
+      "date": "Wed, 14 Oct 2026 21:21:15 GMT",
+      "source": "Google News · University Automotive Research",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive",
+        "Control"
+      ],
+      "novelty_score": 49,
+      "momentum_score": 72,
+      "confidence_score": 78,
+      "signal_score": 64
+    },
+    {
+      "id": "ars-technica-epic-says-its-new-vibe-coded-epic-games-launcher-is-faster-than-steam",
+      "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
+      "summary": "But the new \"Preview\" app \"will have some bugs,\" Epic warns.",
+      "text": "But the new \"Preview\" app \"will have some bugs,\" Epic warns.",
+      "link": "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/",
+      "date": "Wed, 14 Oct 2026 21:15:56 +0000",
+      "source": "Ars Technica",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 53,
+      "confidence_score": 78,
+      "signal_score": 55
+    },
+    {
+      "id": "ars-technica-nato-may-redeploy-anti-drone-defenses-as-attacks-sink-more-black-sea-shipping",
+      "title": "NATO may redeploy anti-drone defenses as attacks sink more Black Sea shipping",
+      "summary": "Suspected Russian drones have sunk or damaged 5 ships near Bulgaria and Romania.",
+      "text": "Suspected Russian drones have sunk or damaged 5 ships near Bulgaria and Romania.",
+      "link": "https://arstechnica.com/gadgets/2026/10/nato-may-redeploy-anti-drone-defenses-as-attacks-sink-more-black-sea-shipping/",
+      "date": "Wed, 14 Oct 2026 21:03:11 +0000",
+      "source": "Ars Technica",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 83,
+      "confidence_score": 78,
+      "signal_score": 65
+    },
+    {
+      "id": "techcrunch-colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts",
+      "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
+      "summary": "Colossal announced a new AI platform to help accelerate its de-extinction efforts and Peter Diamandis has launched a new fund to back startups who use it.",
+      "text": "Colossal announced a new AI platform to help accelerate its de-extinction efforts and Peter Diamandis has launched a new fund to back startups who use it.",
+      "link": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
+      "date": "Wed, 14 Oct 2026 21:00:00 +0000",
+      "source": "TechCrunch",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 82,
+      "confidence_score": 78,
+      "signal_score": 65
+    },
+    {
+      "id": "wired-trump-aides-admit-the-house-is-a-lost-cause",
+      "title": "Trump Aides Admit the House Is a Lost Cause",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/trump-aides-admit-the-house-is-a-lost-cause/",
+      "date": "Wed, 14 Oct 2026 21:00:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 49,
+      "confidence_score": 78,
+      "signal_score": 53
+    },
+    {
+      "id": "ars-technica-things-are-finally-looking-up-for-nasa-s-first-missions-to-venus-in-a-generation",
+      "title": "Things are finally looking up for NASA's first missions to Venus in a generation",
+      "summary": "\"This is great news for us. We're staffing up. We're accelerating.\"",
+      "text": "\"This is great news for us. We're staffing up. We're accelerating.\"",
+      "link": "https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/",
+      "date": "Wed, 14 Oct 2026 20:48:07 +0000",
+      "source": "Ars Technica",
+      "category": "TECH",
+      "topic": "Healthcare",
+      "kind_label": "RSS",
+      "tags": [
+        "Biotech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 50,
+      "confidence_score": 78,
+      "signal_score": 54
+    },
+    {
+      "id": "techcrunch-flock-ceo-we-haven-t-fired-any-police-departments-as-customers",
+      "title": "Flock CEO: We haven’t ‘fired’ any police departments as customers",
+      "summary": "Flock CEO Garrett Langley said that the surveillance company has not canceled contracts of any police department or law enforcement agency, despite reports of abuse.",
+      "text": "Flock CEO Garrett Langley said that the surveillance company has not canceled contracts of any police department or law enforcement agency, despite reports of abuse.",
+      "link": "https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/",
+      "date": "Wed, 14 Oct 2026 20:26:25 +0000",
+      "source": "TechCrunch",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 57,
+      "confidence_score": 78,
+      "signal_score": 56
+    },
+    {
+      "id": "ars-technica-schools-across-us-protest-fcc-plan-that-could-disconnect-kids-from-internet",
+      "title": "Schools across US protest FCC plan that could disconnect kids from Internet",
+      "summary": "FCC chair threatens E-Rate fund, blames schools for kids' excessive screen time.",
+      "text": "FCC chair threatens E-Rate fund, blames schools for kids' excessive screen time.",
+      "link": "https://arstechnica.com/tech-policy/2026/10/schools-libraries-plead-with-fcc-to-scrap-idea-of-killing-2b-broadband-program/",
+      "date": "Wed, 14 Oct 2026 20:15:56 +0000",
+      "source": "Ars Technica",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 83,
+      "confidence_score": 78,
+      "signal_score": 65
+    },
+    {
+      "id": "techcrunch-electric-vehicle-sales-in-the-us-are-showing-signs-of-life",
+      "title": "Electric vehicle sales in the US are showing signs of life",
+      "summary": "The electric vehicle market in the U.S. has been growing for the last three consecutive quarters.",
+      "text": "The electric vehicle market in the U.S. has been growing for the last three consecutive quarters.",
+      "link": "https://techcrunch.com/2026/10/14/electric-vehicle-sales-in-the-u-s-are-showing-signs-of-life/",
+      "date": "Wed, 14 Oct 2026 20:12:07 +0000",
+      "source": "TechCrunch",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 44,
+      "confidence_score": 78,
+      "signal_score": 52
+    },
+    {
+      "id": "techcrunch-timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine",
+      "title": "TimeTeller puts our internal clocks at the center of personalized medicine",
+      "summary": "German startup TimeTeller has developed a saliva test kit to help anyone understand their circadian rhythm; it aims to reduce side effects from cancer treatments.",
+      "text": "German startup TimeTeller has developed a saliva test kit to help anyone understand their circadian rhythm; it aims to reduce side effects from cancer treatments.",
+      "link": "https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/",
+      "date": "Wed, 14 Oct 2026 20:00:00 +0000",
+      "source": "TechCrunch",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 71,
+      "confidence_score": 78,
+      "signal_score": 61
+    },
+    {
+      "id": "ars-technica-georgia-man-sues-flock-sheriff-s-office-over-alleged-alpr-fueled-retaliation",
+      "title": "Georgia man sues Flock, sheriff's office over alleged ALPR-fueled retaliation",
+      "summary": "Plaintiff claims cameras enabled warrantless tracking and monitoring after he previously sued over excessive force.",
+      "text": "Plaintiff claims cameras enabled warrantless tracking and monitoring after he previously sued over excessive force.",
+      "link": "https://arstechnica.com/tech-policy/2026/10/georgia-man-sues-flock-sheriffs-office-over-alleged-alpr-fueled-retaliation/",
+      "date": "Wed, 14 Oct 2026 19:53:01 +0000",
+      "source": "Ars Technica",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 79,
+      "confidence_score": 78,
+      "signal_score": 64
+    },
+    {
+      "id": "techcrunch-ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers",
+      "title": "Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers",
+      "summary": "Startup Ambrosia Energy will build a massive factory to crank out batteries to augment solar panels, creating a round-the-clock clean power plant.",
+      "text": "Startup Ambrosia Energy will build a massive factory to crank out batteries to augment solar panels, creating a round-the-clock clean power plant.",
+      "link": "https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers/",
+      "date": "Wed, 14 Oct 2026 19:51:34 +0000",
+      "source": "TechCrunch",
+      "category": "TECH",
+      "topic": "Energy",
+      "kind_label": "RSS",
+      "tags": [
+        "Energy"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 44,
+      "confidence_score": 78,
+      "signal_score": 52
+    },
+    {
+      "id": "ars-technica-software-development-and-rules-stability-prototype-racing-in-2030",
+      "title": "Software development and rules stability: Prototype racing in 2030",
+      "summary": "With the end of IMSA’s 2026 season, we have thoughts about the future of the sport.",
+      "text": "With the end of IMSA’s 2026 season, we have thoughts about the future of the sport.",
+      "link": "https://arstechnica.com/cars/2026/10/software-development-and-rules-stability-prototype-racing-in-2030/",
+      "date": "Wed, 14 Oct 2026 19:44:26 +0000",
+      "source": "Ars Technica",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 75,
+      "confidence_score": 78,
+      "signal_score": 63
+    },
+    {
+      "id": "ars-technica-greta-gerwig-channels-bowie-in-psychedelic-the-magician-s-nephew-trailer",
+      "title": "Greta Gerwig channels Bowie in psychedelic The Magician's Nephew trailer",
+      "summary": "\"Have you ever seen a world born?\"",
+      "text": "\"Have you ever seen a world born?\"",
+      "link": "https://arstechnica.com/culture/2026/10/greta-gerwig-channels-bowie-in-psychedelic-the-magicians-nephew-trailer/",
+      "date": "Wed, 14 Oct 2026 19:10:58 +0000",
+      "source": "Ars Technica",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 77,
+      "confidence_score": 78,
+      "signal_score": 63
+    },
+    {
+      "id": "techcrunch-hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear",
+      "title": "Hiyd is a health tracker that attaches to the watch you already wear",
+      "summary": "Former Apple engineers figured out how to get a biometric sensor to attach to your watch without any magnets or adhesives.",
+      "text": "Former Apple engineers figured out how to get a biometric sensor to attach to your watch without any magnets or adhesives.",
+      "link": "https://techcrunch.com/2026/10/14/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear/",
+      "date": "Wed, 14 Oct 2026 19:00:00 +0000",
+      "source": "TechCrunch",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 60,
+      "confidence_score": 78,
+      "signal_score": 57
+    },
+    {
       "id": "techcrunch-youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms",
       "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
-      "summary": "The label will appear on the player page and include songs entirely generated by AI or partially, such as involved in composition and vocals.",
-      "text": "The label will appear on the player page and include songs entirely generated by AI or partially, such as involved in composition and vocals.",
+      "summary": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.",
+      "text": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.",
       "link": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
       "date": "Wed, 14 Oct 2026 18:23:46 +0000",
       "source": "TechCrunch",
@@ -851,6 +1232,25 @@
       "signal_score": 58
     },
     {
+      "id": "ars-technica-researchers-use-ai-to-design-proteins-that-cut-up-other-proteins",
+      "title": "Researchers use AI to design proteins that cut up other proteins",
+      "summary": "AI design tools make proteins that break bonds that are stable for hundreds of years.",
+      "text": "AI design tools make proteins that break bonds that are stable for hundreds of years.",
+      "link": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+      "date": "Wed, 14 Oct 2026 17:10:15 +0000",
+      "source": "Ars Technica",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 48,
+      "confidence_score": 78,
+      "signal_score": 53
+    },
+    {
       "id": "techcrunch-mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network",
       "title": "Mosqitter is turning its mosquito traps into an AI-powered surveillance network",
       "summary": "Mosqitter is turning its mosquito-trapping hardware into an AI-powered surveillance network designed to identify species, monitor populations, and provide earlier warnings of mosquito-borne disease risks.",
@@ -870,6 +1270,44 @@
       "signal_score": 63
     },
     {
+      "id": "ars-technica-recording-device-hidden-in-toilet-paper-found-in-top-secret-openai-meeting-room",
+      "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
+      "summary": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
+      "text": "OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.",
+      "link": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
+      "date": "Wed, 14 Oct 2026 16:41:49 +0000",
+      "source": "Ars Technica",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 53,
+      "confidence_score": 78,
+      "signal_score": 55
+    },
+    {
+      "id": "ars-technica-legendary-fps-level-designer-richard-levelord-gray-dies-at-68",
+      "title": "Legendary FPS level designer Richard \"Levelord\" Gray dies at 68",
+      "summary": "Tributes pour in for the man behind iconic Duke Nukem 3D levels and much more.",
+      "text": "Tributes pour in for the man behind iconic Duke Nukem 3D levels and much more.",
+      "link": "https://arstechnica.com/gaming/2026/10/legendary-fps-level-designer-richard-levelord-gray-passes-away-at-68/",
+      "date": "Wed, 14 Oct 2026 16:02:08 +0000",
+      "source": "Ars Technica",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 46,
+      "confidence_score": 78,
+      "signal_score": 52
+    },
+    {
       "id": "techcrunch-prismm-helps-banks-keep-inherited-money-in-house",
       "title": "Prismm helps banks keep inherited money in-house",
       "summary": "With Prismm, account holders can give designated family members access to their accounts and documents ahead of time.",
@@ -885,26 +1323,6 @@
       ],
       "novelty_score": 42,
       "momentum_score": 78,
-      "confidence_score": 78,
-      "signal_score": 64
-    },
-    {
-      "id": "google-news-university-automotive-research-oklahoma-state-university-awarded-4m-for-autonomous-vehicle-research-news-okstate-edu",
-      "title": "Oklahoma State University awarded $4M for autonomous vehicle research - news.okstate.edu",
-      "summary": "Oklahoma State University awarded $4M for autonomous vehicle research &nbsp;&nbsp; news.okstate.edu",
-      "text": "Oklahoma State University awarded $4M for autonomous vehicle research &nbsp;&nbsp; news.okstate.edu",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSjA3OG45ZjdGVFUwOVpCQWR1ZjJfR0tGZkloeG9oaldONE5xZ3FlZkZpT2lRcWRVd3JDeFRyaGZELUQwY015M25RbmUxT3NmMENmWmUwZEtGOWFBbE9QNHdkUjNKajlpcjl0azMxcHo5blY0QWt3N0hQem5QcHNPQVdfRzY1OGdXN0lXVXNXeWxJSDlNcUd0UzhWU3pSWFNRR1RzWnZmUXBUVV96MnpHSmRFUFhhUzAxM3ZfdlNTdw?oc=5",
-      "date": "Wed, 14 Oct 2026 15:44:54 GMT",
-      "source": "Google News · University Automotive Research",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive",
-        "Control"
-      ],
-      "novelty_score": 49,
-      "momentum_score": 72,
       "confidence_score": 78,
       "signal_score": 64
     },
@@ -1004,6 +1422,25 @@
       "signal_score": 64
     },
     {
+      "id": "mit-news-engineering-mit-remembers-thomas-rose-a-brilliant-researcher-and-generous-colleague",
+      "title": "MIT remembers Thomas Rose, a brilliant researcher and generous colleague",
+      "summary": "Faculty, students, staff, family, and friends gathered to remember the assistant professor and archaeometallurgist who died last month.",
+      "text": "Faculty, students, staff, family, and friends gathered to remember the assistant professor and archaeometallurgist who died last month.",
+      "link": "https://news.mit.edu/2026/mit-remembers-thomas-rose-1014",
+      "date": "Wed, 14 Oct 2026 14:30:00 -0400",
+      "source": "MIT News · Engineering",
+      "category": "TECH",
+      "topic": "Healthcare",
+      "kind_label": "RSS",
+      "tags": [
+        "Biotech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 59,
+      "confidence_score": 78,
+      "signal_score": 57
+    },
+    {
       "id": "techcrunch-techcrunch-disrupt-2026-day-2",
       "title": "TechCrunch Disrupt 2026: Day 2",
       "summary": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, as well as an investor-only session, more roundtables, Side Events, and more. Register to save 50% on your pass.",
@@ -1021,25 +1458,6 @@
       "momentum_score": 63,
       "confidence_score": 78,
       "signal_score": 58
-    },
-    {
-      "id": "techcrunch-ntangible-bets-it-can-predict-how-athletes-will-perform-under-pressure",
-      "title": "NTangible bets it can predict how athletes will perform under pressure",
-      "summary": "NTangible is building an analytics platform for collegiate sports organizations and other clubs to measure an athlete's \"clutch\" factor.",
-      "text": "NTangible is building an analytics platform for collegiate sports organizations and other clubs to measure an athlete's \"clutch\" factor.",
-      "link": "https://techcrunch.com/2026/10/14/ntangible-bets-it-can-predict-how-athletes-will-perform-under-pressure/",
-      "date": "Wed, 14 Oct 2026 14:00:00 +0000",
-      "source": "TechCrunch",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 44,
-      "confidence_score": 78,
-      "signal_score": 52
     },
     {
       "id": "wired-earth-s-condition-is-serious-and-getting-worse-as-climate-change-intensifies",
@@ -1137,6 +1555,25 @@
       "signal_score": 64
     },
     {
+      "id": "google-news-automotive-news-canadians-say-they-re-delaying-ev-purchases-until-more-chinese-models-hit-the-market-automotive-news",
+      "title": "Canadians say they’re delaying EV purchases until more Chinese models hit the market - Automotive News",
+      "summary": "Canadians say they’re delaying EV purchases until more Chinese models hit the market &nbsp;&nbsp; Automotive News",
+      "text": "Canadians say they’re delaying EV purchases until more Chinese models hit the market &nbsp;&nbsp; Automotive News",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9UV3ZBeGJrRDQtQ2dHQXNyNzcyeXNwSExGb2lxUG5oeFZUWmIyWUo4TE1LbWtRRmFOMXRMSUs0RVl6b2hwVlR1aFQwY3IyX2hvYmxJNWJYQ0JBRjhfUVhvVGx0c2VDak4zQnJHcnNiRkREYkllYjBoYkgxM1o?oc=5",
+      "date": "Wed, 14 Oct 2026 12:46:00 GMT",
+      "source": "Google News · Automotive News",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 61,
+      "confidence_score": 78,
+      "signal_score": 58
+    },
+    {
       "id": "mit-technology-review-ai-the-download-faking-blood-and-the-future-of-batteries",
       "title": "The Download: faking blood and the future of batteries",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US military’s race to make fake blood In February 2007, a US military helicopter carrying blood to a field hospital was shot down in Iraq, killing all seven crew members.&#8230;",
@@ -1154,6 +1591,25 @@
       "momentum_score": 49,
       "confidence_score": 78,
       "signal_score": 53
+    },
+    {
+      "id": "google-news-automotive-news-stellantis-will-fill-european-factories-with-chinese-partners-help-ceo-says-automotive-news",
+      "title": "Stellantis will fill European factories with Chinese partners’ help, CEO says - Automotive News",
+      "summary": "Stellantis will fill European factories with Chinese partners’ help, CEO says &nbsp;&nbsp; Automotive News",
+      "text": "Stellantis will fill European factories with Chinese partners’ help, CEO says &nbsp;&nbsp; Automotive News",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfdHRCTFdMeGNyS2VPZjRCTXdVazRiWWRvLUVWaEtzNUYwQWF0bEZxQmdXb2xVbjNjbFhNS0Z0NDNVNlFYYU1RVWV6Nk1KQ0lkT3kzQnRFTFY5dUFYbENielJySlBFazBKLUc0VDlWTXNMRHZIdV9wTmVSbTY?oc=5",
+      "date": "Wed, 14 Oct 2026 11:38:00 GMT",
+      "source": "Google News · Automotive News",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 66,
+      "confidence_score": 78,
+      "signal_score": 59
     },
     {
       "id": "ars-technica-the-internet-s-undersea-backbone-is-slipping-into-the-danger-zone",
@@ -1230,25 +1686,6 @@
       "momentum_score": 61,
       "confidence_score": 78,
       "signal_score": 58
-    },
-    {
-      "id": "techcrunch-scimplify-raises-25m-to-challenge-china-s-grip-on-critical-materials-with-ai",
-      "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
-      "summary": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
-      "text": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
-      "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
-      "date": "Wed, 14 Oct 2026 11:00:00 +0000",
-      "source": "TechCrunch",
-      "category": "TECH",
-      "topic": "Materials",
-      "kind_label": "RSS",
-      "tags": [
-        "Materials"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 41,
-      "confidence_score": 78,
-      "signal_score": 51
     },
     {
       "id": "wired-my-friend-has-no-soul",
@@ -1346,6 +1783,25 @@
       "signal_score": 59
     },
     {
+      "id": "google-news-automotive-news-new-car-leasing-gains-ground-as-affordability-tool-in-2026-automotive-news",
+      "title": "New-car leasing gains ground as affordability tool in 2026 - Automotive News",
+      "summary": "New-car leasing gains ground as affordability tool in 2026 &nbsp;&nbsp; Automotive News",
+      "text": "New-car leasing gains ground as affordability tool in 2026 &nbsp;&nbsp; Automotive News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSmpYcTE5UHpmSTljQ0hLUkJPNVhyWnhqN21ZRENVY243NTF0WmxrMmM0N0QtY3A2Z3VsQnY3a2tGcGktY3NKekRBUGZVdnFyMGdPbHpoUlNvd1pTcUJjQjV0Y3RyWFg5Mkd5STJrLXBDSG5LZEJhSWIzYTZUQ3ZoSHhpa2RrUFhlOTBENzMxZWpUbHpWbVZrUg?oc=5",
+      "date": "Wed, 14 Oct 2026 10:00:00 GMT",
+      "source": "Google News · Automotive News",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 73,
+      "confidence_score": 78,
+      "signal_score": 62
+    },
+    {
       "id": "wired-nothing-headphone-1-pro-review-studio-quality",
       "title": "Nothing Headphone (1) Pro Review: Studio Quality",
       "summary": "Source item available; open the source for details.",
@@ -1420,6 +1876,25 @@
       "momentum_score": 49,
       "confidence_score": 78,
       "signal_score": 53
+    },
+    {
+      "id": "google-news-automotive-news-legacy-automakers-risk-losing-mass-market-to-chinese-rivals-automotive-news",
+      "title": "Legacy automakers risk losing mass market to Chinese rivals - Automotive News",
+      "summary": "Legacy automakers risk losing mass market to Chinese rivals &nbsp;&nbsp; Automotive News",
+      "text": "Legacy automakers risk losing mass market to Chinese rivals &nbsp;&nbsp; Automotive News",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CZktmazBMYmlLWHdYejFmTHZqZzNjRVktemY3Yk5Ob2gyVlJmLUpIMmhRWkFSeWstRGI4VkE3NEppMXF6aWVicFdTWnJEd1pfeU1Wb1hqRG91dFFMOHZqWWZFRjNabF9WQldxTWlzVU5aR1FiTXlhLTdpdExNZGc?oc=5",
+      "date": "Wed, 14 Oct 2026 09:26:29 GMT",
+      "source": "Google News · Automotive News",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 60,
+      "confidence_score": 78,
+      "signal_score": 57
     },
     {
       "id": "wired-cat-like-whiskers-help-tiny-drones-fly-in-the-dark",
@@ -1498,25 +1973,6 @@
       "signal_score": 65
     },
     {
-      "id": "google-news-automotive-news-valeo-ceo-urges-eu-to-set-75-local-content-bar-warns-150-factories-at-risk-automotive-news",
-      "title": "Valeo CEO urges EU to set 75% local content bar, warns 150 factories at risk - Automotive News",
-      "summary": "Valeo CEO urges EU to set 75% local content bar, warns 150 factories at risk &nbsp;&nbsp; Automotive News",
-      "text": "Valeo CEO urges EU to set 75% local content bar, warns 150 factories at risk &nbsp;&nbsp; Automotive News",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORW0zakt6ZFFoYm9veTdCQkctRkxOdlJzNHNzOHh5R0I5R2FiS2J1VUp3Tmp6ZlNpaVBBODUyYkg1ZHFFaGRJelRNQnp1RDFlbG95bHMwQk1uS0ItOF92cFJGTk9RWWF5aDZteGNaWlBEMnpNMlA5WldqVVE0b19JRE9qaEY?oc=5",
-      "date": "Wed, 14 Oct 2026 08:54:00 GMT",
-      "source": "Google News · Automotive News",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 65,
-      "confidence_score": 78,
-      "signal_score": 59
-    },
-    {
       "id": "google-news-automotive-news-chinese-automakers-are-already-adapting-as-eu-debates-local-content-rules-automotive-news",
       "title": "Chinese automakers are already adapting as EU debates local-content rules - Automotive News",
       "summary": "Chinese automakers are already adapting as EU debates local-content rules &nbsp;&nbsp; Automotive News",
@@ -1553,82 +2009,6 @@
       "momentum_score": 41,
       "confidence_score": 78,
       "signal_score": 51
-    },
-    {
-      "id": "wired-hbo-max-promo-code-50-off-october-2026",
-      "title": "HBO Max Promo Code: 50% Off | October 2026",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/max-promo-code/",
-      "date": "Wed, 14 Oct 2026 05:00:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 66,
-      "confidence_score": 78,
-      "signal_score": 59
-    },
-    {
-      "id": "wired-uber-eats-promo-codes-15-off-october-2026",
-      "title": "Uber Eats Promo Codes: $15 Off│October 2026",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/uber-eats-promo-code/",
-      "date": "Wed, 14 Oct 2026 05:00:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 63,
-      "confidence_score": 78,
-      "signal_score": 58
-    },
-    {
-      "id": "wired-corsair-discount-code-up-to-50-off-for-october-2026",
-      "title": "Corsair Discount Code: Up to 50% Off for October 2026",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/corsair-coupon/",
-      "date": "Wed, 14 Oct 2026 05:00:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 75,
-      "confidence_score": 78,
-      "signal_score": 63
-    },
-    {
-      "id": "wired-peacock-promo-codes-40-off-october-2026",
-      "title": "Peacock Promo Codes: 40% Off October 2026",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/peacock-promo-code/",
-      "date": "Wed, 14 Oct 2026 05:00:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 82,
-      "confidence_score": 78,
-      "signal_score": 65
     },
     {
       "id": "wired-dell-coupon-codes-20-off-for-october-2026",
@@ -1688,11 +2068,11 @@
       "signal_score": 61
     },
     {
-      "id": "wired-castlery-promo-codes-15-off-for-october-2026",
-      "title": "Castlery Promo Codes: 15% Off for October 2026",
+      "id": "wired-corsair-discount-code-up-to-50-off-for-october-2026",
+      "title": "Corsair Discount Code: Up to 50% Off for October 2026",
       "summary": "Source item available; open the source for details.",
       "text": "",
-      "link": "https://www.wired.com/story/castlery-promo-code/",
+      "link": "https://www.wired.com/story/corsair-coupon/",
       "date": "Wed, 14 Oct 2026 05:00:00 +0000",
       "source": "Wired",
       "category": "TECH",
@@ -1702,9 +2082,66 @@
         "Tech"
       ],
       "novelty_score": 42,
-      "momentum_score": 59,
+      "momentum_score": 75,
       "confidence_score": 78,
-      "signal_score": 57
+      "signal_score": 63
+    },
+    {
+      "id": "wired-peacock-promo-codes-40-off-october-2026",
+      "title": "Peacock Promo Codes: 40% Off October 2026",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/peacock-promo-code/",
+      "date": "Wed, 14 Oct 2026 05:00:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 82,
+      "confidence_score": 78,
+      "signal_score": 65
+    },
+    {
+      "id": "wired-hbo-max-promo-code-50-off-october-2026",
+      "title": "HBO Max Promo Code: 50% Off | October 2026",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/max-promo-code/",
+      "date": "Wed, 14 Oct 2026 05:00:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 66,
+      "confidence_score": 78,
+      "signal_score": 59
+    },
+    {
+      "id": "wired-uber-eats-promo-codes-15-off-october-2026",
+      "title": "Uber Eats Promo Codes: $15 Off│October 2026",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/uber-eats-promo-code/",
+      "date": "Wed, 14 Oct 2026 05:00:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 63,
+      "confidence_score": 78,
+      "signal_score": 58
     },
     {
       "id": "wired-dyson-promo-codes-25-off-in-october-2026",
@@ -1745,25 +2182,6 @@
       "signal_score": 61
     },
     {
-      "id": "techcrunch-justice-department-says-north-koreans-have-infiltrated-dozens-of-us-companies",
-      "title": "Justice Department says North Koreans have infiltrated dozens of US companies",
-      "summary": "U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang.",
-      "text": "U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang.",
-      "link": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
-      "date": "Wed, 14 Oct 2026 01:30:42 +0000",
-      "source": "TechCrunch",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 78,
-      "confidence_score": 78,
-      "signal_score": 64
-    },
-    {
       "id": "google-news-bain-mobility-electric-vehicles-are-poised-to-create-a-100b-opportunity-in-india-by-2030-bain",
       "title": "Electric Vehicles Are Poised to Create a $100B+ Opportunity in India by 2030 - Bain",
       "summary": "Electric Vehicles Are Poised to Create a $100B+ Opportunity in India by 2030 &nbsp;&nbsp; Bain",
@@ -1802,13 +2220,13 @@
       "signal_score": 63
     },
     {
-      "id": "google-news-deloitte-automotive-find-jobs-us-external-careers-deloitte",
-      "title": "Find Jobs - US External Careers - Deloitte",
-      "summary": "Find Jobs - US External Careers &nbsp;&nbsp; Deloitte",
-      "text": "Find Jobs - US External Careers &nbsp;&nbsp; Deloitte",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9RdFA2YnJHdlhSZ1A0a0VZVEhYVnk1OUtGLVh1bGExNmxUMkt5SUFsR1hDcFhROWVHSjdKcGhUUnA?oc=5",
-      "date": "Wed, 08 Jul 2020 07:45:59 GMT",
-      "source": "Google News · Deloitte Automotive",
+      "id": "google-news-vehicle-connectivity-mini-gets-into-gear-with-transatel-to-drive-connected-car-services-computer-weekly",
+      "title": "Mini gets into gear with Transatel to drive connected car services - Computer Weekly",
+      "summary": "Mini gets into gear with Transatel to drive connected car services &nbsp;&nbsp; Computer Weekly",
+      "text": "Mini gets into gear with Transatel to drive connected car services &nbsp;&nbsp; Computer Weekly",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSko2TGZzaFIyb0ZyTXRta0VIWTNsU3NmODZ4OElIQlpQWVRzWGpIeF81SjhZbENGYjRKbFhQakJmOXZPbzV6dk1XNjFjMUhzbUdwbXpsWVVIR3hsSWFfYnVBQU5weFVuS3dJb2puYlg4TEEzWGRXbTJqSUNZMDNlY1N1UjhKaXRFZndqbGRkbTc5eFlJdkJaZldUWFVUd0Z1ZmtGUkZueVViZVpqWGN1d21R?oc=5",
+      "date": "Wed, 09 Jul 2025 07:00:00 GMT",
+      "source": "Google News · Vehicle Connectivity",
       "category": "AUTOMOTIVE",
       "topic": "Automotive",
       "kind_label": "RSS",
@@ -1816,9 +2234,9 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 80,
+      "momentum_score": 69,
       "confidence_score": 78,
-      "signal_score": 64
+      "signal_score": 60
     },
     {
       "id": "google-news-pwc-automotive-electric-vehicle-sales-review-q4-2024-pwc-and-strategy-pwc",
@@ -1935,25 +2353,6 @@
       "momentum_score": 53,
       "confidence_score": 78,
       "signal_score": 55
-    },
-    {
-      "id": "google-news-software-defined-vehicles-guest-commentary-learning-speed-not-technology-will-define-the-auto-industry-s-next-era-automotive-news",
-      "title": "Guest commentary: Learning speed — not technology — will define the auto industry’s next era - Automotive News",
-      "summary": "Guest commentary: Learning speed — not technology — will define the auto industry’s next era &nbsp;&nbsp; Automotive News",
-      "text": "Guest commentary: Learning speed — not technology — will define the auto industry’s next era &nbsp;&nbsp; Automotive News",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdVg4TjI2MVJ4cU5fcGNkNnZUYmktSzA3ODRiOHNwRmpzZXpya0gzRTItOU15UDQ0MUJBRTJhRlZQRy03dGd5b0JrQ0hkbm1pMWQ2OUprdlJwVTBTMFlldll0dW5ybUlQQzhWYWIzNWhKd1liUE1zMmNuaV9CM044c292TFc1bnY1d2tXX19Bdm5JeGtHa01ua0Nic3RYOFk4S0NqMk9wRGR5UQ?oc=5",
-      "date": "Wed, 07 Oct 2026 13:40:00 GMT",
-      "source": "Google News · Software-Defined Vehicles",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 72,
-      "confidence_score": 78,
-      "signal_score": 62
     },
     {
       "id": "google-news-automotive-news-stellantis-known-as-tough-on-suppliers-trying-co-location-to-improve-cost-designs-automotive-news",
@@ -2246,25 +2645,6 @@
       "signal_score": 64
     },
     {
-      "id": "google-news-sae-international-20autp04-automotive-engineering-april-2020-sae-international",
-      "title": "20AUTP04 : Automotive Engineering: April 2020 - SAE International",
-      "summary": "20AUTP04 : Automotive Engineering: April 2020 &nbsp;&nbsp; SAE International",
-      "text": "20AUTP04 : Automotive Engineering: April 2020 &nbsp;&nbsp; SAE International",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrekhYZTF1bXVzd3YyYUFkZ3R2c3Y0UV9NZVhSUktKX0xmOGpuS3NtbUhjVG5zdndsaS1HZnlGS0lMX3RKbFVwUHluUUZmMGNTUjZVR0RFeDVlV2VMdWxLelc0a1dwSEtVTzZvU2NNdDdHcU1HNW40ZmhCSkMxelE?oc=5",
-      "date": "Tue, 31 Mar 2020 07:00:00 GMT",
-      "source": "Google News · SAE International",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 68,
-      "confidence_score": 78,
-      "signal_score": 60
-    },
-    {
       "id": "google-news-bain-mobility-m-a-in-automotive-and-mobility-finding-alternative-routes-to-the-future-bain",
       "title": "M&A in Automotive and Mobility: Finding Alternative Routes to the Future - Bain",
       "summary": "M&A in Automotive and Mobility: Finding Alternative Routes to the Future &nbsp;&nbsp; Bain",
@@ -2457,12 +2837,12 @@
       "signal_score": 59
     },
     {
-      "id": "google-news-mckinsey-automotive-what-promise-does-v2x-hold-for-fleets-mckinsey-company",
-      "title": "What promise does V2X hold for fleets? - McKinsey & Company",
-      "summary": "What promise does V2X hold for fleets? &nbsp;&nbsp; McKinsey & Company",
-      "text": "What promise does V2X hold for fleets? &nbsp;&nbsp; McKinsey & Company",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdUdRUGVaWlRQcHJEQjRyWGdoa3JfMGVxLXhoZl9WZUI4YzJ1MEVJM0dnc0tpMkJBUGUwMVlNZlViOHNrOUlZdGxnQzlwWHVFbGMtdkw0R1pRMVVoVFpzbF9YTUQtRW5IYmNJWW8wNFphQ2djeDFjLUphZlltaDhOOUF3T3QtbUc1elF5R3RKTFFOMjM5b3ZjY1BnejQ1alUtTDMwdEprYjJNbnhabFVn?oc=5",
-      "date": "Tue, 29 Aug 2023 07:00:00 GMT",
+      "id": "google-news-mckinsey-automotive-spotlight-on-mobility-trends-mckinsey-company",
+      "title": "Spotlight on mobility trends - McKinsey & Company",
+      "summary": "Spotlight on mobility trends &nbsp;&nbsp; McKinsey & Company",
+      "text": "Spotlight on mobility trends &nbsp;&nbsp; McKinsey & Company",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPcFFMWC1CbzlsVmNrcWV5aXhNZHBmR3pJSmlsMnNmQmdXYlZ0bjRrRzVtY3lQZnNVR0g0UjNVVmdDVnZSa25UazJLU2N3YWRtSmdma3g4TzBkV0xsOVljbGg2aTBVYjRYNWpCbWRHa3hPSy1EbEpfMDd3Ym1ON1RxUGVDdldLNGM4Q2IzNEZ0MHJ1Ql9SUVBGLUZHVWVRZkpWX09zSmdrYTZOeXRSTk11UW9kWjJrZmhpcEVRN29HbWIyRzgzMU1ibGIybjRiLUtYXzI4UXFQVU9STVNVVmgtRVVFVFA5MDhvQzBwNGdVRXNHdFp3QUxpQU9TeWFTdkROdkFSUGZIeEgwc0tKSVY0THZyOA?oc=5",
+      "date": "Tue, 29 Apr 2025 20:17:48 GMT",
       "source": "Google News · McKinsey Automotive",
       "category": "AUTOMOTIVE",
       "topic": "Automotive",
@@ -2471,9 +2851,28 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 44,
+      "momentum_score": 60,
       "confidence_score": 78,
-      "signal_score": 52
+      "signal_score": 57
+    },
+    {
+      "id": "google-news-deloitte-automotive-electric-vehicles-deloitte",
+      "title": "Electric vehicles - Deloitte",
+      "summary": "Electric vehicles &nbsp;&nbsp; Deloitte",
+      "text": "Electric vehicles &nbsp;&nbsp; Deloitte",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUlB3YWlqRmNKTGMtNkphdXY3aWFlT0NyeHMzZU12X0NuckJkVGRHTm41Z0xSd0VDVDFGWkg5VlVleGRTQ2tDQm5IenVzUTY0ZVRlS1k0RE1XS2NMajVYNl9ucElNLTRZUGpZa0tHN0R0VlRBVEVzem1WTTRDLXI0cVVQRW1FMmJKa1RzMU91dzM1eF9ORUdGdWdXdnoxUFhSSEpjZ0ZB?oc=5",
+      "date": "Tue, 28 Jul 2020 07:00:00 GMT",
+      "source": "Google News · Deloitte Automotive",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 74,
+      "confidence_score": 78,
+      "signal_score": 62
     },
     {
       "id": "google-news-deloitte-automotive-2023-global-automotive-consumer-study-deloitte",
@@ -2531,6 +2930,25 @@
       "momentum_score": 40,
       "confidence_score": 78,
       "signal_score": 50
+    },
+    {
+      "id": "google-news-mckinsey-automotive-what-is-an-ev-mckinsey-company",
+      "title": "What is an EV? - McKinsey & Company",
+      "summary": "What is an EV? &nbsp;&nbsp; McKinsey & Company",
+      "text": "What is an EV? &nbsp;&nbsp; McKinsey & Company",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcm85SHMzdWVYNHNNR0NXZ1BJZjl3QmdWbVdvckUzV2lKWDQ0dVJLbGJfYUhWT3JPQ3B0N2hxV2tYLUVnTDB0ZW1xNUE0NXNNRk9wcWVjMEx3VDFmYy1HanNTcE51SmNMSHNGdHFlZDJBdDFFSThWeVo4TlFrYmpWeGtn?oc=5",
+      "date": "Tue, 24 Jun 2025 07:00:00 GMT",
+      "source": "Google News · McKinsey Automotive",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 75,
+      "confidence_score": 78,
+      "signal_score": 63
     },
     {
       "id": "google-news-automotive-cybersecurity-automotive-testing-inspection-and-certification-tic-market-accelerates-as-ev-and-cybersecurity-compliance-expands",
@@ -2729,25 +3147,6 @@
       "signal_score": 65
     },
     {
-      "id": "google-news-deloitte-automotive-motor-vehicle-fbt-reform-a-new-road-map-for-employers-deloitte-new-zealand-deloitte",
-      "title": "Motor vehicle FBT reform: a new road map for employers | Deloitte New Zealand - Deloitte",
-      "summary": "Motor vehicle FBT reform: a new road map for employers | Deloitte New Zealand &nbsp;&nbsp; Deloitte",
-      "text": "Motor vehicle FBT reform: a new road map for employers | Deloitte New Zealand &nbsp;&nbsp; Deloitte",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcXRaTTJIQVcteTBEdlVOZzhFU0NsdmNCa2RzbS1tVlVveGpsR2N3RkVsX3ZIU192aFZ0cDBCYVFweUh6Z05BR29QS1RmZ1QtRlhCOURSSEM0anczVGVGRG5Ob1RzU2VnVVBVLXJkU0h1Znl0WnZOclI5amJNTU96bEZMT2w0SFVQUnoxS2ZVVm5Mb043bnFXWG9UTHduamlUU2IwWlpXZ3FWZm9qMG14azhGb2FBdw?oc=5",
-      "date": "Tue, 22 Sep 2026 07:00:00 GMT",
-      "source": "Google News · Deloitte Automotive",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 40,
-      "confidence_score": 78,
-      "signal_score": 50
-    },
-    {
       "id": "mit-news-engineering-mit-named-the-nation-s-top-university-by-u-s-news-for-2026-27",
       "title": "MIT named the nation’s top university by U.S. News for 2026-27",
       "summary": "The Institute’s undergraduate engineering, computer science, and economics programs are No. 1; its business program is No. 2.",
@@ -2765,6 +3164,25 @@
       "momentum_score": 57,
       "confidence_score": 78,
       "signal_score": 56
+    },
+    {
+      "id": "google-news-mckinsey-automotive-new-twists-in-the-electric-vehicle-transition-a-consumer-perspective-mckinsey-company",
+      "title": "New twists in the electric-vehicle transition: A consumer perspective - McKinsey & Company",
+      "summary": "New twists in the electric-vehicle transition: A consumer perspective &nbsp;&nbsp; McKinsey & Company",
+      "text": "New twists in the electric-vehicle transition: A consumer perspective &nbsp;&nbsp; McKinsey & Company",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNYnJkcThva0NRMkxZa2tuSW1WZWZZQVpOQURTTnJPLXB3NThieHlMS1NEYlJlZmJtcS1SOXdCY29STDcxRWJEZERkcUkxSHlaYTVROGFTNXBPakhOekdYa1VObGhydmN5MkstcVB0bXFCLVdnWUhPX2wyd2trVkpmeUdLaTdJXzl3b2Jka0VuaXNzWk00MWx2cDIxaWVhMWg4WGNPRC1qdlJzaXJDN0htd20yLVhYQTE1WFV3RHB2R0hjcGdwbGU2VjRjQlRVVVpSSlBrYkhQYnFxVnVhRjhLR1pkd1ZSZw?oc=5",
+      "date": "Tue, 22 Apr 2025 07:00:00 GMT",
+      "source": "Google News · McKinsey Automotive",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 62,
+      "confidence_score": 78,
+      "signal_score": 58
     },
     {
       "id": "google-news-bain-mobility-china-is-now-driving-the-global-electric-vehicle-transition-bain",
@@ -2962,6 +3380,25 @@
       "signal_score": 60
     },
     {
+      "id": "google-news-mckinsey-automotive-mckinsey-technology-trends-outlook-2026-mckinsey-company",
+      "title": "McKinsey Technology Trends Outlook 2026 - McKinsey & Company",
+      "summary": "McKinsey Technology Trends Outlook 2026 &nbsp;&nbsp; McKinsey & Company",
+      "text": "McKinsey Technology Trends Outlook 2026 &nbsp;&nbsp; McKinsey & Company",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS0wzb1RmNmZPeVB4QjdSZTVmcmxMVUwyT2pSYVliQVQwZ25mUFpoWlFXdGFpWnNJLVdmMncwc0twU2pxSmplU2k0WGFuRWlIT1BFQ1FzWVlCbWc2MWpzamF0LU51NVBSNURBeWhUN0VxYlA1VjMzUk16eHlBQlJ2R3F2TXAzaW9SczJId2hn?oc=5",
+      "date": "Tue, 15 Sep 2026 07:00:00 GMT",
+      "source": "Google News · McKinsey Automotive",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 75,
+      "confidence_score": 78,
+      "signal_score": 63
+    },
+    {
       "id": "google-news-pwc-automotive-automotive-industry-publications-pwc",
       "title": "Automotive industry publications - PwC",
       "summary": "Automotive industry publications &nbsp;&nbsp; PwC",
@@ -3000,26 +3437,6 @@
       "signal_score": 56
     },
     {
-      "id": "google-news-deloitte-automotive-the-road-ahead-autonomous-vehicle-manufacturing-and-adoption-in-the-gcc-deloitte",
-      "title": "The road ahead: Autonomous vehicle manufacturing and adoption in the GCC - Deloitte",
-      "summary": "The road ahead: Autonomous vehicle manufacturing and adoption in the GCC &nbsp;&nbsp; Deloitte",
-      "text": "The road ahead: Autonomous vehicle manufacturing and adoption in the GCC &nbsp;&nbsp; Deloitte",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQVjdFNlZ3VXROZjFEeTRVbHJpZDcyeTRLcTA0S3gwSklNTVVVa1dTd1MzTG9ZLXFMSWhRMjJkTi0wdzd0amV6dHZRX3FCTldyVDlQZzRCZ1poc0JNbFRqQmVGcGxWNXNEOFJnNW5GcGFuMktaMWx4ZmdfWnlMMEo1RjdScHItbjdWdGdEdUZobkt2MF90MXk4WEJyNnVabkVnMFhsU1YteG9oU3BNazFjei1Gb21Hc21JY3NYdWxJaXFkRHg4WWFOT2M1QU9JZzN2UUhYZ09DS2h5NWxGWTBNRDF1UGNoQ0dnejQyNGpkRGI1enJjelQtM3VB?oc=5",
-      "date": "Tue, 15 Apr 2025 07:12:44 GMT",
-      "source": "Google News · Deloitte Automotive",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive",
-        "Control"
-      ],
-      "novelty_score": 49,
-      "momentum_score": 72,
-      "confidence_score": 78,
-      "signal_score": 64
-    },
-    {
       "id": "google-news-deloitte-automotive-consumers-weigh-ev-benefits-against-practical-challenges-factors-such-as-charging-time-infrastructure-availability-and",
       "title": "Consumers weigh EV benefits against practical challenges. Factors such as charging time, infrastructure availability and battery safety remain key considerations in EV adoption - Deloitte",
       "summary": "Consumers weigh EV benefits against practical challenges. Factors such as charging time, infrastructure availability and battery safety remain key considerations in EV adoption &nbsp;&nbsp; Deloitte",
@@ -3040,83 +3457,6 @@
       "signal_score": 57
     },
     {
-      "id": "google-news-mckinsey-automotive-how-consumers-are-reshaping-the-future-of-mobility-mckinsey-company",
-      "title": "How consumers are reshaping the future of mobility - McKinsey & Company",
-      "summary": "How consumers are reshaping the future of mobility &nbsp;&nbsp; McKinsey & Company",
-      "text": "How consumers are reshaping the future of mobility &nbsp;&nbsp; McKinsey & Company",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObUlqZmo0aDZvWktVQ1c1SFJPd2RQcTVFbzJWVnMySzU0dERPbERia2FNbFdNZ0FDaXJBOTRpNGVSejlheVVCd2RKOTh1eTBGbFRVYUt1anh1N2xaU1NvZ0w0M3hNSUQxZWVhbUlKYllrb2I3OW5sT3ZjZ29QalV6d0hLMTJ6YU5Wb09EdU1jVVFoV0h0YkkxV0pWMmQ5TkN5eFlNUDY3YVpKamdCMnRWVExIaXNlZERCclZDRTQ0WmlXR0xVSWxERGRVd2JuQQ?oc=5",
-      "date": "Tue, 14 Jul 2026 07:00:00 GMT",
-      "source": "Google News · McKinsey Automotive",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 70,
-      "confidence_score": 78,
-      "signal_score": 61
-    },
-    {
-      "id": "techcrunch-science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient",
-      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-      "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
-      "text": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
-      "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-      "date": "Tue, 13 Oct 2026 23:13:31 +0000",
-      "source": "TechCrunch",
-      "category": "TECH",
-      "topic": "Semiconductors",
-      "kind_label": "RSS",
-      "tags": [
-        "AI",
-        "Semiconductors"
-      ],
-      "novelty_score": 49,
-      "momentum_score": 69,
-      "confidence_score": 78,
-      "signal_score": 63
-    },
-    {
-      "id": "techcrunch-cerebras-ceo-says-we-re-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home",
-      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-      "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
-      "text": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
-      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-      "date": "Tue, 13 Oct 2026 23:05:34 +0000",
-      "source": "TechCrunch",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 73,
-      "confidence_score": 78,
-      "signal_score": 62
-    },
-    {
-      "id": "techcrunch-industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks",
-      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-      "summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
-      "text": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
-      "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
-      "date": "Tue, 13 Oct 2026 23:00:00 +0000",
-      "source": "TechCrunch",
-      "category": "TECH",
-      "topic": "Robotics",
-      "kind_label": "RSS",
-      "tags": [
-        "Robotics"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 42,
-      "confidence_score": 78,
-      "signal_score": 51
-    },
-    {
       "id": "ars-technica-martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says",
       "title": "Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says",
       "summary": "\"I can always find a couple of biotech stocks to smoke,\" Shkreli said in a livestream.",
@@ -3134,25 +3474,6 @@
       "momentum_score": 49,
       "confidence_score": 78,
       "signal_score": 53
-    },
-    {
-      "id": "techcrunch-cerebras-ceo-pushes-back-on-ai-doomsday-warnings",
-      "title": "Cerebras CEO pushes back on AI doomsday warnings",
-      "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
-      "text": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
-      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
-      "date": "Tue, 13 Oct 2026 22:36:59 +0000",
-      "source": "TechCrunch",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 77,
-      "confidence_score": 78,
-      "signal_score": 63
     },
     {
       "id": "google-news-automotive-news-uaw-members-reelect-president-shawn-fain-as-rich-contracts-overshadow-controversies-automotive-news",
@@ -3231,63 +3552,6 @@
       "signal_score": 65
     },
     {
-      "id": "techcrunch-helix-carbon-says-it-can-make-iron-cheaper-by-recycling-blast-furnace-pollution",
-      "title": "Helix Carbon says it can make iron cheaper by recycling blast furnace pollution",
-      "summary": "The steel industry is a big polluter, but Helix Carbon can upcycle pollution from blast furnaces to drive down emissions and improve margins.",
-      "text": "The steel industry is a big polluter, but Helix Carbon can upcycle pollution from blast furnaces to drive down emissions and improve margins.",
-      "link": "https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/",
-      "date": "Tue, 13 Oct 2026 21:15:00 +0000",
-      "source": "TechCrunch",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 67,
-      "confidence_score": 78,
-      "signal_score": 60
-    },
-    {
-      "id": "techcrunch-fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room",
-      "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
-      "summary": "It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to \"capture sensitive communications about the company’s super intelligence technology.\"",
-      "text": "It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to \"capture sensitive communications about the company’s super intelligence technology.\"",
-      "link": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
-      "date": "Tue, 13 Oct 2026 20:59:11 +0000",
-      "source": "TechCrunch",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 73,
-      "confidence_score": 78,
-      "signal_score": 62
-    },
-    {
-      "id": "techcrunch-judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case",
-      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-      "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
-      "text": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
-      "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-      "date": "Tue, 13 Oct 2026 20:36:44 +0000",
-      "source": "TechCrunch",
-      "category": "TECH",
-      "topic": "Materials",
-      "kind_label": "RSS",
-      "tags": [
-        "Materials"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 80,
-      "confidence_score": 78,
-      "signal_score": 64
-    },
-    {
       "id": "ars-technica-trump-commercial-railing-against-his-enemies-kept-airing-after-court-blocked-it",
       "title": "Trump commercial railing against his enemies kept airing after court blocked it",
       "summary": "US attorney apologized to court, said government has stopped running Trump ads.",
@@ -3324,63 +3588,6 @@
       "momentum_score": 58,
       "confidence_score": 78,
       "signal_score": 57
-    },
-    {
-      "id": "ars-technica-skydance-s-discovery-prices-increase-by-up-to-20-percent",
-      "title": "Skydance’s Discovery+ prices increase by up to 20 percent",
-      "summary": "The higher prices are said to be unrelated to the Skydance merger.",
-      "text": "The higher prices are said to be unrelated to the Skydance merger.",
-      "link": "https://arstechnica.com/gadgets/2026/10/skydances-discovery-prices-increase-by-up-to-20-percent/",
-      "date": "Tue, 13 Oct 2026 18:06:06 +0000",
-      "source": "Ars Technica",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 66,
-      "confidence_score": 78,
-      "signal_score": 59
-    },
-    {
-      "id": "ars-technica-the-paris-auto-show-is-full-of-interesting-cars-americans-can-t-have",
-      "title": "The Paris Auto Show is full of interesting cars Americans can’t have",
-      "summary": "Small EVs and efficient people carriers update familiar names for the modern age.",
-      "text": "Small EVs and efficient people carriers update familiar names for the modern age.",
-      "link": "https://arstechnica.com/cars/2026/10/europe-shows-a-better-alternative-to-big-suvs-at-the-paris-auto-show/",
-      "date": "Tue, 13 Oct 2026 17:33:20 +0000",
-      "source": "Ars Technica",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 79,
-      "confidence_score": 78,
-      "signal_score": 64
-    },
-    {
-      "id": "ars-technica-google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store",
-      "title": "Google wants to host your personal vibe-coded apps in the Play Store",
-      "summary": "Google plans to help turn those personal AI-generated apps into wide releases.",
-      "text": "Google plans to help turn those personal AI-generated apps into wide releases.",
-      "link": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/",
-      "date": "Tue, 13 Oct 2026 17:00:39 +0000",
-      "source": "Ars Technica",
-      "category": "TECH",
-      "topic": "Healthcare",
-      "kind_label": "RSS",
-      "tags": [
-        "Biotech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 63,
-      "confidence_score": 78,
-      "signal_score": 58
     },
     {
       "id": "mit-news-research-how-artificial-neural-networks-build-their-own-learning-machinery",
@@ -3422,44 +3629,6 @@
       "signal_score": 68
     },
     {
-      "id": "ars-technica-gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay",
-      "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
-      "summary": "Developers will get 50 percent discounted API rates through November.",
-      "text": "Developers will get 50 percent discounted API rates through November.",
-      "link": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/",
-      "date": "Tue, 13 Oct 2026 16:00:02 +0000",
-      "source": "Ars Technica",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 65,
-      "confidence_score": 78,
-      "signal_score": 59
-    },
-    {
-      "id": "ars-technica-apple-s-first-smart-display-is-the-7-inch-homeview-for-299",
-      "title": "Apple’s first smart display is the 7-inch HomeView for $299",
-      "summary": "It can recognize up to six users with its camera.",
-      "text": "It can recognize up to six users with its camera.",
-      "link": "https://arstechnica.com/apple/2026/10/apple-homeview-smart-home-hub-opens-for-preorders-at-299/",
-      "date": "Tue, 13 Oct 2026 15:29:17 +0000",
-      "source": "Ars Technica",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 80,
-      "confidence_score": 78,
-      "signal_score": 64
-    },
-    {
       "id": "google-news-automotive-news-tesla-pauses-canadian-sales-of-china-built-model-3-after-exhausting-import-quota-automotive-news",
       "title": "Tesla pauses Canadian sales of China-built Model 3 after ‘exhausting’ import quota - Automotive News",
       "summary": "Tesla pauses Canadian sales of China-built Model 3 after ‘exhausting’ import quota &nbsp;&nbsp; Automotive News",
@@ -3477,44 +3646,6 @@
       "momentum_score": 61,
       "confidence_score": 78,
       "signal_score": 58
-    },
-    {
-      "id": "ars-technica-they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think",
-      "title": "They war-gamed dimming the Sun. It went even worse than you think.",
-      "summary": "Solar geoengineering simulation shows what happens when geopolitics takes over.",
-      "text": "Solar geoengineering simulation shows what happens when geopolitics takes over.",
-      "link": "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
-      "date": "Tue, 13 Oct 2026 15:17:59 +0000",
-      "source": "Ars Technica",
-      "category": "TECH",
-      "topic": "Energy",
-      "kind_label": "RSS",
-      "tags": [
-        "Energy"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 78,
-      "confidence_score": 78,
-      "signal_score": 64
-    },
-    {
-      "id": "ars-technica-high-speed-video-reveals-how-honey-bee-stingers-pump-venom",
-      "title": "High-speed video reveals how honey bee stingers pump venom",
-      "summary": "Co-author: “The unique geometry of the valves is the key; they act as collapsible pistons\" to deliver venom.",
-      "text": "Co-author: “The unique geometry of the valves is the key; they act as collapsible pistons\" to deliver venom.",
-      "link": "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/",
-      "date": "Tue, 13 Oct 2026 13:03:45 +0000",
-      "source": "Ars Technica",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 57,
-      "confidence_score": 78,
-      "signal_score": 56
     },
     {
       "id": "mit-technology-review-ai-the-download-open-model-trade-offs-and-geothermal-power-s-promise",
@@ -3727,6 +3858,25 @@
       "signal_score": 56
     },
     {
+      "id": "google-news-mckinsey-automotive-spotlight-on-mobility-trends-mckinsey-company",
+      "title": "Spotlight on mobility trends - McKinsey & Company",
+      "summary": "Spotlight on mobility trends &nbsp;&nbsp; McKinsey & Company",
+      "text": "Spotlight on mobility trends &nbsp;&nbsp; McKinsey & Company",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY0ZFSkc3NWNXZEFpdHptekVwUnExd1lNa09aZ0F4eWQ4N1ZPYndZZjRPN3UxUEx2U0Nlekx3ZmliRjNKZ1RwbXZrN2RsbDFSZmhwOUttLVpTWnZYa3QwRGZGQU5MYmRrdGpDaTdkOVpLQnpQR0ExZkIzUEVBRHJHMkkyckVZampzcEQzQnpJYjAyQ09OVWl1Z2dYZEVxcThVZWJv?oc=5",
+      "date": "Tue, 12 Mar 2024 07:00:00 GMT",
+      "source": "Google News · McKinsey Automotive",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 60,
+      "confidence_score": 78,
+      "signal_score": 57
+    },
+    {
       "id": "google-news-bcg-automotive-the-future-of-buses-and-light-commercial-vehicles-is-electric-with-cost-parity-just-around-the-corner-boston-consulting-gro",
       "title": "The Future of Buses and Light Commercial Vehicles Is Electric – With Cost Parity Just Around the Corner - Boston Consulting Group",
       "summary": "The Future of Buses and Light Commercial Vehicles Is Electric – With Cost Parity Just Around the Corner &nbsp;&nbsp; Boston Consulting Group",
@@ -3744,6 +3894,25 @@
       "momentum_score": 80,
       "confidence_score": 78,
       "signal_score": 64
+    },
+    {
+      "id": "google-news-deloitte-automotive-accelerating-the-drive-toward-a-more-sustainable-automotive-industry-deloitte",
+      "title": "Accelerating the Drive Toward a More-Sustainable Automotive Industry - Deloitte",
+      "summary": "Accelerating the Drive Toward a More-Sustainable Automotive Industry &nbsp;&nbsp; Deloitte",
+      "text": "Accelerating the Drive Toward a More-Sustainable Automotive Industry &nbsp;&nbsp; Deloitte",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZjF6M3JpMjRPSVktMFNVdmVVYWxpdG00eDVfNTZBUllnaWJxSFVxYUVVblpoZkRWZ3AzRmRoS2tJZVhwUGI2ekg1ZHgtY0VXNXlDOWM2ZXdIOUJlQVZzc1RtMEwwd256UlFjSFBXRHVDZkpMcmlSU2JWbXNXdVZSaUhIOFFuY2I0LVk5TlFBQUFScnhVekNZdUFLN0d1dmhyVHN6UmFNRU1oTXgxbEhPdHA4TG0wNktuLUpXSXBWNVBKWnFaMDNZ?oc=5",
+      "date": "Tue, 11 Nov 2025 20:56:01 GMT",
+      "source": "Google News · Deloitte Automotive",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 75,
+      "confidence_score": 78,
+      "signal_score": 63
     },
     {
       "id": "google-news-deloitte-automotive-2024-global-automotive-consumer-study-deloitte",
@@ -3804,25 +3973,6 @@
       "signal_score": 64
     },
     {
-      "id": "google-news-mckinsey-automotive-exploring-consumer-sentiment-on-electric-vehicle-charging-mckinsey-company",
-      "title": "Exploring consumer sentiment on electric-vehicle charging - McKinsey & Company",
-      "summary": "Exploring consumer sentiment on electric-vehicle charging &nbsp;&nbsp; McKinsey & Company",
-      "text": "Exploring consumer sentiment on electric-vehicle charging &nbsp;&nbsp; McKinsey & Company",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQS0pyZ0kyU1ZJQ2ltV053dDlSMmlQNWJVLWozdUYxSkZ2bFlZZERwTzQyY3JnSnhpbFRpRHlYTy15bTM0NmpYUE1aRjVVRWtYaExwemVUZU1ISl9rZXdodFRKaHlvVzROZDZSWU5LVmxYX2RlYlVqUmlnem9zQkhra0RGY1FKR0RRRnNDaFI5MGZlN0x1SkxXeHNFRFFJQ1FacThHbHcwRlRGbGpnT2g2NTNYYmxtVGlUelVYS01yLTRqR1VSM1NWMGZYd3hlZ1lZbHlkV3hUOA?oc=5",
-      "date": "Tue, 09 Jan 2024 08:00:00 GMT",
-      "source": "Google News · McKinsey Automotive",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 81,
-      "confidence_score": 78,
-      "signal_score": 65
-    },
-    {
       "id": "google-news-sae-technical-papers-research-on-occupant-injury-prediction-method-of-vehicle-emergency-call-system-based-on-machine-learning-sae-mobilus",
       "title": "Research on Occupant Injury Prediction Method of Vehicle Emergency Call System Based on Machine Learning - SAE Mobilus",
       "summary": "Research on Occupant Injury Prediction Method of Vehicle Emergency Call System Based on Machine Learning &nbsp;&nbsp; SAE Mobilus",
@@ -3877,6 +4027,25 @@
       ],
       "novelty_score": 42,
       "momentum_score": 43,
+      "confidence_score": 78,
+      "signal_score": 51
+    },
+    {
+      "id": "google-news-mckinsey-automotive-why-the-automotive-future-is-electric-mckinsey-company",
+      "title": "Why the automotive future is electric - McKinsey & Company",
+      "summary": "Why the automotive future is electric &nbsp;&nbsp; McKinsey & Company",
+      "text": "Why the automotive future is electric &nbsp;&nbsp; McKinsey & Company",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTkh1Vzl3UERxSXRBbHZrWi1wNVpFOTN3TldFam9sdExVbW1aSUJIbl9lUHVYWlFZaDY5QWR5TmZkbVkzUWRXLVBvNHpKZUltTmlUSHRhSHRCWDE3YWJoWGxLeHNwdEJtNjRuaU9jSHFidEIxVkxWM05WazY3YjlTLVc5SXMyblZyTVVnYVNNX1FweGI1LXFhdVZNN1M2ZlhvMDhjTVFVQkg5WEYzZno0?oc=5",
+      "date": "Tue, 07 Sep 2021 07:00:00 GMT",
+      "source": "Google News · McKinsey Automotive",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 41,
       "confidence_score": 78,
       "signal_score": 51
     },
@@ -4115,25 +4284,6 @@
       "signal_score": 60
     },
     {
-      "id": "google-news-mckinsey-automotive-how-charging-in-buildings-can-power-up-the-electric-vehicle-industry-mckinsey-company",
-      "title": "How charging in buildings can power up the electric-vehicle industry - McKinsey & Company",
-      "summary": "How charging in buildings can power up the electric-vehicle industry &nbsp;&nbsp; McKinsey & Company",
-      "text": "How charging in buildings can power up the electric-vehicle industry &nbsp;&nbsp; McKinsey & Company",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUW9MbGF6Skk2c19LVlFmTXE1bTNocmNzYm01M0cxLURORkFsT0MwQ1pBTV9MZHpONUZZeG9aUTRZVU53YjFsaVBYZ1ltb3JfQUwyNmhLUTFsX1NrdnNPdGJjOWU4SnFBclZURWxIWVZZSmZONy1adEQ1VzczQS1mSzRZdkRRLTkwWkUzOTVLZThmb1lVRVAyOXEyQm8tVk5RUUR5NHVNNUw0RE1hdDZTOFR3dHNXTlNKWU9mVUNpQWVGbzIzRmxEUVhnVHBpemJ5YzFGWE1UalhxWTBPajRsLUV3?oc=5",
-      "date": "Tue, 05 Jan 2021 08:00:00 GMT",
-      "source": "Google News · McKinsey Automotive",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 62,
-      "confidence_score": 78,
-      "signal_score": 58
-    },
-    {
       "id": "google-news-bcg-automotive-car-buyers-shift-gears-five-trends-reshaping-the-global-auto-industry-boston-consulting-group",
       "title": "Car Buyers Shift Gears: Five Trends Reshaping the Global Auto Industry - Boston Consulting Group",
       "summary": "Car Buyers Shift Gears: Five Trends Reshaping the Global Auto Industry &nbsp;&nbsp; Boston Consulting Group",
@@ -4268,25 +4418,6 @@
       "momentum_score": 55,
       "confidence_score": 78,
       "signal_score": 56
-    },
-    {
-      "id": "google-news-mckinsey-automotive-capturing-growth-in-asia-s-emerging-ev-ecosystem-mckinsey-company",
-      "title": "Capturing growth in Asia’s emerging EV ecosystem - McKinsey & Company",
-      "summary": "Capturing growth in Asia’s emerging EV ecosystem &nbsp;&nbsp; McKinsey & Company",
-      "text": "Capturing growth in Asia’s emerging EV ecosystem &nbsp;&nbsp; McKinsey & Company",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcVZYWXM4b1J1U3R2T3FtTW02LWFUenItaWQ3ZzRCc1dSWXVfeXlvMk1Bc0pOTTVRV09Rakt0VUNkWXM2Y2l2RWk2YWtLQk1QUnhETUF3dVAyRldUeTg1R0g0UzkxR1pmZDlqVHJvck03bFl3YVctNjVQdTl3Q1RzemEtY3loREw5d1VMQ3dzaFpqZ2tZTDRDUERtcDNib01TTXpIaklhLWk?oc=5",
-      "date": "Thu, 30 Jun 2022 07:00:00 GMT",
-      "source": "Google News · McKinsey Automotive",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 62,
-      "confidence_score": 78,
-      "signal_score": 58
     },
     {
       "id": "mit-news-autonomous-vehicles-daniela-rus-receives-bavarian-minister-president-s-high-tech-prize",
@@ -4424,6 +4555,25 @@
       "momentum_score": 61,
       "confidence_score": 78,
       "signal_score": 58
+    },
+    {
+      "id": "google-news-sae-technical-papers-r-570-electric-vehicles-theory-and-design-reference-sae-mobilus",
+      "title": "R-570: Electric Vehicles: Theory and Design - Reference - SAE Mobilus",
+      "summary": "R-570: Electric Vehicles: Theory and Design - Reference &nbsp;&nbsp; SAE Mobilus",
+      "text": "R-570: Electric Vehicles: Theory and Design - Reference &nbsp;&nbsp; SAE Mobilus",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xV3hXUWZMWUcwYkFJcmJFU2hTWXdNQzlBalF5My1IcnhwN0h4YWkwMVVneWlwSmFEUms5SkRWQXZIVEZiTDQxMWk0X1hLeW56czA5dDR5R1kzMFkyZlMzd0FtVWFGTkVtRlptUzBnY3hHZ2YtdDRzODlB?oc=5",
+      "date": "Thu, 25 Jul 2024 07:00:00 GMT",
+      "source": "Google News · SAE Technical Papers",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 42,
+      "confidence_score": 78,
+      "signal_score": 51
     },
     {
       "id": "mit-news-electric-vehicles-the-mit-edgerton-center-s-third-annual-showcase-dazzles-onlookers",
@@ -4695,25 +4845,6 @@
       "signal_score": 64
     },
     {
-      "id": "google-news-mckinsey-automotive-the-future-of-mobility-is-at-our-doorstep-mckinsey-company",
-      "title": "The future of mobility is at our doorstep - McKinsey & Company",
-      "summary": "The future of mobility is at our doorstep &nbsp;&nbsp; McKinsey & Company",
-      "text": "The future of mobility is at our doorstep &nbsp;&nbsp; McKinsey & Company",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWjNiblNKY1lUTnFhVlVaTlExTTlyNkNwemhfNGhOcUJiWnZYRDN3cTFOblhEc0VwWHJ2N203Z3c0cUVuM01xaUhDV3R4ODg0T0dGaGRHbnl0SmZyX0M2cHk1TDZXZ3dUYkhmRGFvR0hFYzVCS2ZVZjhNblktbUIyYVplVmQtNkhwWGdLWk44LUhCbE1hb09uYndET2lQZzdEalpzNGZFZVZxckdrZElLaHdKckY?oc=5",
-      "date": "Thu, 19 Dec 2019 08:00:00 GMT",
-      "source": "Google News · McKinsey Automotive",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 61,
-      "confidence_score": 78,
-      "signal_score": 58
-    },
-    {
       "id": "google-news-university-automotive-research-automotive-engineering-services-market-companies-size-trends-2026-2035-precedence-research",
       "title": "Automotive Engineering Services Market Companies, Size & Trends 2026-2035 - Precedence Research",
       "summary": "Automotive Engineering Services Market Companies, Size & Trends 2026-2035 &nbsp;&nbsp; Precedence Research",
@@ -4864,6 +4995,25 @@
       "momentum_score": 84,
       "confidence_score": 78,
       "signal_score": 66
+    },
+    {
+      "id": "google-news-university-automotive-research-intelligent-ground-vehicle-competition-returns-to-oakland-university-with-new-honors-expanded-challenges-oa",
+      "title": "Intelligent Ground Vehicle Competition returns to Oakland University with new honors, expanded challenges - Oakland University",
+      "summary": "Intelligent Ground Vehicle Competition returns to Oakland University with new honors, expanded challenges &nbsp;&nbsp; Oakland University",
+      "text": "Intelligent Ground Vehicle Competition returns to Oakland University with new honors, expanded challenges &nbsp;&nbsp; Oakland University",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRzZlVENaUmpJcTU0WEpGellFOGhCS2pTMV9oOW5SU2RkYXprM1lEb0NnclVwQmMyQmRkYTlHREk2SFlDSjktaFdKMXE2M0I5c3FMRTVObDJEeGhhQ1pDdzJMVEpzMjNPM1VQTDNibUFPUDdzWlNrdDVqd3BLVWJpUE1pU0NtSGlqSThTMXFsamt1cWRrYm5xZW5Xbi1FMnlhZmJQc0JlbnNRWWZGaUpJSEhQSjdpdGF5cDgxbE5TSklYam9xOWdjUFA3ZEZ1V2pLOFo5Rk4yS0ZQRnBWLWFlTE9B?oc=5",
+      "date": "Thu, 14 May 2026 07:00:00 GMT",
+      "source": "Google News · University Automotive Research",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 44,
+      "confidence_score": 78,
+      "signal_score": 52
     },
     {
       "id": "google-news-pwc-automotive-electric-vehicle-sales-review-q2-2025-pwc-and-strategy-pwc",
@@ -5057,25 +5207,6 @@
       "momentum_score": 76,
       "confidence_score": 78,
       "signal_score": 63
-    },
-    {
-      "id": "google-news-sae-technical-papers-impact-analysis-of-cyberattacks-in-electric-propulsion-systems-for-hybrid-tracked-vehicles-sae-mobilus",
-      "title": "Impact Analysis of Cyberattacks in Electric Propulsion Systems for Hybrid Tracked Vehicles - SAE Mobilus",
-      "summary": "Impact Analysis of Cyberattacks in Electric Propulsion Systems for Hybrid Tracked Vehicles &nbsp;&nbsp; SAE Mobilus",
-      "text": "Impact Analysis of Cyberattacks in Electric Propulsion Systems for Hybrid Tracked Vehicles &nbsp;&nbsp; SAE Mobilus",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZks1MlVZZUp2TFhMOWpUcjJobXBTaDNDTlA1N0VJaXZGWGx3MlF1TWJOZG0wTDk0NTh1TUJsU2k5WlJqdV9wX2ROLWZaN0tWV2R6X1dhdHdId3ZZTWxsRmtYTlduYkEwVjB3Z3pzX053dlJYTXR6N0g3TEw4TzRTcTRzbV9QSWo4c1ltTDZtQm5FWXVJYkJkaXdjc1BWV2RIZTc2MTN2Wnh4ZjZISGxpQkZBdlFablZhMVV3R2wyVS1IbHdCUUpHWU9mOA?oc=5",
-      "date": "Thu, 10 Aug 2023 07:00:00 GMT",
-      "source": "Google News · SAE Technical Papers",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 41,
-      "confidence_score": 78,
-      "signal_score": 51
     },
     {
       "id": "google-news-deloitte-automotive-2023-global-automotive-consumer-study-deloitte",
@@ -5466,6 +5597,25 @@
       "signal_score": 63
     },
     {
+      "id": "google-news-mckinsey-automotive-dynamics-in-the-global-electric-vehicle-market-mckinsey-company",
+      "title": "Dynamics in the global electric-vehicle market - McKinsey & Company",
+      "summary": "Dynamics in the global electric-vehicle market &nbsp;&nbsp; McKinsey & Company",
+      "text": "Dynamics in the global electric-vehicle market &nbsp;&nbsp; McKinsey & Company",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRXZJcDFIZE9JQzkweG11NU5wRmdLbzlreUpWU184dks5SVkxWUJxaDc5S29XYy1iZ3BwVW1VY0V3c1Fld0gyUUFHdHpUNC10MGNlWDZ0YUxyb0FFaGtkWDhFaTlrRjFnWFlXTC00Q0taQWllYTZkTUFwMFhUa2NXMWRWdU9TMFpLcEUxTElUMy03UF9lNVVRb2NBN0VkUG9CSnpNcmw0YUVkMThCeDBjMWVRWVU5STlfbDlR?oc=5",
+      "date": "Thu, 06 Jul 2017 07:00:00 GMT",
+      "source": "Google News · McKinsey Automotive",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 59,
+      "confidence_score": 78,
+      "signal_score": 57
+    },
+    {
       "id": "google-news-pwc-automotive-powertrain-study-2025-pwc",
       "title": "Powertrain study 2025 - PwC",
       "summary": "Powertrain study 2025 &nbsp;&nbsp; PwC",
@@ -5618,160 +5768,6 @@
       "momentum_score": 77,
       "confidence_score": 78,
       "signal_score": 63
-    },
-    {
-      "id": "google-news-mckinsey-automotive-europe-s-economic-potential-in-the-shift-to-electric-vehicles-mckinsey-company",
-      "title": "Europe’s economic potential in the shift to electric vehicles - McKinsey & Company",
-      "summary": "Europe’s economic potential in the shift to electric vehicles &nbsp;&nbsp; McKinsey & Company",
-      "text": "Europe’s economic potential in the shift to electric vehicles &nbsp;&nbsp; McKinsey & Company",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTWJRVVYzNE9ITTJuNmt1QVp1TnNFaXdaRVdOdjVOaHZweFJaMVFrY3U5Z1diR1dzZUxUZnNsRmI1Z1M5bG9iRXA2VnJYUExSODNwM2NteUhHZDJZeGVYcFBDN1ZhNzRKZHpDWkJCTkRIdGt5aHhaN1pwQlp5cUdPclBIblR2SEoyQ3AweEZJdDY3T09mZTZFeU1SY3FDYXFnRkJGLWEtbVpYaTVWcjJDZm5Na09PU0Y4Y19UZ2FyeHdOazR0bkNKYkF1Yk9WUQ?oc=5",
-      "date": "Thu, 03 Oct 2024 07:00:00 GMT",
-      "source": "Google News · McKinsey Automotive",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 54,
-      "confidence_score": 78,
-      "signal_score": 55
-    },
-    {
-      "id": "google-news-sae-international-sae-international-mobility-advanced-sae-international",
-      "title": "SAE International | Mobility, Advanced - SAE International",
-      "summary": "SAE International | Mobility, Advanced &nbsp;&nbsp; SAE International",
-      "text": "SAE International | Mobility, Advanced &nbsp;&nbsp; SAE International",
-      "link": "https://news.google.com/rss/articles/CBMiN0FVX3lxTE1FZ1czMVMwZVhiUmJiNWVZN3JibmY0ZUd1dW5oUDV0dERxVFNYNEpCUldRTHdXUHM?oc=5",
-      "date": "Thu, 03 Dec 2009 17:56:27 GMT",
-      "source": "Google News · SAE International",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 56,
-      "confidence_score": 78,
-      "signal_score": 56
-    },
-    {
-      "id": "google-news-mckinsey-automotive-the-future-of-mobility-mckinsey-company",
-      "title": "The future of mobility - McKinsey & Company",
-      "summary": "The future of mobility &nbsp;&nbsp; McKinsey & Company",
-      "text": "The future of mobility &nbsp;&nbsp; McKinsey & Company",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPX3Q3ckFEQ2t5MkFuV085a0w3YmZIUnFMZ2NJSVZHSnhJM3VXcEQtckJHNVlUSmVLXzdQVXpGSVlENnRsdTdLYzdpMVBHQzNyTFYtX2o5aF9RYlBtMVM4c3o5YWNJekdFV1VLWnBHRW0tbllERUlXWm1hMjBVRUpKcnhES2VnWTlsQTZVLUFLRUtBYW9CNHpySG1TeGVXeU5laTlLRDFhMHJYWUpkT3JnZ1ZoY1RkRWtOUmpnTXQtMmFQV1lwaFF3STRjR2poaFJONWFILXhoMDJUTlNhcVltMFpERHR6Zw?oc=5",
-      "date": "Thu, 02 Mar 2023 08:00:00 GMT",
-      "source": "Google News · McKinsey Automotive",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 68,
-      "confidence_score": 78,
-      "signal_score": 60
-    },
-    {
-      "id": "google-news-automotive-cybersecurity-vehicle-cybersecurity-protecting-connected-cars-from-cyber-threats-cubic3",
-      "title": "Vehicle Cybersecurity: protecting connected cars from cyber threats - Cubic3",
-      "summary": "Vehicle Cybersecurity: protecting connected cars from cyber threats &nbsp;&nbsp; Cubic3",
-      "text": "Vehicle Cybersecurity: protecting connected cars from cyber threats &nbsp;&nbsp; Cubic3",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSS1GMXBOSEgtWHJ2cHNESzBteGItQ0llLW9IcWtnVXpRVVBTM2JNSHM1cFBjOVU3VzFSUGsxZDg4MEZFVXl1VEpTbjZqbW4yZ0FxVFdCYUxfaUh2c1gyTWVibDNLVkpONGFOUkRFUTk0TjFtNHZVVVdjN2FwZ3ZsaG1xNy1OOXlOZlRwdzZOZDQzU01qM184Z3Npdw?oc=5",
-      "date": "Thu, 02 Jul 2026 07:00:00 GMT",
-      "source": "Google News · Automotive Cybersecurity",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive",
-        "Cybersecurity"
-      ],
-      "novelty_score": 49,
-      "momentum_score": 40,
-      "confidence_score": 78,
-      "signal_score": 53
-    },
-    {
-      "id": "google-news-sae-technical-papers-simulation-analysis-of-seat-ventilation-performance-considering-deformation-during-human-occupancy-sae-mobilus",
-      "title": "Simulation Analysis of Seat Ventilation Performance Considering Deformation during Human Occupancy - SAE Mobilus",
-      "summary": "Simulation Analysis of Seat Ventilation Performance Considering Deformation during Human Occupancy &nbsp;&nbsp; SAE Mobilus",
-      "text": "Simulation Analysis of Seat Ventilation Performance Considering Deformation during Human Occupancy &nbsp;&nbsp; SAE Mobilus",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZmVSWVN1MlMyYnZ6bWpJOXEweVo5bFp1Q2ltMjhmekNidUNTdFJMdlFGbUNtNEdza0Y4QTM4a3lYcUtWcm4tNFFNb2dZN3dGTFJ0eU1TOVZINVNpOVMtYjBwOXB1WDdqTXBZTGpISW84S3A0T0phUDdJZGhfWm9ELU9nN1BlN3RRNzZRSmFRN1VVOFRtTm1Ydm9nbWJPWW9KRjM0TXlqSHpfWjVsdDR6TlFMNUxFYkN3cUZaVjhGTjRPZ0pHTHpkdXp5ellIaDNpRDkwdA?oc=5",
-      "date": "Thu, 02 Jan 2025 08:00:00 GMT",
-      "source": "Google News · SAE Technical Papers",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 79,
-      "confidence_score": 78,
-      "signal_score": 64
-    },
-    {
-      "id": "google-news-bcg-automotive-who-will-drive-electric-cars-to-the-tipping-point-boston-consulting-group",
-      "title": "Who Will Drive Electric Cars to the Tipping Point? - Boston Consulting Group",
-      "summary": "Who Will Drive Electric Cars to the Tipping Point? &nbsp;&nbsp; Boston Consulting Group",
-      "text": "Who Will Drive Electric Cars to the Tipping Point? &nbsp;&nbsp; Boston Consulting Group",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSEZqakFVVGIyTmd2TGJkQXplaEh1Vk1VZ2V3UlU0NWtEd3NuWEg5NmRkY1RlVFNEbVNIM1Nsb0RiTGRZWXEzQlNzb25YRk41c2NKRVg1WUNVS29DQkdRVnRBMDRoemFrR3JRMnFKcVl0T0ZFRmlUZ3VDZXJLSkNZb1M0aHo?oc=5",
-      "date": "Thu, 02 Jan 2020 08:00:00 GMT",
-      "source": "Google News · BCG Automotive",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 49,
-      "confidence_score": 78,
-      "signal_score": 53
-    },
-    {
-      "id": "google-news-software-defined-vehicles-software-defined-vehicles-architecture-benefits-and-industry-impact-dxc-technology",
-      "title": "Software-defined vehicles: Architecture, benefits and industry impact - DXC Technology",
-      "summary": "Software-defined vehicles: Architecture, benefits and industry impact &nbsp;&nbsp; DXC Technology",
-      "text": "Software-defined vehicles: Architecture, benefits and industry impact &nbsp;&nbsp; DXC Technology",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaFRGXzBKWk8xZVY1WDNjMGpzVnFZRnF0MndpX0VIQjB0ZGk5TmtRQi1Oc3pDWGR4NV85MWIyVFpHckRTOUg3QUpZTTB3NjJ4Tmc0OVJLNHM0blRqSGx1azA3R3d4cFRXMUFnQzRRSFZfclhUalpUT1hYSV9lWE9FdFZweGlZeVE?oc=5",
-      "date": "Thu, 02 Apr 2026 07:00:00 GMT",
-      "source": "Google News · Software-Defined Vehicles",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive",
-        "SDV"
-      ],
-      "novelty_score": 49,
-      "momentum_score": 62,
-      "confidence_score": 78,
-      "signal_score": 61
-    },
-    {
-      "id": "mit-news-engineering-new-tool-lets-users-repair-ai-generated-3d-models-then-fabricate-them-just-the-way-they-want",
-      "title": "New tool lets users repair AI-generated 3D models, then fabricate them just the way they want",
-      "summary": "“InstructMesh” can generate designs for everyday objects that are easy to edit and fabricate for both experts and newcomers to 3D modeling.",
-      "text": "“InstructMesh” can generate designs for everyday objects that are easy to edit and fabricate for both experts and newcomers to 3D modeling.",
-      "link": "https://news.mit.edu/2026/instructmesh-tool-lets-users-repair-ai-3d-models-then-fabricate-them-1001",
-      "date": "Thu, 01 Oct 2026 18:00:00 -0400",
-      "source": "MIT News · Engineering",
-      "category": "TECH",
-      "topic": "Healthcare",
-      "kind_label": "RSS",
-      "tags": [
-        "Biotech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 74,
-      "confidence_score": 78,
-      "signal_score": 62
     }
   ],
   "health": [
@@ -5782,8 +5778,9 @@
     },
     {
       "name": "Nature",
-      "ok": true,
-      "count": 24
+      "ok": false,
+      "count": 0,
+      "error": "not well-formed (invalid token): line 14, column 4"
     },
     {
       "name": "IEEE Spectrum",
