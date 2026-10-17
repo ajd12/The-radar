@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-10-17T15:39:49.288497+00:00",
+  "generated_at": "2026-10-17T18:31:47.064440+00:00",
   "items": [
     {
       "id": "google-news-sae-technical-papers-gp-lgfusion-deep-fusion-of-infrared-visible-driving-images-based-on-gradient-preservation-and-local-guidance-sae-mobi",
@@ -116,6 +116,26 @@
       "momentum_score": 48,
       "confidence_score": 78,
       "signal_score": 53
+    },
+    {
+      "id": "google-news-software-defined-vehicles-automotive-cyber-testing-in-the-software-defined-vehicle-era-cyber-magazine",
+      "title": "Automotive Cyber Testing in the Software-Defined Vehicle Era - Cyber Magazine",
+      "summary": "Automotive Cyber Testing in the Software-Defined Vehicle Era &nbsp;&nbsp; Cyber Magazine",
+      "text": "Automotive Cyber Testing in the Software-Defined Vehicle Era &nbsp;&nbsp; Cyber Magazine",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNmtTYVdwS1FnX1JBZmxmM0RfQ0ZwZHhmM1Y3RklCQThyQUtEVEFSUXF1VldLNmt3b1lFU1JmUXYzbU8zQkZGaXdlSEowWndrbG91MEFocEdpRVFTcnV0V1c1MHlpWmNzOWNCM2RDTWNhc1d6aG1WMTlZTERLRUgxMThSSHpFR1JRQ3E2aWhfd3A4dERoWmc?oc=5",
+      "date": "Wed, 30 Sep 2026 07:01:34 GMT",
+      "source": "Google News · Software-Defined Vehicles",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive",
+        "SDV"
+      ],
+      "novelty_score": 49,
+      "momentum_score": 83,
+      "confidence_score": 78,
+      "signal_score": 68
     },
     {
       "id": "google-news-software-defined-vehicles-hyundai-mobis-supports-localization-of-automotive-chips-sdv-transition-the-elec-korea-electronics-industry-media",
@@ -2433,27 +2453,6 @@
       "signal_score": 67
     },
     {
-      "id": "google-news-software-defined-vehicles-secures-europe-s-first-commercial-sdv-lg-electronics-to-supply-next-generation-cockpit-to-groupe-renault",
-      "title": "“Secures Europe’s First Commercial SDV” ... LG Electronics to Supply Next-Generation Cockpit to Groupe Renault - 매일경제",
-      "summary": "“Secures Europe’s First Commercial SDV” ... LG Electronics to Supply Next-Generation Cockpit to Groupe Renault &nbsp;&nbsp; 매일경제",
-      "text": "“Secures Europe’s First Commercial SDV” ... LG Electronics to Supply Next-Generation Cockpit to Groupe Renault &nbsp;&nbsp; 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91MVBxcE1kUjV5RWd2LWhGMl9ySkhtT1k2c0NTYkduT2tFRnJZbFQwa3RTNm1UcVczeklkaWo5T1RpSmtUcGEzR1haTzExQ25ORWtR?oc=5",
-      "date": "Tue, 06 Oct 2026 06:16:45 GMT",
-      "source": "Google News · Software-Defined Vehicles",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive",
-        "SDV",
-        "Biotech"
-      ],
-      "novelty_score": 56,
-      "momentum_score": 54,
-      "confidence_score": 78,
-      "signal_score": 61
-    },
-    {
       "id": "google-news-software-defined-vehicles-honda-taps-applied-intuition-to-speed-sdv-platform-work-automotive-world",
       "title": "Honda taps Applied Intuition to speed SDV platform work - Automotive World",
       "summary": "Honda taps Applied Intuition to speed SDV platform work &nbsp;&nbsp; Automotive World",
@@ -2823,6 +2822,25 @@
       "momentum_score": 61,
       "confidence_score": 78,
       "signal_score": 58
+    },
+    {
+      "id": "google-news-sae-technical-papers-r-570-electric-vehicles-theory-and-design-reference-sae-mobilus",
+      "title": "R-570: Electric Vehicles: Theory and Design - Reference - SAE Mobilus",
+      "summary": "R-570: Electric Vehicles: Theory and Design - Reference &nbsp;&nbsp; SAE Mobilus",
+      "text": "R-570: Electric Vehicles: Theory and Design - Reference &nbsp;&nbsp; SAE Mobilus",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xV3hXUWZMWUcwYkFJcmJFU2hTWXdNQzlBalF5My1IcnhwN0h4YWkwMVVneWlwSmFEUms5SkRWQXZIVEZiTDQxMWk0X1hLeW56czA5dDR5R1kzMFkyZlMzd0FtVWFGTkVtRlptUzBnY3hHZ2YtdDRzODlB?oc=5",
+      "date": "Thu, 25 Jul 2024 07:00:00 GMT",
+      "source": "Google News · SAE Technical Papers",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 42,
+      "confidence_score": 78,
+      "signal_score": 51
     },
     {
       "id": "mit-news-electric-vehicles-the-mit-edgerton-center-s-third-annual-showcase-dazzles-onlookers",
@@ -4010,25 +4028,6 @@
       "momentum_score": 60,
       "confidence_score": 78,
       "signal_score": 57
-    },
-    {
-      "id": "google-news-sae-technical-papers-r-551-manufacturing-reliability-growth-for-automotive-engineering-volume-iii-reference-sae-mobilus",
-      "title": "R-551: Manufacturing Reliability Growth for Automotive Engineering Volume III - Reference - SAE Mobilus",
-      "summary": "R-551: Manufacturing Reliability Growth for Automotive Engineering Volume III - Reference &nbsp;&nbsp; SAE Mobilus",
-      "text": "R-551: Manufacturing Reliability Growth for Automotive Engineering Volume III - Reference &nbsp;&nbsp; SAE Mobilus",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd3N6TWJJc2ZOOV81XzdiWUlKV29ldW9EV1RvVXAyZGE0NDhONnNEdTJZdFVJV2Y0VTJXWmRxS1UwMjZXVE5JTTF2WDUzTGZ2NnhrdU1iZVpZVkF6aGlHRFlSMnFlaVoxa21kOHVOc0lTaW4yeDNvX3RFMmN1dlhDaE9mbXVvRGxYdWhPN2l6TFhHQWlRbmNCOUZNd21oWGUyMUJpSFVxTmo?oc=5",
-      "date": "Thu, 11 Dec 2025 08:00:00 GMT",
-      "source": "Google News · SAE Technical Papers",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 75,
-      "confidence_score": 78,
-      "signal_score": 63
     },
     {
       "id": "google-news-deloitte-automotive-electric-vehicle-market-entry-deloitte",
@@ -5739,6 +5738,25 @@
       "signal_score": 64
     },
     {
+      "id": "google-news-automotive-cybersecurity-unece-establishes-global-rules-for-automated-driving-level-4-coming-soon-in-production-taylor-wessing",
+      "title": "UNECE Establishes Global Rules for Automated Driving - Level 4 Coming soon in production? - Taylor Wessing",
+      "summary": "UNECE Establishes Global Rules for Automated Driving - Level 4 Coming soon in production? &nbsp;&nbsp; Taylor Wessing",
+      "text": "UNECE Establishes Global Rules for Automated Driving - Level 4 Coming soon in production? &nbsp;&nbsp; Taylor Wessing",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWXl0djR2SlM2T1o5NXotTGViTng3a3MwaS12ZXVkSG1wYTM0SjRkbktSbTFMQWxzb0RsZUpsc2ZDUHlIdUdBTWEzZHJyTzdPZ3h3SkxUMk9CYXBuZE1BdXVOaXFHSjlCcF9aa2cxWTBnbU9YWkpRb0xWVGYxSU1xRE9EWkNtWlZnTWZJZFBzeEV1WjVPRWFMeU16ME1PUUtZQ084OXFJLVhjdW9tek9KbDNwWFJMajBEeGhzTGV4WQ?oc=5",
+      "date": "Mon, 20 Jul 2026 07:00:00 GMT",
+      "source": "Google News · Automotive Cybersecurity",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 53,
+      "confidence_score": 78,
+      "signal_score": 55
+    },
+    {
       "id": "google-news-bain-mobility-the-race-for-china-s-electric-car-bain",
       "title": "The race for China's electric car - Bain",
       "summary": "The race for China's electric car &nbsp;&nbsp; Bain",
@@ -5756,25 +5774,6 @@
       "momentum_score": 59,
       "confidence_score": 78,
       "signal_score": 57
-    },
-    {
-      "id": "google-news-mckinsey-automotive-the-electric-vehicle-outlook-is-stronger-in-china-and-europe-than-in-the-united-states-mckinsey-company",
-      "title": "The electric-vehicle outlook is stronger in China and Europe than in the United States - McKinsey & Company",
-      "summary": "The electric-vehicle outlook is stronger in China and Europe than in the United States &nbsp;&nbsp; McKinsey & Company",
-      "text": "The electric-vehicle outlook is stronger in China and Europe than in the United States &nbsp;&nbsp; McKinsey & Company",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYU1vX1dwU1BTWGJFbzJTQklfNmFnejRWTWgyTWFzbXFPSUJxb18wZU82bXRlVlJVQ2JHT2QybEFycHQ1T0Y0RUFaVFN6TWpqZER3blZWLW1SMkNETHVVckc1Sno3d3ZRM0s0akF4NWRsWHNhLWxpbVdLQVhUODFpZmFGVzNuaENxN0VyU3Y0QXo2d0ZITmltelk5UzllY2FNWF9mY3VMSlJuRDl1U09fdnZqTDhiTmVMMEl4WWdjcjJsWFB4U2lVTXNrN1R2a09RTWc?oc=5",
-      "date": "Mon, 19 Oct 2020 07:00:00 GMT",
-      "source": "Google News · McKinsey Automotive",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 52,
-      "confidence_score": 78,
-      "signal_score": 54
     }
   ],
   "health": [
@@ -5915,7 +5914,7 @@
     {
       "name": "Google News · Automotive Cybersecurity",
       "ok": true,
-      "count": 15
+      "count": 16
     },
     {
       "name": "Google News · Software-Defined Vehicles",
