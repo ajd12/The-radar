@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-10-18T11:11:00.551254+00:00",
+  "generated_at": "2026-10-18T15:54:23.955417+00:00",
   "items": [
     {
       "id": "google-news-sae-technical-papers-gp-lgfusion-deep-fusion-of-infrared-visible-driving-images-based-on-gradient-preservation-and-local-guidance-sae-mobi",
@@ -116,6 +116,26 @@
       "momentum_score": 48,
       "confidence_score": 78,
       "signal_score": 53
+    },
+    {
+      "id": "google-news-software-defined-vehicles-automotive-cyber-testing-in-the-software-defined-vehicle-era-cyber-magazine",
+      "title": "Automotive Cyber Testing in the Software-Defined Vehicle Era - Cyber Magazine",
+      "summary": "Automotive Cyber Testing in the Software-Defined Vehicle Era &nbsp;&nbsp; Cyber Magazine",
+      "text": "Automotive Cyber Testing in the Software-Defined Vehicle Era &nbsp;&nbsp; Cyber Magazine",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNmtTYVdwS1FnX1JBZmxmM0RfQ0ZwZHhmM1Y3RklCQThyQUtEVEFSUXF1VldLNmt3b1lFU1JmUXYzbU8zQkZGaXdlSEowWndrbG91MEFocEdpRVFTcnV0V1c1MHlpWmNzOWNCM2RDTWNhc1d6aG1WMTlZTERLRUgxMThSSHpFR1JRQ3E2aWhfd3A4dERoWmc?oc=5",
+      "date": "Wed, 30 Sep 2026 07:01:34 GMT",
+      "source": "Google News · Software-Defined Vehicles",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive",
+        "SDV"
+      ],
+      "novelty_score": 49,
+      "momentum_score": 83,
+      "confidence_score": 78,
+      "signal_score": 68
     },
     {
       "id": "google-news-software-defined-vehicles-hyundai-mobis-supports-localization-of-automotive-chips-sdv-transition-the-elec-korea-electronics-industry-media",
@@ -1158,6 +1178,25 @@
       "signal_score": 63
     },
     {
+      "id": "google-news-sae-international-24autp02-automotive-engineering-february-2024-sae-international",
+      "title": "24AUTP02 : Automotive Engineering: February 2024 - SAE International",
+      "summary": "24AUTP02 : Automotive Engineering: February 2024 &nbsp;&nbsp; SAE International",
+      "text": "24AUTP02 : Automotive Engineering: February 2024 &nbsp;&nbsp; SAE International",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPazNOYUpyT2otNGZCelFUSkVWRVgycXJJM09XREttaGtXLTkzUURfOUVNTG5Uc05JS0FIUXExbkJXZVlVZG11VmIyYmRIai1vQ2RhX3Nmd3RTb2h6VWxpT2U0OGVzdXZQcnBpZUQ2LVItT0RDVDhVSG1mOVlsRVJGUmdQTQ?oc=5",
+      "date": "Wed, 07 Feb 2024 08:00:00 GMT",
+      "source": "Google News · SAE International",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 68,
+      "confidence_score": 78,
+      "signal_score": 60
+    },
+    {
       "id": "google-news-deloitte-automotive-climbing-the-electric-vehicle-transformation-mountain-deloitte",
       "title": "Climbing the electric vehicle transformation mountain - Deloitte",
       "summary": "Climbing the electric vehicle transformation mountain &nbsp;&nbsp; Deloitte",
@@ -1971,6 +2010,25 @@
       "signal_score": 57
     },
     {
+      "id": "google-news-bcg-automotive-electric-vehicles-are-a-multibillion-dollar-opportunity-for-utilities-boston-consulting-group",
+      "title": "Electric Vehicles Are a Multibillion Dollar Opportunity for Utilities - Boston Consulting Group",
+      "summary": "Electric Vehicles Are a Multibillion Dollar Opportunity for Utilities &nbsp;&nbsp; Boston Consulting Group",
+      "text": "Electric Vehicles Are a Multibillion Dollar Opportunity for Utilities &nbsp;&nbsp; Boston Consulting Group",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZDhMVGJqUWlUb2NNbjJHUmhEX3lxOGkydDlUZ01xTHBQbU9EdGVJX29mRjhDTU8xeU1aeEFpYWhDTmlTZVZpOU1QMWFhWGxRZXNVU3UwOTdEWHVMQmo2T0Z5bC0tN0NiYTRzZG1xUzFQckt2Rlhkb01HQUpYRk9peUNzLTA5QXNZQjVzZ3J3dkpkY2UtcXBzdVRuRGhIcHJNc0VoMURPOUw0SDh0Q29aTERhR1c3V1ZhaG9jamVMQWY1YmJJZWFoTVk3MF85UQ?oc=5",
+      "date": "Tue, 16 Nov 2021 06:12:04 GMT",
+      "source": "Google News · BCG Automotive",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 67,
+      "confidence_score": 78,
+      "signal_score": 60
+    },
+    {
       "id": "google-news-pwc-automotive-automotive-industry-publications-pwc",
       "title": "Automotive industry publications - PwC",
       "summary": "Automotive industry publications &nbsp;&nbsp; PwC",
@@ -2160,25 +2218,6 @@
       "momentum_score": 57,
       "confidence_score": 78,
       "signal_score": 56
-    },
-    {
-      "id": "google-news-bcg-automotive-the-future-of-buses-and-light-commercial-vehicles-is-electric-boston-consulting-group",
-      "title": "The Future of Buses and Light Commercial Vehicles Is Electric - Boston Consulting Group",
-      "summary": "The Future of Buses and Light Commercial Vehicles Is Electric &nbsp;&nbsp; Boston Consulting Group",
-      "text": "The Future of Buses and Light Commercial Vehicles Is Electric &nbsp;&nbsp; Boston Consulting Group",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNGpDMnJ2enkybmZnWHJKazJKaUJ0YlFOOEZvOTZLYVNYQ2pjajA4VHotSi1YQ2JYQ19URmljMG5LS3k3M3JUcUV0UEk1MERubGkzWDdZSFBFTHNjaFd0Tm9PeG9SY3RoTlRodUhEanozRFRjVFVJT2xqVUYtSk9PNmVQR2wtZUxWbnQ2QUZieWVyaUxmc3diRFFhbnRRSkpJ?oc=5",
-      "date": "Tue, 11 Oct 2022 07:00:00 GMT",
-      "source": "Google News · BCG Automotive",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 66,
-      "confidence_score": 78,
-      "signal_score": 59
     },
     {
       "id": "google-news-bcg-automotive-the-future-of-buses-and-light-commercial-vehicles-is-electric-with-cost-parity-just-around-the-corner-boston-consulting-gro",
@@ -2468,26 +2507,6 @@
       "signal_score": 57
     },
     {
-      "id": "google-news-software-defined-vehicles-lg-to-supply-integrated-cockpit-solution-for-renault-group-s-first-commercial-sdv-pr-newswire",
-      "title": "LG TO SUPPLY INTEGRATED COCKPIT SOLUTION FOR RENAULT GROUP'S FIRST COMMERCIAL SDV - PR Newswire",
-      "summary": "LG TO SUPPLY INTEGRATED COCKPIT SOLUTION FOR RENAULT GROUP'S FIRST COMMERCIAL SDV &nbsp;&nbsp; PR Newswire",
-      "text": "LG TO SUPPLY INTEGRATED COCKPIT SOLUTION FOR RENAULT GROUP'S FIRST COMMERCIAL SDV &nbsp;&nbsp; PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTmEwcnRVM2UtY1p0Y1o5MC1wSW42Ukl4NzU0TXhHUmkyNG1OdEVxUUFjRkRLV1VRbE9vUHEyZ1lWYzlFa1kyTjJQZnZNYXpGdE1yem1WM05laU8yeE50YXA1OFlDdTExQ1hYZWtOTkxHYm1ab0xHRGswdXpJTEVJUmtyM1ZHcnhoRHZSTXdUN0hsa2J0a25md1VJa0JsMS1Ha2xhWU5wazNJdUZMY0NEV0Y3UGVXYUFIUmdvMU5yTnFqYkpFM0NGUEptLTA4TVlNS2c?oc=5",
-      "date": "Tue, 06 Oct 2026 07:00:00 GMT",
-      "source": "Google News · Software-Defined Vehicles",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive",
-        "SDV"
-      ],
-      "novelty_score": 49,
-      "momentum_score": 75,
-      "confidence_score": 78,
-      "signal_score": 65
-    },
-    {
       "id": "google-news-software-defined-vehicles-honda-and-applied-intuition-partner-on-sdv-platform-applied-intuition",
       "title": "Honda and Applied Intuition partner on SDV platform - Applied Intuition",
       "summary": "Honda and Applied Intuition partner on SDV platform &nbsp;&nbsp; Applied Intuition",
@@ -2526,6 +2545,46 @@
       "momentum_score": 41,
       "confidence_score": 78,
       "signal_score": 53
+    },
+    {
+      "id": "google-news-software-defined-vehicles-lg-to-supply-integrated-cockpit-solution-for-renault-group-s-first-commercial-sdv-insidenova-com",
+      "title": "LG TO SUPPLY INTEGRATED COCKPIT SOLUTION FOR RENAULT GROUP'S FIRST COMMERCIAL SDV - InsideNoVa.com",
+      "summary": "LG TO SUPPLY INTEGRATED COCKPIT SOLUTION FOR RENAULT GROUP'S FIRST COMMERCIAL SDV &nbsp;&nbsp; InsideNoVa.com",
+      "text": "LG TO SUPPLY INTEGRATED COCKPIT SOLUTION FOR RENAULT GROUP'S FIRST COMMERCIAL SDV &nbsp;&nbsp; InsideNoVa.com",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQVEFad1cwYktpZ21CdVBkT013NzlPTlY1OUoxSjhLWFFFYlZLLVgwdGdaOUlCRXFnTEMxU1VndlJEcWlTVHR3b1FmMDV6VlI3LUEtcERoUWNjSVRYcTJpdU1UejRZaWRHa3duX0taVFdGVjlwOTNQdTZpZ3JpX2NBYlQyZ1ZCM0tEX1VmSlNjYUtnSEh3LVg1d0VVazlmcFhHUmNEVVNuMTNwbGI3aHotUWxWVUx6dV9WTDVKbFZDYkxtUlZZeExMcUlXM2R1VS15clB3UnpsOG5GeEhrd1FIWTI5T1U0ai1SSFdneHVQT0lHR1FyaURFdVNKYmt5NjJfb201bHVwWGp3SzFvWXRIMWlPNl9YSVU?oc=5",
+      "date": "Tue, 06 Oct 2026 01:00:00 GMT",
+      "source": "Google News · Software-Defined Vehicles",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive",
+        "SDV"
+      ],
+      "novelty_score": 49,
+      "momentum_score": 46,
+      "confidence_score": 78,
+      "signal_score": 55
+    },
+    {
+      "id": "google-news-vehicle-connectivity-qualcomm-s-snapdragon-auto-connectivity-platform-to-bring-5g-capabilities-to-jlr-s-next-generation-modern-luxury-qual",
+      "title": "Qualcomm’s Snapdragon Auto Connectivity Platform to Bring 5G Capabilities to JLR’s Next Generation Modern Luxury - Qualcomm",
+      "summary": "Qualcomm’s Snapdragon Auto Connectivity Platform to Bring 5G Capabilities to JLR’s Next Generation Modern Luxury &nbsp;&nbsp; Qualcomm",
+      "text": "Qualcomm’s Snapdragon Auto Connectivity Platform to Bring 5G Capabilities to JLR’s Next Generation Modern Luxury &nbsp;&nbsp; Qualcomm",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY1VlTDdfanEyY3NjUTRHdl9nRG1Xbmg5NXB3aGVZRDJSa2liOW41MnVoOWlPTllLUWEycXVSSlc5X2NQN3NhSHhyN29nVXJlcGc1MlFMZDh6MWswU05oQnhaT3R1bG1PT3JLck1PT05IcU5Kbmc3dW1uS0pqY3RCd3RaSHZhYmRNUVJ6VGZTaEdyR2xOaExfaXNjR1NhdWVGQnpaaFFQcS1ycF9RbElHSQ?oc=5",
+      "date": "Tue, 05 Sep 2023 07:00:00 GMT",
+      "source": "Google News · Vehicle Connectivity",
+      "category": "AUTOMOTIVE",
+      "topic": "Healthcare",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive",
+        "Biotech"
+      ],
+      "novelty_score": 49,
+      "momentum_score": 60,
+      "confidence_score": 78,
+      "signal_score": 60
     },
     {
       "id": "google-news-mckinsey-automotive-how-charging-in-buildings-can-power-up-the-electric-vehicle-industry-mckinsey-company",
@@ -4703,6 +4762,25 @@
       "signal_score": 63
     },
     {
+      "id": "google-news-university-automotive-research-promoting-cooperation-between-schools-research-institutes-and-businesses-in-the-field-of-mechanical-enginee",
+      "title": "Promoting cooperation between schools, research institutes, and businesses in the field of Mechanical Engineering and Automotive Technology. - Vietnam.vn",
+      "summary": "Promoting cooperation between schools, research institutes, and businesses in the field of Mechanical Engineering and Automotive Technology. &nbsp;&nbsp; Vietnam.vn",
+      "text": "Promoting cooperation between schools, research institutes, and businesses in the field of Mechanical Engineering and Automotive Technology. &nbsp;&nbsp; Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNGRSUnhXWlc1eFVaV0cybG52MHVadWlZNFByOTVCSVNtMGVQVGFmZzQySG5NVjdOVm8zUnVtOThSUjdJMzhsU00wU2N5Nmo4OElBRy1hSVpoRUxhQTJ5YnB5SGRCRmhpaTFFYUE3U2Y2b3UyaUZkWFE4RDdwNEM2M3JKT090QWJ2WDc0R1lfUGU4c3dQSXg3ajE1MzhJVURRNWQ0TUNMUzV0Y0tvU080akpmZ3JVSHgteFRheThR?oc=5",
+      "date": "Sun, 18 Oct 2026 13:26:54 GMT",
+      "source": "Google News · University Automotive Research",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 52,
+      "confidence_score": 78,
+      "signal_score": 54
+    },
+    {
       "id": "wired-20-best-gifts-for-men-manly-men-and-manly-man-men-2026",
       "title": "20 Best Gifts for Men, Manly Men, and Manly Man Men (2026)",
       "summary": "Source item available; open the source for details.",
@@ -4779,6 +4857,25 @@
       "signal_score": 56
     },
     {
+      "id": "wired-magnesium-may-not-reach-your-brain-despite-supplement-label-promises",
+      "title": "Magnesium May Not Reach Your Brain, Despite Supplement Label Promises",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/magnesium-may-not-reach-your-brain-despite-supplement-label-promises/",
+      "date": "Sun, 18 Oct 2026 09:00:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 46,
+      "confidence_score": 78,
+      "signal_score": 52
+    },
+    {
       "id": "wired-the-best-airpods-cases-we-ve-used-in-our-day-to-day-lives-2026",
       "title": "The Best AirPods Cases We’ve Used In Our Day-to-Day Lives (2026)",
       "summary": "Source item available; open the source for details.",
@@ -4817,25 +4914,6 @@
       "signal_score": 51
     },
     {
-      "id": "wired-magnesium-may-not-reach-your-brain-despite-supplement-label-promises",
-      "title": "Magnesium May Not Reach Your Brain, Despite Supplement Label Promises",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/magnesium-may-not-reach-your-brain-despite-supplement-label-promises/",
-      "date": "Sun, 18 Oct 2026 09:00:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 46,
-      "confidence_score": 78,
-      "signal_score": 52
-    },
-    {
       "id": "google-news-university-automotive-research-university-of-michigan-engineers-created-an-underwater-vehicle-concept-with-adjustable-golf-ball-dimples-th",
       "title": "University of Michigan engineers created an underwater vehicle concept with adjustable golf-ball dimples; - The Times of India",
       "summary": "University of Michigan engineers created an underwater vehicle concept with adjustable golf-ball dimples; &nbsp;&nbsp; The Times of India",
@@ -4872,6 +4950,25 @@
       "momentum_score": 77,
       "confidence_score": 78,
       "signal_score": 63
+    },
+    {
+      "id": "google-news-vehicle-connectivity-5gaa-presents-1st-satellite-5g-v2x-direct-vehicle-connectivity-satnews-com",
+      "title": "5GAA presents 1st satellite + 5G-V2X direct vehicle connectivity - satnews.com",
+      "summary": "5GAA presents 1st satellite + 5G-V2X direct vehicle connectivity &nbsp;&nbsp; satnews.com",
+      "text": "5GAA presents 1st satellite + 5G-V2X direct vehicle connectivity &nbsp;&nbsp; satnews.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSjRTLTUtT3BmS1N5WmJyQ3ItUnc0d1NlUzh1NmRKWmpHVkU1amNJTTdja2hqOWlOVUt2bWtQV25malctVDR4Uk9FWTJNVjQ3UWFaOGx3VjZOMXdWS0pmUGhoSDNvQkpkQjJqU25CcV9rNEVlWVpBT3hYV3M0TW9VMFlvR2xRZktaOEZsMWxZbVNTM1FnZG1aNmln?oc=5",
+      "date": "Sun, 18 May 2025 07:00:00 GMT",
+      "source": "Google News · Vehicle Connectivity",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 65,
+      "confidence_score": 78,
+      "signal_score": 59
     },
     {
       "id": "google-news-mckinsey-automotive-charging-electric-vehicle-fleets-how-to-seize-the-emerging-opportunity-mckinsey-company",
@@ -5521,26 +5618,6 @@
       "signal_score": 59
     },
     {
-      "id": "google-news-software-defined-vehicles-google-will-open-source-android-automotive-os-sdv-platform-wardsauto",
-      "title": "Google will open-source Android Automotive OS SDV platform - WardsAuto",
-      "summary": "Google will open-source Android Automotive OS SDV platform &nbsp;&nbsp; WardsAuto",
-      "text": "Google will open-source Android Automotive OS SDV platform &nbsp;&nbsp; WardsAuto",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONGdGbFRTNnFWckY5M05tc2o3cGVZWGZaaGRoTGlySjVaWWhqR3dXd2drZ0JIUTVaOHItMV9pSzQ2TEgtSFpuazdoN0htLUhpS3BUTGNDQzZVTTJnT1pQMl81ZVdQbWk1STVtTkJfcS1zcmpGS2dUaXNYTkswZlVxdm5tSlF6dkJWaWJVd183UkpmaVdUQmJ1NWRCUjcyLTVmRTVRX1hIM0VLR1JDUjFYMnQ4UU56QQ?oc=5",
-      "date": "Mon, 30 Mar 2026 07:00:00 GMT",
-      "source": "Google News · Software-Defined Vehicles",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive",
-        "SDV"
-      ],
-      "novelty_score": 49,
-      "momentum_score": 62,
-      "confidence_score": 78,
-      "signal_score": 61
-    },
-    {
       "id": "google-news-automotive-cybersecurity-unece-r155-r156-boosts-vehicle-cybersecurity-cubic3",
       "title": ": UNECE R155/R156 boosts vehicle cybersecurity - Cubic3",
       "summary": ": UNECE R155/R156 boosts vehicle cybersecurity &nbsp;&nbsp; Cubic3",
@@ -5692,85 +5769,6 @@
       "momentum_score": 76,
       "confidence_score": 78,
       "signal_score": 63
-    },
-    {
-      "id": "google-news-bain-mobility-cracking-the-code-on-automotive-omnichannel-sales-bain",
-      "title": "Cracking the Code on Automotive Omnichannel Sales - Bain",
-      "summary": "Cracking the Code on Automotive Omnichannel Sales &nbsp;&nbsp; Bain",
-      "text": "Cracking the Code on Automotive Omnichannel Sales &nbsp;&nbsp; Bain",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcldqQ2I4RmhaU0hoTUMxUHdKS0RjNHp6ODF0WXV0QlVwck9GRmxzX29qcTBvbjBkMkZicDFtNzlCQVlzVUhsRllpQ1pkamUwY3RsWDJmaWtVN0hQSFIxdE5NQ2JZckpfUExFRndleUZiUTM0U1pmaUJnUzJvZjlvT3RteWQxRWs?oc=5",
-      "date": "Mon, 25 Oct 2021 07:00:00 GMT",
-      "source": "Google News · Bain Mobility",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 48,
-      "confidence_score": 78,
-      "signal_score": 53
-    },
-    {
-      "id": "google-news-vehicle-connectivity-5g-and-connected-vehicles-communication-and-cooperation-orange-com",
-      "title": "5G and connected vehicles: communication and cooperation - Orange.com",
-      "summary": "5G and connected vehicles: communication and cooperation &nbsp;&nbsp; Orange.com",
-      "text": "5G and connected vehicles: communication and cooperation &nbsp;&nbsp; Orange.com",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN05QN0NVUXdhNmw5WTF3Y2lJUlNMQjlDMU5QaE1NRmdMX0FCX2hxeU5ib0FkVHNCUmZENDVwbDk1dzF4ZnFaRmlReXFxaGdTRFlNbE82R0VnRmx2cEhTeURXWlZVaWFDaEZHWnNNdzd5Y2pzVkpzeGQ2bjJrVGdVNGJFMnl0TThuLTM0MWdPT014V0th?oc=5",
-      "date": "Mon, 25 Mar 2019 07:00:00 GMT",
-      "source": "Google News · Vehicle Connectivity",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 58,
-      "confidence_score": 78,
-      "signal_score": 57
-    },
-    {
-      "id": "mit-news-electric-vehicles-how-artificial-intelligence-can-help-achieve-a-clean-energy-future",
-      "title": "How artificial intelligence can help achieve a clean energy future",
-      "summary": "AI supports the clean energy transition as it manages power grid operations, helps plan infrastructure investments, guides development of novel materials, and more.",
-      "text": "AI supports the clean energy transition as it manages power grid operations, helps plan infrastructure investments, guides development of novel materials, and more.",
-      "link": "https://news.mit.edu/2025/how-ai-can-help-achieve-clean-energy-future-1124",
-      "date": "Mon, 24 Nov 2025 17:00:00 -0500",
-      "source": "MIT News · Electric Vehicles",
-      "category": "AUTOMOTIVE",
-      "topic": "Energy",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive",
-        "AI",
-        "Energy",
-        "Materials"
-      ],
-      "novelty_score": 63,
-      "momentum_score": 81,
-      "confidence_score": 78,
-      "signal_score": 73
-    },
-    {
-      "id": "google-news-bcg-automotive-what-china-s-ev-market-can-teach-us-and-eu-automakers-boston-consulting-group",
-      "title": "What China’s EV Market Can Teach US and EU Automakers - Boston Consulting Group",
-      "summary": "What China’s EV Market Can Teach US and EU Automakers &nbsp;&nbsp; Boston Consulting Group",
-      "text": "What China’s EV Market Can Teach US and EU Automakers &nbsp;&nbsp; Boston Consulting Group",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQzBXenBYSzlHZjN6ZE1iUVNfcjJqTDNXSXhKaTQ4QlM2VTAyUmNNcHpTSjRIT2xnSVhJSFY0Vks1a1VfZ2tkTDI5ZFNNQzEtd1otbTVOTTBrQm0xTGJlZnViSDg4QW1DdTJvTy02clR5VDJBS2NEdjdNOFlWbDVlRHRGYWpKLUU?oc=5",
-      "date": "Mon, 24 Feb 2025 08:00:00 GMT",
-      "source": "Google News · BCG Automotive",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 50,
-      "confidence_score": 78,
-      "signal_score": 54
     }
   ],
   "health": [
@@ -5781,9 +5779,8 @@
     },
     {
       "name": "Nature",
-      "ok": false,
-      "count": 0,
-      "error": "not well-formed (invalid token): line 14, column 4"
+      "ok": true,
+      "count": 24
     },
     {
       "name": "IEEE Spectrum",
