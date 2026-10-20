@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-10-20T04:54:46.746333+00:00",
+  "generated_at": "2026-10-20T11:42:42.055304+00:00",
   "items": [
     {
       "id": "google-news-sae-technical-papers-gp-lgfusion-deep-fusion-of-infrared-visible-driving-images-based-on-gradient-preservation-and-local-guidance-sae-mobi",
@@ -137,27 +137,6 @@
       "momentum_score": 62,
       "confidence_score": 78,
       "signal_score": 61
-    },
-    {
-      "id": "google-news-software-defined-vehicles-hyundai-mobis-supports-localization-of-automotive-chips-sdv-transition-the-elec-korea-electronics-industry-media",
-      "title": "Hyundai Mobis Supports Localization of Automotive Chips, SDV Transition - THE ELEC, Korea Electronics Industry Media",
-      "summary": "Hyundai Mobis Supports Localization of Automotive Chips, SDV Transition &nbsp;&nbsp; THE ELEC, Korea Electronics Industry Media",
-      "text": "Hyundai Mobis Supports Localization of Automotive Chips, SDV Transition &nbsp;&nbsp; THE ELEC, Korea Electronics Industry Media",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80aHdsb3lWSDd6X20xR1VvUUk4RkRvT0NFVlFkbXBIWnQzY3hnbHdWT20zX2lsQmFSTUgzQ1dWeVlWdWdYVm9uR2NDblhDNDhVOS01M25TaFVHeGxJWFI4SW5ibDhlS2c?oc=5",
-      "date": "Wed, 30 Sep 2026 07:00:00 GMT",
-      "source": "Google News · Software-Defined Vehicles",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive",
-        "SDV",
-        "Semiconductors"
-      ],
-      "novelty_score": 56,
-      "momentum_score": 76,
-      "confidence_score": 78,
-      "signal_score": 68
     },
     {
       "id": "mit-news-research-lung-cancers-can-use-two-different-mechanisms-to-evade-kras-inhibiting-drugs",
@@ -334,13 +313,13 @@
       "signal_score": 63
     },
     {
-      "id": "google-news-software-defined-vehicles-automakers-gain-more-repair-control-as-vehicles-become-software-defined-automotive-news",
-      "title": "Automakers gain more repair control as vehicles become software-defined - Automotive News",
-      "summary": "Automakers gain more repair control as vehicles become software-defined &nbsp;&nbsp; Automotive News",
-      "text": "Automakers gain more repair control as vehicles become software-defined &nbsp;&nbsp; Automotive News",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdVplcmxmNXg3LWxHc25PRWM0blVGTTlSeGROa1BVVVZtVTBoelRMR3A0bjh3M0tIc0h5eE9ERVFUMmdwSWZsSHp2Q2t0YmdBak52cXZ2N29PcU9neU9JUE82LW9MdU92a0QtUUtWVjJTMExXMVRXTWpCZzA1S29RQkxfS1JtQTJT?oc=5",
-      "date": "Wed, 22 Jul 2026 07:00:00 GMT",
-      "source": "Google News · Software-Defined Vehicles",
+      "id": "google-news-university-automotive-research-tulane-engineering-students-build-formula-style-race-car-as-capstone-project-tulane-university-news",
+      "title": "Tulane engineering students build Formula-style race car as capstone project - Tulane University News",
+      "summary": "Tulane engineering students build Formula-style race car as capstone project &nbsp;&nbsp; Tulane University News",
+      "text": "Tulane engineering students build Formula-style race car as capstone project &nbsp;&nbsp; Tulane University News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZDZsZmE0VTdZbXJJYndXdmJJUkRRSFQ1WGRrdkp4aC1wcTJsTTJ6X2RvV0tQczZ1ODE3aWxyRUJzY1B3RzhWRjdkZ2VBWDN4NF9sMEtQTFZEQnJZb3pLX25xRlRzeG1aOUZGSjBSVFVKV2FCcVRSdlpIQzVjR2ttOF9JYUZhOE1aemU2R09YRHRDcFpWYVk1S2FheXcxY0ljdVE?oc=5",
+      "date": "Wed, 22 Apr 2026 07:00:00 GMT",
+      "source": "Google News · University Automotive Research",
       "category": "AUTOMOTIVE",
       "topic": "Automotive",
       "kind_label": "RSS",
@@ -348,7 +327,7 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 54,
+      "momentum_score": 53,
       "confidence_score": 78,
       "signal_score": 55
     },
@@ -582,25 +561,6 @@
       "signal_score": 65
     },
     {
-      "id": "google-news-mckinsey-automotive-the-future-of-mobility-in-india-s-passenger-vehicle-market-mckinsey-company",
-      "title": "The future of mobility in India’s passenger-vehicle market - McKinsey & Company",
-      "summary": "The future of mobility in India’s passenger-vehicle market &nbsp;&nbsp; McKinsey & Company",
-      "text": "The future of mobility in India’s passenger-vehicle market &nbsp;&nbsp; McKinsey & Company",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQmJnSlh2b1lBVUN1NmRFZmdqWnFkYy1MM19xS2Y4UlF3Uk40SUMxek9YY2ZyeUhIeE5lXzVyUWVpSEZvdTkwMEtFa01rSklkamdLREJJN2tSSXc5R1FRcUZLcXdDdXRsTE9tSTVCakZhR2h3OC1MdTBWTFpVSS13NjVYSmFYbHB0aU50aTNTV3I0SlB4bnB3SmJSQy1EeFlyQlVUcU1fVUNaanl1SGs1WjVKS0dJYjhtTXJxWmt1em9ZQ09LVkJwUEx3?oc=5",
-      "date": "Wed, 18 Jul 2018 07:00:00 GMT",
-      "source": "Google News · McKinsey Automotive",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 47,
-      "confidence_score": 78,
-      "signal_score": 53
-    },
-    {
       "id": "mit-news-autonomous-vehicles-could-ai-tell-you-where-you-left-your-keys",
       "title": "Could AI tell you where you left your keys?",
       "summary": "A new spatial memory system for robots efficiently captures details about the objects they see while exploring their environment.",
@@ -772,25 +732,6 @@
       ],
       "novelty_score": 42,
       "momentum_score": 70,
-      "confidence_score": 78,
-      "signal_score": 61
-    },
-    {
-      "id": "google-news-automotive-news-why-vw-stellantis-and-renault-are-teaming-up-as-europe-s-big-3-automotive-news",
-      "title": "Why VW, Stellantis and Renault are teaming up as Europe’s ‘Big 3’ - Automotive News",
-      "summary": "Why VW, Stellantis and Renault are teaming up as Europe’s ‘Big 3’ &nbsp;&nbsp; Automotive News",
-      "text": "Why VW, Stellantis and Renault are teaming up as Europe’s ‘Big 3’ &nbsp;&nbsp; Automotive News",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWUtRdTl0YVhjT3ZCNHNDQmxhWWdLTUlCU3RoNXNZVHlWRVVkX1BwZG00bFkyOF84ekU1QVp1Ry11Y3U5V2dfQ2ZqYTc2OUNUbzU0RGRybFFlT2lxdGFiX0lSbDlaTVBEeFpJMDVTRkV1VnBzUGxqd0NDZTVhemVjVVhqaw?oc=5",
-      "date": "Wed, 14 Oct 2026 16:52:00 GMT",
-      "source": "Google News · Automotive News",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 71,
       "confidence_score": 78,
       "signal_score": 61
     },
@@ -1334,6 +1275,25 @@
       "signal_score": 62
     },
     {
+      "id": "google-news-sae-international-26autp06-automotive-engineering-june-2026-sae-international",
+      "title": "26AUTP06 : Automotive Engineering: June 2026 - SAE International",
+      "summary": "26AUTP06 : Automotive Engineering: June 2026 &nbsp;&nbsp; SAE International",
+      "text": "26AUTP06 : Automotive Engineering: June 2026 &nbsp;&nbsp; SAE International",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1IWkdIUGRhZ2hSU2E3dkYySVV5RE5TZ0RacC1YSzJzeWlzOVlSdTFNZmZuaC00VXV1WGx5S0tqcFMwUGI3Ti14YnZDRTYzSTJ3UHJZbUxfNGRlYXNBMFhnWENJQ1F4ZmV5NXRNQmJrN21EUzdDSDhiTzdHdk1BZw?oc=5",
+      "date": "Wed, 03 Jun 2026 07:00:00 GMT",
+      "source": "Google News · SAE International",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 47,
+      "confidence_score": 78,
+      "signal_score": 53
+    },
+    {
       "id": "mit-news-autonomous-vehicles-system-helps-humans-predict-when-self-driving-cars-will-make-mistakes",
       "title": "System helps humans predict when self-driving cars will make mistakes",
       "summary": "A new method, called CW-Net, translates the reasoning process of an autonomous vehicle’s AI system into understandable concepts that explain its behavior.",
@@ -1448,25 +1408,6 @@
       "momentum_score": 68,
       "confidence_score": 78,
       "signal_score": 63
-    },
-    {
-      "id": "google-news-bain-mobility-the-ai-native-enterprise-absorption-is-the-new-advantage-bain",
-      "title": "The AI-Native Enterprise: Absorption Is the New Advantage - Bain",
-      "summary": "The AI-Native Enterprise: Absorption Is the New Advantage &nbsp;&nbsp; Bain",
-      "text": "The AI-Native Enterprise: Absorption Is the New Advantage &nbsp;&nbsp; Bain",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSTF1aGxTRTEwSUxmYndWNzY2a185dFRxWEMyb0ZacWo0T1pyWTJ1VlZBNVNDSGxfbzREdkVpV0hYdG1mUGpoRGhrd210S2VFT0c0TkhfZUxEZHozNzVxdUlUcWgzSnZDZWZZTnJUaXBfTGdoTTktYmxSZ3RMU3huLWpROXlQanNzNXpCQXh1dGFjZ0ZPRlpIR2lEeE9Jc3BSejRoZDgtNU9ldkEwT0dF?oc=5",
-      "date": "Tue, 29 Sep 2026 07:00:00 GMT",
-      "source": "Google News · Bain Mobility",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 56,
-      "confidence_score": 78,
-      "signal_score": 56
     },
     {
       "id": "mit-news-research-powered-by-muscle-cells-a-paper-thin-robot-swims-through-watery-maze",
@@ -1757,6 +1698,598 @@
       "momentum_score": 51,
       "confidence_score": 78,
       "signal_score": 54
+    },
+    {
+      "id": "ars-technica-visiting-slate-s-first-showroom-as-its-25-000-electric-truck-nears-production",
+      "title": "Visiting Slate’s first showroom as its $25,000 electric truck nears production",
+      "summary": "Slate's first showroom sells the promise. Mass production will determine the rest.",
+      "text": "Slate's first showroom sells the promise. Mass production will determine the rest.",
+      "link": "https://arstechnica.com/cars/2026/10/visiting-slates-first-showroom-as-its-25000-electric-truck-nears-production/",
+      "date": "Tue, 20 Oct 2026 11:00:16 +0000",
+      "source": "Ars Technica",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 81,
+      "confidence_score": 78,
+      "signal_score": 65
+    },
+    {
+      "id": "techcrunch-yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant",
+      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+      "summary": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
+      "text": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
+      "link": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+      "date": "Tue, 20 Oct 2026 11:00:00 +0000",
+      "source": "TechCrunch",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 52,
+      "confidence_score": 78,
+      "signal_score": 54
+    },
+    {
+      "id": "techcrunch-otter-ai-raises-320-million-from-general-catalyst-s-growth-fund-for-its-meeting-tool",
+      "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+      "summary": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst&#8217;s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation. [&#8230;]",
+      "text": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst&#8217;s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation. [&#8230;]",
+      "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+      "date": "Tue, 20 Oct 2026 11:00:00 +0000",
+      "source": "TechCrunch",
+      "category": "TECH",
+      "topic": "Healthcare",
+      "kind_label": "RSS",
+      "tags": [
+        "Biotech",
+        "Materials"
+      ],
+      "novelty_score": 49,
+      "momentum_score": 64,
+      "confidence_score": 78,
+      "signal_score": 62
+    },
+    {
+      "id": "wired-sony-party-speaker-deal-save-100-off-the-ult-tower-7",
+      "title": "Sony Party Speaker Deal: Save $100 Off the ULT Tower 7",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/sony-party-speaker-deals-october-2026/",
+      "date": "Tue, 20 Oct 2026 11:00:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 50,
+      "confidence_score": 78,
+      "signal_score": 54
+    },
+    {
+      "id": "wired-the-physics-behind-tesla-s-flying-roadster",
+      "title": "The Physics Behind Tesla’s Flying Roadster",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/physics-behind-tesla-flying-roadster/",
+      "date": "Tue, 20 Oct 2026 10:45:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 68,
+      "confidence_score": 78,
+      "signal_score": 60
+    },
+    {
+      "id": "wired-how-final-fantasy-vii-revelation-strikes-the-balance-between-old-and-new",
+      "title": "How ‘Final Fantasy VII Revelation’ Strikes the Balance Between Old and New",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/final-fantasy-vii-revelation/",
+      "date": "Tue, 20 Oct 2026 10:30:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 52,
+      "confidence_score": 78,
+      "signal_score": 54
+    },
+    {
+      "id": "wired-sexual-assault-is-a-free-speech-issue",
+      "title": "Sexual Assault Is a Free Speech Issue",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/the-big-interview-mary-anne-franks/",
+      "date": "Tue, 20 Oct 2026 10:30:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 81,
+      "confidence_score": 78,
+      "signal_score": 65
+    },
+    {
+      "id": "wired-organic-mattress-sale-20-percent-off-essentia-beds",
+      "title": "Organic Mattress Sale: 20 Percent Off Essentia Beds",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/essentia-sale-october-2026/",
+      "date": "Tue, 20 Oct 2026 10:30:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 69,
+      "confidence_score": 78,
+      "signal_score": 60
+    },
+    {
+      "id": "wired-they-fled-trump-s-america-now-they-regret-it",
+      "title": "They Fled Trump’s America. Now They Regret it",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/they-fled-trumps-america-now-they-regret-it/",
+      "date": "Tue, 20 Oct 2026 10:22:23 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 74,
+      "confidence_score": 78,
+      "signal_score": 62
+    },
+    {
+      "id": "wired-this-new-food-delivery-app-could-be-the-antidote-to-menu-markups",
+      "title": "This New Food Delivery App Could Be the Antidote to Menu Markups",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/olo-new-food-delivery-app-could-be-the-antidote-to-menu-markups/",
+      "date": "Tue, 20 Oct 2026 10:15:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 77,
+      "confidence_score": 78,
+      "signal_score": 63
+    },
+    {
+      "id": "wired-demi-adejuyigbe-thinks-you-should-only-post-3-times-a-day",
+      "title": "Demi Adejuyigbe Thinks You Should Only Post 3 Times a Day",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/demi-adejuyigbe-user-behavior/",
+      "date": "Tue, 20 Oct 2026 10:00:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 51,
+      "confidence_score": 78,
+      "signal_score": 54
+    },
+    {
+      "id": "wired-5-best-ai-notetakers-2026-tested-and-reviewed",
+      "title": "5 Best AI Notetakers (2026), Tested and Reviewed",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/gallery/best-ai-notetakers/",
+      "date": "Tue, 20 Oct 2026 10:00:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 66,
+      "confidence_score": 78,
+      "signal_score": 59
+    },
+    {
+      "id": "mit-technology-review-ai-how-to-study-a-swiftly-melting-climate-disaster",
+      "title": "How to study a swiftly melting climate disaster",
+      "summary": "Andrew Haverdink, a tall grad student in a rain bib and rubber boots, wrenched a double-handed drill from the frozen soil that underlies much of Alaska’s Denali National Park and then unclipped the hollow barrel from the end of the bit.&#160; He knelt in front of a blue tarp, lined the barrel up with a&#8230;",
+      "text": "Andrew Haverdink, a tall grad student in a rain bib and rubber boots, wrenched a double-handed drill from the frozen soil that underlies much of Alaska’s Denali National Park and then unclipped the hollow barrel from the end of the bit.&#160; He knelt in front of a blue tarp, lined the barrel up with a&#8230;",
+      "link": "https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/",
+      "date": "Tue, 20 Oct 2026 10:00:00 +0000",
+      "source": "MIT Technology Review · AI",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 41,
+      "confidence_score": 78,
+      "signal_score": 51
+    },
+    {
+      "id": "wired-how-to-see-the-orionid-meteor-shower-and-other-upcoming-astronomical-events",
+      "title": "How to See the Orionid Meteor Shower and Other Upcoming Astronomical Events",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/how-to-see-the-orionid-meteor-shower-and-other-upcoming-astronomical-events/",
+      "date": "Tue, 20 Oct 2026 09:30:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 62,
+      "confidence_score": 78,
+      "signal_score": 58
+    },
+    {
+      "id": "wired-hatch-sleep-clock-review-a-contactless-sleep-tracker-2026",
+      "title": "Hatch Sleep Clock Review: A Contactless Sleep Tracker (2026)",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/review/review-hatch-sleep-clock/",
+      "date": "Tue, 20 Oct 2026 09:07:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 41,
+      "confidence_score": 78,
+      "signal_score": 51
+    },
+    {
+      "id": "mit-technology-review-ai-a-visit-to-samsung-s-massive-new-semiconductor-hub",
+      "title": "A visit to Samsung’s massive new semiconductor hub",
+      "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate around the clock, and a fourth is coming online. Construction&#8230;",
+      "text": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate around the clock, and a fourth is coming online. Construction&#8230;",
+      "link": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+      "date": "Tue, 20 Oct 2026 09:00:00 +0000",
+      "source": "MIT Technology Review · AI",
+      "category": "TECH",
+      "topic": "Semiconductors",
+      "kind_label": "RSS",
+      "tags": [
+        "Semiconductors",
+        "Biotech"
+      ],
+      "novelty_score": 49,
+      "momentum_score": 65,
+      "confidence_score": 78,
+      "signal_score": 62
+    },
+    {
+      "id": "mit-technology-review-ai-these-startups-hope-blended-food-will-cut-our-appetite-for-red-meat",
+      "title": "These startups hope “blended” food will cut our appetite for red meat",
+      "summary": "In the fall of 2025, Jeff Dodge set up a six-foot folding table in the cafeteria of Cane Bay High School in Summerville, South Carolina, to conduct a taste test. When the first rush of about 150 hungry students hit, he was waiting with slow cookers filled with steaming marinara sauce and meatballs.&#160; Kids love&#8230;",
+      "text": "In the fall of 2025, Jeff Dodge set up a six-foot folding table in the cafeteria of Cane Bay High School in Summerville, South Carolina, to conduct a taste test. When the first rush of about 150 hungry students hit, he was waiting with slow cookers filled with steaming marinara sauce and meatballs.&#160; Kids love&#8230;",
+      "link": "https://www.technologyreview.com/2026/10/20/1145927/blended-meat-food-startups-building-bridge-to-ditch-red-meat/",
+      "date": "Tue, 20 Oct 2026 09:00:00 +0000",
+      "source": "MIT Technology Review · AI",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 66,
+      "confidence_score": 78,
+      "signal_score": 59
+    },
+    {
+      "id": "google-news-software-defined-vehicles-ecarx-s-flyme-acquisition-to-strengthen-its-position-in-sdv-market-just-auto",
+      "title": "ECARX’s Flyme acquisition to strengthen its position in SDV market - Just Auto",
+      "summary": "ECARX’s Flyme acquisition to strengthen its position in SDV market &nbsp;&nbsp; Just Auto",
+      "text": "ECARX’s Flyme acquisition to strengthen its position in SDV market &nbsp;&nbsp; Just Auto",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeXFGVTkweWVQZVctWm9zb1ZTUHFEdXJnR0J4OWVKZHdzV29QYWRYb1RpSkoyWmdJOEV6VEZjNFNZZWNVQTYweDBmUjRNSlNOX01IYmV6LV96UWFOZ0hRZlZ2XzVBOTlkMFNVQ21kT1ZhLUdBb2R1NHQwNnprUGhZOTBCNDNtLU1VZHp6S1JNOFBlNWpMUTVDd3hrNTNFUQ?oc=5",
+      "date": "Tue, 20 Oct 2026 08:16:12 GMT",
+      "source": "Google News · Software-Defined Vehicles",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive",
+        "SDV"
+      ],
+      "novelty_score": 49,
+      "momentum_score": 44,
+      "confidence_score": 78,
+      "signal_score": 54
+    },
+    {
+      "id": "techcrunch-blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet",
+      "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
+      "summary": "Blackwall has raised $100M at a $2.2B valuation to continue building security and filtering tools that help websites grapple with growing bot and AI traffic.",
+      "text": "Blackwall has raised $100M at a $2.2B valuation to continue building security and filtering tools that help websites grapple with growing bot and AI traffic.",
+      "link": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
+      "date": "Tue, 20 Oct 2026 07:01:00 +0000",
+      "source": "TechCrunch",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Cybersecurity"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 69,
+      "confidence_score": 78,
+      "signal_score": 60
+    },
+    {
+      "id": "ars-technica-japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos",
+      "title": "Japan launches mission to bring home a piece of the Martian moon Phobos",
+      "summary": "The climax for MMX will come in 2029, when the spacecraft will attempt up to two landings on Phobos.",
+      "text": "The climax for MMX will come in 2029, when the spacecraft will attempt up to two landings on Phobos.",
+      "link": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/",
+      "date": "Tue, 20 Oct 2026 05:59:56 +0000",
+      "source": "Ars Technica",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 72,
+      "confidence_score": 78,
+      "signal_score": 62
+    },
+    {
+      "id": "wired-adorama-camera-coupon-codes-promo-codes-october-2026",
+      "title": "Adorama Camera Coupon Codes & Promo Codes: October 2026",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/adorama-promo-code/",
+      "date": "Tue, 20 Oct 2026 05:00:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 49,
+      "confidence_score": 78,
+      "signal_score": 53
+    },
+    {
+      "id": "wired-mint-mobile-discounts-for-october-2026",
+      "title": "Mint Mobile Discounts for October 2026",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/mint-mobile-promo-code/",
+      "date": "Tue, 20 Oct 2026 05:00:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 70,
+      "confidence_score": 78,
+      "signal_score": 61
+    },
+    {
+      "id": "wired-mattress-firm-coupons-save-up-to-700",
+      "title": "Mattress Firm Coupons: Save up to $700",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/mattress-firm-coupon/",
+      "date": "Tue, 20 Oct 2026 05:00:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 83,
+      "confidence_score": 78,
+      "signal_score": 65
+    },
+    {
+      "id": "wired-wayfair-coupons-up-to-80-off-october-2026",
+      "title": "Wayfair Coupons: Up to 80% Off October 2026",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/wayfair-promo-code/",
+      "date": "Tue, 20 Oct 2026 05:00:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 58,
+      "confidence_score": 78,
+      "signal_score": 57
+    },
+    {
+      "id": "wired-50-off-doordash-promo-code-october-2026",
+      "title": "50% Off DoorDash Promo Code | October 2026",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/doordash-promo-code/",
+      "date": "Tue, 20 Oct 2026 05:00:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 83,
+      "confidence_score": 78,
+      "signal_score": 65
+    },
+    {
+      "id": "wired-chewy-promo-codes-20-off-october-2026",
+      "title": "Chewy Promo Codes: $20 Off October 2026",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/chewy-promo-code/",
+      "date": "Tue, 20 Oct 2026 05:00:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 55,
+      "confidence_score": 78,
+      "signal_score": 56
+    },
+    {
+      "id": "wired-30-off-canon-promo-codes-october-2026",
+      "title": "30% Off Canon Promo Codes | October 2026",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/canon-promo-code/",
+      "date": "Tue, 20 Oct 2026 05:00:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 80,
+      "confidence_score": 78,
+      "signal_score": 64
+    },
+    {
+      "id": "wired-whoop-promo-codes-20-off-this-october-2026",
+      "title": "Whoop Promo Codes: 20% Off This October 2026",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/whoop-promo-code/",
+      "date": "Tue, 20 Oct 2026 05:00:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 71,
+      "confidence_score": 78,
+      "signal_score": 61
+    },
+    {
+      "id": "wired-home-chef-promo-codes-for-october-2026",
+      "title": "Home Chef Promo Codes for October 2026",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/home-chef-promo-code/",
+      "date": "Tue, 20 Oct 2026 05:00:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 57,
+      "confidence_score": 78,
+      "signal_score": 56
+    },
+    {
+      "id": "wired-at-t-promo-codes-50-off-this-october-2026",
+      "title": "AT&T Promo Codes: $50 Off This October 2026",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/att-promo-code/",
+      "date": "Tue, 20 Oct 2026 05:00:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 55,
+      "confidence_score": 78,
+      "signal_score": 56
+    },
+    {
+      "id": "wired-ebay-coupons-20-off-in-october-2026",
+      "title": "eBay Coupons: 20% Off in October 2026",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/ebay-coupon-code/",
+      "date": "Tue, 20 Oct 2026 05:00:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 65,
+      "confidence_score": 78,
+      "signal_score": 59
     },
     {
       "id": "techcrunch-walmart-s-flipkart-is-quietly-building-a-food-delivery-challenger-in-india",
@@ -2298,24 +2831,23 @@
       "signal_score": 64
     },
     {
-      "id": "google-news-sae-technical-papers-research-on-occupant-injury-prediction-method-of-vehicle-emergency-call-system-based-on-machine-learning-sae-mobilus",
-      "title": "Research on Occupant Injury Prediction Method of Vehicle Emergency Call System Based on Machine Learning - SAE Mobilus",
-      "summary": "Research on Occupant Injury Prediction Method of Vehicle Emergency Call System Based on Machine Learning &nbsp;&nbsp; SAE Mobilus",
-      "text": "Research on Occupant Injury Prediction Method of Vehicle Emergency Call System Based on Machine Learning &nbsp;&nbsp; SAE Mobilus",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQd25feGc0empKZFFIdTRadl9EVUdiTm9nb3BlWi1jMEpvZS1sc1RZWHJ0TEthSDd2Mjl6QVhqSldJbjZPMzNDTGJLRDhxS3dyYTViNUZ2dTlVdmxwZUduVm1nbDd2dTU0VWhEN0UyTlhLd0FVU1V1Z1hKd0UzbW9rTTNobXB2c1ZaTE1zZ2tSalA2cE1jN2tFc3ZzZUtQemRkZFBWaGw1aUJVdG5RcmZMcWJWQ1FGY1J6dmF4NnRtb3R5SFNhWGpxS084WU1GdVF5bWVjWXRkOEd4UQ?oc=5",
-      "date": "Tue, 09 Apr 2024 07:00:00 GMT",
-      "source": "Google News · SAE Technical Papers",
+      "id": "google-news-mckinsey-automotive-exploring-consumer-sentiment-on-electric-vehicle-charging-mckinsey-company",
+      "title": "Exploring consumer sentiment on electric-vehicle charging - McKinsey & Company",
+      "summary": "Exploring consumer sentiment on electric-vehicle charging &nbsp;&nbsp; McKinsey & Company",
+      "text": "Exploring consumer sentiment on electric-vehicle charging &nbsp;&nbsp; McKinsey & Company",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQS0pyZ0kyU1ZJQ2ltV053dDlSMmlQNWJVLWozdUYxSkZ2bFlZZERwTzQyY3JnSnhpbFRpRHlYTy15bTM0NmpYUE1aRjVVRWtYaExwemVUZU1ISl9rZXdodFRKaHlvVzROZDZSWU5LVmxYX2RlYlVqUmlnem9zQkhra0RGY1FKR0RRRnNDaFI5MGZlN0x1SkxXeHNFRFFJQ1FacThHbHcwRlRGbGpnT2g2NTNYYmxtVGlUelVYS01yLTRqR1VSM1NWMGZYd3hlZ1lZbHlkV3hUOA?oc=5",
+      "date": "Tue, 09 Jan 2024 08:00:00 GMT",
+      "source": "Google News · McKinsey Automotive",
       "category": "AUTOMOTIVE",
       "topic": "Automotive",
       "kind_label": "RSS",
       "tags": [
-        "Automotive",
-        "AI"
+        "Automotive"
       ],
-      "novelty_score": 49,
-      "momentum_score": 40,
+      "novelty_score": 42,
+      "momentum_score": 81,
       "confidence_score": 78,
-      "signal_score": 53
+      "signal_score": 65
     },
     {
       "id": "google-news-bain-mobility-electric-vehicles-the-profit-puzzle-for-us-manufacturers-bain",
@@ -3208,25 +3740,6 @@
       "signal_score": 52
     },
     {
-      "id": "google-news-automotive-news-mission-s-concept-imagines-porsche-return-to-midengine-supercars-future-design-automotive-news",
-      "title": "Mission S concept imagines Porsche return to midengine supercars, future design - Automotive News",
-      "summary": "Mission S concept imagines Porsche return to midengine supercars, future design &nbsp;&nbsp; Automotive News",
-      "text": "Mission S concept imagines Porsche return to midengine supercars, future design &nbsp;&nbsp; Automotive News",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUkxKRl9PVFVuZW92b3NWSlYybnNWMTdEOGUxbzFPNHFiQzE0NzQwazhwcU9NbXRlRzVtTllLWVZIekhwVEJ5NkZmbTJmNmVvYzk2ZmdFLW1US0V5SjZNdTlLYjc3djVIN0ZOa0xOVm11R2FUZUlRY2ZfaHdMVlhXZXJyb3I?oc=5",
-      "date": "Thu, 15 Oct 2026 20:30:00 GMT",
-      "source": "Google News · Automotive News",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 77,
-      "confidence_score": 78,
-      "signal_score": 63
-    },
-    {
       "id": "mit-news-engineering-mit-student-leaders-q-a-with-association-of-student-activities-president-hana-sousa",
       "title": "MIT student leaders: Q&A with Association of Student Activities president Hana Sousa",
       "summary": "The senior in chemical engineering volunteers with the ASA as a way to advocate for students and to strengthen bridges between MIT and its student clubs and groups.",
@@ -3280,25 +3793,6 @@
       ],
       "novelty_score": 42,
       "momentum_score": 75,
-      "confidence_score": 78,
-      "signal_score": 63
-    },
-    {
-      "id": "google-news-automotive-news-jeep-pushes-limits-with-monthly-wrangler-special-edition-launches-automotive-news",
-      "title": "Jeep pushes limits with monthly Wrangler special-edition launches - Automotive News",
-      "summary": "Jeep pushes limits with monthly Wrangler special-edition launches &nbsp;&nbsp; Automotive News",
-      "text": "Jeep pushes limits with monthly Wrangler special-edition launches &nbsp;&nbsp; Automotive News",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBXYTFMb3o0c2VZa1lrUTJGN2Y3OUludzg3bXYtek1Zem93UXRmNEF4eE9ZbFI3dEtRajkxbkRlakJRd3AwLUdoV0JyUFlDM1ozY1hnRGpvYUhkX1ZMTXFkTktieEtEdk1XdC0wd2lXWTd0UTk3NlotREx6OEprZw?oc=5",
-      "date": "Thu, 15 Oct 2026 15:00:00 GMT",
-      "source": "Google News · Automotive News",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 76,
       "confidence_score": 78,
       "signal_score": 63
     },
@@ -4114,25 +4608,6 @@
       "signal_score": 63
     },
     {
-      "id": "google-news-pwc-automotive-powertrain-study-2025-pwc",
-      "title": "Powertrain study 2025 - PwC",
-      "summary": "Powertrain study 2025 &nbsp;&nbsp; PwC",
-      "text": "Powertrain study 2025 &nbsp;&nbsp; PwC",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdTZkWDdJQnRSQXFrU0kyRzAtSmtDZ0c0WW1aSzcxY0lYRXF4YUl3RGVDN1BfNS1PREllZDNQdTl4cUNoSFlkNUpqNXNzQkNfU09scXlRVE9INWk2ci1PMXhfc2U2dUItdzk2TEtPYWVGVllsZE9zblJYWGNaTGlMX2J6UGtMZE5m?oc=5",
-      "date": "Thu, 06 Jan 2022 23:13:59 GMT",
-      "source": "Google News · PwC Automotive",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 56,
-      "confidence_score": 78,
-      "signal_score": 56
-    },
-    {
       "id": "google-news-bain-mobility-when-less-is-more-shifting-gears-in-automotive-r-d-bain",
       "title": "When Less Is More: Shifting Gears in Automotive R&D - Bain",
       "summary": "When Less Is More: Shifting Gears in Automotive R&D &nbsp;&nbsp; Bain",
@@ -4170,6 +4645,25 @@
       "momentum_score": 77,
       "confidence_score": 78,
       "signal_score": 66
+    },
+    {
+      "id": "google-news-pwc-automotive-mexico-corporate-deductions-pwc",
+      "title": "Mexico - Corporate - Deductions - PwC",
+      "summary": "Mexico - Corporate - Deductions &nbsp;&nbsp; PwC",
+      "text": "Mexico - Corporate - Deductions &nbsp;&nbsp; PwC",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XSkhfOFhkN2hRaTcxTk5ZaUlXY3NCWk9WV0ZHdzB0LUhPemNua3oxNXBmTzZ5Ti1PcWl5R1Q3WFhxcjJjdDlZcmQ4S29CdC1tX1huemd5NFA2bG16SWxFNU1CNm9GZHc?oc=5",
+      "date": "Thu, 06 Aug 2026 07:00:00 GMT",
+      "source": "Google News · PwC Automotive",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 42,
+      "confidence_score": 78,
+      "signal_score": 51
     },
     {
       "id": "mit-news-electric-vehicles-a-winning-formula-for-student-project-teams-at-mit",
@@ -4458,25 +4952,6 @@
       "signal_score": 63
     },
     {
-      "id": "techcrunch-no-agenda-no-rush-no-leaving-san-francisco-benchmark-s-partners-on-investing-in-a-frenzied-market",
-      "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
-      "summary": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms",
-      "text": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms",
-      "link": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
-      "date": "Sun, 18 Oct 2026 21:00:00 +0000",
-      "source": "TechCrunch",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 70,
-      "confidence_score": 78,
-      "signal_score": 61
-    },
-    {
       "id": "ars-technica-anthropic-gives-outside-ai-watchdog-employee-like-access",
       "title": "Anthropic gives outside AI watchdog “employee-like” access",
       "summary": "The outside watchdog can publish its findings without Anthropic's approval.",
@@ -4492,63 +4967,6 @@
       ],
       "novelty_score": 42,
       "momentum_score": 69,
-      "confidence_score": 78,
-      "signal_score": 60
-    },
-    {
-      "id": "wired-20-best-gifts-for-men-manly-men-and-manly-man-men-2026",
-      "title": "20 Best Gifts for Men, Manly Men, and Manly Man Men (2026)",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/gallery/best-gifts-for-manly-men-2026/",
-      "date": "Sun, 18 Oct 2026 11:01:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 65,
-      "confidence_score": 78,
-      "signal_score": 59
-    },
-    {
-      "id": "wired-onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty",
-      "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
-      "date": "Sun, 18 Oct 2026 10:30:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 45,
-      "confidence_score": 78,
-      "signal_score": 52
-    },
-    {
-      "id": "wired-data-centers-have-a-new-pr-plan-your-kid-s-field-trip",
-      "title": "Data Centers Have a New PR Plan: Your Kid’s Field Trip",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/",
-      "date": "Sun, 18 Oct 2026 10:30:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 68,
       "confidence_score": 78,
       "signal_score": 60
     },
@@ -4570,82 +4988,6 @@
       "momentum_score": 80,
       "confidence_score": 78,
       "signal_score": 64
-    },
-    {
-      "id": "wired-valerion-visionmaster-max-4k-projector-review-looks-great-sounds-ok",
-      "title": "Valerion VisionMaster Max 4K Projector Review: Looks Great, Sounds OK",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/review/valerion-visionmaster-max-4k-projector/",
-      "date": "Sun, 18 Oct 2026 10:00:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 57,
-      "confidence_score": 78,
-      "signal_score": 56
-    },
-    {
-      "id": "wired-climate-change-has-it-in-for-the-world-s-best-surfing",
-      "title": "Climate Change Has It In for the World’s Best Surfing",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/climate-change-has-it-in-for-the-worlds-best-surfing/",
-      "date": "Sun, 18 Oct 2026 09:00:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 42,
-      "confidence_score": 78,
-      "signal_score": 51
-    },
-    {
-      "id": "wired-magnesium-may-not-reach-your-brain-despite-supplement-label-promises",
-      "title": "Magnesium May Not Reach Your Brain, Despite Supplement Label Promises",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/magnesium-may-not-reach-your-brain-despite-supplement-label-promises/",
-      "date": "Sun, 18 Oct 2026 09:00:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 46,
-      "confidence_score": 78,
-      "signal_score": 52
-    },
-    {
-      "id": "wired-the-best-airpods-cases-we-ve-used-in-our-day-to-day-lives-2026",
-      "title": "The Best AirPods Cases We’ve Used In Our Day-to-Day Lives (2026)",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/best-airpods-case/",
-      "date": "Sun, 18 Oct 2026 09:00:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 55,
-      "confidence_score": 78,
-      "signal_score": 56
     },
     {
       "id": "mit-news-research-giving-ai-a-crystal-clear-view-of-the-materials-world",
@@ -4875,44 +5217,6 @@
       "momentum_score": 62,
       "confidence_score": 78,
       "signal_score": 61
-    },
-    {
-      "id": "wired-encryption-is-getting-squeezed-from-all-sides",
-      "title": "Encryption Is Getting Squeezed From All Sides",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/kernel-panic-encryption-is-getting-squeezed-from-all-sides/",
-      "date": "Sat, 17 Oct 2026 12:00:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 71,
-      "confidence_score": 78,
-      "signal_score": 61
-    },
-    {
-      "id": "wired-the-best-led-grow-lights-for-houseplants-this-winter-2026",
-      "title": "The Best LED Grow Lights for Houseplants This Winter (2026)",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/best-led-grow-lights/",
-      "date": "Sat, 17 Oct 2026 11:30:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 79,
-      "confidence_score": 78,
-      "signal_score": 64
     },
     {
       "id": "ars-technica-science-says-your-boss-should-talk-less-in-meetings",
@@ -5468,310 +5772,6 @@
       "momentum_score": 65,
       "confidence_score": 78,
       "signal_score": 59
-    },
-    {
-      "id": "ars-technica-russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine",
-      "title": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
-      "summary": "\"Kosmos 2612 closed from hundreds of kilometers away to extreme proximity to ICEYE-X36.\"",
-      "text": "\"Kosmos 2612 closed from hundreds of kilometers away to extreme proximity to ICEYE-X36.\"",
-      "link": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/",
-      "date": "Mon, 19 Oct 2026 20:54:17 +0000",
-      "source": "Ars Technica",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 47,
-      "confidence_score": 78,
-      "signal_score": 53
-    },
-    {
-      "id": "ars-technica-accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says",
-      "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
-      "summary": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
-      "text": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
-      "link": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
-      "date": "Mon, 19 Oct 2026 20:21:53 +0000",
-      "source": "Ars Technica",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 75,
-      "confidence_score": 78,
-      "signal_score": 63
-    },
-    {
-      "id": "techcrunch-amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool",
-      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-      "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
-      "text": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
-      "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-      "date": "Mon, 19 Oct 2026 20:09:24 +0000",
-      "source": "TechCrunch",
-      "category": "TECH",
-      "topic": "Semiconductors",
-      "kind_label": "RSS",
-      "tags": [
-        "Semiconductors"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 74,
-      "confidence_score": 78,
-      "signal_score": 62
-    },
-    {
-      "id": "ars-technica-batteries-help-reduce-emissions-but-how-do-we-reduce-their-emissions",
-      "title": "Batteries help reduce emissions, but how do we reduce their emissions?",
-      "summary": "One way to make batteries cleaner is to make fewer of them.",
-      "text": "One way to make batteries cleaner is to make fewer of them.",
-      "link": "https://arstechnica.com/science/2026/10/batteries-have-a-small-carbon-footprint-we-can-make-it-smaller/",
-      "date": "Mon, 19 Oct 2026 20:03:55 +0000",
-      "source": "Ars Technica",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 84,
-      "confidence_score": 78,
-      "signal_score": 66
-    },
-    {
-      "id": "wired-openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody",
-      "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
-      "date": "Mon, 19 Oct 2026 19:49:17 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 80,
-      "confidence_score": 78,
-      "signal_score": 64
-    },
-    {
-      "id": "wired-the-best-mixbook-sale-for-holiday-cards-2026",
-      "title": "The Best Mixbook Sale for Holiday Cards (2026)",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/mixbook-photo-card-fall-sale-2026/",
-      "date": "Mon, 19 Oct 2026 19:43:22 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 42,
-      "confidence_score": 78,
-      "signal_score": 51
-    },
-    {
-      "id": "ars-technica-psa-patch-your-plex-media-server-before-someone-hacks-it",
-      "title": "PSA: Patch your Plex media server before someone hacks it",
-      "summary": "A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes.",
-      "text": "A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes.",
-      "link": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
-      "date": "Mon, 19 Oct 2026 19:39:19 +0000",
-      "source": "Ars Technica",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 54,
-      "confidence_score": 78,
-      "signal_score": 55
-    },
-    {
-      "id": "techcrunch-hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts",
-      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-      "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
-      "text": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
-      "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-      "date": "Mon, 19 Oct 2026 19:28:34 +0000",
-      "source": "TechCrunch",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 78,
-      "confidence_score": 78,
-      "signal_score": 64
-    },
-    {
-      "id": "ars-technica-startup-taps-underwater-volcano-as-energy-source-in-proof-point-test",
-      "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
-      "summary": "Can undersea geothermal power help Pacific Rim nations cut down on oil imports?",
-      "text": "Can undersea geothermal power help Pacific Rim nations cut down on oil imports?",
-      "link": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
-      "date": "Mon, 19 Oct 2026 19:27:24 +0000",
-      "source": "Ars Technica",
-      "category": "TECH",
-      "topic": "Energy",
-      "kind_label": "RSS",
-      "tags": [
-        "Energy"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 70,
-      "confidence_score": 78,
-      "signal_score": 61
-    },
-    {
-      "id": "techcrunch-tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life",
-      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
-      "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
-      "text": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
-      "link": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
-      "date": "Mon, 19 Oct 2026 19:00:12 +0000",
-      "source": "TechCrunch",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 83,
-      "confidence_score": 78,
-      "signal_score": 65
-    },
-    {
-      "id": "wired-election-offices-in-at-least-32-states-have-received-suspicious-letters",
-      "title": "Election Offices in at Least 32 States Have Received Suspicious Letters",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/election-offices-in-at-least-32-states-have-received-suspicious-letters-in-the-last-week/",
-      "date": "Mon, 19 Oct 2026 18:55:05 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 43,
-      "confidence_score": 78,
-      "signal_score": 51
-    },
-    {
-      "id": "techcrunch-replika-s-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago",
-      "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
-      "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
-      "text": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
-      "link": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
-      "date": "Mon, 19 Oct 2026 18:49:04 +0000",
-      "source": "TechCrunch",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 48,
-      "confidence_score": 78,
-      "signal_score": 53
-    },
-    {
-      "id": "wired-japan-s-mmx-mission-wants-to-bring-martian-moon-samples-back-to-earth",
-      "title": "Japan’s MMX Mission Wants to Bring Martian Moon Samples Back to Earth",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/japan-audacious-mmx-mission-sample-martian-moon/",
-      "date": "Mon, 19 Oct 2026 18:45:06 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 68,
-      "confidence_score": 78,
-      "signal_score": 60
-    },
-    {
-      "id": "techcrunch-tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips",
-      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-      "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
-      "text": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
-      "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-      "date": "Mon, 19 Oct 2026 18:37:27 +0000",
-      "source": "TechCrunch",
-      "category": "TECH",
-      "topic": "Semiconductors",
-      "kind_label": "RSS",
-      "tags": [
-        "Semiconductors"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 42,
-      "confidence_score": 78,
-      "signal_score": 51
-    },
-    {
-      "id": "ars-technica-reactos-reaches-major-milestone-with-ntfs-install-support",
-      "title": "ReactOS reaches major milestone with NTFS install support",
-      "summary": "ReactOS gains NTFS install support with new driver.",
-      "text": "ReactOS gains NTFS install support with new driver.",
-      "link": "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/",
-      "date": "Mon, 19 Oct 2026 18:30:56 +0000",
-      "source": "Ars Technica",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 69,
-      "confidence_score": 78,
-      "signal_score": 60
-    },
-    {
-      "id": "mit-technology-review-ai-making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else",
-      "title": "Making the internet better for AI agents might make it worse for everyone else",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like capturing the content of web pages, but rules&#8230;",
-      "text": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like capturing the content of web pages, but rules&#8230;",
-      "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
-      "date": "Mon, 19 Oct 2026 18:22:47 +0000",
-      "source": "MIT Technology Review · AI",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 76,
-      "confidence_score": 78,
-      "signal_score": 63
     }
   ],
   "health": [
@@ -5824,23 +5824,27 @@
     },
     {
       "name": "arXiv · AI/ML",
-      "ok": true,
-      "count": 18
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 429: Unknown Error"
     },
     {
       "name": "arXiv · Systems",
-      "ok": true,
-      "count": 18
+      "ok": false,
+      "count": 0,
+      "error": "The read operation timed out"
     },
     {
       "name": "arXiv · Robotics",
-      "ok": true,
-      "count": 18
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 429: Unknown Error"
     },
     {
       "name": "arXiv · Automotive/Control",
-      "ok": true,
-      "count": 18
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 429: Unknown Error"
     },
     {
       "name": "Reddit · AutomotiveEngineering",
