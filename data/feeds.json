@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-11-05T00:54:47.617216+00:00",
+  "generated_at": "2026-11-05T09:31:25.141181+00:00",
   "items": [
     {
       "id": "google-news-sae-technical-papers-2025-01-7321-effective-aperture-determination-for-efficient-vehicle-mounted-antennas-measurement-via-spherical-wave-e",
@@ -20,6 +20,25 @@
       "momentum_score": 59,
       "confidence_score": 78,
       "signal_score": 57
+    },
+    {
+      "id": "google-news-sae-international-r-437-project-management-for-automotive-engineers-a-field-guide-sae-international",
+      "title": "R-437 : Project Management for Automotive Engineers: A Field Guide - SAE International",
+      "summary": "R-437 : Project Management for Automotive Engineers: A Field Guide &nbsp;&nbsp; SAE International",
+      "text": "R-437 : Project Management for Automotive Engineers: A Field Guide &nbsp;&nbsp; SAE International",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZDE3bkxfR2NldXktRFdBTEtkdDVDdC1VVmt4bVB1b2pXVFNmNUhTOW9qUEpDRXdSQmZkUG1mWDVkY3MxVjFKck9sNkwwdE9DUTNTNE8xMFVhM2VpWUxucl92ZktsR3lIcjRRb09hbFUxQ3VxemRlLXdZbURhZTA5SEZqZHpOdkdtZC00aEZR?oc=5",
+      "date": "Wed, 31 Aug 2016 07:00:00 GMT",
+      "source": "Google News · SAE International",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 79,
+      "confidence_score": 78,
+      "signal_score": 64
     },
     {
       "id": "mit-news-electric-vehicles-burning-things-to-make-things",
@@ -502,25 +521,6 @@
       "momentum_score": 51,
       "confidence_score": 78,
       "signal_score": 54
-    },
-    {
-      "id": "mit-news-engineering-for-students-with-their-sights-set-on-space-medicine-a-new-community-takes-flight",
-      "title": "For students with their sights set on space medicine, a new community takes flight",
-      "summary": "MIT’s Doctors Without Gravity club connects health and space science enthusiasts.",
-      "text": "MIT’s Doctors Without Gravity club connects health and space science enthusiasts.",
-      "link": "https://news.mit.edu/2026/mit-doctors-without-gravity-takes-flight-1021",
-      "date": "Wed, 21 Oct 2026 16:40:00 -0400",
-      "source": "MIT News · Engineering",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 45,
-      "confidence_score": 78,
-      "signal_score": 52
     },
     {
       "id": "ieee-spectrum-how-wikipedia-s-editors-keep-the-online-encyclopedia-human-written",
@@ -1411,6 +1411,25 @@
       "signal_score": 62
     },
     {
+      "id": "google-news-university-automotive-research-as-cars-think-faster-thermal-design-becomes-the-next-engineering-frontier-design-news",
+      "title": "As Cars Think Faster, Thermal Design Becomes the Next Engineering Frontier - Design News",
+      "summary": "As Cars Think Faster, Thermal Design Becomes the Next Engineering Frontier &nbsp;&nbsp; Design News",
+      "text": "As Cars Think Faster, Thermal Design Becomes the Next Engineering Frontier &nbsp;&nbsp; Design News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaFlJYXhULUlxZTlPZ00xTEtPYnBiR01WUmNETXBnNEdWdU5DYnE5cmlhc3JvN3lIMUxWZEppWUxyQ2VPRmp4eDMxWENZOWd3SUVHZERUOHNKTG95QWhYLTNxTms5cDVpb2VfR1dibzNFb05mNFBqZlBPS0ZSSDIzc0VyNHBzbWJYRFJRQTJjQzZvMm9Rd2lWeTdFWlBnaEtocXdNT3RndzU3bFVJR3BGMldYQmE5cWM?oc=5",
+      "date": "Wed, 04 Nov 2026 23:35:15 GMT",
+      "source": "Google News · University Automotive Research",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 47,
+      "confidence_score": 78,
+      "signal_score": 53
+    },
+    {
       "id": "wired-the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space",
       "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
       "summary": "Source item available; open the source for details.",
@@ -2096,25 +2115,6 @@
       "signal_score": 54
     },
     {
-      "id": "wired-you-don-t-put-your-head-in-the-sand-for-4-years-colossal-ceo-ben-lamm-on-working-with-trump",
-      "title": "‘You Don’t Put Your Head in the Sand for 4 Years’: Colossal CEO Ben Lamm on Working With Trump",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/wired-world-fair-2026-ben-lamm-colossal-biosciences/",
-      "date": "Wed, 04 Nov 2026 16:43:35 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 59,
-      "confidence_score": 78,
-      "signal_score": 57
-    },
-    {
       "id": "techcrunch-google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai",
       "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
       "summary": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
@@ -2132,25 +2132,6 @@
       "momentum_score": 74,
       "confidence_score": 78,
       "signal_score": 62
-    },
-    {
-      "id": "wired-voters-set-400-million-of-elon-musk-s-money-on-fire",
-      "title": "Voters Set $400 Million of Elon Musk’s Money on Fire",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/voters-set-dollar400-million-of-elon-musks-money-on-fire/",
-      "date": "Wed, 04 Nov 2026 16:06:12 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 60,
-      "confidence_score": 78,
-      "signal_score": 57
     },
     {
       "id": "ars-technica-binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist",
@@ -2210,25 +2191,6 @@
       "signal_score": 64
     },
     {
-      "id": "wired-election-deniers-aren-t-contesting-their-massive-losses",
-      "title": "Election Deniers Aren’t Contesting Their Massive Losses",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/election-deniers-not-contesting-their-massive-losses/",
-      "date": "Wed, 04 Nov 2026 15:30:18 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 84,
-      "confidence_score": 78,
-      "signal_score": 66
-    },
-    {
       "id": "ars-technica-the-dea-banned-a-drug-some-opioid-users-called-a-miracle",
       "title": "The DEA banned a drug some opioid users called a miracle",
       "summary": "Researchers say the Schedule I ban could kill studies of a promising opioid treatment.",
@@ -2267,25 +2229,6 @@
       "signal_score": 51
     },
     {
-      "id": "wired-musk-director-alex-gibney-wants-to-know-if-democrats-can-now-hold-elon-musk-accountable",
-      "title": "‘Musk’ Director Alex Gibney Wants to Know if Democrats Can Now Hold Elon Musk Accountable",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/wired-world-fair-2026-alex-gibney-musk/",
-      "date": "Wed, 04 Nov 2026 14:15:21 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 78,
-      "confidence_score": 78,
-      "signal_score": 64
-    },
-    {
       "id": "techcrunch-revolut-s-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank",
       "title": "Revolut’s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank",
       "summary": "Glade Brook, Coatue, and T. Rowe Price were among the investors that led the share sale.",
@@ -2303,44 +2246,6 @@
       "momentum_score": 44,
       "confidence_score": 78,
       "signal_score": 52
-    },
-    {
-      "id": "wired-uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google",
-      "title": "UK Officials Said AI Would Add £400 Billion to the Economy. That Figure Mainly Came From Google",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
-      "date": "Wed, 04 Nov 2026 13:49:51 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 73,
-      "confidence_score": 78,
-      "signal_score": 62
-    },
-    {
-      "id": "wired-i-m-100-percent-at-war-with-trump-maga-revolts-after-midterms-wipeout",
-      "title": "‘I’m 100 Percent at War With Trump’: MAGA Revolts After Midterms Wipeout",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/im-100-percent-at-war-with-trump-maga-revolts-after-midterms-wipeout/",
-      "date": "Wed, 04 Nov 2026 13:48:28 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 78,
-      "confidence_score": 78,
-      "signal_score": 64
     },
     {
       "id": "mit-technology-review-ai-the-download-blended-meat-restored-sight-and-the-agentic-web",
@@ -2417,158 +2322,6 @@
       "momentum_score": 79,
       "confidence_score": 78,
       "signal_score": 64
-    },
-    {
-      "id": "wired-i-tried-amazon-s-new-kindles-buy-this-accessory-instead-2026",
-      "title": "I Tried Amazon’s New Kindles. Buy This Accessory Instead (2026)",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/finally-a-kindle-page-turner/",
-      "date": "Wed, 04 Nov 2026 11:36:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 59,
-      "confidence_score": 78,
-      "signal_score": 57
-    },
-    {
-      "id": "wired-best-wireless-earbuds-i-d-buy-right-now-2026-apple-beats-bose-and-more",
-      "title": "Best Wireless Earbuds I’d Buy Right Now (2026): Apple, Beats, Bose, and More",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/best-wireless-earbuds/",
-      "date": "Wed, 04 Nov 2026 11:00:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 45,
-      "confidence_score": 78,
-      "signal_score": 52
-    },
-    {
-      "id": "wired-what-s-the-difference-between-an-ebike-and-an-e-moto",
-      "title": "What’s the Difference Between an Ebike and an E-Moto?",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/whats-the-difference-between-an-ebike-and-an-e-moto/",
-      "date": "Wed, 04 Nov 2026 10:45:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 65,
-      "confidence_score": 78,
-      "signal_score": 59
-    },
-    {
-      "id": "wired-new-jersey-s-new-ebike-law-is-causing-chaos",
-      "title": "New Jersey’s New Ebike Law Is Causing Chaos",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/new-jerseys-new-ebike-law-is-causing-chaos/",
-      "date": "Wed, 04 Nov 2026 10:45:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 82,
-      "confidence_score": 78,
-      "signal_score": 65
-    },
-    {
-      "id": "wired-chernobyl-s-dogs-may-be-evolving-but-scientists-don-t-know-why",
-      "title": "Chernobyl’s Dogs May Be Evolving, but Scientists Don’t Know Why",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/chernobyls-dogs-may-be-evolving-but-scientists-dont-know-why/",
-      "date": "Wed, 04 Nov 2026 10:00:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 49,
-      "confidence_score": 78,
-      "signal_score": 53
-    },
-    {
-      "id": "wired-50-off-doordash-promo-code-november-2026",
-      "title": "50% Off DoorDash Promo Code | November 2026",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/doordash-promo-code/",
-      "date": "Wed, 04 Nov 2026 06:00:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 69,
-      "confidence_score": 78,
-      "signal_score": 60
-    },
-    {
-      "id": "wired-hoka-coupon-codes-30-off-in-november-2026",
-      "title": "Hoka Coupon Codes: 30% Off in November 2026",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/hoka-coupon-code/",
-      "date": "Wed, 04 Nov 2026 06:00:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 76,
-      "confidence_score": 78,
-      "signal_score": 63
-    },
-    {
-      "id": "techcrunch-india-s-eloelo-nabs-80m-from-nbcuniversal-to-bet-on-the-country-s-rising-microdrama-market",
-      "title": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market",
-      "summary": "More than 118 million users watch microdramas every month as the serialized format has taken off in India. EloElo's Story TV is one of the top apps for microdramas, with over 33 million active users, according to analysts.",
-      "text": "More than 118 million users watch microdramas every month as the serialized format has taken off in India. EloElo's Story TV is one of the top apps for microdramas, with over 33 million active users, according to analysts.",
-      "link": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/",
-      "date": "Wed, 04 Nov 2026 04:45:00 +0000",
-      "source": "TechCrunch",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 44,
-      "confidence_score": 78,
-      "signal_score": 52
     },
     {
       "id": "google-news-university-automotive-research-international-mobility-innovation-conference-kicks-off-at-ut-toledo-blade",
@@ -2875,6 +2628,25 @@
       "momentum_score": 84,
       "confidence_score": 78,
       "signal_score": 66
+    },
+    {
+      "id": "google-news-mckinsey-automotive-what-s-sparking-electric-vehicle-adoption-in-the-truck-industry-mckinsey-company",
+      "title": "What’s sparking electric-vehicle adoption in the truck industry? - McKinsey & Company",
+      "summary": "What’s sparking electric-vehicle adoption in the truck industry? &nbsp;&nbsp; McKinsey & Company",
+      "text": "What’s sparking electric-vehicle adoption in the truck industry? &nbsp;&nbsp; McKinsey & Company",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd0hRRzB4OGZoQlZVN244SWt2dFExNGpidTM3RnpjYURUUXFEOWl4dmdSQzFDUlg4T01obVBGLU9KamRST1pYd1dDWEx0RDRrelFLZFlWUzdKemdyWWlrZExqWm1xLTBFMGN5T2JzTVFOZV9BNjV4LW4xWThPS1BFLVFlM3NCOGlEbG9BdUlRRnRIWXA3aTNYQzNTaWRwbnZYWG5JUDl1Z2VsRFIzZnU1NUg4MTlBVDB4RFV0dW5sdzl5UHZYMEVrcHlNM1JnbDEt?oc=5",
+      "date": "Tue, 26 Sep 2017 07:00:00 GMT",
+      "source": "Google News · McKinsey Automotive",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 76,
+      "confidence_score": 78,
+      "signal_score": 63
     },
     {
       "id": "google-news-university-automotive-research-uga-hosts-fourth-annual-electric-mobility-summit-uga-today",
@@ -3245,26 +3017,6 @@
       "momentum_score": 50,
       "confidence_score": 78,
       "signal_score": 62
-    },
-    {
-      "id": "google-news-mckinsey-automotive-global-energy-perspective-2026-mckinsey-company",
-      "title": "Global Energy Perspective 2026 - McKinsey & Company",
-      "summary": "Global Energy Perspective 2026 &nbsp;&nbsp; McKinsey & Company",
-      "text": "Global Energy Perspective 2026 &nbsp;&nbsp; McKinsey & Company",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT2FTRUhaYTRmV1BzTmEtaVJBY05jYnFVc294M2RGczdQeW16OXBZVFBlR0pYZWx5ZTRtb2tBeHl6aEd2dlZKYkRtazU1Vk5vOGhGb01ReEp6LXVVUHg5QTJaRnIzcGRXeVBFV2FnTzk4bS1HOWlhc054UHRrWWlxLVJTMy0xWVlSVmk4OXU0TmVhVG9YZjhFVnlkZw?oc=5",
-      "date": "Tue, 17 Sep 2024 00:02:51 GMT",
-      "source": "Google News · McKinsey Automotive",
-      "category": "AUTOMOTIVE",
-      "topic": "Energy",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive",
-        "Energy"
-      ],
-      "novelty_score": 49,
-      "momentum_score": 60,
-      "confidence_score": 78,
-      "signal_score": 60
     },
     {
       "id": "google-news-bcg-automotive-what-electric-vehicle-owners-really-want-from-charging-networks-boston-consulting-group",
@@ -3803,25 +3555,6 @@
       "signal_score": 67
     },
     {
-      "id": "techcrunch-anthropic-is-working-on-a-system-to-prove-ai-models-identity",
-      "title": "Anthropic is working on a system to prove AI models’ identity",
-      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
-      "text": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
-      "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-      "date": "Tue, 03 Nov 2026 22:41:03 +0000",
-      "source": "TechCrunch",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 60,
-      "confidence_score": 78,
-      "signal_score": 57
-    },
-    {
       "id": "ars-technica-california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws",
       "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
       "summary": "State tries to obtain broadband funds despite rejecting Trump admin condition.",
@@ -4126,6 +3859,25 @@
       "signal_score": 64
     },
     {
+      "id": "google-news-automotive-news-toyota-resurrects-celica-name-for-2027-rally-racing-amid-rumors-of-return-to-showrooms-automotive-news",
+      "title": "Toyota resurrects Celica name for 2027 rally racing amid rumors of return to showrooms - Automotive News",
+      "summary": "Toyota resurrects Celica name for 2027 rally racing amid rumors of return to showrooms &nbsp;&nbsp; Automotive News",
+      "text": "Toyota resurrects Celica name for 2027 rally racing amid rumors of return to showrooms &nbsp;&nbsp; Automotive News",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMYzdzZWxMYU8wMlRKc2VNMFlQRk11WVd0dmplLTl0QjZwWDN1WVBVcmp0cGxpQjBOV3FFazhUS3VzanpNb2w4ckp5R1FYOXFBVmZpMlRKMDk1MnBZZXZ4VVV5TVpZWmxJa1BDTlI4VHpkZWZ0ZDZiUlUzVlA?oc=5",
+      "date": "Tue, 03 Nov 2026 15:45:00 GMT",
+      "source": "Google News · Automotive News",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 81,
+      "confidence_score": 78,
+      "signal_score": 65
+    },
+    {
       "id": "google-news-automotive-news-why-eu-s-made-in-europe-could-hurt-toyota-more-than-chinese-rivals-automotive-news",
       "title": "Why EU’s ‘Made in Europe’ could hurt Toyota more than Chinese rivals - Automotive News",
       "summary": "Why EU’s ‘Made in Europe’ could hurt Toyota more than Chinese rivals &nbsp;&nbsp; Automotive News",
@@ -4219,26 +3971,6 @@
       "momentum_score": 47,
       "confidence_score": 78,
       "signal_score": 53
-    },
-    {
-      "id": "google-news-automotive-news-stellantis-chip-shortage-disrupts-fiat-output-in-italy-automotive-news",
-      "title": "Stellantis chip shortage disrupts Fiat output in Italy - Automotive News",
-      "summary": "Stellantis chip shortage disrupts Fiat output in Italy &nbsp;&nbsp; Automotive News",
-      "text": "Stellantis chip shortage disrupts Fiat output in Italy &nbsp;&nbsp; Automotive News",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWDMyMFRlcmFrTE15SHM0cDYwLXRGS2xldFVXN2NmeDRQQzgtaTdUa1VGampSVlhpUHc2NzRHdFoyZDlSZmRvTlhQOWRKcjNKYXN5YThYYXJjMXdHMm1jNmRNZzU5cFY1UmsxMUtXUFRmUWdnZUNkRzBtQlVOYU01Qjd1Zw?oc=5",
-      "date": "Tue, 03 Nov 2026 11:06:00 GMT",
-      "source": "Google News · Automotive News",
-      "category": "AUTOMOTIVE",
-      "topic": "Semiconductors",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive",
-        "Semiconductors"
-      ],
-      "novelty_score": 49,
-      "momentum_score": 62,
-      "confidence_score": 78,
-      "signal_score": 61
     },
     {
       "id": "google-news-automotive-news-ex-jlr-designer-gerry-mcgovern-banned-from-driving-over-speeding-ticket-automotive-news",
@@ -4976,25 +4708,6 @@
       "signal_score": 63
     },
     {
-      "id": "mit-news-research-state-of-supply-chain-sustainability-report-finds-corporate-commitment-at-record-high-but-governance-lags-behind",
-      "title": "State of Supply Chain Sustainability Report finds corporate commitment at record high, but governance lags behind",
-      "summary": "MIT's Center for Transportation and Logistics finds sustainability commitments are strong, but governance gaps and external disruptions prevent execution.",
-      "text": "MIT's Center for Transportation and Logistics finds sustainability commitments are strong, but governance gaps and external disruptions prevent execution.",
-      "link": "https://news.mit.edu/2026/state-of-supply-chain-sustainability-report-1015",
-      "date": "Thu, 15 Oct 2026 17:00:00 -0400",
-      "source": "MIT News · Research",
-      "category": "SCIENCE",
-      "topic": "Science",
-      "kind_label": "RSS",
-      "tags": [
-        "Science"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 62,
-      "confidence_score": 78,
-      "signal_score": 58
-    },
-    {
       "id": "ieee-spectrum-chasing-china-s-monazite-monopoly",
       "title": "Chasing China’s Monazite Monopoly",
       "summary": "One of the singular features of Baotou, an industrial city of 2 million people in Inner Mongolia, is a 10-square-kilometer (4-square-mile) lake that is among the most polluted in the world. The artificial lake, referred to by the name of the dam associated with it, Weikuang Dam (or Baogang Tailings Dam), has for decades collected the effluent from minerals processing for China’s globally dominant iron, steel, and rare-earths industries. Built in the late 1950s, the lake contains a highly toxic stew of industrial chemicals with substantial amounts of radioactive thorium, the latter resulting primarily from the processing of monazite ores for r",
@@ -5534,6 +5247,310 @@
       "signal_score": 64
     },
     {
+      "id": "wired-a-new-uk-porn-ban-sparks-fears-of-unprecedented-sex-censorship",
+      "title": "A New UK Porn Ban Sparks Fears of Unprecedented Sex Censorship",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/",
+      "date": "Thu, 05 Nov 2026 07:00:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 67,
+      "confidence_score": 78,
+      "signal_score": 60
+    },
+    {
+      "id": "wired-ray-ban-promo-codes-save-50-in-november-2026",
+      "title": "Ray-Ban Promo Codes: Save 50% in November 2026",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/ray-ban-promo-code/",
+      "date": "Thu, 05 Nov 2026 06:00:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 73,
+      "confidence_score": 78,
+      "signal_score": 62
+    },
+    {
+      "id": "wired-meta-quest-promo-codes-and-coupons-for-november-2026",
+      "title": "Meta Quest Promo Codes and Coupons for November 2026",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/meta-quest-promo-code/",
+      "date": "Thu, 05 Nov 2026 06:00:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 67,
+      "confidence_score": 78,
+      "signal_score": 60
+    },
+    {
+      "id": "wired-nomad-goods-promo-codes-get-25-off-in-november-2026",
+      "title": "Nomad Goods Promo Codes: Get 25% Off in November 2026",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/nomad-discount-code/",
+      "date": "Thu, 05 Nov 2026 06:00:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 42,
+      "confidence_score": 78,
+      "signal_score": 51
+    },
+    {
+      "id": "wired-b-h-photo-promo-codes-and-deals-this-november-2026",
+      "title": "B&H Photo Promo Codes and Deals This November 2026",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/bh-photo-coupon/",
+      "date": "Thu, 05 Nov 2026 06:00:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 61,
+      "confidence_score": 78,
+      "signal_score": 58
+    },
+    {
+      "id": "wired-booking-com-promo-codes-20-off-november-2026",
+      "title": "Booking.com Promo Codes: 20% Off | November 2026",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/booking-com-promo-code/",
+      "date": "Thu, 05 Nov 2026 06:00:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 83,
+      "confidence_score": 78,
+      "signal_score": 65
+    },
+    {
+      "id": "wired-corsair-discount-code-up-to-50-off-for-november-2026",
+      "title": "Corsair Discount Code: Up to 50% Off for November 2026",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/corsair-coupon/",
+      "date": "Thu, 05 Nov 2026 06:00:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 78,
+      "confidence_score": 78,
+      "signal_score": 64
+    },
+    {
+      "id": "wired-udemy-coupon-codes-20-off-november-2026",
+      "title": "Udemy Coupon Codes: 20% Off November 2026",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/udemy-promo-code/",
+      "date": "Thu, 05 Nov 2026 06:00:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 62,
+      "confidence_score": 78,
+      "signal_score": 58
+    },
+    {
+      "id": "wired-zoro-coupon-codes-20-off-november-2026",
+      "title": "Zoro Coupon Codes: 20% Off November 2026",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/zoro-promo-code/",
+      "date": "Thu, 05 Nov 2026 06:00:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 84,
+      "confidence_score": 78,
+      "signal_score": 66
+    },
+    {
+      "id": "wired-herman-miller-promo-codes-40-off-november-2026",
+      "title": "Herman Miller Promo Codes: 40% Off November 2026",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/herman-miller-promo-code/",
+      "date": "Thu, 05 Nov 2026 06:00:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 84,
+      "confidence_score": 78,
+      "signal_score": 66
+    },
+    {
+      "id": "wired-hp-coupon-codes-and-deals-november-2026",
+      "title": "HP Coupon Codes and Deals November 2026",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/hp-coupon-code/",
+      "date": "Thu, 05 Nov 2026 06:00:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 76,
+      "confidence_score": 78,
+      "signal_score": 63
+    },
+    {
+      "id": "wired-altra-running-promo-codes-10-off-november-2026",
+      "title": "Altra Running Promo Codes: 10% Off November 2026",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/altra-promo-code/",
+      "date": "Thu, 05 Nov 2026 06:00:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 52,
+      "confidence_score": 78,
+      "signal_score": 54
+    },
+    {
+      "id": "wired-hostgator-coupon-codes-76-off-hosting-in-november-2026",
+      "title": "HostGator Coupon Codes: 76% Off Hosting in November 2026",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/hostgator-coupon/",
+      "date": "Thu, 05 Nov 2026 06:00:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 46,
+      "confidence_score": 78,
+      "signal_score": 52
+    },
+    {
+      "id": "techcrunch-apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage",
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+      "text": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+      "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "date": "Thu, 05 Nov 2026 01:26:22 +0000",
+      "source": "TechCrunch",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 67,
+      "confidence_score": 78,
+      "signal_score": 60
+    },
+    {
+      "id": "techcrunch-after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming",
+      "title": "After the midterms, a bigger clash over data centers could be coming",
+      "summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
+      "text": "Data center opposition crossed party lines in Tuesday’s midterms.",
+      "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+      "date": "Thu, 05 Nov 2026 01:02:14 +0000",
+      "source": "TechCrunch",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 43,
+      "confidence_score": 78,
+      "signal_score": 51
+    },
+    {
+      "id": "mit-news-research-clearing-up-a-robot-s-fuzzy-memory",
+      "title": "Clearing up a robot’s fuzzy memory",
+      "summary": "A new system identifies and corrects unreliable object descriptions stored in a robot’s memory, improving the robot’s ability to interact with its environment.",
+      "text": "A new system identifies and corrects unreliable object descriptions stored in a robot’s memory, improving the robot’s ability to interact with its environment.",
+      "link": "https://news.mit.edu/2026/clearing-up-robot-fuzzy-memory-1105",
+      "date": "Thu, 05 Nov 2026 00:00:00 -0500",
+      "source": "MIT News · Research",
+      "category": "SCIENCE",
+      "topic": "Robotics",
+      "kind_label": "RSS",
+      "tags": [
+        "Robotics"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 46,
+      "confidence_score": 78,
+      "signal_score": 52
+    },
+    {
       "id": "mit-news-electric-vehicles-a-winning-formula-for-student-project-teams-at-mit",
       "title": "A winning formula for student project teams at MIT",
       "summary": "The teamwork, leadership, and communication skills developed in the Gordon Engineering Leadership (GEL) Program drive success of Edgerton Center project teams.",
@@ -5668,26 +5685,6 @@
       "signal_score": 56
     },
     {
-      "id": "google-news-automotive-cybersecurity-vehicle-cybersecurity-protecting-connected-cars-from-cyber-threats-cubic3",
-      "title": "Vehicle Cybersecurity: protecting connected cars from cyber threats - Cubic3",
-      "summary": "Vehicle Cybersecurity: protecting connected cars from cyber threats &nbsp;&nbsp; Cubic3",
-      "text": "Vehicle Cybersecurity: protecting connected cars from cyber threats &nbsp;&nbsp; Cubic3",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSS1GMXBOSEgtWHJ2cHNESzBteGItQ0llLW9IcWtnVXpRVVBTM2JNSHM1cFBjOVU3VzFSUGsxZDg4MEZFVXl1VEpTbjZqbW4yZ0FxVFdCYUxfaUh2c1gyTWVibDNLVkpONGFOUkRFUTk0TjFtNHZVVVdjN2FwZ3ZsaG1xNy1OOXlOZlRwdzZOZDQzU01qM184Z3Npdw?oc=5",
-      "date": "Thu, 02 Jul 2026 07:00:00 GMT",
-      "source": "Google News · Automotive Cybersecurity",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive",
-        "Cybersecurity"
-      ],
-      "novelty_score": 49,
-      "momentum_score": 40,
-      "confidence_score": 78,
-      "signal_score": 53
-    },
-    {
       "id": "google-news-software-defined-vehicles-what-separates-ai-defined-vehicles-from-software-defined-vehicles-and-why-legacy-automakers-face-challenges-auto",
       "title": "What separates AI-defined vehicles from software-defined vehicles — and why legacy automakers face challenges - Automotive News",
       "summary": "What separates AI-defined vehicles from software-defined vehicles — and why legacy automakers face challenges &nbsp;&nbsp; Automotive News",
@@ -5774,9 +5771,8 @@
     },
     {
       "name": "Nature",
-      "ok": false,
-      "count": 0,
-      "error": "not well-formed (invalid token): line 14, column 4"
+      "ok": true,
+      "count": 24
     },
     {
       "name": "IEEE Spectrum",
@@ -5900,7 +5896,7 @@
     {
       "name": "Google News · Vehicle Connectivity",
       "ok": true,
-      "count": 23
+      "count": 22
     },
     {
       "name": "Google News · Automotive Cybersecurity",
