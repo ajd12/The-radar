@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-11-13T01:07:36.532080+00:00",
+  "generated_at": "2026-11-13T09:35:07.559669+00:00",
   "items": [
     {
       "id": "google-news-sae-technical-papers-2025-01-7321-effective-aperture-determination-for-efficient-vehicle-mounted-antennas-measurement-via-spherical-wave-e",
@@ -175,25 +175,6 @@
       "signal_score": 61
     },
     {
-      "id": "mit-news-research-a-soft-robot-could-help-doctors-diagnose-and-treat-disorders-of-the-small-intestine",
-      "title": "A soft robot could help doctors diagnose and treat disorders of the small intestine",
-      "summary": "MIT engineers designed a robotic enteroscope that can inch through the hard-to-reach small intestine, making biopsies and drug delivery easier.",
-      "text": "MIT engineers designed a robotic enteroscope that can inch through the hard-to-reach small intestine, making biopsies and drug delivery easier.",
-      "link": "https://news.mit.edu/2026/soft-robot-could-help-doctors-diagnose-treat-small-intestine-disorders-1028",
-      "date": "Wed, 28 Oct 2026 14:00:00 -0400",
-      "source": "MIT News · Research",
-      "category": "SCIENCE",
-      "topic": "Robotics",
-      "kind_label": "RSS",
-      "tags": [
-        "Robotics"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 46,
-      "confidence_score": 78,
-      "signal_score": 52
-    },
-    {
       "id": "ieee-spectrum-how-beta-technologies-is-clearing-the-runway-for-electric-flight",
       "title": "How Beta Technologies Is Clearing the Runway for Electric Flight",
       "summary": "In the cockpit of Beta Technologies’ Alia CX300, pilot Chris Caputo steers onto Runway 33 at Patrick Leahy Burlington International Airport in Vermont. Cleared for takeoff, he releases the brakes and nudges the throttle forward. At the back of the aircraft, the five-blade pusher propeller snaps awake, and the Alia bolts forward. There’s no shriek of a turbofan spooling up, no shudder of a piston engine, and no wait for thrust. Just the low hum of an electric motor and a shove of instant acceleration. Within a few seconds, we’re at 85 knots (almost 160 kilometers per hour), and Caputo rotates the nose upward. The runway drops abruptly away as ",
@@ -289,6 +270,25 @@
       ],
       "novelty_score": 49,
       "momentum_score": 65,
+      "confidence_score": 78,
+      "signal_score": 62
+    },
+    {
+      "id": "google-news-university-automotive-research-mcpherson-college-to-research-engineering-design-and-mobility-hutch-post",
+      "title": "McPherson College to research engineering, design, and mobility - Hutch Post",
+      "summary": "McPherson College to research engineering, design, and mobility &nbsp;&nbsp; Hutch Post",
+      "text": "McPherson College to research engineering, design, and mobility &nbsp;&nbsp; Hutch Post",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PdUhsVWI3N29HYlJMdXd5UDhWdlBxazdESy1QeVV0VnVaOTkybDg1RDJFMG9Td3dBejJGWUk5WExpUGpuNm1fdWJZOGQ3RTVBU3NwZWFjcTVYU3BPcmZ3am9rM0Q5NGYwZUlpeldfZUg1UQ?oc=5",
+      "date": "Wed, 25 Jan 2023 08:00:00 GMT",
+      "source": "Google News · University Automotive Research",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 73,
       "confidence_score": 78,
       "signal_score": 62
     },
@@ -966,6 +966,25 @@
       "signal_score": 59
     },
     {
+      "id": "google-news-automotive-news-asbury-automotive-weighs-next-move-for-total-care-auto-f-i-group-1-branding-spreads-to-third-party-f-i-products-automotive",
+      "title": "Asbury Automotive weighs next move for Total Care Auto F&I; Group 1 branding spreads to third-party F&I products - Automotive News",
+      "summary": "Asbury Automotive weighs next move for Total Care Auto F&I; Group 1 branding spreads to third-party F&I products &nbsp;&nbsp; Automotive News",
+      "text": "Asbury Automotive weighs next move for Total Care Auto F&I; Group 1 branding spreads to third-party F&I products &nbsp;&nbsp; Automotive News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZDBxazd5MHVGNW9YaFkzQkE1V2JVWWRBZG5taHpVS0NrUlRKNGFHdjBqYVJST1d0dVd3ZHpNLW1pTmJqdFV2MXRoWDZ3WERrSVg0RU96U1dFbGxmUF96RC13dERIMlBhTDhGTUVCOU5HczF0REpxY1BrLTNkdmltYkJwdk1vTlBZWjQxYnl4NjNFTVM5OC10a1dZcDloVnM?oc=5",
+      "date": "Wed, 11 Nov 2026 19:02:00 GMT",
+      "source": "Google News · Automotive News",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 40,
+      "confidence_score": 78,
+      "signal_score": 50
+    },
+    {
       "id": "ars-technica-nasa-s-secret-weapon-in-the-lunar-space-race-may-be-procurement-reform",
       "title": "NASA's secret weapon in the lunar space race may be ... procurement reform?",
       "summary": "\"The pace that's occurring, and the nature of the procurements, is unprecedented.\"",
@@ -1292,44 +1311,6 @@
       "signal_score": 57
     },
     {
-      "id": "google-news-automotive-news-byd-apologizes-for-installing-chinese-suv-s-wheels-the-wrong-way-automotive-news",
-      "title": "BYD apologizes for installing Chinese SUV’s wheels the wrong way - Automotive News",
-      "summary": "BYD apologizes for installing Chinese SUV’s wheels the wrong way &nbsp;&nbsp; Automotive News",
-      "text": "BYD apologizes for installing Chinese SUV’s wheels the wrong way &nbsp;&nbsp; Automotive News",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LWmNSc2NPOHBlTWR0RmZtd1ZpTC1ndDhLSEw3cmpHaW9UcHhKSDRnTlBqMTUyMVZ6RjhFX24xcWFFZ3N3ZG50UDdXZmRrR0NETkVVSjkwLThxNUtUbC05N3cxVjJ0QQ?oc=5",
-      "date": "Wed, 11 Nov 2026 09:31:00 GMT",
-      "source": "Google News · Automotive News",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 64,
-      "confidence_score": 78,
-      "signal_score": 59
-    },
-    {
-      "id": "google-news-automotive-news-renault-geely-s-horse-unveils-v-8-for-lotus-supercar-aimed-at-ferrari-lamborghini-automotive-news",
-      "title": "Renault-Geely’s Horse unveils V-8 for Lotus supercar aimed at Ferrari, Lamborghini - Automotive News",
-      "summary": "Renault-Geely’s Horse unveils V-8 for Lotus supercar aimed at Ferrari, Lamborghini &nbsp;&nbsp; Automotive News",
-      "text": "Renault-Geely’s Horse unveils V-8 for Lotus supercar aimed at Ferrari, Lamborghini &nbsp;&nbsp; Automotive News",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSbHNFY3RLRVZmenVKT0tEal8yaHBBbWtHMlE4Uy1jeU1jS1JWaHBkSTRnbXk3SzVhcVpnaFZQSjg5ZlVZam5PTk0xRWo5dGhzQlZBOHYtaF84VTFaWjV3TDhQV215VG1FWXh5NG1Wa1ZtRVhW?oc=5",
-      "date": "Wed, 11 Nov 2026 09:21:00 GMT",
-      "source": "Google News · Automotive News",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 75,
-      "confidence_score": 78,
-      "signal_score": 63
-    },
-    {
       "id": "google-news-automotive-news-honda-teases-all-new-avancier-utility-vehicle-that-could-kick-off-next-generation-hybrids-automotive-news",
       "title": "Honda teases all-new Avancier utility vehicle that could kick off next-generation hybrids - Automotive News",
       "summary": "Honda teases all-new Avancier utility vehicle that could kick off next-generation hybrids &nbsp;&nbsp; Automotive News",
@@ -1348,25 +1329,6 @@
       "momentum_score": 44,
       "confidence_score": 78,
       "signal_score": 54
-    },
-    {
-      "id": "google-news-automotive-news-europe-s-small-suvs-accelerate-toward-electrification-as-ev-choices-grow-automotive-news",
-      "title": "Europe’s small SUVs accelerate toward electrification as EV choices grow - Automotive News",
-      "summary": "Europe’s small SUVs accelerate toward electrification as EV choices grow &nbsp;&nbsp; Automotive News",
-      "text": "Europe’s small SUVs accelerate toward electrification as EV choices grow &nbsp;&nbsp; Automotive News",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JNXFUZjJyaEgzM3BaZFlBMUdXWmtNNHByOFQ3VUVWRXNTX1hSemQ4QzcyVTYtbG1BVWVVanRRVmJRLURwdnZoaUNMU1VvZzE2M3oxVHBncThMYzJxQ0gzMXljZ0FNaU9iUlZYdlNycTZZbWVMc25rVzk3eXhRdw?oc=5",
-      "date": "Wed, 11 Nov 2026 05:00:00 GMT",
-      "source": "Google News · Automotive News",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 41,
-      "confidence_score": 78,
-      "signal_score": 51
     },
     {
       "id": "google-news-automotive-cybersecurity-legal-framework-for-ai-based-vehicle-systems-and-software-taylor-wessing",
@@ -1542,6 +1504,25 @@
       "signal_score": 67
     },
     {
+      "id": "google-news-sae-international-24autp08-automotive-engineering-august-2024-sae-international",
+      "title": "24AUTP08 : Automotive Engineering: August 2024 - SAE International",
+      "summary": "24AUTP08 : Automotive Engineering: August 2024 &nbsp;&nbsp; SAE International",
+      "text": "24AUTP08 : Automotive Engineering: August 2024 &nbsp;&nbsp; SAE International",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMk4ycFEtT2h1c1FRM0lfNlpzUi1Wa2ZZWnBaV0Y1dnNzSzZzMUxsMzBjbUlpeDhpZ0xXTG1USkJ3VXFLd2czNUVlcXVBRXVTNDJ2WTVqYnNRRnNpRU5VV2lxY2ZPYVlacm9DTVdTQkEwbkxtdEN6Snp2SmZ1M3BZMA?oc=5",
+      "date": "Wed, 07 Aug 2024 07:00:00 GMT",
+      "source": "Google News · SAE International",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 47,
+      "confidence_score": 78,
+      "signal_score": 53
+    },
+    {
       "id": "google-news-pwc-automotive-managing-and-minimizing-new-auto-model-launch-delays-pwc",
       "title": "Managing and minimizing new auto model launch delays - PwC",
       "summary": "Managing and minimizing new auto model launch delays &nbsp;&nbsp; PwC",
@@ -1559,6 +1540,25 @@
       "momentum_score": 59,
       "confidence_score": 78,
       "signal_score": 57
+    },
+    {
+      "id": "google-news-sae-international-25autp08-automotive-engineering-august-2025-sae-international",
+      "title": "25AUTP08 : Automotive Engineering: August 2025 - SAE International",
+      "summary": "25AUTP08 : Automotive Engineering: August 2025 &nbsp;&nbsp; SAE International",
+      "text": "25AUTP08 : Automotive Engineering: August 2025 &nbsp;&nbsp; SAE International",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVzd3S2h6aWdXb1VwbVJUM0RwVm05dXpnX1RRQzdaM25iZzRTVjl4R3pHc3JITndFZkZaSVBTWnhfVFZjU0FGSm5fLXlGRFhOLW5qRThwc3RvOWVnVXFBbFJMUlRqeks0VnhGVFhyQkRfY3A1b1UzdHY1aDV1YkpTcA?oc=5",
+      "date": "Wed, 06 Aug 2025 07:00:00 GMT",
+      "source": "Google News · SAE International",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 50,
+      "confidence_score": 78,
+      "signal_score": 54
     },
     {
       "id": "mit-news-autonomous-vehicles-teaching-robots-to-map-large-environments",
@@ -1581,6 +1581,25 @@
       "momentum_score": 52,
       "confidence_score": 78,
       "signal_score": 63
+    },
+    {
+      "id": "google-news-sae-international-25autp03-automotive-engineering-march-2025-sae-international",
+      "title": "25AUTP03 : Automotive Engineering: March 2025 - SAE International",
+      "summary": "25AUTP03 : Automotive Engineering: March 2025 &nbsp;&nbsp; SAE International",
+      "text": "25AUTP03 : Automotive Engineering: March 2025 &nbsp;&nbsp; SAE International",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XM3JhY19ndkpmSkJBdHU5YWw3YVVTNExVNVZYU3hXSjhZd0dleGk1ejd3Vnd6SzlETzhLOUpwclVfSUZwLXFwUXFlSzZCS3hxdHMxV3lNVU1TYlNXSU0yT3ZGaHV5U2hST1JYR1NPYlpvTFFpZUNwYXFPbnF3YWs?oc=5",
+      "date": "Wed, 05 Mar 2025 08:00:00 GMT",
+      "source": "Google News · SAE International",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 48,
+      "confidence_score": 78,
+      "signal_score": 53
     },
     {
       "id": "google-news-sae-international-26autp08-automotive-engineering-august-2026-sae-international",
@@ -2622,25 +2641,6 @@
       "signal_score": 65
     },
     {
-      "id": "google-news-automotive-news-gm-financial-cuts-400-jobs-globally-to-support-operating-performance-automotive-news",
-      "title": "GM Financial cuts 400 jobs globally ‘to support operating performance’ - Automotive News",
-      "summary": "GM Financial cuts 400 jobs globally ‘to support operating performance’ &nbsp;&nbsp; Automotive News",
-      "text": "GM Financial cuts 400 jobs globally ‘to support operating performance’ &nbsp;&nbsp; Automotive News",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNUpfaHZoMy1XMzRVb21mU25ncFlCQ3lDZnNRUDBFUVV3RERzNWx0aV9aQy1WUEZraWhHWHFVd2s1Vk5LejVIZWVpUzJJNUh2Q0VyejRQNmhoRDQwWEdWZEhfWlF5NVB1SjRlakpGQXRqTTVlbml2RzVDQWs0bW1SYTFYelNGUQ?oc=5",
-      "date": "Tue, 10 Nov 2026 18:47:00 GMT",
-      "source": "Google News · Automotive News",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 75,
-      "confidence_score": 78,
-      "signal_score": 63
-    },
-    {
       "id": "mit-news-engineering-mit-schwarzman-college-of-computing-welcomes-seven-new-faculty-for-2026",
       "title": "MIT Schwarzman College of Computing welcomes seven new faculty for 2026",
       "summary": "Faculty members serve in core computing and shared roles, bringing a wide range of experiences and areas of expertise to the MIT community.",
@@ -2754,6 +2754,26 @@
       "momentum_score": 54,
       "confidence_score": 78,
       "signal_score": 55
+    },
+    {
+      "id": "google-news-software-defined-vehicles-automotive-domain-control-module-market-to-2035-sdv-demand-drives-growth-news-and-statistics-indexbox",
+      "title": "Automotive Domain Control Module Market To 2035: SDV Demand Drives Growth - News and Statistics - IndexBox",
+      "summary": "Automotive Domain Control Module Market To 2035: SDV Demand Drives Growth - News and Statistics &nbsp;&nbsp; IndexBox",
+      "text": "Automotive Domain Control Module Market To 2035: SDV Demand Drives Growth - News and Statistics &nbsp;&nbsp; IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNXZpTnFCYXRPQkt4VC0xeGVhOHp0ZHB3Vk56djhuYUpSMWY3S1RNV0dUWF8xemh4d0c3MURDNFhrd3daM1UybzJ1c2Q3TllyNjFtRkxTc0dpZEg1cjV2MjVwYTYteDY5Nklwd1pKQ2xRMUZseUphbXdEeTZhNlV6WGpYQWg5NWlGaEg2Z2k3Y1dpUEVYTzJGY0JicDJiQ09fSGFkYXB6bFByaEE5VmhocjliZGd0WnA0QUdpWW9wcjJrQ3NWV1ZFZEFEbFRwbk02V21ieDdVOA?oc=5",
+      "date": "Tue, 10 Nov 2026 10:41:03 GMT",
+      "source": "Google News · Software-Defined Vehicles",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive",
+        "SDV"
+      ],
+      "novelty_score": 49,
+      "momentum_score": 74,
+      "confidence_score": 78,
+      "signal_score": 65
     },
     {
       "id": "mit-news-research-mit-led-team-receives-funding-to-develop-next-generation-alternatives-to-modern-weed-killers",
@@ -3836,8 +3856,8 @@
       "signal_score": 65
     },
     {
-      "id": "ars-technica-in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men",
-      "title": "In reversal, American Cancer Society urges prostate cancer tests for all men",
+      "id": "ars-technica-in-reversal-american-cancer-society-urges-routine-prostate-cancer-screening",
+      "title": "In reversal, American Cancer Society urges routine prostate cancer screening",
       "summary": "Men aged 50–69 and at average risk should get PSA screening every two years.",
       "text": "Men aged 50–69 and at average risk should get PSA screening every two years.",
       "link": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
@@ -3850,9 +3870,9 @@
         "Tech"
       ],
       "novelty_score": 42,
-      "momentum_score": 60,
+      "momentum_score": 78,
       "confidence_score": 78,
-      "signal_score": 57
+      "signal_score": 64
     },
     {
       "id": "wired-mint-mobile-will-give-you-500-off-select-new-phones-when-you-sign-up-for-a-year",
@@ -4122,6 +4142,25 @@
       "signal_score": 53
     },
     {
+      "id": "google-news-automotive-news-mercedes-freezes-german-investment-explores-plant-closures-automotive-news",
+      "title": "Mercedes freezes German investment, explores plant closures - Automotive News",
+      "summary": "Mercedes freezes German investment, explores plant closures &nbsp;&nbsp; Automotive News",
+      "text": "Mercedes freezes German investment, explores plant closures &nbsp;&nbsp; Automotive News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTnVmSHNsbE1XZW5tbXRpQlRZaEJpNVhFUHZMc3RJUUloQm9JSGR5ZWtvOElkNVZwcm1OMF9oTkstNHdtc3FrbWJUREpYOHVFYkRCUHB1VV91dFZmNXBFVjRpZlRJZWl0LTNaY1Y5WHF3NlAyTE5kSFZsQUtSYnVmTFBlSTQ4cmxnWU5ETzltUzZ0UnBZVDRFZk50eXgzUVFEUl9GaUZ3?oc=5",
+      "date": "Thu, 12 Nov 2026 20:03:00 GMT",
+      "source": "Google News · Automotive News",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 84,
+      "confidence_score": 78,
+      "signal_score": 66
+    },
+    {
       "id": "wired-major-microsoft-outlook-outage-leaves-people-with-email-jobs-unable-to-email",
       "title": "Major Microsoft Outlook Outage Leaves People With Email Jobs Unable to Email",
       "summary": "Source item available; open the source for details.",
@@ -4177,6 +4216,25 @@
       "momentum_score": 81,
       "confidence_score": 78,
       "signal_score": 65
+    },
+    {
+      "id": "google-news-automotive-news-2-dealership-groups-pay-combined-605-000-to-settle-eeoc-sexual-harassment-lawsuits-automotive-news",
+      "title": "2 dealership groups pay combined $605,000 to settle EEOC sexual harassment lawsuits - Automotive News",
+      "summary": "2 dealership groups pay combined $605,000 to settle EEOC sexual harassment lawsuits &nbsp;&nbsp; Automotive News",
+      "text": "2 dealership groups pay combined $605,000 to settle EEOC sexual harassment lawsuits &nbsp;&nbsp; Automotive News",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTDhkM09UbXZtWU5mc2FzdXI2bE95b3VoWWw1UHA2UHV1ZjZudnRtZDZ2NTdCZDU0M3gyd3QzLTdWcFBabFo4T3VtZXIwODk4QnUwM296cHcxeURDRk1ROUlBMmZQenVvRWpXM1BXdFVma2M0SHQ3SF9ZeTd3U0xYMzQ4SkRIYmxhV3owX2ZDTQ?oc=5",
+      "date": "Thu, 12 Nov 2026 19:35:00 GMT",
+      "source": "Google News · Automotive News",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 65,
+      "confidence_score": 78,
+      "signal_score": 59
     },
     {
       "id": "techcrunch-google-s-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions",
@@ -4463,6 +4521,25 @@
       "momentum_score": 68,
       "confidence_score": 78,
       "signal_score": 60
+    },
+    {
+      "id": "google-news-automotive-news-judge-rules-cdk-is-not-a-monopoly-in-dms-rival-tekion-s-antitrust-case-automotive-news",
+      "title": "Judge rules CDK is not a monopoly in DMS rival Tekion’s antitrust case - Automotive News",
+      "summary": "Judge rules CDK is not a monopoly in DMS rival Tekion’s antitrust case &nbsp;&nbsp; Automotive News",
+      "text": "Judge rules CDK is not a monopoly in DMS rival Tekion’s antitrust case &nbsp;&nbsp; Automotive News",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xZk41cEdtdGp4VGt2VFFOTTJFMlRfTzQzSUxPa3V5NWdPVUlmNGtnSkFQQWRwbC0xeEpMZ0QzbldNTkh1Ym94czdrbXVHa1ZIdFRxT2FmOGlwRHVCVVlHRGlqZ0FqYkV1WjV3bkJfWDEyY3BBNDhj?oc=5",
+      "date": "Thu, 12 Nov 2026 17:30:00 GMT",
+      "source": "Google News · Automotive News",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 40,
+      "confidence_score": 78,
+      "signal_score": 50
     },
     {
       "id": "ars-technica-the-amazing-disappearing-exoplanet",
@@ -4884,82 +4961,6 @@
       "signal_score": 62
     },
     {
-      "id": "wired-here-s-how-google-says-it-s-making-its-smart-glasses-more-private",
-      "title": "Here’s How Google Says It’s Making Its Smart Glasses More Private",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/how-google-is-making-its-smart-glasses-more-private/",
-      "date": "Thu, 12 Nov 2026 14:00:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 70,
-      "confidence_score": 78,
-      "signal_score": 61
-    },
-    {
-      "id": "wired-apple-s-homeview-tries-face-authentication-without-faceid",
-      "title": "Apple’s HomeView Tries Face Authentication Without FaceID",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/apples-homeview-tries-face-authentication-without-faceid/",
-      "date": "Thu, 12 Nov 2026 14:00:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 60,
-      "confidence_score": 78,
-      "signal_score": 57
-    },
-    {
-      "id": "wired-jensen-huang-resigns-as-nvidia-ceo",
-      "title": "Jensen Huang Resigns as Nvidia CEO",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/",
-      "date": "Thu, 12 Nov 2026 13:58:06 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 69,
-      "confidence_score": 78,
-      "signal_score": 60
-    },
-    {
-      "id": "wired-exclusive-fairphone-lands-its-first-us-carrier-partner-in-boost-mobile",
-      "title": "Exclusive: Fairphone Lands Its First US Carrier Partner in Boost Mobile",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/exclusive-fairphone-lands-its-first-us-carrier-partner-in-boost-mobile/",
-      "date": "Thu, 12 Nov 2026 13:30:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 54,
-      "confidence_score": 78,
-      "signal_score": 55
-    },
-    {
       "id": "mit-technology-review-ai-the-download-cop31-s-climate-challenge-and-the-quest-for-immortality",
       "title": "The Download: COP31’s climate challenge and the quest for immortality",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates, lobbyists, and journalists have gathered in Antalya, Turkey, for COP31, the annual UN climate talks. But this year’s negotiations&#8230;",
@@ -4998,25 +4999,6 @@
       "signal_score": 54
     },
     {
-      "id": "wired-you-can-buy-t-shirts-glorifying-mass-shootings-almost-anywhere-online",
-      "title": "You Can Buy T-Shirts Glorifying Mass Shootings Almost Anywhere Online",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/you-can-buy-t-shirts-glorifying-mass-shootings-almost-anywhere-online/",
-      "date": "Thu, 12 Nov 2026 11:30:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 64,
-      "confidence_score": 78,
-      "signal_score": 59
-    },
-    {
       "id": "google-news-automotive-news-honda-targets-1-6-million-u-s-sales-with-redesigned-cr-v-revived-element-and-new-ohio-plant-automotive-news",
       "title": "Honda targets 1.6 million U.S. sales with redesigned CR-V, revived Element and new Ohio plant - Automotive News",
       "summary": "Honda targets 1.6 million U.S. sales with redesigned CR-V, revived Element and new Ohio plant &nbsp;&nbsp; Automotive News",
@@ -5034,63 +5016,6 @@
       "momentum_score": 43,
       "confidence_score": 78,
       "signal_score": 51
-    },
-    {
-      "id": "wired-alex-karp-said-he-s-a-progressive-ok-here-s-some-other-stuff-he-s-said-recently",
-      "title": "Alex Karp Said He’s a ‘Progressive.’ OK! Here’s Some Other Stuff He’s Said Recently",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/alex-karp-said-hes-a-progressive-ok-heres-some-other-stuff-hes-said-recently/",
-      "date": "Thu, 12 Nov 2026 10:30:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 63,
-      "confidence_score": 78,
-      "signal_score": 58
-    },
-    {
-      "id": "wired-google-wanted-spirit-airlines-data-flight-attendants-found-a-way-to-opt-out",
-      "title": "Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/google-wanted-spirit-airlines-data-flight-attendants-found-a-way-to-opt-out/",
-      "date": "Thu, 12 Nov 2026 10:15:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 54,
-      "confidence_score": 78,
-      "signal_score": 55
-    },
-    {
-      "id": "wired-rocco-classic-smart-fridge-review-a-cool-conversation-piece",
-      "title": "Rocco Classic Smart Fridge Review: A Cool Conversation Piece",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/review/rocco-super-smart-fridge/",
-      "date": "Thu, 12 Nov 2026 10:08:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 44,
-      "confidence_score": 78,
-      "signal_score": 52
     },
     {
       "id": "google-news-automotive-news-kbb-founder-delphi-ceo-auto-designer-to-join-automotive-hall-of-fame-automotive-news",
@@ -5289,25 +5214,6 @@
       "text": "2023 Global Automotive Consumer Study &nbsp;&nbsp; Deloitte",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOenhVUXlLcEFUcXJOU1BKVVpkdGdDb0dKbzlhSDd1cHh0V09qbEVqbGJaYWg1MlVhWElmMlozNkJqQU5aVDE0Ykl1RlUyY1MyOTB1Ymc2NkFoZmZNcUtGbHJ0OG5jWDI4OHoycVozUkw3SURySkpmYklqQk5weWhRX2hzTTdNemFvaUdiZkVLdTVaUVpnS2dXRVBINURPSm42NjRLQm1CWkVjdExhbk9IdjExWnZQSS1QWG1WUg?oc=5",
       "date": "Thu, 10 Apr 2025 14:05:59 GMT",
-      "source": "Google News · Deloitte Automotive",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 67,
-      "confidence_score": 78,
-      "signal_score": 60
-    },
-    {
-      "id": "google-news-deloitte-automotive-2023-global-automotive-consumer-study-deloitte",
-      "title": "2023 Global Automotive Consumer Study - Deloitte",
-      "summary": "2023 Global Automotive Consumer Study &nbsp;&nbsp; Deloitte",
-      "text": "2023 Global Automotive Consumer Study &nbsp;&nbsp; Deloitte",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS1M4WEZVVUI1UTh1SzcyYVRlQlhDYkVaS3V5V1NnMUpCM28tZ2JmdlQ5THhhSzlQWHNUWmg2TFIwd3F1SFNBVXJPQnZwX2ZVcWd3S1FvbDRtT19mSzZVazhHYUdaR2g0Z3NRYVI1WGlUbHVVME1SNmJ4S25vWmV4clhjeGExakdCcmU4Vnh1LWNrZWhxbnhNa0ZnMlF2RGpaZDVqVkFJb2ZXa0ZT?oc=5",
-      "date": "Thu, 10 Apr 2025 13:55:15 GMT",
       "source": "Google News · Deloitte Automotive",
       "category": "AUTOMOTIVE",
       "topic": "Automotive",
@@ -5763,6 +5669,102 @@
       "momentum_score": 69,
       "confidence_score": 78,
       "signal_score": 63
+    },
+    {
+      "id": "google-news-sae-technical-papers-25autp12-automotive-engineering-december-2025-magazine-issue-sae-mobilus",
+      "title": "25AUTP12: Automotive Engineering: December 2025 - Magazine Issue - SAE Mobilus",
+      "summary": "25AUTP12: Automotive Engineering: December 2025 - Magazine Issue &nbsp;&nbsp; SAE Mobilus",
+      "text": "25AUTP12: Automotive Engineering: December 2025 - Magazine Issue &nbsp;&nbsp; SAE Mobilus",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc0tQc2d5cG9mVzN3aXNMMDZTdm1IQXpxR0ZUWHBqazNhaF9UNk5hOUtGamNZTkpHQndPU3JUVFhPeDVyRDVfcEdEQmFCSlZaNV9USXV3QWNQN0N2TnNCT1R0dGtuSjlBcHdiaHdCU3hjamMybGprbXpJbkRzNFU0MWN0VGNuYzNMc0ZIeg?oc=5",
+      "date": "Thu, 04 Dec 2025 08:00:00 GMT",
+      "source": "Google News · SAE Technical Papers",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 83,
+      "confidence_score": 78,
+      "signal_score": 65
+    },
+    {
+      "id": "google-news-bcg-automotive-the-case-for-a-circular-economy-in-electric-vehicle-batteries-boston-consulting-group",
+      "title": "The Case for a Circular Economy in Electric Vehicle Batteries - Boston Consulting Group",
+      "summary": "The Case for a Circular Economy in Electric Vehicle Batteries &nbsp;&nbsp; Boston Consulting Group",
+      "text": "The Case for a Circular Economy in Electric Vehicle Batteries &nbsp;&nbsp; Boston Consulting Group",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTmowUEoyeUZ2RW9Hcm1WNUFhSkR4NW5TUUZSclk1Sld0OEVoSGJ1cDM4UDdvcDgzeC1pdC1MTHpXb3l4UmdkbDZsX1hsdTJOZDUybTJZRXRvem94aFAwR3JPUzRxb3RaZXhnekkzSXJJRHBwSXUtRXFHR3dpcVlqczVnODFlRXZ0ZDY0VmJJamZfSmI1SkVyZmwxUHZLVXV5SllWR1NtSG5BbmJRZ3hWX0MteUZCOGlRaE9OU1dscUlnZXdiUTJtekN2QzhPX3Yyd2wwM3pzQQ?oc=5",
+      "date": "Thu, 03 Sep 2020 07:00:00 GMT",
+      "source": "Google News · BCG Automotive",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 77,
+      "confidence_score": 78,
+      "signal_score": 63
+    },
+    {
+      "id": "google-news-mckinsey-automotive-europe-s-economic-potential-in-the-shift-to-electric-vehicles-mckinsey-company",
+      "title": "Europe’s economic potential in the shift to electric vehicles - McKinsey & Company",
+      "summary": "Europe’s economic potential in the shift to electric vehicles &nbsp;&nbsp; McKinsey & Company",
+      "text": "Europe’s economic potential in the shift to electric vehicles &nbsp;&nbsp; McKinsey & Company",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTWJRVVYzNE9ITTJuNmt1QVp1TnNFaXdaRVdOdjVOaHZweFJaMVFrY3U5Z1diR1dzZUxUZnNsRmI1Z1M5bG9iRXA2VnJYUExSODNwM2NteUhHZDJZeGVYcFBDN1ZhNzRKZHpDWkJCTkRIdGt5aHhaN1pwQlp5cUdPclBIblR2SEoyQ3AweEZJdDY3T09mZTZFeU1SY3FDYXFnRkJGLWEtbVpYaTVWcjJDZm5Na09PU0Y4Y19UZ2FyeHdOazR0bkNKYkF1Yk9WUQ?oc=5",
+      "date": "Thu, 03 Oct 2024 07:00:00 GMT",
+      "source": "Google News · McKinsey Automotive",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 54,
+      "confidence_score": 78,
+      "signal_score": 55
+    },
+    {
+      "id": "google-news-sae-international-sae-international-mobility-advanced-sae-international",
+      "title": "SAE International | Mobility, Advanced - SAE International",
+      "summary": "SAE International | Mobility, Advanced &nbsp;&nbsp; SAE International",
+      "text": "SAE International | Mobility, Advanced &nbsp;&nbsp; SAE International",
+      "link": "https://news.google.com/rss/articles/CBMiN0FVX3lxTE1FZ1czMVMwZVhiUmJiNWVZN3JibmY0ZUd1dW5oUDV0dERxVFNYNEpCUldRTHdXUHM?oc=5",
+      "date": "Thu, 03 Dec 2009 17:56:27 GMT",
+      "source": "Google News · SAE International",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 56,
+      "confidence_score": 78,
+      "signal_score": 56
+    },
+    {
+      "id": "google-news-automotive-cybersecurity-vehicle-cybersecurity-protecting-connected-cars-from-cyber-threats-cubic3",
+      "title": "Vehicle Cybersecurity: protecting connected cars from cyber threats - Cubic3",
+      "summary": "Vehicle Cybersecurity: protecting connected cars from cyber threats &nbsp;&nbsp; Cubic3",
+      "text": "Vehicle Cybersecurity: protecting connected cars from cyber threats &nbsp;&nbsp; Cubic3",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSS1GMXBOSEgtWHJ2cHNESzBteGItQ0llLW9IcWtnVXpRVVBTM2JNSHM1cFBjOVU3VzFSUGsxZDg4MEZFVXl1VEpTbjZqbW4yZ0FxVFdCYUxfaUh2c1gyTWVibDNLVkpONGFOUkRFUTk0TjFtNHZVVVdjN2FwZ3ZsaG1xNy1OOXlOZlRwdzZOZDQzU01qM184Z3Npdw?oc=5",
+      "date": "Thu, 02 Jul 2026 07:00:00 GMT",
+      "source": "Google News · Automotive Cybersecurity",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive",
+        "Cybersecurity"
+      ],
+      "novelty_score": 49,
+      "momentum_score": 40,
+      "confidence_score": 78,
+      "signal_score": 53
     }
   ],
   "health": [
@@ -5815,21 +5817,18 @@
     },
     {
       "name": "arXiv · AI/ML",
-      "ok": false,
-      "count": 0,
-      "error": "HTTP Error 429: Unknown Error"
+      "ok": true,
+      "count": 18
     },
     {
       "name": "arXiv · Systems",
-      "ok": false,
-      "count": 0,
-      "error": "HTTP Error 429: Unknown Error"
+      "ok": true,
+      "count": 18
     },
     {
       "name": "arXiv · Robotics",
-      "ok": false,
-      "count": 0,
-      "error": "The read operation timed out"
+      "ok": true,
+      "count": 18
     },
     {
       "name": "arXiv · Automotive/Control",
