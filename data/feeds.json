@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-11-12T18:20:54.381175+00:00",
+  "generated_at": "2026-11-13T01:07:36.532080+00:00",
   "items": [
     {
       "id": "google-news-sae-technical-papers-2025-01-7321-effective-aperture-determination-for-efficient-vehicle-mounted-antennas-measurement-via-spherical-wave-e",
@@ -154,25 +154,6 @@
       "momentum_score": 67,
       "confidence_score": 78,
       "signal_score": 60
-    },
-    {
-      "id": "mit-news-engineering-seven-mit-affiliates-elected-to-the-national-academy-of-medicine-for-2026",
-      "title": "Seven MIT affiliates elected to the National Academy of Medicine for 2026",
-      "summary": "Professor Michael Yaffe and six MIT alumni are honored for their outstanding professional achievement and commitment to service.",
-      "text": "Professor Michael Yaffe and six MIT alumni are honored for their outstanding professional achievement and commitment to service.",
-      "link": "https://news.mit.edu/2026/mit-affiliates-elected-national-academy-medicine-1028",
-      "date": "Wed, 28 Oct 2026 14:55:00 -0400",
-      "source": "MIT News · Engineering",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 82,
-      "confidence_score": 78,
-      "signal_score": 65
     },
     {
       "id": "mit-news-research-how-the-biggest-alzheimer-s-risk-gene-disrupts-the-process-of-insulating-neurons",
@@ -890,6 +871,25 @@
       "signal_score": 58
     },
     {
+      "id": "google-news-pwc-automotive-the-road-ahead-indonesia-s-electric-vehicle-readiness-and-consumer-insights-2024-pwc",
+      "title": "The Road Ahead: Indonesia's Electric Vehicle Readiness and Consumer Insights 2024 - PwC",
+      "summary": "The Road Ahead: Indonesia's Electric Vehicle Readiness and Consumer Insights 2024 &nbsp;&nbsp; PwC",
+      "text": "The Road Ahead: Indonesia's Electric Vehicle Readiness and Consumer Insights 2024 &nbsp;&nbsp; PwC",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV2xUWlU1SUlxdXZkNzVBd2hhbVJoZ3Y5WThOVWVtQ3U3ZHU2LUpINHJGbGtUdlRsRW4yX1dJR19OcVpnSno5R0Z0WmgwOWdaanNicEh3THFhdjhXc3VCc0RUQ0VqNWNiSjl2T25scDM5N2Z0Q3piZzNGT1RGbV8xUjVfdUk4MktqMGJoeEdINnM4aV95aE5oeENnV2lmQlIyNVlUaTE3SVVMbE1zVGdHaGV2NA?oc=5",
+      "date": "Wed, 13 Nov 2024 04:10:52 GMT",
+      "source": "Google News · PwC Automotive",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 54,
+      "confidence_score": 78,
+      "signal_score": 55
+    },
+    {
       "id": "google-news-bain-mobility-building-a-resilient-electric-vehicle-value-chain-bain-company",
       "title": "Building a Resilient Electric Vehicle Value Chain - Bain & Company",
       "summary": "Building a Resilient Electric Vehicle Value Chain &nbsp;&nbsp; Bain & Company",
@@ -907,44 +907,6 @@
       "momentum_score": 68,
       "confidence_score": 78,
       "signal_score": 60
-    },
-    {
-      "id": "techcrunch-nvidia-s-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang",
-      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-      "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
-      "text": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
-      "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
-      "date": "Wed, 11 Nov 2026 23:28:45 +0000",
-      "source": "TechCrunch",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 82,
-      "confidence_score": 78,
-      "signal_score": 65
-    },
-    {
-      "id": "techcrunch-jensen-huang-accused-of-having-another-affair-with-an-nvidia-exec",
-      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
-      "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
-      "text": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
-      "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
-      "date": "Wed, 11 Nov 2026 23:17:05 +0000",
-      "source": "TechCrunch",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 61,
-      "confidence_score": 78,
-      "signal_score": 58
     },
     {
       "id": "ars-technica-t-mobile-illegally-imposed-50gb-cap-on-low-income-home-internet-plan-ny-says",
@@ -983,63 +945,6 @@
       "momentum_score": 48,
       "confidence_score": 78,
       "signal_score": 53
-    },
-    {
-      "id": "techcrunch-why-the-data-center-you-dread-might-never-even-be-built",
-      "title": "Why the data center you dread might never even be built",
-      "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.&#160;Before those challenges even come into play, though, there&#8217;s a more basic problem: A lot of the projects being announced may never get built in the first place.&#160;With billions of dollars in AI infrastructure [&#8230;]",
-      "text": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.&#160;Before those challenges even come into play, though, there&#8217;s a more basic problem: A lot of the projects being announced may never get built in the first place.&#160;With billions of dollars in AI infrastructure [&#8230;]",
-      "link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
-      "date": "Wed, 11 Nov 2026 20:15:15 +0000",
-      "source": "TechCrunch",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 80,
-      "confidence_score": 78,
-      "signal_score": 64
-    },
-    {
-      "id": "techcrunch-meta-is-losing-its-longtime-head-of-infrastructure",
-      "title": "Meta is losing its longtime head of infrastructure",
-      "summary": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
-      "text": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
-      "link": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
-      "date": "Wed, 11 Nov 2026 20:12:01 +0000",
-      "source": "TechCrunch",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 69,
-      "confidence_score": 78,
-      "signal_score": 60
-    },
-    {
-      "id": "techcrunch-olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze",
-      "title": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
-      "summary": "Entering into the world of venture capital has never been easy, especially as a first-time fund manager. But it's especially daunting right now. Olaf Sakkers has spent the past five years proving that difficult doesn't mean impossible.",
-      "text": "Entering into the world of venture capital has never been easy, especially as a first-time fund manager. But it's especially daunting right now. Olaf Sakkers has spent the past five years proving that difficult doesn't mean impossible.",
-      "link": "https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/",
-      "date": "Wed, 11 Nov 2026 20:04:28 +0000",
-      "source": "TechCrunch",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 83,
-      "confidence_score": 78,
-      "signal_score": 65
     },
     {
       "id": "google-news-automotive-news-nissan-cuts-global-sales-outlook-as-china-albatross-drags-automaker-toward-23-year-low-automotive-news",
@@ -1118,25 +1023,6 @@
       "signal_score": 61
     },
     {
-      "id": "ars-technica-big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning",
-      "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
-      "summary": "Any amount of AI coding is too much for many Independent Games Festival judges.",
-      "text": "Any amount of AI coding is too much for many Independent Games Festival judges.",
-      "link": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
-      "date": "Wed, 11 Nov 2026 17:37:32 +0000",
-      "source": "Ars Technica",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 63,
-      "confidence_score": 78,
-      "signal_score": 58
-    },
-    {
       "id": "google-news-automotive-news-why-geely-is-moving-to-build-in-europe-in-ford-joint-venture-as-eu-quota-nears-automotive-news",
       "title": "Why Geely is moving to build in Europe in Ford joint venture as EU quota nears - Automotive News",
       "summary": "Why Geely is moving to build in Europe in Ford joint venture as EU quota nears &nbsp;&nbsp; Automotive News",
@@ -1196,25 +1082,6 @@
       "signal_score": 52
     },
     {
-      "id": "ars-technica-apple-is-shuttering-its-28-year-old-online-community-forum",
-      "title": "Apple is shuttering its 28-year-old online community forum",
-      "summary": "Apple has already made the forum read-only.",
-      "text": "Apple has already made the forum read-only.",
-      "link": "https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum/",
-      "date": "Wed, 11 Nov 2026 17:04:26 +0000",
-      "source": "Ars Technica",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 50,
-      "confidence_score": 78,
-      "signal_score": 54
-    },
-    {
       "id": "mit-technology-review-ai-what-to-know-about-this-year-s-un-climate-talks",
       "title": "What to know about this year’s UN climate talks",
       "summary": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the beginning of negotiations on one of the biggest stages of the climate world. Turkey and Australia are cohosting this&#8230;",
@@ -1234,44 +1101,6 @@
       "signal_score": 60
     },
     {
-      "id": "ars-technica-ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027",
-      "title": "IBM to offer access to a dual-processor quantum system in 2027",
-      "summary": "The company plans on linking two 520-qubit chips before next year is over.",
-      "text": "The company plans on linking two 520-qubit chips before next year is over.",
-      "link": "https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/",
-      "date": "Wed, 11 Nov 2026 16:33:08 +0000",
-      "source": "Ars Technica",
-      "category": "TECH",
-      "topic": "Semiconductors",
-      "kind_label": "RSS",
-      "tags": [
-        "Semiconductors"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 67,
-      "confidence_score": 78,
-      "signal_score": 60
-    },
-    {
-      "id": "ars-technica-trump-wanted-little-kei-trucks-for-america-toyota-makes-it-happen",
-      "title": "Trump wanted little Kei trucks for America, Toyota makes it happen",
-      "summary": "Does this herald the start of a small car revolution, or is it a meaningless distraction?",
-      "text": "Does this herald the start of a small car revolution, or is it a meaningless distraction?",
-      "link": "https://arstechnica.com/cars/2026/11/toyota-resurrects-scion-with-right-hand-drive-kei-trucks/",
-      "date": "Wed, 11 Nov 2026 15:25:44 +0000",
-      "source": "Ars Technica",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 52,
-      "confidence_score": 78,
-      "signal_score": 54
-    },
-    {
       "id": "google-news-automotive-news-vw-abandons-gamechanger-factory-overhaul-to-curb-spending-automotive-news",
       "title": "VW abandons ‘Gamechanger’ factory overhaul to curb spending - Automotive News",
       "summary": "VW abandons ‘Gamechanger’ factory overhaul to curb spending &nbsp;&nbsp; Automotive News",
@@ -1289,25 +1118,6 @@
       "momentum_score": 50,
       "confidence_score": 78,
       "signal_score": 54
-    },
-    {
-      "id": "ars-technica-google-deepmind-just-mathematically-verified-key-parts-of-signal",
-      "title": "Google DeepMind just mathematically verified key parts of Signal",
-      "summary": "The four-week project hints that AI could make formal verification far more practical.",
-      "text": "The four-week project hints that AI could make formal verification far more practical.",
-      "link": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
-      "date": "Wed, 11 Nov 2026 14:08:57 +0000",
-      "source": "Ars Technica",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 69,
-      "confidence_score": 78,
-      "signal_score": 60
     },
     {
       "id": "google-news-automotive-news-subaru-honda-toyota-clock-big-october-sales-gains-as-lots-fill-automotive-news",
@@ -1732,25 +1542,6 @@
       "signal_score": 67
     },
     {
-      "id": "google-news-sae-international-24autp08-automotive-engineering-august-2024-sae-international",
-      "title": "24AUTP08 : Automotive Engineering: August 2024 - SAE International",
-      "summary": "24AUTP08 : Automotive Engineering: August 2024 &nbsp;&nbsp; SAE International",
-      "text": "24AUTP08 : Automotive Engineering: August 2024 &nbsp;&nbsp; SAE International",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMk4ycFEtT2h1c1FRM0lfNlpzUi1Wa2ZZWnBaV0Y1dnNzSzZzMUxsMzBjbUlpeDhpZ0xXTG1USkJ3VXFLd2czNUVlcXVBRXVTNDJ2WTVqYnNRRnNpRU5VV2lxY2ZPYVlacm9DTVdTQkEwbkxtdEN6Snp2SmZ1M3BZMA?oc=5",
-      "date": "Wed, 07 Aug 2024 07:00:00 GMT",
-      "source": "Google News · SAE International",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 47,
-      "confidence_score": 78,
-      "signal_score": 53
-    },
-    {
       "id": "google-news-pwc-automotive-managing-and-minimizing-new-auto-model-launch-delays-pwc",
       "title": "Managing and minimizing new auto model launch delays - PwC",
       "summary": "Managing and minimizing new auto model launch delays &nbsp;&nbsp; PwC",
@@ -1768,25 +1559,6 @@
       "momentum_score": 59,
       "confidence_score": 78,
       "signal_score": 57
-    },
-    {
-      "id": "google-news-sae-international-25autp08-automotive-engineering-august-2025-sae-international",
-      "title": "25AUTP08 : Automotive Engineering: August 2025 - SAE International",
-      "summary": "25AUTP08 : Automotive Engineering: August 2025 &nbsp;&nbsp; SAE International",
-      "text": "25AUTP08 : Automotive Engineering: August 2025 &nbsp;&nbsp; SAE International",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVzd3S2h6aWdXb1VwbVJUM0RwVm05dXpnX1RRQzdaM25iZzRTVjl4R3pHc3JITndFZkZaSVBTWnhfVFZjU0FGSm5fLXlGRFhOLW5qRThwc3RvOWVnVXFBbFJMUlRqeks0VnhGVFhyQkRfY3A1b1UzdHY1aDV1YkpTcA?oc=5",
-      "date": "Wed, 06 Aug 2025 07:00:00 GMT",
-      "source": "Google News · SAE International",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 50,
-      "confidence_score": 78,
-      "signal_score": 54
     },
     {
       "id": "mit-news-autonomous-vehicles-teaching-robots-to-map-large-environments",
@@ -1809,25 +1581,6 @@
       "momentum_score": 52,
       "confidence_score": 78,
       "signal_score": 63
-    },
-    {
-      "id": "google-news-sae-international-25autp03-automotive-engineering-march-2025-sae-international",
-      "title": "25AUTP03 : Automotive Engineering: March 2025 - SAE International",
-      "summary": "25AUTP03 : Automotive Engineering: March 2025 &nbsp;&nbsp; SAE International",
-      "text": "25AUTP03 : Automotive Engineering: March 2025 &nbsp;&nbsp; SAE International",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XM3JhY19ndkpmSkJBdHU5YWw3YVVTNExVNVZYU3hXSjhZd0dleGk1ejd3Vnd6SzlETzhLOUpwclVfSUZwLXFwUXFlSzZCS3hxdHMxV3lNVU1TYlNXSU0yT3ZGaHV5U2hST1JYR1NPYlpvTFFpZUNwYXFPbnF3YWs?oc=5",
-      "date": "Wed, 05 Mar 2025 08:00:00 GMT",
-      "source": "Google News · SAE International",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 48,
-      "confidence_score": 78,
-      "signal_score": 53
     },
     {
       "id": "google-news-sae-international-26autp08-automotive-engineering-august-2026-sae-international",
@@ -1961,25 +1714,6 @@
       "momentum_score": 46,
       "confidence_score": 78,
       "signal_score": 52
-    },
-    {
-      "id": "google-news-sae-international-24autp12-automotive-engineering-december-2024-sae-international",
-      "title": "24AUTP12 : Automotive Engineering: December 2024 - SAE International",
-      "summary": "24AUTP12 : Automotive Engineering: December 2024 &nbsp;&nbsp; SAE International",
-      "text": "24AUTP12 : Automotive Engineering: December 2024 &nbsp;&nbsp; SAE International",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObm55WXhnMFM0RFFGT2hYS3dJd3dEOGh3dUtnNG1PNUl1b1BLaDNQNWpNbFBReHg3QW44ZFh0cElqZFhhOHd6UlZZZzJCWmpGOU1tUDQ1aFhqOGRDZmt6a2VsdlpIUVlTdmtmbkFNaDMtUm42S0VmQ09ENnBtSmtOcWJIUQ?oc=5",
-      "date": "Wed, 04 Dec 2024 08:00:00 GMT",
-      "source": "Google News · SAE International",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 73,
-      "confidence_score": 78,
-      "signal_score": 62
     },
     {
       "id": "mit-news-autonomous-vehicles-system-helps-humans-predict-when-self-driving-cars-will-make-mistakes",
@@ -2134,25 +1868,6 @@
       "momentum_score": 42,
       "confidence_score": 78,
       "signal_score": 51
-    },
-    {
-      "id": "mit-news-research-origami-based-construction-method-yields-lightweight-load-bearing-structures-on-architectural-scales",
-      "title": "Origami-based construction method yields lightweight, load-bearing structures on architectural scales",
-      "summary": "The modular approach could be used to erect emergency shelters or fabricate aerospace components more quickly and with less material than some techniques.",
-      "text": "The modular approach could be used to erect emergency shelters or fabricate aerospace components more quickly and with less material than some techniques.",
-      "link": "https://news.mit.edu/2026/origami-based-construction-method-yields-lightweight-load-bearing-structures-architecture-1027",
-      "date": "Tue, 27 Oct 2026 00:00:00 -0400",
-      "source": "MIT News · Research",
-      "category": "SCIENCE",
-      "topic": "Materials",
-      "kind_label": "RSS",
-      "tags": [
-        "Materials"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 45,
-      "confidence_score": 78,
-      "signal_score": 52
     },
     {
       "id": "google-news-deloitte-automotive-2023-global-automotive-consumer-study-deloitte",
@@ -2850,25 +2565,6 @@
       "signal_score": 56
     },
     {
-      "id": "ars-technica-seagate-s-new-hybrid-drive-raises-some-old-questions",
-      "title": "Seagate's new hybrid drive raises some old questions",
-      "summary": "The FireCuda Forge revisits an old idea, with some familiar questions.",
-      "text": "The FireCuda Forge revisits an old idea, with some familiar questions.",
-      "link": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
-      "date": "Tue, 10 Nov 2026 23:30:56 +0000",
-      "source": "Ars Technica",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 43,
-      "confidence_score": 78,
-      "signal_score": 51
-    },
-    {
       "id": "google-news-automotive-news-ford-hires-marissa-west-who-briefly-ran-gm-north-america-to-lead-coming-product-blitz-automotive-news",
       "title": "Ford hires Marissa West, who briefly ran GM North America, to lead coming product blitz - Automotive News",
       "summary": "Ford hires Marissa West, who briefly ran GM North America, to lead coming product blitz &nbsp;&nbsp; Automotive News",
@@ -2881,64 +2577,6 @@
       "kind_label": "RSS",
       "tags": [
         "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 59,
-      "confidence_score": 78,
-      "signal_score": 57
-    },
-    {
-      "id": "ars-technica-the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch",
-      "title": "The US military seems to be getting nervous about the launch supply crunch",
-      "summary": "\"Launch is extremely constrained and that is exactly the situation we predicted.\"",
-      "text": "\"Launch is extremely constrained and that is exactly the situation we predicted.\"",
-      "link": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
-      "date": "Tue, 10 Nov 2026 23:02:39 +0000",
-      "source": "Ars Technica",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 46,
-      "confidence_score": 78,
-      "signal_score": 52
-    },
-    {
-      "id": "ars-technica-ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot",
-      "title": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
-      "summary": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
-      "text": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
-      "link": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
-      "date": "Tue, 10 Nov 2026 22:35:01 +0000",
-      "source": "Ars Technica",
-      "category": "TECH",
-      "topic": "Robotics",
-      "kind_label": "RSS",
-      "tags": [
-        "Robotics",
-        "Cybersecurity"
-      ],
-      "novelty_score": 49,
-      "momentum_score": 80,
-      "confidence_score": 78,
-      "signal_score": 67
-    },
-    {
-      "id": "ars-technica-democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr",
-      "title": "Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr",
-      "summary": "Democrats accuse FCC nominee of evading questions about Carr, her current boss.",
-      "text": "Democrats accuse FCC nominee of evading questions about Carr, her current boss.",
-      "link": "https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/",
-      "date": "Tue, 10 Nov 2026 21:55:26 +0000",
-      "source": "Ars Technica",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
       ],
       "novelty_score": 42,
       "momentum_score": 59,
@@ -2963,25 +2601,6 @@
       "momentum_score": 50,
       "confidence_score": 78,
       "signal_score": 54
-    },
-    {
-      "id": "google-news-automotive-news-chinese-automakers-front-load-hybrid-exports-to-europe-before-eu-quota-automotive-news",
-      "title": "Chinese automakers front-load hybrid exports to Europe before EU quota - Automotive News",
-      "summary": "Chinese automakers front-load hybrid exports to Europe before EU quota &nbsp;&nbsp; Automotive News",
-      "text": "Chinese automakers front-load hybrid exports to Europe before EU quota &nbsp;&nbsp; Automotive News",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcHBwOXJIUUM5ZUd2dnFKeVU5b3VPTU5zSV9lRXV3MVBaT2h5bDBWTThwX0x3ajNBN1pVUi1zNGNGYmoyX2lnRWRlSzNndlE1Yzh4TDhfN09TX1J5MDhEdV9tcThEZFNqWkwyeVZHSFRkaHpnTVQ3OS1UZThzS0JYdGFqTDVnNW9ReFYyb1M2TGVuMmVW?oc=5",
-      "date": "Tue, 10 Nov 2026 20:04:00 GMT",
-      "source": "Google News · Automotive News",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 57,
-      "confidence_score": 78,
-      "signal_score": 56
     },
     {
       "id": "ieee-spectrum-speech-processing-pioneer-bishnu-saroop-atal-dies-at-93",
@@ -3020,25 +2639,6 @@
       "momentum_score": 75,
       "confidence_score": 78,
       "signal_score": 63
-    },
-    {
-      "id": "google-news-automotive-news-dealerships-see-rivals-meeting-ftc-ad-pricing-demands-but-one-auto-retail-exec-says-more-hand-slapping-needed-automotive-n",
-      "title": "Dealerships see rivals meeting FTC ad pricing demands, but one auto retail exec says more ‘hand slapping’ needed - Automotive News",
-      "summary": "Dealerships see rivals meeting FTC ad pricing demands, but one auto retail exec says more ‘hand slapping’ needed &nbsp;&nbsp; Automotive News",
-      "text": "Dealerships see rivals meeting FTC ad pricing demands, but one auto retail exec says more ‘hand slapping’ needed &nbsp;&nbsp; Automotive News",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcEFoaXM2MWpEd1hZQXZ6bjNPV3ZHR0RLRzUtWUVhOUpKZTZzYzF5V2JxQk04X3F4MnMySGE2VWN0QjlJUmZBLVg1dTJLNm9mQUJxUnUtRE5rSnd0Sk1GdnU4OHJ1MDYxdVctdWhnSExoM3I5bFE1c0RVN0pWVV83Tg?oc=5",
-      "date": "Tue, 10 Nov 2026 18:25:00 GMT",
-      "source": "Google News · Automotive News",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 62,
-      "confidence_score": 78,
-      "signal_score": 58
     },
     {
       "id": "mit-news-engineering-mit-schwarzman-college-of-computing-welcomes-seven-new-faculty-for-2026",
@@ -3154,45 +2754,6 @@
       "momentum_score": 54,
       "confidence_score": 78,
       "signal_score": 55
-    },
-    {
-      "id": "google-news-software-defined-vehicles-automotive-domain-control-module-market-to-2035-sdv-demand-drives-growth-news-and-statistics-indexbox",
-      "title": "Automotive Domain Control Module Market To 2035: SDV Demand Drives Growth - News and Statistics - IndexBox",
-      "summary": "Automotive Domain Control Module Market To 2035: SDV Demand Drives Growth - News and Statistics &nbsp;&nbsp; IndexBox",
-      "text": "Automotive Domain Control Module Market To 2035: SDV Demand Drives Growth - News and Statistics &nbsp;&nbsp; IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNXZpTnFCYXRPQkt4VC0xeGVhOHp0ZHB3Vk56djhuYUpSMWY3S1RNV0dUWF8xemh4d0c3MURDNFhrd3daM1UybzJ1c2Q3TllyNjFtRkxTc0dpZEg1cjV2MjVwYTYteDY5Nklwd1pKQ2xRMUZseUphbXdEeTZhNlV6WGpYQWg5NWlGaEg2Z2k3Y1dpUEVYTzJGY0JicDJiQ09fSGFkYXB6bFByaEE5VmhocjliZGd0WnA0QUdpWW9wcjJrQ3NWV1ZFZEFEbFRwbk02V21ieDdVOA?oc=5",
-      "date": "Tue, 10 Nov 2026 10:41:03 GMT",
-      "source": "Google News · Software-Defined Vehicles",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive",
-        "SDV"
-      ],
-      "novelty_score": 49,
-      "momentum_score": 74,
-      "confidence_score": 78,
-      "signal_score": 65
-    },
-    {
-      "id": "google-news-automotive-news-subaru-profit-nearly-triples-as-warranty-currency-gains-counter-weaker-u-s-sales-automotive-news",
-      "title": "Subaru profit nearly triples as warranty, currency gains counter weaker U.S. sales - Automotive News",
-      "summary": "Subaru profit nearly triples as warranty, currency gains counter weaker U.S. sales &nbsp;&nbsp; Automotive News",
-      "text": "Subaru profit nearly triples as warranty, currency gains counter weaker U.S. sales &nbsp;&nbsp; Automotive News",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ3ZhR3JrQnQ4My1RWGxtdjhoa3lkTE5FUTh6Q3Uwc2VpUmdzcWlUdV9PX092bDJCN0tIZkdNZ194a2xJQjBaRE1FTEJfb2RMZFIwZUNpWHhrTkRiazBlNnhoamtmYUZ5Nkd4VW1QbVBLeEh6QUtvOTZRWHRQUkFsY2pB?oc=5",
-      "date": "Tue, 10 Nov 2026 07:43:00 GMT",
-      "source": "Google News · Automotive News",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 79,
-      "confidence_score": 78,
-      "signal_score": 64
     },
     {
       "id": "mit-news-research-mit-led-team-receives-funding-to-develop-next-generation-alternatives-to-modern-weed-killers",
@@ -4178,25 +3739,6 @@
       "signal_score": 63
     },
     {
-      "id": "google-news-pwc-automotive-the-road-ahead-indonesia-s-electric-vehicle-readiness-and-consumer-insights-2024-pwc",
-      "title": "The road ahead: Indonesia's Electric Vehicle Readiness and Consumer Insights 2024 - PwC",
-      "summary": "The road ahead: Indonesia's Electric Vehicle Readiness and Consumer Insights 2024 &nbsp;&nbsp; PwC",
-      "text": "The road ahead: Indonesia's Electric Vehicle Readiness and Consumer Insights 2024 &nbsp;&nbsp; PwC",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMUt6TGdMMTBCOTNMaUpfc0l0dXdtb1NkUjA0Nk0tMW1KTHNwcDl6OHlGYWJOR2JTWXhYM1JhUEZoZHFJdkRDT0p0eF83bDVMTEJTck44YXh5RHRWbHF2ZDVMRm01ZFNENnYzMm1aLXFhWjVyeE9QbFpOSmZPM0NkOVpEeXlJRVlEVUo0TVZQZWlIc2lwcTQwSG41akNUeW4xWlQwSEFiaDBVdDdHeE9nSGpXQzJXelMxa1F0WlF2bGQ0TU96VlVtdDdHNFd3MlU4?oc=5",
-      "date": "Thu, 14 Nov 2024 08:00:00 GMT",
-      "source": "Google News · PwC Automotive",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 84,
-      "confidence_score": 78,
-      "signal_score": 66
-    },
-    {
       "id": "google-news-vehicle-connectivity-5g-will-turn-your-car-into-a-talking-thinking-supercomputer-and-it-s-coming-soon-digital-trends",
       "title": "5G will turn your car into a talking, thinking supercomputer. And it’s coming soon - Digital Trends",
       "summary": "5G will turn your car into a talking, thinking supercomputer. And it’s coming soon &nbsp;&nbsp; Digital Trends",
@@ -4275,6 +3817,578 @@
       "signal_score": 63
     },
     {
+      "id": "wired-roborock-robot-vacuum-early-black-friday-deals-2026",
+      "title": "Roborock Robot Vacuum Early Black Friday Deals (2026)",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/best-early-black-friday-robot-vacuum-deals-roborock-2026/",
+      "date": "Thu, 12 Nov 2026 23:54:58 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Robotics",
+      "kind_label": "RSS",
+      "tags": [
+        "Robotics"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 82,
+      "confidence_score": 78,
+      "signal_score": 65
+    },
+    {
+      "id": "ars-technica-in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men",
+      "title": "In reversal, American Cancer Society urges prostate cancer tests for all men",
+      "summary": "Men aged 50–69 and at average risk should get PSA screening every two years.",
+      "text": "Men aged 50–69 and at average risk should get PSA screening every two years.",
+      "link": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
+      "date": "Thu, 12 Nov 2026 22:59:51 +0000",
+      "source": "Ars Technica",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 60,
+      "confidence_score": 78,
+      "signal_score": 57
+    },
+    {
+      "id": "wired-mint-mobile-will-give-you-500-off-select-new-phones-when-you-sign-up-for-a-year",
+      "title": "Mint Mobile Will Give You $500 Off Select New Phones When You Sign Up for a Year",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/mint-mobile-phone-deal-november-2026/",
+      "date": "Thu, 12 Nov 2026 22:47:26 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 64,
+      "confidence_score": 78,
+      "signal_score": 59
+    },
+    {
+      "id": "techcrunch-democrats-launch-nvidia-investigation-write-scathing-letter-on-huang-s-scheme-with-trump",
+      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+      "text": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
+      "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+      "date": "Thu, 12 Nov 2026 22:42:51 +0000",
+      "source": "TechCrunch",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 40,
+      "confidence_score": 78,
+      "signal_score": 50
+    },
+    {
+      "id": "wired-silicon-valley-is-still-defending-jensen-huang",
+      "title": "Silicon Valley Is Still Defending Jensen Huang",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/silicon-valley-is-still-defending-jensen-huang/",
+      "date": "Thu, 12 Nov 2026 22:29:43 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 61,
+      "confidence_score": 78,
+      "signal_score": 58
+    },
+    {
+      "id": "ars-technica-faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace",
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+      "text": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+      "link": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "date": "Thu, 12 Nov 2026 22:28:47 +0000",
+      "source": "Ars Technica",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 64,
+      "confidence_score": 78,
+      "signal_score": 59
+    },
+    {
+      "id": "wired-the-10-best-early-black-friday-tv-deals-2026",
+      "title": "The 10 Best Early Black Friday TV Deals (2026)",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/early-black-friday-tv-deals-11-12-26/",
+      "date": "Thu, 12 Nov 2026 22:27:06 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 53,
+      "confidence_score": 78,
+      "signal_score": 55
+    },
+    {
+      "id": "techcrunch-muse-can-now-place-calls-to-us-businesses-if-you-pay",
+      "title": "Muse can now place calls to US businesses — if you pay",
+      "summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
+      "text": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
+      "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+      "date": "Thu, 12 Nov 2026 22:22:28 +0000",
+      "source": "TechCrunch",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 84,
+      "confidence_score": 78,
+      "signal_score": 66
+    },
+    {
+      "id": "wired-jensen-huang-is-out-will-nvidia-s-rivals-cash-in",
+      "title": "Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in/",
+      "date": "Thu, 12 Nov 2026 22:14:41 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 67,
+      "confidence_score": 78,
+      "signal_score": 60
+    },
+    {
+      "id": "techcrunch-the-unfolding-jensen-huang-scandal-a-timeline",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "text": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+      "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "date": "Thu, 12 Nov 2026 21:35:00 +0000",
+      "source": "TechCrunch",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Cybersecurity"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 72,
+      "confidence_score": 78,
+      "signal_score": 62
+    },
+    {
+      "id": "techcrunch-nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending",
+      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+      "text": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+      "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+      "date": "Thu, 12 Nov 2026 21:27:10 +0000",
+      "source": "TechCrunch",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 69,
+      "confidence_score": 78,
+      "signal_score": 60
+    },
+    {
+      "id": "wired-walmart-early-black-friday-deals-double-as-great-gifts-2026",
+      "title": "Walmart Early Black Friday Deals Double as Great Gifts (2026)",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/walmart-black-friday-deals-gifts-2026/",
+      "date": "Thu, 12 Nov 2026 21:21:33 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 60,
+      "confidence_score": 78,
+      "signal_score": 57
+    },
+    {
+      "id": "wired-jensen-huang-didn-t-name-his-own-replacement-as-one-of-tech-s-most-powerful-women",
+      "title": "Jensen Huang Didn’t Name His Own Replacement as One of Tech’s Most Powerful Women",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/jensen-huang-colette-kress-replacement-powerful-women-in-tech/",
+      "date": "Thu, 12 Nov 2026 20:35:11 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 54,
+      "confidence_score": 78,
+      "signal_score": 55
+    },
+    {
+      "id": "google-news-automotive-news-stellantis-puts-tim-kuniskis-in-charge-of-u-s-sales-and-dealers-replaces-dodge-ceo-automotive-news",
+      "title": "Stellantis puts Tim Kuniskis in charge of U.S. sales and dealers, replaces Dodge CEO - Automotive News",
+      "summary": "Stellantis puts Tim Kuniskis in charge of U.S. sales and dealers, replaces Dodge CEO &nbsp;&nbsp; Automotive News",
+      "text": "Stellantis puts Tim Kuniskis in charge of U.S. sales and dealers, replaces Dodge CEO &nbsp;&nbsp; Automotive News",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbWZhLTZ1ZHJpVnZjaUV1Q1N3aWo5T0hpQzhLNk0tdDZNZEpmeXplN0N3UUczenBaWUtSSFR2R3MxbjNYV09lLUtWVllMaUw0WVlBR3dRTnl2YmR1cEJ6bFVmakZkaTNCYTZVNS0zMklFQkNqUnNGbERwMUxtNzljSUxmb2g3QmY0cVZIMFR1TnNIdw?oc=5",
+      "date": "Thu, 12 Nov 2026 20:30:00 GMT",
+      "source": "Google News · Automotive News",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 62,
+      "confidence_score": 78,
+      "signal_score": 58
+    },
+    {
+      "id": "techcrunch-jensen-huang-was-having-a-third-affair-reuters-reports",
+      "title": "Jensen Huang was having a third affair, Reuters reports",
+      "summary": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
+      "text": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
+      "link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+      "date": "Thu, 12 Nov 2026 20:26:47 +0000",
+      "source": "TechCrunch",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 67,
+      "confidence_score": 78,
+      "signal_score": 60
+    },
+    {
+      "id": "mit-technology-review-ai-nvidia-privately-confirmed-it-could-track-chips-to-fight-smuggling-even-as-industry-publicly-questioned-feasibility",
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “potentially infeasible.” Foster, a Democrat who serves on the Committee on&#8230;",
+      "text": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “potentially infeasible.” Foster, a Democrat who serves on the Committee on&#8230;",
+      "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "date": "Thu, 12 Nov 2026 20:16:24 +0000",
+      "source": "MIT Technology Review · AI",
+      "category": "TECH",
+      "topic": "Semiconductors",
+      "kind_label": "RSS",
+      "tags": [
+        "Semiconductors",
+        "Cybersecurity"
+      ],
+      "novelty_score": 49,
+      "momentum_score": 40,
+      "confidence_score": 78,
+      "signal_score": 53
+    },
+    {
+      "id": "wired-major-microsoft-outlook-outage-leaves-people-with-email-jobs-unable-to-email",
+      "title": "Major Microsoft Outlook Outage Leaves People With Email Jobs Unable to Email",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/major-microsoft-outlook-outage-hits-365-customers-north-america/",
+      "date": "Thu, 12 Nov 2026 20:01:33 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 63,
+      "confidence_score": 78,
+      "signal_score": 58
+    },
+    {
+      "id": "ars-technica-ars-live-what-drone-attacks-on-data-centers-mean-for-modern-life-in-the-cloud",
+      "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
+      "summary": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
+      "text": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
+      "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+      "date": "Thu, 12 Nov 2026 19:59:59 +0000",
+      "source": "Ars Technica",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 51,
+      "confidence_score": 78,
+      "signal_score": 54
+    },
+    {
+      "id": "ars-technica-the-elder-scrolls-most-obscure-adventure-gets-a-4k-pc-makeover",
+      "title": "The Elder Scrolls' most obscure adventure gets a 4K PC makeover",
+      "summary": "N-Gage exclusive Shadowkey gets an AI-coded glow-up with plenty of new features.",
+      "text": "N-Gage exclusive Shadowkey gets an AI-coded glow-up with plenty of new features.",
+      "link": "https://arstechnica.com/gaming/2026/11/the-elder-scrolls-most-obscure-adventure-gets-a-4k-pc-makeover/",
+      "date": "Thu, 12 Nov 2026 19:49:11 +0000",
+      "source": "Ars Technica",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 81,
+      "confidence_score": 78,
+      "signal_score": 65
+    },
+    {
+      "id": "techcrunch-google-s-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions",
+      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+      "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
+      "text": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
+      "link": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
+      "date": "Thu, 12 Nov 2026 19:27:45 +0000",
+      "source": "TechCrunch",
+      "category": "TECH",
+      "topic": "Energy",
+      "kind_label": "RSS",
+      "tags": [
+        "Energy"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 64,
+      "confidence_score": 78,
+      "signal_score": 59
+    },
+    {
+      "id": "ars-technica-google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash",
+      "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+      "summary": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
+      "text": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
+      "link": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+      "date": "Thu, 12 Nov 2026 19:23:03 +0000",
+      "source": "Ars Technica",
+      "category": "TECH",
+      "topic": "Energy",
+      "kind_label": "RSS",
+      "tags": [
+        "Energy",
+        "Cybersecurity"
+      ],
+      "novelty_score": 49,
+      "momentum_score": 54,
+      "confidence_score": 78,
+      "signal_score": 58
+    },
+    {
+      "id": "techcrunch-nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands",
+      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+      "text": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+      "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+      "date": "Thu, 12 Nov 2026 19:11:00 +0000",
+      "source": "TechCrunch",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 78,
+      "confidence_score": 78,
+      "signal_score": 64
+    },
+    {
+      "id": "ars-technica-ukraine-says-it-can-t-stop-russian-strikes-because-starshield-is-limited-again",
+      "title": "Ukraine says it can’t stop Russian strikes because Starshield is limited again",
+      "summary": "Report: Ukraine suspects speeds limits are intended to help Russia in peace talks.",
+      "text": "Report: Ukraine suspects speeds limits are intended to help Russia in peace talks.",
+      "link": "https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/",
+      "date": "Thu, 12 Nov 2026 19:09:57 +0000",
+      "source": "Ars Technica",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 59,
+      "confidence_score": 78,
+      "signal_score": 57
+    },
+    {
+      "id": "techcrunch-microsoft-s-outlook-email-hit-by-new-outage",
+      "title": "Microsoft’s Outlook email hit by new outage",
+      "summary": "Microsoft hasn't yet given a cause for the outage, which is affecting Outlook email users.",
+      "text": "Microsoft hasn't yet given a cause for the outage, which is affecting Outlook email users.",
+      "link": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/",
+      "date": "Thu, 12 Nov 2026 19:03:39 +0000",
+      "source": "TechCrunch",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 77,
+      "confidence_score": 78,
+      "signal_score": 63
+    },
+    {
+      "id": "wired-climate-change-has-pushed-the-world-s-ice-out-of-its-safe-zone",
+      "title": "Climate Change Has Pushed the World's Ice Out of Its Safe Zone",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/climate-change-abolishes-ice/",
+      "date": "Thu, 12 Nov 2026 19:00:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 67,
+      "confidence_score": 78,
+      "signal_score": 60
+    },
+    {
+      "id": "wired-jensen-huang-s-470-billion-affair",
+      "title": "Jensen Huang’s $470 Billion Affair",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huangs-dollar470-billion-affair/",
+      "date": "Thu, 12 Nov 2026 18:59:58 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 59,
+      "confidence_score": 78,
+      "signal_score": 57
+    },
+    {
+      "id": "ars-technica-google-faces-calls-for-ai-moratoriums-in-schools-after-gemini-pilot-backlash",
+      "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
+      "summary": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”",
+      "text": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”",
+      "link": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
+      "date": "Thu, 12 Nov 2026 18:57:45 +0000",
+      "source": "Ars Technica",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 54,
+      "confidence_score": 78,
+      "signal_score": 55
+    },
+    {
+      "id": "techcrunch-jensen-huang-s-exit-puts-nvidia-s-support-for-open-source-in-question",
+      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+      "text": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+      "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+      "date": "Thu, 12 Nov 2026 18:39:23 +0000",
+      "source": "TechCrunch",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 55,
+      "confidence_score": 78,
+      "signal_score": 56
+    },
+    {
+      "id": "ars-technica-netflix-releases-new-trailer-for-ray-gunn",
+      "title": "Netflix releases new trailer for Ray Gunn",
+      "summary": "\"It's hard being the only honest players in a crooked game.\"",
+      "text": "\"It's hard being the only honest players in a crooked game.\"",
+      "link": "https://arstechnica.com/culture/2026/11/netflix-releases-new-trailer-for-ray-gunn/",
+      "date": "Thu, 12 Nov 2026 18:38:38 +0000",
+      "source": "Ars Technica",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 55,
+      "confidence_score": 78,
+      "signal_score": 56
+    },
+    {
+      "id": "ars-technica-building-a-rocket-is-hard-ast-spacemobile-thinks-it-s-simple",
+      "title": "Building a rocket is hard. AST SpaceMobile thinks it's \"simple.\"",
+      "summary": "\"We're not doing this thing because we like rockets.\"",
+      "text": "\"We're not doing this thing because we like rockets.\"",
+      "link": "https://arstechnica.com/space/2026/11/building-a-rocket-is-hard-ast-spacemobile-thinks-its-simple/",
+      "date": "Thu, 12 Nov 2026 18:28:22 +0000",
+      "source": "Ars Technica",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 52,
+      "confidence_score": 78,
+      "signal_score": 54
+    },
+    {
       "id": "ars-technica-man-s-secret-use-of-synthetic-testosterone-for-cows-nearly-destroyed-his-heart",
       "title": "Man's secret use of synthetic testosterone for cows nearly destroyed his heart",
       "summary": "Doctors warn that such life-threatening cases are becoming more common.",
@@ -4333,9 +4447,9 @@
     },
     {
       "id": "techcrunch-hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huang-s-exit",
-      "title": "Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit",
-      "summary": "Hugging Face's CEO pledged to keep fighting for open-source AI after Huang's exit, raising questions about Nvidia's $12.9B acquisition.",
-      "text": "Hugging Face's CEO pledged to keep fighting for open-source AI after Huang's exit, raising questions about Nvidia's $12.9B acquisition.",
+      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+      "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
+      "text": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
       "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
       "date": "Thu, 12 Nov 2026 17:36:40 +0000",
       "source": "TechCrunch",
@@ -4346,9 +4460,9 @@
         "Tech"
       ],
       "novelty_score": 42,
-      "momentum_score": 62,
+      "momentum_score": 68,
       "confidence_score": 78,
-      "signal_score": 58
+      "signal_score": 60
     },
     {
       "id": "ars-technica-the-amazing-disappearing-exoplanet",
@@ -4389,10 +4503,48 @@
       "signal_score": 60
     },
     {
+      "id": "mit-news-engineering-addressing-nuclear-challenges-from-radiation-detection-to-power-in-space",
+      "title": "Addressing nuclear challenges, from radiation detection to power in space",
+      "summary": "Assistant Professor Jake Hecla is developing tools to cool space-based reactors, detect the presence of nuclear weapons, and better understand emerging nuclear technologies.",
+      "text": "Assistant Professor Jake Hecla is developing tools to cool space-based reactors, detect the presence of nuclear weapons, and better understand emerging nuclear technologies.",
+      "link": "https://news.mit.edu/2026/addressing-nuclear-challenges-jake-hecla-1112",
+      "date": "Thu, 12 Nov 2026 17:10:00 -0500",
+      "source": "MIT News · Engineering",
+      "category": "TECH",
+      "topic": "Energy",
+      "kind_label": "RSS",
+      "tags": [
+        "Energy"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 60,
+      "confidence_score": 78,
+      "signal_score": 57
+    },
+    {
+      "id": "google-news-automotive-news-after-jensen-huang-s-abrupt-resignation-will-nvidia-have-an-automotive-champion-automotive-news",
+      "title": "After Jensen Huang’s abrupt resignation, will Nvidia have an automotive champion? - Automotive News",
+      "summary": "After Jensen Huang’s abrupt resignation, will Nvidia have an automotive champion? &nbsp;&nbsp; Automotive News",
+      "text": "After Jensen Huang’s abrupt resignation, will Nvidia have an automotive champion? &nbsp;&nbsp; Automotive News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPM2JLRFFkdWwxNXVBa0N5WTdqTFJrUDB1dF8tUEF2UGh3Njh3bnEzWWNRbDNhWUwzdmZ5X0p6Q0dWTHpRaFRiMENMcV9GXzZRRDlQMU9ITjU1ajlCa29veVhjUWZLTFFUdHYzMlFaS0dkS01qc0ZyLW5DTzZuRmFnWDI5b3VrV1pTOGtCeC1qY3M?oc=5",
+      "date": "Thu, 12 Nov 2026 17:07:00 GMT",
+      "source": "Google News · Automotive News",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 41,
+      "confidence_score": 78,
+      "signal_score": 51
+    },
+    {
       "id": "techcrunch-softbank-s-billion-dollar-loss-may-have-put-a-cap-on-ai-s-natural-gas-ambitions",
       "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
-      "summary": "SoftBank lost over $3 billion pre-ordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
-      "text": "SoftBank lost over $3 billion pre-ordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
+      "summary": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
+      "text": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
       "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
       "date": "Thu, 12 Nov 2026 17:00:52 +0000",
       "source": "TechCrunch",
@@ -4425,6 +4577,25 @@
       "momentum_score": 63,
       "confidence_score": 78,
       "signal_score": 58
+    },
+    {
+      "id": "mit-news-research-q-a-from-seed-funding-to-scientific-breakthroughs",
+      "title": "Q&A: From seed funding to scientific breakthroughs",
+      "summary": "How the MIT Global Seed Funds helped Professor Matt Shoulders and his team build international collaborations that continue to shape his research more than a decade later.",
+      "text": "How the MIT Global Seed Funds helped Professor Matt Shoulders and his team build international collaborations that continue to shape his research more than a decade later.",
+      "link": "https://news.mit.edu/2026/from-seed-funding-to-scientific-breakthroughs-1112",
+      "date": "Thu, 12 Nov 2026 16:45:00 -0500",
+      "source": "MIT News · Research",
+      "category": "SCIENCE",
+      "topic": "Science",
+      "kind_label": "RSS",
+      "tags": [
+        "Science"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 60,
+      "confidence_score": 78,
+      "signal_score": 57
     },
     {
       "id": "techcrunch-jensen-huang-agrees-to-testify-before-congress",
@@ -4617,25 +4788,6 @@
       "signal_score": 57
     },
     {
-      "id": "techcrunch-the-unfolding-jensen-huang-scandal-a-timeline",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "text": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-      "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "date": "Thu, 12 Nov 2026 14:30:01 +0000",
-      "source": "TechCrunch",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Cybersecurity"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 72,
-      "confidence_score": 78,
-      "signal_score": 62
-    },
-    {
       "id": "wired-meet-colette-kress-nvidia-s-new-interim-ceo",
       "title": "Meet Colette Kress, Nvidia’s New Interim CEO",
       "summary": "Source item available; open the source for details.",
@@ -4655,29 +4807,10 @@
       "signal_score": 55
     },
     {
-      "id": "techcrunch-nvidia-s-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo",
-      "title": "Nvidia’s Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO",
-      "summary": "Nvidia gets a new chief executive, days after former CEO Jensen Huang admitted to a romantic affair with an alleged Chinese spy.",
-      "text": "Nvidia gets a new chief executive, days after former CEO Jensen Huang admitted to a romantic affair with an alleged Chinese spy.",
-      "link": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/",
-      "date": "Thu, 12 Nov 2026 14:10:34 +0000",
-      "source": "TechCrunch",
-      "category": "TECH",
-      "topic": "Semiconductors",
-      "kind_label": "RSS",
-      "tags": [
-        "Semiconductors"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 69,
-      "confidence_score": 78,
-      "signal_score": 60
-    },
-    {
       "id": "ars-technica-nvidia-ceo-jensen-huang-has-resigned",
       "title": "Nvidia CEO Jensen Huang has resigned",
-      "summary": "The FBI is investigating as Nvidia’s board holds urgent talks over Huang’s future.",
-      "text": "The FBI is investigating as Nvidia’s board holds urgent talks over Huang’s future.",
+      "summary": "Nvidia CEO also had an affair with a senior executive at the firm.",
+      "text": "Nvidia CEO also had an affair with a senior executive at the firm.",
       "link": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
       "date": "Thu, 12 Nov 2026 14:05:17 +0000",
       "source": "Ars Technica",
@@ -4825,26 +4958,6 @@
       "momentum_score": 54,
       "confidence_score": 78,
       "signal_score": 55
-    },
-    {
-      "id": "techcrunch-nine-korean-startups-vie-for-a-spot-in-disrupt-2027-s-startup-battlefield-200-competition",
-      "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
-      "summary": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the U.S.",
-      "text": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the U.S.",
-      "link": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
-      "date": "Thu, 12 Nov 2026 13:26:25 +0000",
-      "source": "TechCrunch",
-      "category": "TECH",
-      "topic": "Semiconductors",
-      "kind_label": "RSS",
-      "tags": [
-        "Semiconductors",
-        "Energy"
-      ],
-      "novelty_score": 49,
-      "momentum_score": 61,
-      "confidence_score": 78,
-      "signal_score": 60
     },
     {
       "id": "mit-technology-review-ai-the-download-cop31-s-climate-challenge-and-the-quest-for-immortality",
@@ -5018,213 +5131,23 @@
       "signal_score": 63
     },
     {
-      "id": "wired-the-polar-vortex-is-about-to-make-weather-weird-from-the-uk-to-the-us",
-      "title": "The Polar Vortex Is About to Make Weather Weird From the UK to the US",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/the-polar-vortex-is-about-to-make-weather-weird-from-the-uk-to-the-us/",
-      "date": "Thu, 12 Nov 2026 08:00:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
+      "id": "google-news-automotive-news-germany-s-automakers-accelerate-cuts-at-home-on-china-reckoning-automotive-news",
+      "title": "Germany’s automakers accelerate cuts at home on China reckoning - Automotive News",
+      "summary": "Germany’s automakers accelerate cuts at home on China reckoning &nbsp;&nbsp; Automotive News",
+      "text": "Germany’s automakers accelerate cuts at home on China reckoning &nbsp;&nbsp; Automotive News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTklOUHBIUmpzRmVDQk13dVM5UUxVaWsxMkNhaEFFS281c2xYeTNOWEVHY2hDT2NzQng4c2hSWFNGZWtFMWJ5N2R4MHFKQk16Y2YyaWVaeERuUUtyN3hyemdJVnZzd3lqQmoxMk10MF92bW9wNGRaSkdQNXhEQWd6TGRrQnhVR1A2SlV1VUNydEJqTkxlX3BGRThqUTRuNVRI?oc=5",
+      "date": "Thu, 12 Nov 2026 08:04:00 GMT",
+      "source": "Google News · Automotive News",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
       "kind_label": "RSS",
       "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 74,
-      "confidence_score": 78,
-      "signal_score": 62
-    },
-    {
-      "id": "wired-turbotax-full-service-coupons-this-november-2026",
-      "title": "TurboTax Full Service Coupons This November 2026",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/turbotax-coupon/",
-      "date": "Thu, 12 Nov 2026 06:00:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 60,
-      "confidence_score": 78,
-      "signal_score": 57
-    },
-    {
-      "id": "wired-lovehoney-coupon-offers-70-off",
-      "title": "Lovehoney Coupon Offers: 70% Off",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/lovehoney-discount-code/",
-      "date": "Thu, 12 Nov 2026 06:00:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 43,
-      "confidence_score": 78,
-      "signal_score": 51
-    },
-    {
-      "id": "wired-wayfair-coupons-up-to-80-off-november-2026",
-      "title": "Wayfair Coupons: Up to 80% Off November 2026",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/wayfair-promo-code/",
-      "date": "Thu, 12 Nov 2026 06:00:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 66,
-      "confidence_score": 78,
-      "signal_score": 59
-    },
-    {
-      "id": "wired-lenovo-coupon-codes-15-off-in-november-2026",
-      "title": "Lenovo Coupon Codes: 15% Off in November 2026",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/lenovo-coupon-code/",
-      "date": "Thu, 12 Nov 2026 06:00:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 77,
-      "confidence_score": 78,
-      "signal_score": 63
-    },
-    {
-      "id": "wired-airdoctor-coupon-codes-40-off-november-2026",
-      "title": "AirDoctor Coupon Codes: 40% Off | November 2026",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/airdoctor-coupon-code/",
-      "date": "Thu, 12 Nov 2026 06:00:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 63,
-      "confidence_score": 78,
-      "signal_score": 58
-    },
-    {
-      "id": "wired-hellofresh-promo-codes-55-off-for-november-2026",
-      "title": "HelloFresh Promo Codes: 55% Off for November 2026",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/hellofresh-coupon/",
-      "date": "Thu, 12 Nov 2026 06:00:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 46,
-      "confidence_score": 78,
-      "signal_score": 52
-    },
-    {
-      "id": "wired-hydrow-discount-code-save-up-to-150-november-2026",
-      "title": "Hydrow Discount Code: Save Up to $150 | November 2026",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/hydrow-discount-code/",
-      "date": "Thu, 12 Nov 2026 06:00:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 72,
-      "confidence_score": 78,
-      "signal_score": 62
-    },
-    {
-      "id": "wired-nike-promo-codes-and-discounts-30-for-november-2026",
-      "title": "Nike Promo Codes and Discounts: 30% for November 2026",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/nike-promo-code/",
-      "date": "Thu, 12 Nov 2026 06:00:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
+        "Automotive"
       ],
       "novelty_score": 42,
       "momentum_score": 61,
       "confidence_score": 78,
       "signal_score": 58
-    },
-    {
-      "id": "wired-ruggable-discount-code-30-off-rugs-november-2026",
-      "title": "Ruggable Discount Code: 30% Off Rugs | November 2026",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/ruggable-discount-code/",
-      "date": "Thu, 12 Nov 2026 06:00:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 50,
-      "confidence_score": 78,
-      "signal_score": 54
-    },
-    {
-      "id": "techcrunch-who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors",
-      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-      "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
-      "text": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
-      "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
-      "date": "Thu, 12 Nov 2026 03:13:10 +0000",
-      "source": "TechCrunch",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 58,
-      "confidence_score": 78,
-      "signal_score": 57
     },
     {
       "id": "mit-news-research-new-research-could-lead-to-faster-trustworthy-ai-models-for-climate-prediction",
@@ -5763,6 +5686,83 @@
       "momentum_score": 46,
       "confidence_score": 78,
       "signal_score": 52
+    },
+    {
+      "id": "mit-news-electric-vehicles-a-winning-formula-for-student-project-teams-at-mit",
+      "title": "A winning formula for student project teams at MIT",
+      "summary": "The teamwork, leadership, and communication skills developed in the Gordon Engineering Leadership (GEL) Program drive success of Edgerton Center project teams.",
+      "text": "The teamwork, leadership, and communication skills developed in the Gordon Engineering Leadership (GEL) Program drive success of Edgerton Center project teams.",
+      "link": "https://news.mit.edu/2026/winning-formula-student-project-teams-at-mit-0305",
+      "date": "Thu, 05 Mar 2026 17:30:00 -0500",
+      "source": "MIT News · Electric Vehicles",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 43,
+      "confidence_score": 78,
+      "signal_score": 51
+    },
+    {
+      "id": "google-news-sae-technical-papers-26autp02-automotive-engineering-february-2026-magazine-issue-sae-mobilus",
+      "title": "26AUTP02: Automotive Engineering: February 2026 - Magazine Issue - SAE Mobilus",
+      "summary": "26AUTP02: Automotive Engineering: February 2026 - Magazine Issue &nbsp;&nbsp; SAE Mobilus",
+      "text": "26AUTP02: Automotive Engineering: February 2026 - Magazine Issue &nbsp;&nbsp; SAE Mobilus",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRGd0YWIxbE0zU3g5ZGVyeGxaZ0lGOFdjeS1jZEd4UFVENkg5aWVPS1FNTi1uY3kwdkRGaTJ6VkxaVmxWbTBUeFl4dll2UFhid1k5RWJISVJISHJNRVM1bFZQYkMxX2JzMkNjbDRHMWN4aFI3UGZrQU1qbnN4Y1BFcjBsejRxYU1vTFViWA?oc=5",
+      "date": "Thu, 05 Feb 2026 08:00:00 GMT",
+      "source": "Google News · SAE Technical Papers",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 41,
+      "confidence_score": 78,
+      "signal_score": 51
+    },
+    {
+      "id": "mit-news-electric-vehicles-want-to-design-the-car-of-the-future-here-are-8-000-designs-to-get-you-started",
+      "title": "Want to design the car of the future? Here are 8,000 designs to get you started.",
+      "summary": "MIT engineers developed the largest open-source dataset of car designs, including their aerodynamics, that could speed design of eco-friendly cars and electric vehicles.",
+      "text": "MIT engineers developed the largest open-source dataset of car designs, including their aerodynamics, that could speed design of eco-friendly cars and electric vehicles.",
+      "link": "https://news.mit.edu/2024/design-future-car-with-8000-design-options-1205",
+      "date": "Thu, 05 Dec 2024 00:00:00 -0500",
+      "source": "MIT News · Electric Vehicles",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 61,
+      "confidence_score": 78,
+      "signal_score": 58
+    },
+    {
+      "id": "google-news-software-defined-vehicles-why-western-oems-are-falling-behind-china-in-sdv-development-wardsauto",
+      "title": "Why Western OEMs are falling behind China in SDV development - WardsAuto",
+      "summary": "Why Western OEMs are falling behind China in SDV development &nbsp;&nbsp; WardsAuto",
+      "text": "Why Western OEMs are falling behind China in SDV development &nbsp;&nbsp; WardsAuto",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZjJuRnFtUjZVMFVuSGp1OTh4SjZSeVVTT05SOU5MNkVkSDRiaTFJRGszT2xvbGpRckRyQWUzd0JkNFhqOHZPdFRuRkY0cXExWGxZNHJvdFo5Rl9Hb043OEp3RTFxbGVHMnNVZmJXZl9lWFFDZ2QwUll2ZWxDLVlnLXlKalk0YmJnRW9janY2cXY5cUw5U1Z3Z1ZkVno4OUNq?oc=5",
+      "date": "Thu, 04 Jun 2026 07:00:00 GMT",
+      "source": "Google News · Software-Defined Vehicles",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive",
+        "SDV"
+      ],
+      "novelty_score": 49,
+      "momentum_score": 69,
+      "confidence_score": 78,
+      "signal_score": 63
     }
   ],
   "health": [
@@ -5815,18 +5815,21 @@
     },
     {
       "name": "arXiv · AI/ML",
-      "ok": true,
-      "count": 18
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 429: Unknown Error"
     },
     {
       "name": "arXiv · Systems",
-      "ok": true,
-      "count": 18
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 429: Unknown Error"
     },
     {
       "name": "arXiv · Robotics",
-      "ok": true,
-      "count": 18
+      "ok": false,
+      "count": 0,
+      "error": "The read operation timed out"
     },
     {
       "name": "arXiv · Automotive/Control",
