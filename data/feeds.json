@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-11-14T06:28:24.352059+00:00",
+  "generated_at": "2026-11-14T15:07:31.276254+00:00",
   "items": [
     {
       "id": "google-news-sae-technical-papers-2025-01-7321-effective-aperture-determination-for-efficient-vehicle-mounted-antennas-measurement-via-spherical-wave-e",
@@ -352,10 +352,10 @@
       "signal_score": 55
     },
     {
-      "id": "google-news-bain-mobility-global-auto-consumer-survey-regional-trends-in-a-changing-world-bain-company",
-      "title": "Global Auto Consumer Survey: Regional Trends in a Changing World - Bain & Company",
-      "summary": "Global Auto Consumer Survey: Regional Trends in a Changing World &nbsp;&nbsp; Bain & Company",
-      "text": "Global Auto Consumer Survey: Regional Trends in a Changing World &nbsp;&nbsp; Bain & Company",
+      "id": "google-news-bain-mobility-global-auto-consumer-survey-regional-trends-in-a-changing-world-bain",
+      "title": "Global Auto Consumer Survey: Regional Trends in a Changing World - Bain",
+      "summary": "Global Auto Consumer Survey: Regional Trends in a Changing World &nbsp;&nbsp; Bain",
+      "text": "Global Auto Consumer Survey: Regional Trends in a Changing World &nbsp;&nbsp; Bain",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTFdQa3o1X0tsQ2I2bnNUU3hzQndNMEpHNHJyXzBEWWVPd2t0NllhRU83c2hwX21HSjFac2ZmZExjUHlYWlA0SkYyVXE3MVdSYUFDLUk2UWNiRUM4Q3NxbDE2Wk1ScFRTM05fS3dhMTNtSGlPSjVRRUlHNUxPd29lNnZsUUtEN096ZTVPMnlrZW1YcUR4akZJMjB3?oc=5",
       "date": "Wed, 21 Oct 2026 07:00:00 GMT",
       "source": "Google News · Bain Mobility",
@@ -366,9 +366,9 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 69,
+      "momentum_score": 74,
       "confidence_score": 78,
-      "signal_score": 60
+      "signal_score": 62
     },
     {
       "id": "google-news-pwc-automotive-pwc-middle-east-sets-out-roadmap-to-accelerate-qatar-s-electric-mobility-transformation-pwc",
@@ -1082,25 +1082,6 @@
       "signal_score": 57
     },
     {
-      "id": "google-news-automotive-news-byd-apologizes-for-installing-chinese-suv-s-wheels-the-wrong-way-automotive-news",
-      "title": "BYD apologizes for installing Chinese SUV’s wheels the wrong way - Automotive News",
-      "summary": "BYD apologizes for installing Chinese SUV’s wheels the wrong way &nbsp;&nbsp; Automotive News",
-      "text": "BYD apologizes for installing Chinese SUV’s wheels the wrong way &nbsp;&nbsp; Automotive News",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LWmNSc2NPOHBlTWR0RmZtd1ZpTC1ndDhLSEw3cmpHaW9UcHhKSDRnTlBqMTUyMVZ6RjhFX24xcWFFZ3N3ZG50UDdXZmRrR0NETkVVSjkwLThxNUtUbC05N3cxVjJ0QQ?oc=5",
-      "date": "Wed, 11 Nov 2026 09:31:00 GMT",
-      "source": "Google News · Automotive News",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 64,
-      "confidence_score": 78,
-      "signal_score": 59
-    },
-    {
       "id": "google-news-automotive-news-honda-teases-all-new-avancier-utility-vehicle-that-could-kick-off-next-generation-hybrids-automotive-news",
       "title": "Honda teases all-new Avancier utility vehicle that could kick off next-generation hybrids - Automotive News",
       "summary": "Honda teases all-new Avancier utility vehicle that could kick off next-generation hybrids &nbsp;&nbsp; Automotive News",
@@ -1332,25 +1313,6 @@
       "signal_score": 57
     },
     {
-      "id": "google-news-sae-international-25autp08-automotive-engineering-august-2025-sae-international",
-      "title": "25AUTP08 : Automotive Engineering: August 2025 - SAE International",
-      "summary": "25AUTP08 : Automotive Engineering: August 2025 &nbsp;&nbsp; SAE International",
-      "text": "25AUTP08 : Automotive Engineering: August 2025 &nbsp;&nbsp; SAE International",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVzd3S2h6aWdXb1VwbVJUM0RwVm05dXpnX1RRQzdaM25iZzRTVjl4R3pHc3JITndFZkZaSVBTWnhfVFZjU0FGSm5fLXlGRFhOLW5qRThwc3RvOWVnVXFBbFJMUlRqeks0VnhGVFhyQkRfY3A1b1UzdHY1aDV1YkpTcA?oc=5",
-      "date": "Wed, 06 Aug 2025 07:00:00 GMT",
-      "source": "Google News · SAE International",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 50,
-      "confidence_score": 78,
-      "signal_score": 54
-    },
-    {
       "id": "mit-news-autonomous-vehicles-teaching-robots-to-map-large-environments",
       "title": "Teaching robots to map large environments",
       "summary": "A new approach developed at MIT could help a search-and-rescue robot navigate an unpredictable environment by rapidly generating an accurate map of its surroundings.",
@@ -1562,6 +1524,25 @@
       "momentum_score": 53,
       "confidence_score": 78,
       "signal_score": 55
+    },
+    {
+      "id": "google-news-sae-international-automar06-automotive-engineering-international-2006-03-01-magazine-issue-sae-international",
+      "title": "AUTOMAR06: Automotive Engineering International 2006-03-01 - Magazine Issue - SAE International",
+      "summary": "AUTOMAR06: Automotive Engineering International 2006-03-01 - Magazine Issue &nbsp;&nbsp; SAE International",
+      "text": "AUTOMAR06: Automotive Engineering International 2006-03-01 - Magazine Issue &nbsp;&nbsp; SAE International",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONUg3c1hhcnhfbXBHYTZwd1pyaEJhZGhPcjBwUkNnMUhGWUwyU2RnczhDdkJmcV93cUhPdXlKTFF3R0haMmRoOGM2ZVNJR1U3Y2RVRTExT19PNWhWQ0QwVS1sSGU4UjlWWDhMSGtra0ZBemlVN2MyckRGcWN1NDZlVnlkb200bVdKM28tUEg4clIxWUxmMEJDRmNmQU0zUmFRRFZMS0dUN1E?oc=5",
+      "date": "Wed, 01 Mar 2006 08:00:00 GMT",
+      "source": "Google News · SAE International",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 51,
+      "confidence_score": 78,
+      "signal_score": 54
     },
     {
       "id": "google-news-deloitte-automotive-2026-global-automotive-consumer-study-deloitte",
@@ -2087,6 +2068,25 @@
       "signal_score": 62
     },
     {
+      "id": "google-news-deloitte-automotive-automotive-deloitte",
+      "title": "Automotive - Deloitte",
+      "summary": "Automotive &nbsp;&nbsp; Deloitte",
+      "text": "Automotive &nbsp;&nbsp; Deloitte",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Rd01XRFE4bF9ZZmVlWW9JTHpIUldoOUdSdDZfeXpzd196M3pUUm1SMlNjWDdqNmpkZlRQV1E0SXZ4RjhRRDg3dGhFVkl2QzdEWm13T0pwXzJ1SFNTanRNZmwwdVl5YXVpMEtqck96aVdGQQ?oc=5",
+      "date": "Tue, 18 Aug 2020 10:53:55 GMT",
+      "source": "Google News · Deloitte Automotive",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 76,
+      "confidence_score": 78,
+      "signal_score": 63
+    },
+    {
       "id": "google-news-bcg-automotive-what-electric-vehicle-owners-really-want-from-charging-networks-boston-consulting-group",
       "title": "What Electric Vehicle Owners Really Want from Charging Networks - Boston Consulting Group",
       "summary": "What Electric Vehicle Owners Really Want from Charging Networks &nbsp;&nbsp; Boston Consulting Group",
@@ -2392,25 +2392,6 @@
       "signal_score": 64
     },
     {
-      "id": "google-news-automotive-news-toyota-resurrects-scion-as-niche-mobility-brand-starting-with-tiny-pickup-automotive-news",
-      "title": "Toyota resurrects Scion as niche mobility brand starting with tiny pickup - Automotive News",
-      "summary": "Toyota resurrects Scion as niche mobility brand starting with tiny pickup &nbsp;&nbsp; Automotive News",
-      "text": "Toyota resurrects Scion as niche mobility brand starting with tiny pickup &nbsp;&nbsp; Automotive News",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ieklGTHBlZmNkUDZwNUVHQzkyMnhKMzVITzFmRzQ4MjNVYmxjWHRHaG00bzJ1MV9pZHFGRWVud2V3cVJXNjYzY2JCc2sxbTg3T1dwMnhjY282cU94R21vWUo2Zm5zNDAzTDAzSzdzbVgyR1BWNGc2V3NDTU8?oc=5",
-      "date": "Tue, 10 Nov 2026 15:00:00 GMT",
-      "source": "Google News · Automotive News",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 53,
-      "confidence_score": 78,
-      "signal_score": 55
-    },
-    {
       "id": "mit-technology-review-ai-the-download-pelosi-s-successor-targets-ai-and-data-centers-face-power-woes",
       "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Nancy Pelosi’s replacement is ready to regulate AI —Grace Huckins As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a&#8230;",
@@ -2658,6 +2639,25 @@
       "momentum_score": 67,
       "confidence_score": 78,
       "signal_score": 60
+    },
+    {
+      "id": "google-news-automotive-news-honda-delays-next-gen-cr-v-by-3-months-cancels-civic-production-in-indiana-in-2028-automotive-news",
+      "title": "Honda delays next-gen CR-V by 3 months, cancels Civic production in Indiana in 2028 - Automotive News",
+      "summary": "Honda delays next-gen CR-V by 3 months, cancels Civic production in Indiana in 2028 &nbsp;&nbsp; Automotive News",
+      "text": "Honda delays next-gen CR-V by 3 months, cancels Civic production in Indiana in 2028 &nbsp;&nbsp; Automotive News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMlNyVkdBZUEzRXZ1azE0UFczNDJYRURiWFN2cHRFOFFqcko5dkwyNFVDUzlPMm53SDJzUUtrbXc5ZGlmNDJQZHFrSlJ1cU9zMHdwdkVDZXB1SnRhS1RESzRvTHNCUlY0bExTOFNDamtHOEhVVHlXQ0dlNDJVRWRVMkxQa0pISF8xX0hxTWlQNDIwVl9aV0ow?oc=5",
+      "date": "Tue, 06 Oct 2026 07:00:00 GMT",
+      "source": "Google News · Automotive News",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 48,
+      "confidence_score": 78,
+      "signal_score": 53
     },
     {
       "id": "google-news-software-defined-vehicles-honda-and-applied-intuition-partner-on-sdv-platform-applied-intuition",
@@ -3779,44 +3779,6 @@
       "signal_score": 64
     },
     {
-      "id": "ars-technica-ukraine-says-it-can-t-stop-russian-strikes-because-starshield-is-limited-again",
-      "title": "Ukraine says it can’t stop Russian strikes because Starshield is limited again",
-      "summary": "Report: Ukraine suspects speeds limits are intended to help Russia in peace talks.",
-      "text": "Report: Ukraine suspects speeds limits are intended to help Russia in peace talks.",
-      "link": "https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/",
-      "date": "Thu, 12 Nov 2026 19:09:57 +0000",
-      "source": "Ars Technica",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 59,
-      "confidence_score": 78,
-      "signal_score": 57
-    },
-    {
-      "id": "ars-technica-google-faces-calls-for-ai-moratoriums-in-schools-after-gemini-pilot-backlash",
-      "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
-      "summary": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”",
-      "text": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”",
-      "link": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
-      "date": "Thu, 12 Nov 2026 18:57:45 +0000",
-      "source": "Ars Technica",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 54,
-      "confidence_score": 78,
-      "signal_score": 55
-    },
-    {
       "id": "google-news-automotive-news-tesla-rivian-tighten-grip-on-u-s-ev-market-legacy-brands-fade-after-tax-credit-repeal-automotive-news",
       "title": "Tesla, Rivian tighten grip on U.S. EV market; legacy brands fade after tax credit repeal - Automotive News",
       "summary": "Tesla, Rivian tighten grip on U.S. EV market; legacy brands fade after tax credit repeal &nbsp;&nbsp; Automotive News",
@@ -4006,25 +3968,6 @@
       "momentum_score": 42,
       "confidence_score": 78,
       "signal_score": 51
-    },
-    {
-      "id": "google-news-automotive-news-eu-prepares-to-delay-10-tariff-on-uk-built-evs-report-says-automotive-news",
-      "title": "EU prepares to delay 10% tariff on UK-built EVs, report says - Automotive News",
-      "summary": "EU prepares to delay 10% tariff on UK-built EVs, report says &nbsp;&nbsp; Automotive News",
-      "text": "EU prepares to delay 10% tariff on UK-built EVs, report says &nbsp;&nbsp; Automotive News",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54ZHBwT0hfb09heGFnbDJBeTd5WnhDMVhJT2k3LW8tV0ZWRjFvZ1ZZYUJzZ2VxVWpBMXVPc1NjUVpsSDdhQ3hiMkZHdTZGX0NIODdMb2EydDRqSGRSQ2ljNDdTSmltMHN1SmEwVg?oc=5",
-      "date": "Thu, 12 Nov 2026 08:49:00 GMT",
-      "source": "Google News · Automotive News",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 77,
-      "confidence_score": 78,
-      "signal_score": 63
     },
     {
       "id": "google-news-automotive-news-germany-s-automakers-accelerate-cuts-at-home-on-china-reckoning-automotive-news",
@@ -4987,25 +4930,6 @@
       "signal_score": 56
     },
     {
-      "id": "google-news-deloitte-automotive-electric-vehicle-charging-vat-and-ccl-changes-taxscape-deloitte",
-      "title": "Electric Vehicle Charging – VAT and CCL changes - TaxScape | Deloitte",
-      "summary": "Electric Vehicle Charging – VAT and CCL changes &nbsp;&nbsp; TaxScape | Deloitte",
-      "text": "Electric Vehicle Charging – VAT and CCL changes &nbsp;&nbsp; TaxScape | Deloitte",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN3JPdG9LTVRmZjl3a2VxM1FSeFhCbWJGd01iT1FWa3V0Q2RTNU1nVmR3YjhKc05ZRmQxSTBuUXRoY1ZCOXd2RDJEdHlRMWU0ajRpLXJycXhlN0xRcGc1QXFlX05OdU5qRXJucl9EOXV5bEotWG1JYVFnVTVaeGdtUEpySEotZlYxek0xWUl5WW5BUWVUcTJuMVZnb09hVDQ1SUNv?oc=5",
-      "date": "Sun, 01 Nov 2026 07:00:00 GMT",
-      "source": "Google News · Deloitte Automotive",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 83,
-      "confidence_score": 78,
-      "signal_score": 65
-    },
-    {
       "id": "google-news-pwc-automotive-5th-automotive-asean-market-snaphot-feb-26-pwc",
       "title": "5th Automotive ASEAN Market Snaphot_Feb'26 - PwC",
       "summary": "5th Automotive ASEAN Market Snaphot_Feb'26 &nbsp;&nbsp; PwC",
@@ -5234,6 +5158,291 @@
       "signal_score": 57
     },
     {
+      "id": "wired-beware-the-new-ai-fueled-ransomware-boom",
+      "title": "Beware the New AI-Fueled Ransomware Boom",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+      "date": "Sat, 14 Nov 2026 13:00:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 51,
+      "confidence_score": 78,
+      "signal_score": 54
+    },
+    {
+      "id": "ars-technica-james-webb-telescope-finds-ice-older-than-the-star-it-orbits",
+      "title": "James Webb telescope finds ice older than the star it orbits",
+      "summary": "Radiation and collisions reshape the planetary building materials.",
+      "text": "Radiation and collisions reshape the planetary building materials.",
+      "link": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
+      "date": "Sat, 14 Nov 2026 12:15:48 +0000",
+      "source": "Ars Technica",
+      "category": "TECH",
+      "topic": "Materials",
+      "kind_label": "RSS",
+      "tags": [
+        "Materials"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 67,
+      "confidence_score": 78,
+      "signal_score": 60
+    },
+    {
+      "id": "ars-technica-winemakers-are-learning-that-conservation-can-be-good-for-business",
+      "title": "Winemakers are learning that conservation can be good for business",
+      "summary": "Healthy soils, native plants, and fewer chemicals are helping vineyards adapt.",
+      "text": "Healthy soils, native plants, and fewer chemicals are helping vineyards adapt.",
+      "link": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/",
+      "date": "Sat, 14 Nov 2026 12:05:51 +0000",
+      "source": "Ars Technica",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 66,
+      "confidence_score": 78,
+      "signal_score": 59
+    },
+    {
+      "id": "wired-i-put-the-best-digital-notebooks-to-the-test-here-are-my-favorites-2026",
+      "title": "I Put the Best Digital Notebooks to the Test. Here Are My Favorites (2026)",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/",
+      "date": "Sat, 14 Nov 2026 12:05:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 74,
+      "confidence_score": 78,
+      "signal_score": 62
+    },
+    {
+      "id": "wired-how-to-run-steamos-on-your-mac",
+      "title": "How to Run SteamOS on Your Mac",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/get-steamos-easily-running-on-your-mac/",
+      "date": "Sat, 14 Nov 2026 12:00:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 59,
+      "confidence_score": 78,
+      "signal_score": 57
+    },
+    {
+      "id": "wired-it-s-time-to-run-an-audit-of-all-the-cloud-storage-links-you-ve-shared",
+      "title": "It’s Time to Run an Audit of All the Cloud Storage Links You’ve Shared",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/audit-all-the-cloud-storage-links-youve-shared/",
+      "date": "Sat, 14 Nov 2026 11:30:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 76,
+      "confidence_score": 78,
+      "signal_score": 63
+    },
+    {
+      "id": "wired-10-best-early-black-friday-headphone-deals-2026-up-to-50-off",
+      "title": "10 Best Early Black Friday Headphone Deals (2026): Up to 50% Off",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/best-early-black-friday-headphone-deals-11-14-26/",
+      "date": "Sat, 14 Nov 2026 11:30:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 52,
+      "confidence_score": 78,
+      "signal_score": 54
+    },
+    {
+      "id": "wired-the-21-best-rei-holiday-sale-outdoor-deals-2026",
+      "title": "The 21 Best REI Holiday Sale Outdoor Deals (2026)",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/best-rei-holiday-sale-outdoor-deals-2026/",
+      "date": "Sat, 14 Nov 2026 11:00:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 67,
+      "confidence_score": 78,
+      "signal_score": 60
+    },
+    {
+      "id": "wired-no-pilots-few-air-traffic-controllers-what-could-go-wrong",
+      "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
+      "date": "Sat, 14 Nov 2026 11:00:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 62,
+      "confidence_score": 78,
+      "signal_score": 58
+    },
+    {
+      "id": "wired-my-9-favorite-pickleball-paddles-from-3-years-of-testing-2026",
+      "title": "My 9 Favorite Pickleball Paddles From 3 Years of Testing (2026)",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/best-pickleball-paddles/",
+      "date": "Sat, 14 Nov 2026 10:37:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 60,
+      "confidence_score": 78,
+      "signal_score": 57
+    },
+    {
+      "id": "wired-floods-force-gaza-to-choose-between-clean-water-and-pumping-out-sewage",
+      "title": "Floods Force Gaza to Choose Between Clean Water and Pumping Out Sewage",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/gaza-floods-are-forcing-a-choice-between-pumping-out-sewage-and-pumping-in-water/",
+      "date": "Sat, 14 Nov 2026 10:30:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 40,
+      "confidence_score": 78,
+      "signal_score": 50
+    },
+    {
+      "id": "wired-we-asked-vogue-gq-and-a-pro-stylist-to-kill-jensen-huang-s-leather-jacket",
+      "title": "We Asked Vogue, GQ, and a Pro Stylist to Kill Jensen Huang’s Leather Jacket",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/with-the-help-of-vogue-gq-and-a-pro-stylist-wired-revamps-jensen-huang/",
+      "date": "Sat, 14 Nov 2026 10:15:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 54,
+      "confidence_score": 78,
+      "signal_score": 55
+    },
+    {
+      "id": "wired-thanksgiving-meal-deals-roundup-2026-walmart-amazon-target",
+      "title": "Thanksgiving Meal Deals Roundup (2026): Walmart, Amazon, Target",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/thanksgiving-meal-deals-2026/",
+      "date": "Sat, 14 Nov 2026 10:00:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 58,
+      "confidence_score": 78,
+      "signal_score": 57
+    },
+    {
+      "id": "wired-these-ghostly-galaxies-have-lost-their-dark-matter",
+      "title": "These ‘Ghostly’ Galaxies Have Lost Their Dark Matter",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/these-ghostly-galaxies-have-lost-their-dark-matter/",
+      "date": "Sat, 14 Nov 2026 10:00:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 69,
+      "confidence_score": 78,
+      "signal_score": 60
+    },
+    {
+      "id": "wired-outlook-went-down-microsoft-may-owe-you-money",
+      "title": "Outlook Went Down? Microsoft May Owe You Money",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/outlook-went-down-microsoft-may-owe-you-money/",
+      "date": "Sat, 14 Nov 2026 07:00:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 50,
+      "confidence_score": 78,
+      "signal_score": 54
+    },
+    {
       "id": "wired-dell-coupon-codes-20-off-for-november-2026",
       "title": "Dell Coupon Codes: 20% Off for November 2026",
       "summary": "Source item available; open the source for details.",
@@ -5443,82 +5652,6 @@
       "signal_score": 51
     },
     {
-      "id": "wired-abt-promo-codes-discounts-for-november-2026",
-      "title": "ABT Promo Codes & Discounts for November 2026",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/abt-promo-code/",
-      "date": "Sat, 14 Nov 2026 06:00:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 46,
-      "confidence_score": 78,
-      "signal_score": 52
-    },
-    {
-      "id": "wired-playstation-discount-code-15-off-november-2026",
-      "title": "PlayStation Discount Code: 15% Off | November 2026",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/playstation-discount-code/",
-      "date": "Sat, 14 Nov 2026 06:00:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 82,
-      "confidence_score": 78,
-      "signal_score": 65
-    },
-    {
-      "id": "wired-adidas-promo-code-60-off-november-2026",
-      "title": "Adidas Promo Code | 60% Off | November 2026",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/adidas-promo-code/",
-      "date": "Sat, 14 Nov 2026 06:00:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 84,
-      "confidence_score": 78,
-      "signal_score": 66
-    },
-    {
-      "id": "wired-the-faa-nationwide-ground-stop-is-over",
-      "title": "The FAA Nationwide Ground Stop Is Over",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/the-faa-nationwide-ground-stop-is-over/",
-      "date": "Sat, 14 Nov 2026 01:46:40 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 46,
-      "confidence_score": 78,
-      "signal_score": 52
-    },
-    {
       "id": "ars-technica-starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday",
       "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
       "summary": "One way or another, the company will get some more data on Saturday.",
@@ -5632,140 +5765,6 @@
       "momentum_score": 63,
       "confidence_score": 78,
       "signal_score": 58
-    },
-    {
-      "id": "google-news-pwc-automotive-electric-vehicle-sales-review-full-year-2021-pwc",
-      "title": "Electric Vehicle Sales Review Full Year 2021 - PwC",
-      "summary": "Electric Vehicle Sales Review Full Year 2021 &nbsp;&nbsp; PwC",
-      "text": "Electric Vehicle Sales Review Full Year 2021 &nbsp;&nbsp; PwC",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbk9xbnJiSVFiWjVsRG54bTgxdzFya1VJYlUwZ2JLa3J3SXg3SUFGdk9Cczg2OG16ZTlENTNSMl9pZG9TMTNfRG9mLWlEcF9IOWlEYmgzelRLVW1scHliajkwdDV6T0RiTXFMVmlZbDFXMHV2aXBfWjFYZUZ0Qi1OV1hwOHVFQQ?oc=5",
-      "date": "Mon, 30 May 2022 22:26:27 GMT",
-      "source": "Google News · PwC Automotive",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 42,
-      "confidence_score": 78,
-      "signal_score": 51
-    },
-    {
-      "id": "google-news-automotive-cybersecurity-unece-r155-r156-boosts-vehicle-cybersecurity-cubic3",
-      "title": ": UNECE R155/R156 boosts vehicle cybersecurity - Cubic3",
-      "summary": ": UNECE R155/R156 boosts vehicle cybersecurity &nbsp;&nbsp; Cubic3",
-      "text": ": UNECE R155/R156 boosts vehicle cybersecurity &nbsp;&nbsp; Cubic3",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDcklyUXhFYVZRSmx2RmlzS2NqLXpEY3RRaV9oX2RveFlnM2NpSDJTNzI3dU9pRzlHeUNJWnMyWFhRWXFxR2pSUUJLaFhCYXNvUmRKTUdHd184RTBKbkhQYVVsSDJpX0R2REZkZHVaem5scmti?oc=5",
-      "date": "Mon, 29 Apr 2024 07:00:00 GMT",
-      "source": "Google News · Automotive Cybersecurity",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive",
-        "Cybersecurity"
-      ],
-      "novelty_score": 49,
-      "momentum_score": 52,
-      "confidence_score": 78,
-      "signal_score": 57
-    },
-    {
-      "id": "google-news-bcg-automotive-shifting-gears-in-auto-manufacturing-boston-consulting-group",
-      "title": "Shifting Gears in Auto Manufacturing - Boston Consulting Group",
-      "summary": "Shifting Gears in Auto Manufacturing &nbsp;&nbsp; Boston Consulting Group",
-      "text": "Shifting Gears in Auto Manufacturing &nbsp;&nbsp; Boston Consulting Group",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeW5VUnNUYnIxTGNDM3Z1LVYwN0t4QzVDWDJZc2x3VmhzdnlKWmRxbXhabVZ3a0FEN1BwWEw1N19SalpaRC0zMUE3bTRxYXNQSVlfSkhHc01JR1lMb3Q4czJoMVoySmIya3hkZnF3VHo2LTZuck5DS0FxcWszZm9ZOHBoU054UkduTFFndU1Nc1l0NnRxYTdzWl9jWjBiQW9HUWdUNA?oc=5",
-      "date": "Mon, 28 Sep 2020 07:00:00 GMT",
-      "source": "Google News · BCG Automotive",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 76,
-      "confidence_score": 78,
-      "signal_score": 63
-    },
-    {
-      "id": "ieee-spectrum-ieee-xplore-digital-library-adds-ai-assistant",
-      "title": "IEEE Xplore Digital Library Adds AI Assistant",
-      "summary": "IEEE recently released the IEEE Xplore AI Research Suite , built on the full text of millions of peer-reviewed publications in the IEEE Xplore Digital Library . The library offers full-text access to IEEE standards , journals, magazines, conference proceedings, and more. Researchers who use the AI suite to search the digital library receive answers grounded in verified scientific results, ensuring a high level of accuracy and trust. The suite is available as an optional subscription upgrade to all IEEE Xplore Digital Library institutional subscribers. Powered by a proprietary AI system optimized for STEM literature, the suite introduces power",
-      "text": "IEEE recently released the IEEE Xplore AI Research Suite , built on the full text of millions of peer-reviewed publications in the IEEE Xplore Digital Library . The library offers full-text access to IEEE standards , journals, magazines, conference proceedings, and more. Researchers who use the AI suite to search the digital library receive answers grounded in verified scientific results, ensuring a high level of accuracy and trust. The suite is available as an optional subscription upgrade to all IEEE Xplore Digital Library institutional subscribers. Powered by a proprietary AI system optimized for STEM literature, the suite introduces power",
-      "link": "https://spectrum.ieee.org/ieee-xplore-digital-library-ai",
-      "date": "Mon, 26 Oct 2026 18:00:03 +0000",
-      "source": "IEEE Spectrum",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 62,
-      "confidence_score": 78,
-      "signal_score": 58
-    },
-    {
-      "id": "ieee-spectrum-build-a-hidden-lock-with-a-magnetic-imager",
-      "title": "Build a Hidden Lock With a Magnetic Imager",
-      "summary": "Like many a nerd, I have a certain fascination with locks. This originates in reading the memoir Surely You’re Joking, Mr. Feynman as a teenager, in which Richard Feynman recounts picking locks and cracking combinations while at his day job working on the Manhattan Project at Los Alamos. I currently have a couple of locksport pick sets and training locks that I purchased at hacker conferences over the years (although I’m still terrible at it), and I delight in the YouTube exploits of folks like the LockPickingLawyer . All of which left me wondering if I could try building an interesting lock. One dodge that lockmakers have long used to challe",
-      "text": "Like many a nerd, I have a certain fascination with locks. This originates in reading the memoir Surely You’re Joking, Mr. Feynman as a teenager, in which Richard Feynman recounts picking locks and cracking combinations while at his day job working on the Manhattan Project at Los Alamos. I currently have a couple of locksport pick sets and training locks that I purchased at hacker conferences over the years (although I’m still terrible at it), and I delight in the YouTube exploits of folks like the LockPickingLawyer . All of which left me wondering if I could try building an interesting lock. One dodge that lockmakers have long used to challe",
-      "link": "https://spectrum.ieee.org/magnetic",
-      "date": "Mon, 26 Oct 2026 13:00:02 +0000",
-      "source": "IEEE Spectrum",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 76,
-      "confidence_score": 78,
-      "signal_score": 63
-    },
-    {
-      "id": "google-news-vehicle-connectivity-vehicle-to-vehicle-communication-market-size-share-2034-fortune-business-insights",
-      "title": "Vehicle to Vehicle Communication Market Size, Share [2034] - Fortune Business Insights",
-      "summary": "Vehicle to Vehicle Communication Market Size, Share [2034] &nbsp;&nbsp; Fortune Business Insights",
-      "text": "Vehicle to Vehicle Communication Market Size, Share [2034] &nbsp;&nbsp; Fortune Business Insights",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRVFqd3FsY2lUUFhydEVDOC1LeEdZU1FpRTJEekowNTF6VElITWVHMDV1bVBYSVpTVkczWUFuUkhZbm5LUWQ1YXlMWVhZeURTT05IaDc4WGtQRDlqLWNKVC10aGNhQWNWT0UtNjNuc0I2NkIwVHY2NlB1OEVhWlZPaXFIZDc1U212bjdQcEFKaw?oc=5",
-      "date": "Mon, 26 Oct 2026 07:00:00 GMT",
-      "source": "Google News · Vehicle Connectivity",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 56,
-      "confidence_score": 78,
-      "signal_score": 56
-    },
-    {
-      "id": "google-news-bain-mobility-cracking-the-code-on-automotive-omnichannel-sales-bain-company",
-      "title": "Cracking the Code on Automotive Omnichannel Sales - Bain & Company",
-      "summary": "Cracking the Code on Automotive Omnichannel Sales &nbsp;&nbsp; Bain & Company",
-      "text": "Cracking the Code on Automotive Omnichannel Sales &nbsp;&nbsp; Bain & Company",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcldqQ2I4RmhaU0hoTUMxUHdKS0RjNHp6ODF0WXV0QlVwck9GRmxzX29qcTBvbjBkMkZicDFtNzlCQVlzVUhsRllpQ1pkamUwY3RsWDJmaWtVN0hQSFIxdE5NQ2JZckpfUExFRndleUZiUTM0U1pmaUJnUzJvZjlvT3RteWQxRWs?oc=5",
-      "date": "Mon, 25 Oct 2021 07:00:00 GMT",
-      "source": "Google News · Bain Mobility",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 73,
-      "confidence_score": 78,
-      "signal_score": 62
     }
   ],
   "health": [
@@ -5901,7 +5900,7 @@
     {
       "name": "Google News · Vehicle Connectivity",
       "ok": true,
-      "count": 20
+      "count": 21
     },
     {
       "name": "Google News · Automotive Cybersecurity",
