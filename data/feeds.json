@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-11-14T20:44:15.582291+00:00",
+  "generated_at": "2026-11-15T01:57:09.831212+00:00",
   "items": [
     {
       "id": "google-news-sae-technical-papers-2025-01-7321-effective-aperture-determination-for-efficient-vehicle-mounted-antennas-measurement-via-spherical-wave-e",
@@ -251,6 +251,25 @@
       ],
       "novelty_score": 49,
       "momentum_score": 65,
+      "confidence_score": 78,
+      "signal_score": 62
+    },
+    {
+      "id": "google-news-university-automotive-research-mcpherson-college-to-research-engineering-design-and-mobility-hutch-post",
+      "title": "McPherson College to research engineering, design, and mobility - Hutch Post",
+      "summary": "McPherson College to research engineering, design, and mobility &nbsp;&nbsp; Hutch Post",
+      "text": "McPherson College to research engineering, design, and mobility &nbsp;&nbsp; Hutch Post",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PdUhsVWI3N29HYlJMdXd5UDhWdlBxazdESy1QeVV0VnVaOTkybDg1RDJFMG9Td3dBejJGWUk5WExpUGpuNm1fdWJZOGQ3RTVBU3NwZWFjcTVYU3BPcmZ3am9rM0Q5NGYwZUlpeldfZUg1UQ?oc=5",
+      "date": "Wed, 25 Jan 2023 08:00:00 GMT",
+      "source": "Google News · University Automotive Research",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 73,
       "confidence_score": 78,
       "signal_score": 62
     },
@@ -543,10 +562,10 @@
       "signal_score": 58
     },
     {
-      "id": "google-news-bain-mobility-building-a-resilient-global-ev-supply-chain-amid-uncertainty-bain-company",
-      "title": "Building a Resilient Global EV Supply Chain Amid Uncertainty - Bain & Company",
-      "summary": "Building a Resilient Global EV Supply Chain Amid Uncertainty &nbsp;&nbsp; Bain & Company",
-      "text": "Building a Resilient Global EV Supply Chain Amid Uncertainty &nbsp;&nbsp; Bain & Company",
+      "id": "google-news-bain-mobility-building-a-resilient-global-ev-supply-chain-amid-uncertainty-bain",
+      "title": "Building a Resilient Global EV Supply Chain Amid Uncertainty - Bain",
+      "summary": "Building a Resilient Global EV Supply Chain Amid Uncertainty &nbsp;&nbsp; Bain",
+      "text": "Building a Resilient Global EV Supply Chain Amid Uncertainty &nbsp;&nbsp; Bain",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeENjUWR1M1dwVWxJZ2szNjVTQ3djQXltUGFBOFF4TWZKYnFkOVZSaFZVVnYzVDlBdW8zbS1taktZWF9uVDVTVmM4eDl0eG9NMGRDVmNYNWhkWnNRSmlPWDNkTFBrcXE2bGFrblhoVVp4X2tGeVJ3WXFuOGhMcERjSDV0WmN5NHhfRmhzWndoVUVBZWdSZWc?oc=5",
       "date": "Wed, 18 Oct 2023 07:00:00 GMT",
       "source": "Google News · Bain Mobility",
@@ -557,9 +576,9 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 58,
+      "momentum_score": 49,
       "confidence_score": 78,
-      "signal_score": 57
+      "signal_score": 53
     },
     {
       "id": "mit-news-autonomous-vehicles-balancing-school-family-and-the-future-of-aircraft-systems",
@@ -928,25 +947,6 @@
       "momentum_score": 64,
       "confidence_score": 78,
       "signal_score": 64
-    },
-    {
-      "id": "google-news-automotive-news-for-die-hard-tesla-fans-end-of-cybertruck-is-just-the-latest-betrayal-automotive-news",
-      "title": "For die-hard Tesla fans, end of Cybertruck is just the latest betrayal - Automotive News",
-      "summary": "For die-hard Tesla fans, end of Cybertruck is just the latest betrayal &nbsp;&nbsp; Automotive News",
-      "text": "For die-hard Tesla fans, end of Cybertruck is just the latest betrayal &nbsp;&nbsp; Automotive News",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5LRUp5NWxiSjh3TWZ5SXZTeUFjVVkwWmdQVGFHRjUzWjFfTTFhYWxNaTg4Q1dSd3RRYjdOWTQxZDBaMzBITi1jcmlDTGJQa2ZSNURBUXYyWk5WRnJiUHlJTzBuNk95UTI0SFNJOGtWTUJNVzlCakEtSkNn?oc=5",
-      "date": "Wed, 11 Nov 2026 17:09:00 GMT",
-      "source": "Google News · Automotive News",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 45,
-      "confidence_score": 78,
-      "signal_score": 52
     },
     {
       "id": "mit-technology-review-ai-what-to-know-about-this-year-s-un-climate-talks",
@@ -1698,10 +1698,10 @@
       "signal_score": 60
     },
     {
-      "id": "google-news-bain-mobility-a-survival-guide-for-europe-s-car-dealers-bain-company",
-      "title": "A Survival Guide for Europe’s Car Dealers - Bain & Company",
-      "summary": "A Survival Guide for Europe’s Car Dealers &nbsp;&nbsp; Bain & Company",
-      "text": "A Survival Guide for Europe’s Car Dealers &nbsp;&nbsp; Bain & Company",
+      "id": "google-news-bain-mobility-a-survival-guide-for-europe-s-car-dealers-bain",
+      "title": "A Survival Guide for Europe’s Car Dealers - Bain",
+      "summary": "A Survival Guide for Europe’s Car Dealers &nbsp;&nbsp; Bain",
+      "text": "A Survival Guide for Europe’s Car Dealers &nbsp;&nbsp; Bain",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9PUXp5eVY3SV9USE04U05ka0xBS1dLUy1NWnJ1cmJ3Z1p3ZjZXMEdiYVFaZU1vYk83cVZFSHlaOGRrcUNNV3ZibWwwSGRRVVJjVUN1MExCVmdoa2JyMWtzWEtiLXprSTdCR3J5UHJQbkgyaWVsX2ptY29NWQ?oc=5",
       "date": "Tue, 27 Aug 2019 07:00:00 GMT",
       "source": "Google News · Bain Mobility",
@@ -1712,9 +1712,9 @@
         "Automotive"
       ],
       "novelty_score": 42,
-      "momentum_score": 84,
+      "momentum_score": 76,
       "confidence_score": 78,
-      "signal_score": 66
+      "signal_score": 63
     },
     {
       "id": "google-news-mckinsey-automotive-what-s-sparking-electric-vehicle-adoption-in-the-truck-industry-mckinsey-company",
@@ -1791,25 +1791,6 @@
       "momentum_score": 40,
       "confidence_score": 78,
       "signal_score": 50
-    },
-    {
-      "id": "google-news-university-automotive-research-school-of-engineering-hosts-national-human-powered-vehicle-challenge-liberty-university",
-      "title": "School of Engineering hosts national Human Powered Vehicle Challenge - Liberty University",
-      "summary": "School of Engineering hosts national Human Powered Vehicle Challenge &nbsp;&nbsp; Liberty University",
-      "text": "School of Engineering hosts national Human Powered Vehicle Challenge &nbsp;&nbsp; Liberty University",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaDRLakRhTktUcVQ0a0dJNGhCTGd1TkVha0d6QTFFYW0xcVVXLUo4RGM1akNTejhTb0tHOTRwaGNMeXZsSko5bnhUMVE2cGdVeGhxc2dyNzh1S0s3b0Z5ZzZpcDVQbW84NFd0Q3BmOFlDNjZoT3QtRk1ENm1ScmdRWm5EX2IwM1QwMmx5ZWNhVnJzSU5wMlJGaXBOSFRURVRRZlVTOHFaOFp1Qm1PSkE?oc=5",
-      "date": "Tue, 25 Apr 2023 07:00:00 GMT",
-      "source": "Google News · University Automotive Research",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 51,
-      "confidence_score": 78,
-      "signal_score": 54
     },
     {
       "id": "google-news-software-defined-vehicles-google-s-new-version-of-android-automotive-will-move-beyond-infotainment-ars-technica",
@@ -2429,6 +2410,26 @@
       "momentum_score": 54,
       "confidence_score": 78,
       "signal_score": 55
+    },
+    {
+      "id": "google-news-software-defined-vehicles-automotive-domain-control-module-market-to-2035-sdv-demand-drives-growth-news-and-statistics-indexbox",
+      "title": "Automotive Domain Control Module Market To 2035: SDV Demand Drives Growth - News and Statistics - IndexBox",
+      "summary": "Automotive Domain Control Module Market To 2035: SDV Demand Drives Growth - News and Statistics &nbsp;&nbsp; IndexBox",
+      "text": "Automotive Domain Control Module Market To 2035: SDV Demand Drives Growth - News and Statistics &nbsp;&nbsp; IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNXZpTnFCYXRPQkt4VC0xeGVhOHp0ZHB3Vk56djhuYUpSMWY3S1RNV0dUWF8xemh4d0c3MURDNFhrd3daM1UybzJ1c2Q3TllyNjFtRkxTc0dpZEg1cjV2MjVwYTYteDY5Nklwd1pKQ2xRMUZseUphbXdEeTZhNlV6WGpYQWg5NWlGaEg2Z2k3Y1dpUEVYTzJGY0JicDJiQ09fSGFkYXB6bFByaEE5VmhocjliZGd0WnA0QUdpWW9wcjJrQ3NWV1ZFZEFEbFRwbk02V21ieDdVOA?oc=5",
+      "date": "Tue, 10 Nov 2026 10:41:03 GMT",
+      "source": "Google News · Software-Defined Vehicles",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive",
+        "SDV"
+      ],
+      "novelty_score": 49,
+      "momentum_score": 74,
+      "confidence_score": 78,
+      "signal_score": 65
     },
     {
       "id": "mit-news-research-mit-led-team-receives-funding-to-develop-next-generation-alternatives-to-modern-weed-killers",
@@ -3492,63 +3493,6 @@
       "signal_score": 64
     },
     {
-      "id": "techcrunch-democrats-launch-nvidia-investigation-write-scathing-letter-on-huang-s-scheme-with-trump",
-      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
-      "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
-      "text": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
-      "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
-      "date": "Thu, 12 Nov 2026 22:42:51 +0000",
-      "source": "TechCrunch",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 40,
-      "confidence_score": 78,
-      "signal_score": 50
-    },
-    {
-      "id": "techcrunch-muse-can-now-place-calls-to-us-businesses-if-you-pay",
-      "title": "Muse can now place calls to US businesses — if you pay",
-      "summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
-      "text": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
-      "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
-      "date": "Thu, 12 Nov 2026 22:22:28 +0000",
-      "source": "TechCrunch",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 84,
-      "confidence_score": 78,
-      "signal_score": 66
-    },
-    {
-      "id": "google-news-university-automotive-research-argonne-s-heavy-duty-dyno-promises-new-advancements-for-commercial-powertrains-mobility-engineering-technol",
-      "title": "Argonne’s Heavy-Duty Dyno Promises New Advancements for Commercial Powertrains - Mobility Engineering Technology",
-      "summary": "Argonne’s Heavy-Duty Dyno Promises New Advancements for Commercial Powertrains &nbsp;&nbsp; Mobility Engineering Technology",
-      "text": "Argonne’s Heavy-Duty Dyno Promises New Advancements for Commercial Powertrains &nbsp;&nbsp; Mobility Engineering Technology",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMzlIbVdONzZmeENwZVNySng5NEcxYW14Q1Y5SG14SDg4WXdSN3l3UldZNVJVUV9oUC1zVl9KZEdoUFItcFVjTnlyc1NLa0puWmhZZ2MyekVQSTdCWmc1dTVSaDJPT3hxTE9ZRG00NTBhNTFwOFVwOERXOFpqV2lBME1rUGRkYTRiTzRUd29aNU5uZnVHMWtHbnJ4WTJTcXhweU0tT3IyQ1VvUENETkVHcXhnakdKaXpQdktOQTlpWlpTMTdieGdlbFB3TXMwWW13QVVhUDNJVXRwT1B5UnVZdW90OA?oc=5",
-      "date": "Thu, 12 Nov 2026 21:32:59 GMT",
-      "source": "Google News · University Automotive Research",
-      "category": "AUTOMOTIVE",
-      "topic": "Automotive",
-      "kind_label": "RSS",
-      "tags": [
-        "Automotive"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 41,
-      "confidence_score": 78,
-      "signal_score": 51
-    },
-    {
       "id": "google-news-automotive-news-stellantis-puts-tim-kuniskis-in-charge-of-u-s-sales-and-dealers-replaces-dodge-ceo-automotive-news",
       "title": "Stellantis puts Tim Kuniskis in charge of U.S. sales and dealers, replaces Dodge CEO - Automotive News",
       "summary": "Stellantis puts Tim Kuniskis in charge of U.S. sales and dealers, replaces Dodge CEO &nbsp;&nbsp; Automotive News",
@@ -3643,26 +3587,6 @@
       "momentum_score": 81,
       "confidence_score": 78,
       "signal_score": 65
-    },
-    {
-      "id": "ars-technica-google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash",
-      "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
-      "summary": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
-      "text": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
-      "link": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
-      "date": "Thu, 12 Nov 2026 19:23:03 +0000",
-      "source": "Ars Technica",
-      "category": "TECH",
-      "topic": "Energy",
-      "kind_label": "RSS",
-      "tags": [
-        "Energy",
-        "Cybersecurity"
-      ],
-      "novelty_score": 49,
-      "momentum_score": 54,
-      "confidence_score": 78,
-      "signal_score": 58
     },
     {
       "id": "google-news-automotive-news-tesla-rivian-tighten-grip-on-u-s-ev-market-legacy-brands-fade-after-tax-credit-repeal-automotive-news",
@@ -3835,6 +3759,25 @@
       "momentum_score": 42,
       "confidence_score": 78,
       "signal_score": 51
+    },
+    {
+      "id": "google-news-automotive-news-eu-prepares-to-delay-10-tariff-on-uk-built-evs-report-says-automotive-news",
+      "title": "EU prepares to delay 10% tariff on UK-built EVs, report says - Automotive News",
+      "summary": "EU prepares to delay 10% tariff on UK-built EVs, report says &nbsp;&nbsp; Automotive News",
+      "text": "EU prepares to delay 10% tariff on UK-built EVs, report says &nbsp;&nbsp; Automotive News",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54ZHBwT0hfb09heGFnbDJBeTd5WnhDMVhJT2k3LW8tV0ZWRjFvZ1ZZYUJzZ2VxVWpBMXVPc1NjUVpsSDdhQ3hiMkZHdTZGX0NIODdMb2EydDRqSGRSQ2ljNDdTSmltMHN1SmEwVg?oc=5",
+      "date": "Thu, 12 Nov 2026 08:49:00 GMT",
+      "source": "Google News · Automotive News",
+      "category": "AUTOMOTIVE",
+      "topic": "Automotive",
+      "kind_label": "RSS",
+      "tags": [
+        "Automotive"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 77,
+      "confidence_score": 78,
+      "signal_score": 63
     },
     {
       "id": "google-news-automotive-news-germany-s-automakers-accelerate-cuts-at-home-on-china-reckoning-automotive-news",
@@ -4701,6 +4644,45 @@
       "signal_score": 63
     },
     {
+      "id": "ars-technica-with-starship-catch-spacex-still-shows-it-can-dazzle-the-world",
+      "title": "With Starship catch, SpaceX still shows it can dazzle the world",
+      "summary": "It felt like stepping into the future.",
+      "text": "It felt like stepping into the future.",
+      "link": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+      "date": "Sun, 15 Nov 2026 00:40:59 +0000",
+      "source": "Ars Technica",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 47,
+      "confidence_score": 78,
+      "signal_score": 53
+    },
+    {
+      "id": "techcrunch-where-was-nvidia-s-security-team",
+      "title": "Where was Nvidia’s security team?",
+      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
+      "text": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
+      "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "date": "Sun, 15 Nov 2026 00:08:07 +0000",
+      "source": "TechCrunch",
+      "category": "TECH",
+      "topic": "Semiconductors",
+      "kind_label": "RSS",
+      "tags": [
+        "Semiconductors",
+        "Cybersecurity"
+      ],
+      "novelty_score": 49,
+      "momentum_score": 71,
+      "confidence_score": 78,
+      "signal_score": 64
+    },
+    {
       "id": "google-news-pwc-automotive-next-in-auto-2025-pwc",
       "title": "Next in auto 2025 - PwC",
       "summary": "Next in auto 2025 &nbsp;&nbsp; PwC",
@@ -5025,6 +5007,25 @@
       "signal_score": 57
     },
     {
+      "id": "techcrunch-elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "text": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "date": "Sat, 14 Nov 2026 21:41:22 +0000",
+      "source": "TechCrunch",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 47,
+      "confidence_score": 78,
+      "signal_score": 53
+    },
+    {
       "id": "techcrunch-tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee",
       "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
       "summary": "Even Elon Musk said the monthly fee is \"too high.\"",
@@ -5215,25 +5216,6 @@
       "signal_score": 57
     },
     {
-      "id": "wired-it-s-time-to-run-an-audit-of-all-the-cloud-storage-links-you-ve-shared",
-      "title": "It’s Time to Run an Audit of All the Cloud Storage Links You’ve Shared",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/audit-all-the-cloud-storage-links-youve-shared/",
-      "date": "Sat, 14 Nov 2026 11:30:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 76,
-      "confidence_score": 78,
-      "signal_score": 63
-    },
-    {
       "id": "wired-10-best-early-black-friday-headphone-deals-2026-up-to-50-off",
       "title": "10 Best Early Black Friday Headphone Deals (2026): Up to 50% Off",
       "summary": "Source item available; open the source for details.",
@@ -5251,6 +5233,25 @@
       "momentum_score": 52,
       "confidence_score": 78,
       "signal_score": 54
+    },
+    {
+      "id": "wired-it-s-time-to-run-an-audit-of-all-the-cloud-storage-links-you-ve-shared",
+      "title": "It’s Time to Run an Audit of All the Cloud Storage Links You’ve Shared",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/audit-all-the-cloud-storage-links-youve-shared/",
+      "date": "Sat, 14 Nov 2026 11:30:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 76,
+      "confidence_score": 78,
+      "signal_score": 63
     },
     {
       "id": "wired-the-21-best-rei-holiday-sale-outdoor-deals-2026",
@@ -5348,25 +5349,6 @@
       "signal_score": 55
     },
     {
-      "id": "wired-thanksgiving-meal-deals-roundup-2026-walmart-amazon-target",
-      "title": "Thanksgiving Meal Deals Roundup (2026): Walmart, Amazon, Target",
-      "summary": "Source item available; open the source for details.",
-      "text": "",
-      "link": "https://www.wired.com/story/thanksgiving-meal-deals-2026/",
-      "date": "Sat, 14 Nov 2026 10:00:00 +0000",
-      "source": "Wired",
-      "category": "TECH",
-      "topic": "Tech",
-      "kind_label": "RSS",
-      "tags": [
-        "Tech"
-      ],
-      "novelty_score": 42,
-      "momentum_score": 58,
-      "confidence_score": 78,
-      "signal_score": 57
-    },
-    {
       "id": "wired-these-ghostly-galaxies-have-lost-their-dark-matter",
       "title": "These ‘Ghostly’ Galaxies Have Lost Their Dark Matter",
       "summary": "Source item available; open the source for details.",
@@ -5384,6 +5366,25 @@
       "momentum_score": 69,
       "confidence_score": 78,
       "signal_score": 60
+    },
+    {
+      "id": "wired-thanksgiving-meal-deals-roundup-2026-walmart-amazon-target",
+      "title": "Thanksgiving Meal Deals Roundup (2026): Walmart, Amazon, Target",
+      "summary": "Source item available; open the source for details.",
+      "text": "",
+      "link": "https://www.wired.com/story/thanksgiving-meal-deals-2026/",
+      "date": "Sat, 14 Nov 2026 10:00:00 +0000",
+      "source": "Wired",
+      "category": "TECH",
+      "topic": "Tech",
+      "kind_label": "RSS",
+      "tags": [
+        "Tech"
+      ],
+      "novelty_score": 42,
+      "momentum_score": 58,
+      "confidence_score": 78,
+      "signal_score": 57
     },
     {
       "id": "wired-outlook-went-down-microsoft-may-owe-you-money",
@@ -5906,7 +5907,7 @@
     {
       "name": "Google News · Automotive Cybersecurity",
       "ok": true,
-      "count": 8
+      "count": 9
     },
     {
       "name": "Google News · Software-Defined Vehicles",
